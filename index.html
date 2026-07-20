@@ -5,23 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>每日新聞 · 目錄</title>
 <style>
-  :root{
-    --bg:#0d1117; --card:#161b22; --border:#242c38;
-    --txt:#e6edf3; --muted:#8b949e; --accent:#58a6ff;
-    --hk:#f0883e; --cn:#f85149; --us:#3fb950; --tw:#d2a8ff; --war:#ff7b72;
-  }
+  :root{--bg:#0d1117;--card:#161b22;--border:#242c38;--txt:#e6edf3;--muted:#8b949e;--accent:#58a6ff;--hk:#f0883e;--cn:#f85149;--us:#3fb950;--tw:#d2a8ff;--war:#ff7b72}
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-  body{margin:0;background:var(--bg);color:var(--txt);
-    font-family:-apple-system,"PingFang HK","Noto Sans HK","Microsoft JhengHei",sans-serif;
-    line-height:1.6;font-size:16px}
-  .wrap{display:flex;gap:16px;max-width:1080px;margin:0 auto;padding:16px;align-items:flex-start}
-  /* 左邊月曆 */
+  html,body{height:auto;overflow:visible}
+  body{margin:0;background:var(--bg);color:var(--txt);font-family:-apple-system,"PingFang HK","Noto Sans HK","Microsoft JhengHei",sans-serif;line-height:1.6;font-size:16px}
+  .wrap{display:flex;gap:16px;max-width:1080px;margin:0 auto;padding:16px 16px 140px;align-items:flex-start}
   .side{flex:0 0 300px;position:sticky;top:16px}
   .cal{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px}
   .cal .hd{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
   .cal .hd b{font-size:16px}
-  .cal button.nav{background:#21262d;border:1px solid var(--border);color:var(--txt);
-    border-radius:8px;width:32px;height:32px;font-size:16px;cursor:pointer}
+  .cal button.nav{background:#21262d;border:1px solid var(--border);color:var(--txt);border-radius:8px;width:32px;height:32px;font-size:16px;cursor:pointer}
   .cal button.nav:hover{background:#2d333b}
   .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;text-align:center}
   .grid .wd{color:var(--muted);font-size:12px;padding:4px 0}
@@ -31,39 +24,35 @@
   .grid .day.sel{background:var(--accent);color:#04101f;font-weight:700}
   .grid .day.today{outline:1px solid var(--accent)}
   .side .tip{color:var(--muted);font-size:12px;margin-top:10px;text-align:center}
-  /* 右邊新聞 */
   .main{flex:1;min-width:0}
   header{padding:2px 2px 10px}
   header h1{font-size:20px;margin:0}
   header .date{color:var(--muted);font-size:13px;margin-top:2px}
   header .win{color:var(--accent);font-size:12px}
+  header .upd{color:var(--muted);font-size:12px;margin-top:2px}
   section{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin:12px 0}
   h2{font-size:16px;margin:0 0 8px;padding-left:10px;border-left:4px solid var(--accent)}
-  .hk h2{border-color:var(--hk)} .cn h2{border-color:var(--cn)}
-  .us h2{border-color:var(--us)} .tw h2{border-color:var(--tw)} .war h2{border-color:var(--war)}
+  .hk h2{border-color:var(--hk)}.cn h2{border-color:var(--cn)}.us h2{border-color:var(--us)}.tw h2{border-color:var(--tw)}.war h2{border-color:var(--war)}
   .item{padding:8px 0;border-bottom:1px dashed var(--border)}
   .item:last-child{border-bottom:none}
   .item .t{font-weight:600}
+  .item .meta{color:var(--muted);font-size:12px;margin-top:1px}
+  .item .meta .pub{color:#6e7b8a}
   .item .d{color:var(--muted);font-size:14px;margin-top:2px}
   a.src{color:var(--accent);text-decoration:none;font-size:13px}
-  a.src:after{content:" ↗";font-size:11px}
+  a.src:after{content:" \2197";font-size:11px}
   .war{border-color:#3d2020;background:#1a1010}
   .track{background:#101418}
   .track .row{padding:8px 0;border-bottom:1px dashed var(--border)}
   .track .row:last-child{border-bottom:none}
   .badge{display:inline-block;font-size:11px;padding:1px 8px;border-radius:20px;background:#21262d;color:var(--muted);margin-left:6px}
   .empty{color:var(--muted);text-align:center;padding:40px 10px}
-  footer{color:var(--muted);font-size:12px;padding:14px 2px 140px;text-align:center}
-  html,body{height:auto;overflow:visible}
-  @media(max-width:760px){
-    .wrap{flex-direction:column}
-    .side{flex:none;width:100%;position:static}
-  }
+  footer{color:var(--muted);font-size:12px;padding:14px 2px;text-align:center}
+  @media(max-width:760px){.wrap{flex-direction:column}.side{flex:none;width:100%;position:static}}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <!-- 左：月曆 -->
   <div class="side">
     <div class="cal">
       <div class="hd">
@@ -73,22 +62,20 @@
       </div>
       <div class="grid" id="calGrid"></div>
     </div>
-    <div class="tip">藍色日子＝有新聞，㩒一下睇返</div>
+    <div class="tip">藍色日子＝有新聞，ㄢ一下睇返</div>
   </div>
-  <!-- 右：新聞 -->
   <div class="main">
     <header>
       <h1>📰 每日新聞</h1>
       <div class="date" id="curDate"></div>
       <div class="win">涵蓋約 30 小時內最新新聞</div>
+      <div class="upd" id="curUpd"></div>
     </header>
     <div id="news"></div>
-    <footer>每日新聞 · 目錄頁（測試版）</footer>
+    <footer>每日新聞 · 目錄頁</footer>
   </div>
 </div>
-
 <script>
-/* ===== 新聞資料庫：每日一條 key（YYYY-MM-DD）。日後自動任務會新增。 ===== */
 const DB = {
   "2026-07-18": {
     "hk": [
@@ -96,31 +83,36 @@ const DB = {
         "紅磡露宿婆婆疑遭淋煙灰水",
         "目擊者報警揭發，其後獲當局安排送院檢查",
         "星島",
-        "https://www.stheadline.com/breaking-news/3595029/紅磡露宿婆婆區議員形容婆婆為人內斂執著-今獲當局安排送院檢查"
+        "https://www.stheadline.com/breaking-news/3595029/紅磡露宿婆婆區議員形容婆婆為人內斂執著-今獲當局安排送院檢查",
+        "2026-07-18"
       ],
       [
         "瑪麗醫院病房辦婚禮",
         "病重血癌母親病房見證愛女出嫁，醫護助統籌",
         "星島",
-        "https://www.stheadline.com/society/3594928/瑪麗醫院病房化身婚禮現場-病重母親見證愛女出嫁-醫護助統籌婚禮"
+        "https://www.stheadline.com/society/3594928/瑪麗醫院病房化身婚禮現場-病重母親見證愛女出嫁-醫護助統籌婚禮",
+        "2026-07-18"
       ],
       [
         "書展2026 書商稱人流減",
         "市民嘆有獨立書店無法參展，選擇少失色",
         "香港01",
-        "https://www.hk01.com/社會新聞/60371225/書展2026-書商稱人流減-市民嘆有獨立書店無法參展-選擇少失色"
+        "https://www.hk01.com/社會新聞/60371225/書展2026-書商稱人流減-市民嘆有獨立書店無法參展-選擇少失色",
+        "2026-07-18"
       ],
       [
         "網約車規管在即 滴滴加碼攻港",
         "消息指將延長優惠兼為司機買保險",
         "香港01",
-        "https://www.hk01.com/財經快訊/60274590/網約車規管在即-滴滴出行加碼攻港-消息-將延長優惠兼買保險"
+        "https://www.hk01.com/財經快訊/60274590/網約車規管在即-滴滴出行加碼攻港-消息-將延長優惠兼買保險",
+        "2026-07-18"
       ],
       [
         "宏福苑 吸煙投訴部門互「轉介」",
         "勞工處消防處互轉介被質疑，勞處終認管轄",
         "香港01",
-        "https://www.hk01.com/社會新聞/60342226/宏福苑-吸煙投訴勞工處消防處互-轉介-被質疑-勞處終認其管轄"
+        "https://www.hk01.com/社會新聞/60342226/宏福苑-吸煙投訴勞工處消防處互-轉介-被質疑-勞處終認其管轄",
+        "2026-07-18"
       ]
     ],
     "cn": [
@@ -128,19 +120,22 @@ const DB = {
         "南方水災持續 46河超警",
         "罕見7預警齊發，多省洪澇未止",
         "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/14/1101990.html"
+        "https://www.secretchina.com/news/b5/2026/07/14/1101990.html",
+        "2026-07-18"
       ],
       [
         "政治局會議認形勢嚴峻",
         "官方罕有承認極端天氣頻發、防汛吃力",
         "大紀元",
-        "https://www.epochtimes.com/gb/26/7/2/n14801889.htm"
+        "https://www.epochtimes.com/gb/26/7/2/n14801889.htm",
+        "2026-07-18"
       ],
       [
         "洪災言論網民恐被拘",
         "轉發批評救災帖文者傳遭警方帶走",
         "大紀元",
-        "https://www.epochtimes.com/gb/26/7/15/n14809865.htm"
+        "https://www.epochtimes.com/gb/26/7/15/n14809865.htm",
+        "2026-07-18"
       ]
     ],
     "us": [
@@ -148,25 +143,29 @@ const DB = {
         "特朗普黃金時段全國演講",
         "重提2020大選「被竊」，質疑選舉合法性",
         "Post-Gazette",
-        "https://www.post-gazette.com/news/politics-nation/2026/07/17/trump-primetime-speech-elections/stories/202607170035"
+        "https://www.post-gazette.com/news/politics-nation/2026/07/17/trump-primetime-speech-elections/stories/202607170035",
+        "2026-07-18"
       ],
       [
         "美股科技股重挫 納指挫1.47%",
         "SK海力士ADR瀉13.6%，晶片股拖累",
         "香港01",
-        "https://www.hk01.com/財經快訊/60370755/美股-道指收跌105點-納指挫1-47-sk海力士adr瀉13-6"
+        "https://www.hk01.com/財經快訊/60370755/美股-道指收跌105點-納指挫1-47-sk海力士adr瀉13-6",
+        "2026-07-18"
       ],
       [
         "眾院通過5億美元對台軍援",
         "國防撥款案編列，反制中共威脅",
         "世界新聞網",
-        "https://www.worldjournal.com/wj/story/121220/8885750"
+        "https://www.worldjournal.com/wj/story/121220/8885750",
+        "2026-07-18"
       ],
       [
         "DHS終結留學生D/S身份效期",
         "F-1/J-1停留設上限，半世紀制度取消",
         "世界新聞網",
-        "https://www.worldjournal.com/wj/story/121469/9632997"
+        "https://www.worldjournal.com/wj/story/121469/9632997",
+        "2026-07-18"
       ]
     ],
     "tw": [
@@ -174,19 +173,22 @@ const DB = {
         "台積電法說後台股重挫逾2000點",
         "創史上次高跌點，權值股慘綠",
         "聯合新聞網",
-        "https://udn.com/news/story/7251/9633675"
+        "https://udn.com/news/story/7251/9633675",
+        "2026-07-18"
       ],
       [
         "藍議員李傅中武涉詐助理費977萬",
         "找岳母當人頭，家族共7人遭北檢起訴",
         "自由時報",
-        "https://news.ltn.com.tw/news/society/breakingnews/5508259"
+        "https://news.ltn.com.tw/news/society/breakingnews/5508259",
+        "2026-07-18"
       ],
       [
         "金門海漂豬驗出非洲豬瘟",
         "今年首例，豬肉製品7天禁運本島",
         "聯合新聞網",
-        "https://udn.com/news/story/7266/9632458"
+        "https://udn.com/news/story/7266/9632458",
+        "2026-07-18"
       ]
     ],
     "war": [
@@ -194,31 +196,36 @@ const DB = {
         "美軍公布第七晚打擊目標",
         "連7晚空襲，伊朗報復性攻擊波灣多國",
         "大紀元",
-        "https://www.epochtimes.com/gb/26/7/18/n14811860.htm"
+        "https://www.epochtimes.com/gb/26/7/18/n14811860.htm",
+        "2026-07-18"
       ],
       [
         "伊朗指美打擊關鍵民用基建",
         "戰事升級，多處基礎設施受損",
         "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies"
+        "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
+        "2026-07-18"
       ],
       [
         "美擊海水淡化廠 約1萬人斷水",
         "霍爾木茲甘省逾20村落供水中斷",
         "Yenişafak",
-        "https://en.yenisafak.com/world/us-strike-on-iranian-desalination-plant-leaves-10000-without-water-3720957"
+        "https://en.yenisafak.com/world/us-strike-on-iranian-desalination-plant-leaves-10000-without-water-3720957",
+        "2026-07-18"
       ],
       [
         "伊朗再襲科威特第二座水電廠",
         "報復連夜美軍空襲，波及海灣鄰國",
         "The National",
-        "https://www.thenationalnews.com/news/gulf/2026/07/18/iran-hits-second-power-and-water-plant-in-kuwait-after-another-night-of-us-strikes/"
+        "https://www.thenationalnews.com/news/gulf/2026/07/18/iran-hits-second-power-and-water-plant-in-kuwait-after-another-night-of-us-strikes/",
+        "2026-07-18"
       ],
       [
         "阿巴斯港、橋樑、鐵路連遇襲",
         "美軍鎖伊朗南部交通命脈，切斷後勤",
         "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/17/1102139.html"
+        "https://www.secretchina.com/news/b5/2026/07/17/1102139.html",
+        "2026-07-18"
       ]
     ],
     "track": [
@@ -242,7 +249,8 @@ const DB = {
         "發生",
         "待跟進是否報案／有無被捕"
       ]
-    ]
+    ],
+    "_updated": "[18/07/2026 Sat 23:06]"
   },
   "2026-07-19": {
     "hk": [
@@ -250,31 +258,36 @@ const DB = {
         "美國終止涉港「國家緊急狀態」命令",
         "美稱無恢復香港特殊經貿及自治地位，夏寶龍李家超等制裁持續",
         "大紀元",
-        "https://www.epochtimes.com/gb/26/7/18/n14812052.htm"
+        "https://www.epochtimes.com/gb/26/7/18/n14812052.htm",
+        "2026-07-19"
       ],
       [
         "長沙灣道地盤升降機疑急墜",
         "兩工人腿部受傷被困，消防升雲梯救出送院",
         "香港01",
-        "https://www.hk01.com/article/60371136"
+        "https://www.hk01.com/article/60371136",
+        "2026-07-19"
       ],
       [
         "屯門公路近油柑頭貨車自炒翻側 2傷",
         "急凍腸手推車散落一地，往九龍方向交通擠塞",
         "香港01",
-        "https://www.hk01.com/article/60371178"
+        "https://www.hk01.com/article/60371178",
+        "2026-07-19"
       ],
       [
         "紅磡露宿婆婆疑遭淋煙灰水欺凌",
         "社署等安排送院檢查，區議員促警方嚴正跟進",
         "香港01",
-        "https://www.hk01.com/article/60371218"
+        "https://www.hk01.com/article/60371218",
+        "2026-07-19"
       ],
       [
         "低壓槽壓境 周末續有大雨雷暴",
         "天文台料本港持續有驟雨及狂風雷暴",
         "香港01",
-        "https://www.hk01.com/article/60371160"
+        "https://www.hk01.com/article/60371160",
+        "2026-07-19"
       ]
     ],
     "cn": [
@@ -282,13 +295,15 @@ const DB = {
         "重慶彭水縣特大山體滑坡",
         "十幾棟居民樓被推入江水，官方通報至少8死；南北洪災續蔓延",
         "新唐人",
-        "https://www.ntdtv.com/b5/2026/07/18/a104116402.html"
+        "https://www.ntdtv.com/b5/2026/07/18/a104116402.html",
+        "2026-07-19"
       ],
       [
         "中共救災被指「擺拍作騷」",
         "官媒宣傳救援畫面遭網民質疑造假，掩飾真實災情",
         "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/18/1102155.html"
+        "https://www.secretchina.com/news/b5/2026/07/18/1102155.html",
+        "2026-07-19"
       ]
     ],
     "us": [
@@ -296,19 +311,22 @@ const DB = {
         "加拿大野火濃煙「入侵」美國",
         "川普發怒威脅加徵新關稅，指加方蓄意疏忽",
         "自由時報",
-        "https://news.ltn.com.tw/news/world/breakingnews/5509620"
+        "https://news.ltn.com.tw/news/world/breakingnews/5509620",
+        "2026-07-19"
       ],
       [
         "川普推兩大移民改革",
         "防堵移民濫用福利，收緊申領門檻",
         "大紀元",
-        "https://www.epochtimes.com/gb/26/7/18/n14811757.htm"
+        "https://www.epochtimes.com/gb/26/7/18/n14811757.htm",
+        "2026-07-19"
       ],
       [
         "海外申請綠卡擬收10萬美元保證金",
         "川普收緊移民政策再出新招",
         "世界新聞網",
-        "https://www.worldjournal.com/wj/story/121468/9630929"
+        "https://www.worldjournal.com/wj/story/121468/9630929",
+        "2026-07-19"
       ]
     ],
     "tw": [
@@ -316,13 +334,15 @@ const DB = {
         "美台首例超大額跨境詐欺",
         "詐騙廣告年收上看70億美元，第一線嘆源頭難斷",
         "自由時報",
-        "https://news.ltn.com.tw/news/society/breakingnews/5509321"
+        "https://news.ltn.com.tw/news/society/breakingnews/5509321",
+        "2026-07-19"
       ],
       [
         "民進黨全代會19日登場",
         "賴清德授19縣市長參選人戰旗，黨職改選牽動權力布局",
         "自由時報",
-        "https://news.ltn.com.tw/news/politics/breakingnews/5509671"
+        "https://news.ltn.com.tw/news/politics/breakingnews/5509671",
+        "2026-07-19"
       ]
     ],
     "war": [
@@ -330,19 +350,22 @@ const DB = {
         "美軍連7夜狂轟伊朗 川普預告「下周更慘」",
         "揚言炸電廠、斷橋梁，伊朗反擊區域美軍基地",
         "壹蘋",
-        "https://news.nextapple.com/international/20260718/347621D3CFB0C6404949D4CE3CED73E3"
+        "https://news.nextapple.com/international/20260718/347621D3CFB0C6404949D4CE3CED73E3",
+        "2026-07-19"
       ],
       [
         "美發動第7波夜襲 雙方互炸基建",
         "伊朗反擊轟炸科威特發電廠，全面開戰風險飆升",
         "ETtoday",
-        "https://www.ettoday.net/news/20260718/3203286.htm"
+        "https://www.ettoday.net/news/20260718/3203286.htm",
+        "2026-07-19"
       ],
       [
         "美軍猛炸控制塔、對外橋梁",
         "戰術有變疑欲奪伊朗港口，重磅炸彈亦大開轟",
         "Newtalk",
-        "https://newtalk.tw/news/view/2026-07-18/1047911"
+        "https://newtalk.tw/news/view/2026-07-18/1047911",
+        "2026-07-19"
       ]
     ],
     "track": [
@@ -366,7 +389,8 @@ const DB = {
         "跟進中",
         "社署安排送院檢查，區議員促警嚴正跟進"
       ]
-    ]
+    ],
+    "_updated": "[19/07/2026 Sun 07:30]"
   },
   "2026-07-20": {
     "hk": [
@@ -374,37 +398,43 @@ const DB = {
         "尖沙咀寶馬「黑玻璃」當場拘捕",
         "截查揭司機已被停牌，警員起疑揭發",
         "香港01",
-        "https://www.hk01.com/突發/60371322/"
+        "https://www.hk01.com/突發/60371322/",
+        "2026-07-20"
       ],
       [
         "尖沙咀中年漢大鬧堵路遭制服",
         "4名警員合力按地拘捕，交通一度受阻",
         "香港01",
-        "https://www.hk01.com/突發/60371310/"
+        "https://www.hk01.com/突發/60371310/",
+        "2026-07-20"
       ],
       [
         "西營盤兩的士相撞波及巴士",
         "「小露寶」小巴翻側，司機被困受傷",
         "香港01",
-        "https://www.hk01.com/突發/60371328/"
+        "https://www.hk01.com/突發/60371328/",
+        "2026-07-20"
       ],
       [
         "筲箕灣停水逾20小時",
         "水務署指早上10時48分已恢復供水",
         "香港01",
-        "https://www.hk01.com/突發/60371640/"
+        "https://www.hk01.com/突發/60371640/",
+        "2026-07-20 11:32"
       ],
       [
         "周一返工注意 黃雨一度生效",
         "天文台料驟雨雷暴，部分地區雨勢較大",
         "香港01",
-        "https://www.hk01.com/天氣/60371348/"
+        "https://www.hk01.com/天氣/60371348/",
+        "2026-07-20 07:10"
       ],
       [
         "天文台料低壓區菲律賓發展",
         "下周移向廣東西部，市民需留意打風",
         "香港01",
-        "https://www.hk01.com/天氣/60371247/"
+        "https://www.hk01.com/天氣/60371247/",
+        "2026-07-20"
       ]
     ],
     "cn": [
@@ -412,19 +442,22 @@ const DB = {
         "中國Q2 GDP增4.3% 遜官方目標",
         "私人投資暴跌8.5%、房地產崩18%，內需冰封",
         "大紀元",
-        "https://www.epochtimes.com/gb/26/7/19/n14812308.htm"
+        "https://www.epochtimes.com/gb/26/7/19/n14812308.htm",
+        "2026-07-20"
       ],
       [
         "吉林黑龍江多地遭洪災",
         "水庫開閘洩洪釀災，淒慘視頻曝光",
         "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/19/1102226.html"
+        "https://www.secretchina.com/news/b5/2026/07/19/1102226.html",
+        "2026-07-20"
       ],
       [
         "湖南破特大盜採稀土案",
         "設瞭望哨配對講機通風報信，9人當庭認罪",
         "香港01",
-        "https://www.hk01.com/即時中國/60371615/"
+        "https://www.hk01.com/即時中國/60371615/",
+        "2026-07-20"
       ]
     ],
     "us": [
@@ -432,19 +465,22 @@ const DB = {
         "川普公開文件指中共干預美國大選",
         "稱竊2.22億選民資料，質疑習9月訪美",
         "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/19/1102228.html"
+        "https://www.secretchina.com/news/b5/2026/07/19/1102228.html",
+        "2026-07-20"
       ],
       [
         "世界盃決賽 西班牙加時挫阿根廷",
         "費倫托利斯奠勝，10人阿根廷飲恨紐約",
         "香港01",
-        "https://www.hk01.com/即時體育/60371530/"
+        "https://www.hk01.com/即時體育/60371530/",
+        "2026-07-20 05:00"
       ],
       [
         "川普夫婦紐約觀戰頒獎",
         "2026美加墨世足壓軸，成場邊焦點",
         "聯合新聞網",
-        "https://udn.com/news/story/123107/9638116"
+        "https://udn.com/news/story/123107/9638116",
+        "2026-07-20 05:30"
       ]
     ],
     "tw": [
@@ -452,19 +488,22 @@ const DB = {
         "賴清德全代會批中共「紅色恐怖」",
         "批《民族團結進步法》，誓不讓台灣變「中國台灣」",
         "自由時報",
-        "https://news.ltn.com.tw/news/politics/breakingnews/5510450"
+        "https://news.ltn.com.tw/news/politics/breakingnews/5510450",
+        "2026-07-20"
       ],
       [
         "賴清德率19縣市長參選人誓師",
         "頒3「軍令」主打加薪、減稅、增福利",
         "自由時報",
-        "https://news.ltn.com.tw/news/politics/breakingnews/5510474"
+        "https://news.ltn.com.tw/news/politics/breakingnews/5510474",
+        "2026-07-20"
       ],
       [
         "台股反彈 台積電漲20元",
         "指數漲251點至42922，暴跌後喘定",
         "ETtoday",
-        "https://finance.ettoday.net/news/3204142"
+        "https://finance.ettoday.net/news/3204142",
+        "2026-07-20"
       ]
     ],
     "war": [
@@ -472,31 +511,36 @@ const DB = {
         "美軍連續第8晚空襲伊朗",
         "伊朗還火波灣美軍基地，戰事未見盡頭",
         "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran"
+        "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran",
+        "2026-07-20"
       ],
       [
         "伊朗轟駐約旦美軍基地 2死",
         "4傷1失蹤，美出動數百戰機報復空襲",
         "Newtalk",
-        "https://newtalk.tw/news/view/2026-07-19/1048044"
+        "https://newtalk.tw/news/view/2026-07-19/1048044",
+        "2026-07-20"
       ],
       [
         "2美兵陣亡後美軍空襲革命衛隊",
         "「迅速懲罰」，荷莫茲海峽多地傳爆炸",
         "ETtoday",
-        "https://www.ettoday.net/news/20260719/3203717.htm"
+        "https://www.ettoday.net/news/20260719/3203717.htm",
+        "2026-07-20"
       ],
       [
         "伊朗襲海灣盟友 科威特電廠起火",
         "第二座水電設施中招，海灣多國防空警報",
         "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies"
+        "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies",
+        "2026-07-20"
       ],
       [
         "7月美襲累計50死 伊朗暗示MoU暫停",
         "批美打擊民用基建，停火備忘錄名存實亡",
         "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies"
+        "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
+        "2026-07-20"
       ]
     ],
     "track": [
@@ -530,73 +574,66 @@ const DB = {
         "跟進中",
         "社署安排送院檢查，未有被捕消息"
       ]
-    ]
+    ],
+    "_updated": "[20/07/2026 Mon 22:47]"
   }
 };
-
-const SEC = [["hk","🇭🇰 香港 · 社會民生"],["cn","🇨🇳 中國大陸"],["us","🇺🇸 美國"],["tw","🇹🇼 台灣"],["war","🔥 專題 · 美伊戰爭（2026）"]];
-const WD = ["日","一","二","三","四","五","六"];
-const pad = n => String(n).padStart(2,"0");
-function todayHK(){
-  // 用香港時區計今日
-  const s = new Date().toLocaleString("en-CA",{timeZone:"Asia/Hong_Kong",year:"numeric",month:"2-digit",day:"2-digit"});
-  return s.slice(0,10); // YYYY-MM-DD
-}
-const TODAY = todayHK();
-// 預設顯示：有今日就今日，否則揀最新一日
-const keys = Object.keys(DB).sort();
-let selDate = DB[TODAY] ? TODAY : (keys[keys.length-1] || TODAY);
-let viewY = +selDate.slice(0,4), viewM = +selDate.slice(5,7); // 月曆當前月份
-
-function renderNews(d){
-  const box = document.getElementById("news");
-  const data = DB[d];
-  const dt = new Date(d+"T00:00:00");
-  document.getElementById("curDate").textContent =
-    `${d.slice(0,4)}年${+d.slice(5,7)}月${+d.slice(8,10)}日（週${WD[dt.getDay()]}）· 香港時間`;
-  if(!data){ box.innerHTML = `<div class="empty">呢日暫時未有新聞紀錄 🗒️</div>`; return; }
-  let h = "";
+const SEC=[["hk","🇭🇰 香港 · 社會民生"],["cn","🇨🇳 中國大陸"],["us","🇺🇸 美國"],["tw","🇹🇼 台灣"],["war","🔥 專題 · 美伊戰爭（2026）"]];
+const WD=["日","一","二","三","四","五","六"];
+const pad=n=>String(n).padStart(2,"0");
+function todayHK(){const s=new Date().toLocaleString("en-CA",{timeZone:"Asia/Hong_Kong",year:"numeric",month:"2-digit",day:"2-digit"});return s.slice(0,10);}
+const TODAY=todayHK();
+const keys=Object.keys(DB).sort();
+let selDate=DB[TODAY]?TODAY:(keys[keys.length-1]||TODAY);
+let viewY=+selDate.slice(0,4),viewM=+selDate.slice(5,7);
+function renderNews(dd){
+  const box=document.getElementById("news");
+  const data=DB[dd];
+  const dt=new Date(dd+"T00:00:00");
+  document.getElementById("curDate").textContent=dd.slice(0,4)+"年"+(+dd.slice(5,7))+"月"+(+dd.slice(8,10))+"日（週"+WD[dt.getDay()]+"）· 香港時間";
+  const upd=document.getElementById("curUpd");
+  upd.textContent=data&&data._updated?("最後更新："+data._updated):"";
+  if(!data){box.innerHTML='<div class="empty">呢日暗時未有新聞紀錄 🗒️</div>';return;}
+  let h="";
   for(const [k,title] of SEC){
-    const arr = data[k]||[];
-    if(!arr.length) continue;
-    h += `<section class="${k}"><h2>${title}</h2>`;
-    for(const [t,de,src,url] of arr){
-      h += `<div class="item"><div class="t">${t}</div><div class="d">${de} · <a class="src" href="${url}" target="_blank" rel="noopener">${src}</a></div></div>`;
+    const arr=data[k]||[];if(!arr.length)continue;
+    h+='<section class="'+k+'"><h2>'+title+'</h2>';
+    for(const it of arr){
+      const t=it[0],de=it[1],src=it[2],url=it[3],pub=it[4]||"";
+      h+='<div class="item"><div class="t">'+t+'</div>';
+      h+='<div class="meta"><span class="pub">🕒 發放：'+pub+'</span></div>';
+      h+='<div class="d">'+de+' · <a class="src" href="'+url+'" target="_blank" rel="noopener">'+src+'</a></div></div>';
     }
-    h += `</section>`;
+    h+='</section>';
   }
   if((data.track||[]).length){
-    h += `<section class="track"><h2>🧭 事件追蹤（持續更新）</h2>`;
-    for(const [tt,bd,note] of data.track){
-      h += `<div class="row"><b>${tt}</b><span class="badge">${bd}</span><br><span class="d" style="color:var(--muted);font-size:14px">${note}</span></div>`;
-    }
-    h += `</section>`;
+    h+='<section class="track"><h2>🧭 事件追蹤（持續更新）</h2>';
+    for(const r of data.track){h+='<div class="row"><b>'+r[0]+'</b><span class="badge">'+r[1]+'</span><br><span class="d" style="color:var(--muted);font-size:14px">'+r[2]+'</span></div>';}
+    h+='</section>';
   }
-  box.innerHTML = h;
+  box.innerHTML=h;
 }
-
 function renderCal(){
-  document.getElementById("calTitle").textContent = `${viewY}年${viewM}月`;
-  const grid = document.getElementById("calGrid");
-  let h = WD.map(w=>`<div class="wd">${w}</div>`).join("");
-  const first = new Date(viewY, viewM-1, 1).getDay();
-  const days = new Date(viewY, viewM, 0).getDate();
-  for(let i=0;i<first;i++) h += `<div></div>`;
-  for(let d=1;d<=days;d++){
-    const key = `${viewY}-${pad(viewM)}-${pad(d)}`;
-    const cls = ["day"];
-    if(DB[key]) cls.push("has");
-    if(key===selDate) cls.push("sel");
-    if(key===TODAY) cls.push("today");
-    const click = DB[key] ? ` onclick="pick('${key}')"` : "";
-    h += `<div class="${cls.join(' ')}"${click}>${d}</div>`;
+  document.getElementById("calTitle").textContent=viewY+"年"+viewM+"月";
+  const grid=document.getElementById("calGrid");
+  let h=WD.map(w=>'<div class="wd">'+w+'</div>').join("");
+  const first=new Date(viewY,viewM-1,1).getDay();
+  const days=new Date(viewY,viewM,0).getDate();
+  for(let i=0;i<first;i++)h+="<div></div>";
+  for(let dnum=1;dnum<=days;dnum++){
+    const key=viewY+"-"+pad(viewM)+"-"+pad(dnum);
+    const cls=["day"];
+    if(DB[key])cls.push("has");
+    if(key===selDate)cls.push("sel");
+    if(key===TODAY)cls.push("today");
+    const click=DB[key]?" onclick=\"pick('"+key+"')\"":"";
+    h+='<div class="'+cls.join(" ")+'"'+click+'>'+dnum+"</div>";
   }
-  grid.innerHTML = h;
+  grid.innerHTML=h;
 }
-function pick(d){ selDate=d; viewY=+d.slice(0,4); viewM=+d.slice(5,7); renderCal(); renderNews(d); }
-function shiftMonth(n){ viewM+=n; if(viewM<1){viewM=12;viewY--} if(viewM>12){viewM=1;viewY++} renderCal(); }
-
-renderCal(); renderNews(selDate);
+function pick(dd){selDate=dd;viewY=+dd.slice(0,4);viewM=+dd.slice(5,7);renderCal();renderNews(dd);}
+function shiftMonth(n){viewM+=n;if(viewM<1){viewM=12;viewY--}if(viewM>12){viewM=1;viewY++}renderCal();}
+renderCal();renderNews(selDate);
 </script>
 </body>
 </html>
