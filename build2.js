@@ -96,7 +96,7 @@ const page=`<!DOCTYPE html>
 </div>
 <script>
 ${DBTEXT}
-const SEC=[["hk","🇭🇰 香港 · 社會民生"],["cn","🇨🇳 中國大陸"],["us","🇺🇸 美國"],["tw","🇹🇼 台灣"],["war","🔥 專題 · 美伊戰爭（2026）"]];
+const SEC=[["hk","🇭🇰 香港 · 社會．民生．政治．經濟"],["cn","🇨🇳 中國大陸"],["us","🇺🇸 美國"],["tw","🇹🇼 台灣"],["war","🔥 專題 · 美伊戰爭（2026）"]];
 const WD=["日","一","二","三","四","五","六"];
 const pad=n=>String(n).padStart(2,"0");
 const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");

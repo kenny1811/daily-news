@@ -1,0 +1,12 @@
+const fs=require("fs");
+const db=JSON.parse(fs.readFileSync("/tmp/db.json","utf8"));
+const d=db["2026-07-21"];
+d.hk=d.hk.filter((it,i)=>i!==1);
+d.hk.push(["香港郵政乾塘 研公私營合作","丘應樺料明年有方案，增自提點拓收入","香港01","https://www.hk01.com/政情/60372084/","2026-07-21 13:30","","https://cdn.hk01.com/di/media/images/dw/20250402/984135071243964416489135.jpeg/NDkfGdxDg1oY7xktL-KW1O8GfTxyv_0CesSaTV_Emk0?v=w1280r16_9"]);
+d.hk.push(["告別FIVE GUYS 湊湊火鍋50萬接羅素街舖","較高峰冧價逾六成，核心區舖市回落","香港01","https://www.hk01.com/地產樓市/60372079/","2026-07-21 14:49","","https://cdn.hk01.com/di/media/images/dw/20260721/1156227096280829952148269.jpeg/jJ1gWS4uM3MzYz1S4gf79nHO9jLWdCJMCEOKgQhDioE?v=w1280r16_9"]);
+d._updated="[21/07/2026 Tue 15:30]（補政治／經濟，剔失效link）";
+fs.writeFileSync("/tmp/db.json",JSON.stringify(db));
+let b=fs.readFileSync("build2.js","utf8");
+b=b.replace('["hk","🇭🇰 香港 · 社會民生"]','["hk","🇭🇰 香港 · 社會．民生．政治．經濟"]');
+fs.writeFileSync("build2.js",b);
+console.log("hk 則數:",d.hk.length,"| label 改:",b.includes("政治．經濟"));
