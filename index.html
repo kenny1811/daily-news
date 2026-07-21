@@ -36,17 +36,17 @@
   .sec{margin:18px 0 6px}
   .sec h2{font-size:16px;margin:0 0 12px;padding-left:10px;border-left:4px solid var(--accent);display:inline-block}
   .hk h2{border-color:var(--hk)}.cn h2{border-color:var(--cn)}.us h2{border-color:var(--us)}.tw h2{border-color:var(--tw)}.war h2{border-color:var(--war)}
-  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
+  .cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}@media(max-width:1500px){.cards{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(max-width:1120px){.cards{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:680px){.cards{grid-template-columns:1fr}}
   .card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:.15s}
   .card:hover{border-color:var(--accent);transform:translateY(-2px)}
   .thumb{aspect-ratio:16/9;width:100%;background:#0f1620;position:relative;overflow:hidden}
   .thumb img{width:100%;height:100%;object-fit:cover;display:block}
   .thumb.ph{display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1b2330,#141a24)}
   .thumb.ph span{color:#4a5768;font-size:13px;font-weight:600;letter-spacing:1px}
-  .cbody{padding:11px 13px 13px;display:flex;flex-direction:column;gap:5px}
-  .ctitle{font-weight:700;font-size:15.5px;line-height:1.35}
-  .cmeta{color:#6e7b8a;font-size:11.5px}
-  .cdesc{color:var(--muted);font-size:13.5px}
+  .cbody{padding:9px 11px 11px;display:flex;flex-direction:column;gap:4px}
+  .ctitle{font-weight:700;font-size:14px;line-height:1.32}
+  .cmeta{color:#6e7b8a;font-size:11px}
+  .cdesc{color:var(--muted);font-size:12.5px}
   .csrc{margin-top:2px;font-size:12px;color:var(--accent)}
   .csrc:after{content:" \2197";font-size:10px}
   .war .card{border-color:#3d2020}
@@ -112,6 +112,51 @@ const DB = {
     "2026-07-20",
     "",
     "https://cdn.hk01.com/di/media/images/dw/20260618/1144263887345422336215809.jpeg/pqT4MZ-81bs6qejxdG9xeqoDSM9BAke3pDmD5IE5g-Q?v=w1280r16_9"
+   ],
+   [
+    "何伯認圖用摺刀插何太 判囚2月",
+    "官指何伯因愛成恨，望他修心養性",
+    "香港01",
+    "https://www.hk01.com/社會新聞/60351825/",
+    "2026-07-21 12:07",
+    "",
+    "https://cdn.hk01.com/di/media/images/dw/20260721/1156215781197877248394520.jpeg/uUD2_AhzO6e4KQcYy0HrOxBlMiVOzmMzkuQ8AJLkPAA"
+   ],
+   [
+    "九巴上層非禮女生 六旬漢認罪",
+    "伸手摸前座女生胸，稱事發後已遭解僱",
+    "香港01",
+    "https://www.hk01.com/社會新聞/60372054/",
+    "2026-07-21 12:14",
+    "",
+    "https://cdn.hk01.com/di/media/images/dw/20260721/1156222150189780992108425.jpeg/_trdAMvKQL8rWa6Z1taHMNtxLEI4ONWJUQ84ElEPOBI"
+   ],
+   [
+    "中環證券行失$1.5億",
+    "投資經理入職半年，未經授權炒股失利被捕",
+    "香港01",
+    "https://www.hk01.com/突發/60371961/",
+    "2026-07-21 09:31",
+    "",
+    "https://cdn.hk01.com/di/media/images/dw/20260721/1156177908335644672207483.jpeg/avSV4sBtPUTOp6d2IsOembxXB2Lh-rS2nPpyIJz6ciA"
+   ],
+   [
+    "警搗破馬場外圍「走地馬」集團",
+    "反黑行動拘78人，利用外圍網站時差投注",
+    "星島",
+    "https://www.stheadline.com/breaking-news/3595974/",
+    "2026-07-21 12:03",
+    "",
+    "https://image.hkhl.hk/f/1200p0/0x0/100/none/5bc86327495eca8e12f0171f16f0c27a/2026-07/20260721_NEWS_horse.png"
+   ],
+   [
+    "中環找換店遭淋紅油 列刑毀",
+    "警翻查閉路電視，鎖定一名男子擲紅油後逃去",
+    "星島",
+    "https://www.stheadline.com/breaking-news/3595948/",
+    "2026-07-21 11:08",
+    "",
+    "https://image.hkhl.hk/f/1200p0/0x0/100/none/7c81fcebad17c053e3789c4b70b75b31/2026-07/192020260721NW04.jpg"
    ]
   ],
   "cn": [
@@ -248,7 +293,7 @@ const DB = {
     "家族7人遭北檢起訴，待開庭（今日無新進展）"
    ]
   ],
-  "_updated": "[21/07/2026 Tue 06:17]"
+  "_updated": "[21/07/2026 Tue 15:20]（午間補香港至8則）"
  },
  "2026-07-18": {
   "hk": [
