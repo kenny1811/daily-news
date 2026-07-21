@@ -47,8 +47,8 @@ const page=`<!DOCTYPE html>
   header .upd{color:var(--muted);font-size:12px}
   .sec{margin:18px 0 6px}
   .sec h2{font-size:16px;margin:0 0 12px;padding-left:10px;border-left:4px solid var(--accent);display:inline-block}
-  .hk h2{border-color:var(--hk)}.cn h2{border-color:var(--cn)}.us h2{border-color:var(--us)}.tw h2{border-color:var(--tw)}.war h2{border-color:var(--war)}
-  .cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}@media(max-width:1500px){.cards{grid-template-columns:repeat(3,minmax(0,1fr))}}@media(max-width:1120px){.cards{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:680px){.cards{grid-template-columns:1fr}}
+  .hk h2{border-color:var(--hk)}.hks h2{border-color:#f0883e}.hkl h2{border-color:#2dd4bf}.hke h2{border-color:#3fb950}.hkp h2{border-color:#d2a8ff}.cn h2{border-color:var(--cn)}.us h2{border-color:var(--us)}.tw h2{border-color:var(--tw)}.war h2{border-color:var(--war)}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:12px}
   .card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:.15s}
   .card:hover{border-color:var(--accent);transform:translateY(-2px)}
   .thumb{aspect-ratio:16/9;width:100%;background:#0f1620;position:relative;overflow:hidden}
@@ -96,7 +96,7 @@ const page=`<!DOCTYPE html>
 </div>
 <script>
 ${DBTEXT}
-const SEC=[["hk","🇭🇰 香港 · 社會．民生．政治．經濟"],["cn","🇨🇳 中國大陸"],["us","🇺🇸 美國"],["tw","🇹🇼 台灣"],["war","🔥 專題 · 美伊戰爭（2026）"]];
+const SEC=[["hk","🇭🇰 香港"],["hks","🇭🇰 香港 · 社會"],["hkl","🇭🇰 香港 · 民生"],["hke","🇭🇰 香港 · 經濟"],["hkp","🇭🇰 香港 · 政治"],["cn","🇨🇳 中國大陸"],["us","🇺🇸 美國"],["tw","🇹🇼 台灣"],["war","🔥 專題 · 美伊戰爭（2026）"]];
 const WD=["日","一","二","三","四","五","六"];
 const pad=n=>String(n).padStart(2,"0");
 const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
