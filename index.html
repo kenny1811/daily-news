@@ -737,9 +737,9 @@ function renderNews(dd){
     const arr=data[k]||[];if(!arr.length)continue;
     h+='<section class="'+k+'"><h2>'+title+'</h2>';
     for(const it of arr){
-      const t=it[0],de=it[1],src=it[2],url=it[3],pub=it[4]||"";
+      const t=it[0],de=it[1],src=it[2],url=it[3],pub=it[4]||"",upd=it[5]||"";
       h+='<div class="item"><div class="t">'+t+'</div>';
-      h+='<div class="meta"><span class="pub">🕒 發放：'+pub+'</span></div>';
+      h+='<div class="meta"><span class="pub">🕒 發放：'+pub+(upd?' ｜ 更新：'+upd:'')+'</span></div>';
       h+='<div class="d">'+de+' · <a class="src" href="'+url+'" target="_blank" rel="noopener">'+src+'</a></div></div>';
     }
     h+='</section>';
