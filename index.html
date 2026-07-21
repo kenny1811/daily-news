@@ -6,60 +6,68 @@
 <title>每日新聞 · 目錄</title>
 <style>
   :root{--bg:#0d1117;--card:#161b22;--border:#242c38;--txt:#e6edf3;--muted:#8b949e;--accent:#58a6ff;--hk:#f0883e;--cn:#f85149;--us:#3fb950;--tw:#d2a8ff;--war:#ff7b72}
-  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-  html,body{height:auto;overflow:visible}
-  body{margin:0;background:var(--bg);color:var(--txt);font-family:-apple-system,"PingFang HK","Noto Sans HK","Microsoft JhengHei",sans-serif;line-height:1.6;font-size:16px}
-  .wrap{display:flex;gap:16px;max-width:1080px;margin:0 auto;padding:16px 16px 140px;align-items:flex-start}
-  .side{flex:0 0 300px;position:sticky;top:16px}
+  *{box-sizing:border-box}
+  html,body{height:auto}
+  body{margin:0;background:var(--bg);color:var(--txt);font-family:-apple-system,"PingFang HK","Noto Sans HK","Microsoft JhengHei",sans-serif;line-height:1.55;font-size:15px}
+  .wrap{display:flex;gap:20px;max-width:1720px;margin:0 auto;padding:18px 22px 120px;align-items:flex-start}
+  /* 左月曆 */
+  .side{flex:0 0 240px;position:sticky;top:18px}
   .cal{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px}
   .cal .hd{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
-  .cal .hd b{font-size:16px}
-  .cal button.nav{background:#21262d;border:1px solid var(--border);color:var(--txt);border-radius:8px;width:32px;height:32px;font-size:16px;cursor:pointer}
+  .cal .hd b{font-size:15px}
+  .cal button.nav{background:#21262d;border:1px solid var(--border);color:var(--txt);border-radius:8px;width:30px;height:30px;font-size:15px;cursor:pointer}
   .cal button.nav:hover{background:#2d333b}
-  .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;text-align:center}
-  .grid .wd{color:var(--muted);font-size:12px;padding:4px 0}
-  .grid .day{padding:8px 0;border-radius:8px;font-size:14px;color:#586069;cursor:default}
+  .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px;text-align:center}
+  .grid .wd{color:var(--muted);font-size:11px;padding:3px 0}
+  .grid .day{padding:7px 0;border-radius:8px;font-size:13px;color:#586069}
   .grid .day.has{color:var(--txt);background:#1f2733;cursor:pointer;font-weight:600}
   .grid .day.has:hover{background:#2b3a4d}
   .grid .day.sel{background:var(--accent);color:#04101f;font-weight:700}
   .grid .day.today{outline:1px solid var(--accent)}
-  .side .tip{color:var(--muted);font-size:12px;margin-top:10px;text-align:center}
+  .side .tip{color:var(--muted);font-size:11px;margin-top:10px;text-align:center}
+  /* 右內容 */
   .main{flex:1;min-width:0}
-  header{padding:2px 2px 10px}
-  header h1{font-size:20px;margin:0}
+  header{padding:0 2px 8px}
+  header h1{font-size:22px;margin:0}
   header .date{color:var(--muted);font-size:13px;margin-top:2px}
+  header .row2{display:flex;gap:14px;flex-wrap:wrap;margin-top:2px}
   header .win{color:var(--accent);font-size:12px}
-  header .upd{color:var(--muted);font-size:12px;margin-top:2px}
-  section{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin:12px 0}
-  h2{font-size:16px;margin:0 0 8px;padding-left:10px;border-left:4px solid var(--accent)}
+  header .upd{color:var(--muted);font-size:12px}
+  .sec{margin:18px 0 6px}
+  .sec h2{font-size:16px;margin:0 0 12px;padding-left:10px;border-left:4px solid var(--accent);display:inline-block}
   .hk h2{border-color:var(--hk)}.cn h2{border-color:var(--cn)}.us h2{border-color:var(--us)}.tw h2{border-color:var(--tw)}.war h2{border-color:var(--war)}
-  .item{padding:8px 0;border-bottom:1px dashed var(--border)}
-  .item:last-child{border-bottom:none}
-  .item .t{font-weight:600}
-  .item .meta{color:var(--muted);font-size:12px;margin-top:1px}
-  .item .meta .pub{color:#6e7b8a}
-  .item .d{color:var(--muted);font-size:14px;margin-top:2px}
-  a.src{color:var(--accent);text-decoration:none;font-size:13px}
-  a.src:after{content:" \2197";font-size:11px}
-  .war{border-color:#3d2020;background:#1a1010}
-  .track{background:#101418}
-  .track .row{padding:8px 0;border-bottom:1px dashed var(--border)}
-  .track .row:last-child{border-bottom:none}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:.15s}
+  .card:hover{border-color:var(--accent);transform:translateY(-2px)}
+  .thumb{aspect-ratio:16/9;width:100%;background:#0f1620;position:relative;overflow:hidden}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.ph{display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1b2330,#141a24)}
+  .thumb.ph span{color:#4a5768;font-size:13px;font-weight:600;letter-spacing:1px}
+  .cbody{padding:11px 13px 13px;display:flex;flex-direction:column;gap:5px}
+  .ctitle{font-weight:700;font-size:15.5px;line-height:1.35}
+  .cmeta{color:#6e7b8a;font-size:11.5px}
+  .cdesc{color:var(--muted);font-size:13.5px}
+  .csrc{margin-top:2px;font-size:12px;color:var(--accent)}
+  .csrc:after{content:" \2197";font-size:10px}
+  .war .card{border-color:#3d2020}
+  .war .thumb.ph{background:linear-gradient(135deg,#2a1414,#1a0f0f)}
+  /* 事件追蹤 */
+  .track{background:#101418;border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin-top:12px}
+  .track h2{font-size:15px;margin:0 0 8px;padding-left:10px;border-left:4px solid #58a6ff}
+  .trow{padding:7px 0;border-bottom:1px dashed var(--border)}
+  .trow:last-child{border-bottom:none}
   .badge{display:inline-block;font-size:11px;padding:1px 8px;border-radius:20px;background:#21262d;color:var(--muted);margin-left:6px}
-  .empty{color:var(--muted);text-align:center;padding:40px 10px}
-  footer{color:var(--muted);font-size:12px;padding:14px 2px;text-align:center}
-  @media(max-width:760px){.wrap{flex-direction:column}.side{flex:none;width:100%;position:static}}
+  .tnote{color:var(--muted);font-size:13px}
+  .empty{color:var(--muted);text-align:center;padding:50px 10px}
+  footer{color:var(--muted);font-size:12px;padding:16px 2px;text-align:center}
+  @media(max-width:900px){.wrap{flex-direction:column}.side{flex:none;width:100%;position:static}}
 </style>
 </head>
 <body>
 <div class="wrap">
   <div class="side">
     <div class="cal">
-      <div class="hd">
-        <button class="nav" onclick="shiftMonth(-1)">‹</button>
-        <b id="calTitle"></b>
-        <button class="nav" onclick="shiftMonth(1)">›</button>
-      </div>
+      <div class="hd"><button class="nav" onclick="shiftMonth(-1)">‹</button><b id="calTitle"></b><button class="nav" onclick="shiftMonth(1)">›</button></div>
       <div class="grid" id="calGrid"></div>
     </div>
     <div class="tip">藍色日子＝有新聞，ㄢ一下睇返</div>
@@ -68,8 +76,7 @@
     <header>
       <h1>📰 每日新聞</h1>
       <div class="date" id="curDate"></div>
-      <div class="win">涵蓋過去 24 小時內最新新聞</div>
-      <div class="upd" id="curUpd"></div>
+      <div class="row2"><span class="win">涵蓋過去 24 小時內最新新聞</span><span class="upd" id="curUpd"></span></div>
     </header>
     <div id="news"></div>
     <footer>每日新聞 · 目錄頁</footer>
@@ -77,677 +84,815 @@
 </div>
 <script>
 const DB = {
-  "2026-07-21": {
-    "hk": [
-      [
-        "香港機場上半年客運量升11.7%",
-        "半年3,280萬人次，日韓內地帶動轉機客回升",
-        "大紀元香港",
-        "https://hk.epochtimes.com/news/2026-07-20/14311316",
-        "2026-07-20 17:16"
-      ],
-      [
-        "紅磡露宿婆婆案 29歲侍應被控普通襲擊",
-        "涉7.15、7.16兩度襲同一婆婆，准保釋8.17再訊",
-        "法庭線",
-        "https://thewitnesshk.com/婆婆紅磡觀音廟對開疑遭淋潑液體-29歲男子被控普通襲擊/",
-        "2026-07-20 19:44"
-      ],
-      [
-        "天文台料周二部分地區雨勢較大",
-        "初時有狂風雷暴，之後短暫陽光局部驟雨",
-        "香港01",
-        "https://www.hk01.com/天氣/60371528/",
-        "2026-07-20"
-      ]
-    ],
-    "cn": [
-      [
-        "雲南暴雨成災 昆明大商超被淹",
-        "昭通泥石流，傳千名露營客一度被困險沖走",
-        "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/20/1102265.html",
-        "2026-07-20"
-      ],
-      [
-        "上海暴雨成災 街道可行船",
-        "地舖大超市入水，正值世界AI大會網民熱議",
-        "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/20/1102245.html",
-        "2026-07-20"
-      ],
-      [
-        "王滬寧訪朝「受辱」 黨媒揭習非一尊",
-        "隔枱聽金正恩訓話，措辭暗示中朝關係非習一人主導",
-        "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/20/1102252.html",
-        "2026-07-20"
-      ],
-      [
-        "中共「內鬼」預告官員落馬謀利",
-        "黑灰產業鏈成形，被指打臉習近平反腐",
-        "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/20/1102255.html",
-        "2026-07-20"
-      ]
-    ],
-    "us": [
-      [
-        "川普：伊朗每殺一名美軍付「數倍代價」",
-        "增派F-16／F-35赴中東，7.22多佛迎陣亡官兵遺體",
-        "大紀元",
-        "https://www.epochtimes.com/gb/26/7/20/n14813625.htm",
-        "2026-07-21 01:57"
-      ],
-      [
-        "川普解密文件指中共竊2.2億選民資料",
-        "分析：華府對北京定位根本轉變，視中共頭號敵人",
-        "大紀元",
-        "https://www.epochtimes.com/gb/26/7/19/n14812699.htm",
-        "2026-07-20"
-      ]
-    ],
-    "tw": [
-      [
-        "高雄老夫妻282萬退休金遭騙光",
-        "假投顧誘投資，教訛稱「修繕款」，5月曾被攔阻120萬",
-        "ETtoday",
-        "https://www.ettoday.net/news/20260720/3204245.htm",
-        "2026-07-20 10:53"
-      ],
-      [
-        "刑事局攔詐團匯款近5.5億",
-        "6月受理案降三成、財損約47億按年減47%",
-        "ETtoday",
-        "https://www.ettoday.net/news/20260720/3204247.htm",
-        "2026-07-20 11:06"
-      ]
-    ],
-    "war": [
-      [
-        "美連續第9夜轟炸伊朗 荷姆茲緊張升級",
-        "空襲塔布里茲等地，美軍再1兵亡累計17死逾420傷",
-        "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate",
-        "2026-07-20 09:48"
-      ],
-      [
-        "美軍陣亡後再空襲 局勢最新一覽",
-        "停火破裂，伊朗誓報復並還擊海灣美軍基地，美封鎖海峽",
-        "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest",
-        "2026-07-20"
-      ],
-      [
-        "開戰以來美軍陣亡與伊朗傷亡整理",
-        "美軍累計17死逾420傷，伊朗未公布確切數字",
-        "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties",
-        "2026-07-20"
-      ]
-    ],
-    "track": [
-      [
-        "美伊戰爭（2026）",
-        "急劇升級",
-        "第9夜空襲；美軍累計17死逾420傷；川普誓數倍報復、增派F-16／F-35，7.22多佛迎遺體"
-      ],
-      [
-        "港·露宿婆婆案",
-        "已落案",
-        "29歲侍應被控兩項普通襲擊，准保釋，8.17再訊（KCCC2082/2026）"
-      ],
-      [
-        "中·2026水災",
-        "災情華東",
-        "轉華東：上海暴雨街道行船、雲南昭通暴雨泥石流"
-      ],
-      [
-        "美中·中共干預美國大選",
-        "文件公開",
-        "川普續公開解密文件，指中共竊2.2億選民資料，視中共頭號敵人"
-      ],
-      [
-        "台·李傅中武涉詐助理費977萬",
-        "已起訴",
-        "家族7人遭北檢起訴，待開庭（今日無新進展）"
-      ]
-    ],
-    "_updated": "[21/07/2026 Tue 06:17]"
-  },
-  "2026-07-18": {
-    "hk": [
-      [
-        "紅磡露宿婆婆疑遭淋煙灰水",
-        "目擊者報警揭發，其後獲當局安排送院檢查",
-        "星島",
-        "https://www.stheadline.com/breaking-news/3595029/紅磡露宿婆婆區議員形容婆婆為人內斂執著-今獲當局安排送院檢查",
-        "2026-07-18"
-      ],
-      [
-        "瑪麗醫院病房辦婚禮",
-        "病重血癌母親病房見證愛女出嫁，醫護助統籌",
-        "星島",
-        "https://www.stheadline.com/society/3594928/瑪麗醫院病房化身婚禮現場-病重母親見證愛女出嫁-醫護助統籌婚禮",
-        "2026-07-18"
-      ],
-      [
-        "書展2026 書商稱人流減",
-        "市民嘆有獨立書店無法參展，選擇少失色",
-        "香港01",
-        "https://www.hk01.com/社會新聞/60371225/書展2026-書商稱人流減-市民嘆有獨立書店無法參展-選擇少失色",
-        "2026-07-18"
-      ],
-      [
-        "網約車規管在即 滴滴加碼攻港",
-        "消息指將延長優惠兼為司機買保險",
-        "香港01",
-        "https://www.hk01.com/財經快訊/60274590/網約車規管在即-滴滴出行加碼攻港-消息-將延長優惠兼買保險",
-        "2026-07-18"
-      ],
-      [
-        "宏福苑 吸煙投訴部門互「轉介」",
-        "勞工處消防處互轉介被質疑，勞處終認管轄",
-        "香港01",
-        "https://www.hk01.com/社會新聞/60342226/宏福苑-吸煙投訴勞工處消防處互-轉介-被質疑-勞處終認其管轄",
-        "2026-07-18"
-      ]
-    ],
-    "cn": [
-      [
-        "南方水災持續 46河超警",
-        "罕見7預警齊發，多省洪澇未止",
-        "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/14/1101990.html",
-        "2026-07-18"
-      ],
-      [
-        "政治局會議認形勢嚴峻",
-        "官方罕有承認極端天氣頻發、防汛吃力",
-        "大紀元",
-        "https://www.epochtimes.com/gb/26/7/2/n14801889.htm",
-        "2026-07-18"
-      ],
-      [
-        "洪災言論網民恐被拘",
-        "轉發批評救災帖文者傳遭警方帶走",
-        "大紀元",
-        "https://www.epochtimes.com/gb/26/7/15/n14809865.htm",
-        "2026-07-18"
-      ]
-    ],
-    "us": [
-      [
-        "特朗普黃金時段全國演講",
-        "重提2020大選「被竊」，質疑選舉合法性",
-        "Post-Gazette",
-        "https://www.post-gazette.com/news/politics-nation/2026/07/17/trump-primetime-speech-elections/stories/202607170035",
-        "2026-07-18"
-      ],
-      [
-        "美股科技股重挫 納指挫1.47%",
-        "SK海力士ADR瀉13.6%，晶片股拖累",
-        "香港01",
-        "https://www.hk01.com/財經快訊/60370755/美股-道指收跌105點-納指挫1-47-sk海力士adr瀉13-6",
-        "2026-07-18"
-      ],
-      [
-        "眾院通過5億美元對台軍援",
-        "國防撥款案編列，反制中共威脅",
-        "世界新聞網",
-        "https://www.worldjournal.com/wj/story/121220/8885750",
-        "2026-07-18"
-      ],
-      [
-        "DHS終結留學生D/S身份效期",
-        "F-1/J-1停留設上限，半世紀制度取消",
-        "世界新聞網",
-        "https://www.worldjournal.com/wj/story/121469/9632997",
-        "2026-07-18"
-      ]
-    ],
-    "tw": [
-      [
-        "台積電法說後台股重挫逾2000點",
-        "創史上次高跌點，權值股慘綠",
-        "聯合新聞網",
-        "https://udn.com/news/story/7251/9633675",
-        "2026-07-18"
-      ],
-      [
-        "藍議員李傅中武涉詐助理費977萬",
-        "找岳母當人頭，家族共7人遭北檢起訴",
-        "自由時報",
-        "https://news.ltn.com.tw/news/society/breakingnews/5508259",
-        "2026-07-18"
-      ],
-      [
-        "金門海漂豬驗出非洲豬瘟",
-        "今年首例，豬肉製品7天禁運本島",
-        "聯合新聞網",
-        "https://udn.com/news/story/7266/9632458",
-        "2026-07-18"
-      ]
-    ],
-    "war": [
-      [
-        "美軍公布第七晚打擊目標",
-        "連7晚空襲，伊朗報復性攻擊波灣多國",
-        "大紀元",
-        "https://www.epochtimes.com/gb/26/7/18/n14811860.htm",
-        "2026-07-18"
-      ],
-      [
-        "伊朗指美打擊關鍵民用基建",
-        "戰事升級，多處基礎設施受損",
-        "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
-        "2026-07-18"
-      ],
-      [
-        "美擊海水淡化廠 約1萬人斷水",
-        "霍爾木茲甘省逾20村落供水中斷",
-        "Yenişafak",
-        "https://en.yenisafak.com/world/us-strike-on-iranian-desalination-plant-leaves-10000-without-water-3720957",
-        "2026-07-18"
-      ],
-      [
-        "伊朗再襲科威特第二座水電廠",
-        "報復連夜美軍空襲，波及海灣鄰國",
-        "The National",
-        "https://www.thenationalnews.com/news/gulf/2026/07/18/iran-hits-second-power-and-water-plant-in-kuwait-after-another-night-of-us-strikes/",
-        "2026-07-18"
-      ],
-      [
-        "阿巴斯港、橋樑、鐵路連遇襲",
-        "美軍鎖伊朗南部交通命脈，切斷後勤",
-        "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/17/1102139.html",
-        "2026-07-18"
-      ]
-    ],
-    "track": [
-      [
-        "美伊戰爭（2026）",
-        "持續升級",
-        "6月中停火 → 7月破裂 → 連續7晚空襲，戰火深入內陸"
-      ],
-      [
-        "台·李傅中武涉詐助理費977萬",
-        "已起訴",
-        "家族7人遭檢方起訴，待開庭"
-      ],
-      [
-        "中·南方水災",
-        "災情中",
-        "46河超警、7預警齊發，政治局認形勢嚴峻"
-      ],
-      [
-        "港·露宿婆婆遭淋煙灰水",
-        "發生",
-        "待跟進是否報案／有無被捕"
-      ]
-    ],
-    "_updated": "[18/07/2026 Sat 23:06]"
-  },
-  "2026-07-19": {
-    "hk": [
-      [
-        "美國終止涉港「國家緊急狀態」命令",
-        "美稱無恢復香港特殊經貿及自治地位，夏寶龍李家超等制裁持續",
-        "大紀元",
-        "https://www.epochtimes.com/gb/26/7/18/n14812052.htm",
-        "2026-07-19"
-      ],
-      [
-        "長沙灣道地盤升降機疑急墜",
-        "兩工人腿部受傷被困，消防升雲梯救出送院",
-        "香港01",
-        "https://www.hk01.com/article/60371136",
-        "2026-07-19"
-      ],
-      [
-        "屯門公路近油柑頭貨車自炒翻側 2傷",
-        "急凍腸手推車散落一地，往九龍方向交通擠塞",
-        "香港01",
-        "https://www.hk01.com/article/60371178",
-        "2026-07-19"
-      ],
-      [
-        "紅磡露宿婆婆疑遭淋煙灰水欺凌",
-        "社署等安排送院檢查，區議員促警方嚴正跟進",
-        "香港01",
-        "https://www.hk01.com/article/60371218",
-        "2026-07-19"
-      ],
-      [
-        "低壓槽壓境 周末續有大雨雷暴",
-        "天文台料本港持續有驟雨及狂風雷暴",
-        "香港01",
-        "https://www.hk01.com/article/60371160",
-        "2026-07-19"
-      ]
-    ],
-    "cn": [
-      [
-        "重慶彭水縣特大山體滑坡",
-        "十幾棟居民樓被推入江水，官方通報至少8死；南北洪災續蔓延",
-        "新唐人",
-        "https://www.ntdtv.com/b5/2026/07/18/a104116402.html",
-        "2026-07-19"
-      ],
-      [
-        "中共救災被指「擺拍作騷」",
-        "官媒宣傳救援畫面遭網民質疑造假，掩飾真實災情",
-        "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/18/1102155.html",
-        "2026-07-19"
-      ]
-    ],
-    "us": [
-      [
-        "加拿大野火濃煙「入侵」美國",
-        "川普發怒威脅加徵新關稅，指加方蓄意疏忽",
-        "自由時報",
-        "https://news.ltn.com.tw/news/world/breakingnews/5509620",
-        "2026-07-19"
-      ],
-      [
-        "川普推兩大移民改革",
-        "防堵移民濫用福利，收緊申領門檻",
-        "大紀元",
-        "https://www.epochtimes.com/gb/26/7/18/n14811757.htm",
-        "2026-07-19"
-      ],
-      [
-        "海外申請綠卡擬收10萬美元保證金",
-        "川普收緊移民政策再出新招",
-        "世界新聞網",
-        "https://www.worldjournal.com/wj/story/121468/9630929",
-        "2026-07-19"
-      ]
-    ],
-    "tw": [
-      [
-        "美台首例超大額跨境詐欺",
-        "詐騙廣告年收上看70億美元，第一線嘆源頭難斷",
-        "自由時報",
-        "https://news.ltn.com.tw/news/society/breakingnews/5509321",
-        "2026-07-19"
-      ],
-      [
-        "民進黨全代會19日登場",
-        "賴清德授19縣市長參選人戰旗，黨職改選牽動權力布局",
-        "自由時報",
-        "https://news.ltn.com.tw/news/politics/breakingnews/5509671",
-        "2026-07-19"
-      ]
-    ],
-    "war": [
-      [
-        "美軍連7夜狂轟伊朗 川普預告「下周更慘」",
-        "揚言炸電廠、斷橋梁，伊朗反擊區域美軍基地",
-        "壹蘋",
-        "https://news.nextapple.com/international/20260718/347621D3CFB0C6404949D4CE3CED73E3",
-        "2026-07-19"
-      ],
-      [
-        "美發動第7波夜襲 雙方互炸基建",
-        "伊朗反擊轟炸科威特發電廠，全面開戰風險飆升",
-        "ETtoday",
-        "https://www.ettoday.net/news/20260718/3203286.htm",
-        "2026-07-19"
-      ],
-      [
-        "美軍猛炸控制塔、對外橋梁",
-        "戰術有變疑欲奪伊朗港口，重磅炸彈亦大開轟",
-        "Newtalk",
-        "https://newtalk.tw/news/view/2026-07-18/1047911",
-        "2026-07-19"
-      ]
-    ],
-    "track": [
-      [
-        "美伊戰爭（2026）",
-        "持續升級",
-        "連續7夜空襲；川普預告下周炸電廠斷橋，伊朗反擊區域美軍基地"
-      ],
-      [
-        "台·李傅中武涉詐助理費977萬",
-        "已起訴",
-        "家族7人遭北檢起訴，待開庭（本日無新進展）"
-      ],
-      [
-        "中·2026水災",
-        "災情擴大",
-        "南方水災未止，重慶彭水山體滑坡至少8死"
-      ],
-      [
-        "港·露宿婆婆遭淋煙灰水",
-        "跟進中",
-        "社署安排送院檢查，區議員促警嚴正跟進"
-      ]
-    ],
-    "_updated": "[19/07/2026 Sun 07:30]"
-  },
-  "2026-07-20": {
-    "hk": [
-      [
-        "尖沙咀寶馬「黑玻璃」當場拘捕",
-        "截查揭司機已被停牌，警員起疑揭發",
-        "香港01",
-        "https://www.hk01.com/突發/60371322/",
-        "2026-07-20"
-      ],
-      [
-        "尖沙咀中年漢大鬧堵路遭制服",
-        "4名警員合力按地拘捕，交通一度受阻",
-        "香港01",
-        "https://www.hk01.com/突發/60371310/",
-        "2026-07-20"
-      ],
-      [
-        "西營盤兩的士相撞波及巴士",
-        "「小露寶」小巴翻側，司機被困受傷",
-        "香港01",
-        "https://www.hk01.com/突發/60371328/",
-        "2026-07-20"
-      ],
-      [
-        "筲箕灣停水逾20小時",
-        "水務署指早上10時48分已恢復供水",
-        "香港01",
-        "https://www.hk01.com/突發/60371640/",
-        "2026-07-20 11:32"
-      ],
-      [
-        "周一返工注意 黃雨一度生效",
-        "天文台料驟雨雷暴，部分地區雨勢較大",
-        "香港01",
-        "https://www.hk01.com/天氣/60371348/",
-        "2026-07-20 07:10"
-      ],
-      [
-        "天文台料低壓區菲律賓發展",
-        "下周移向廣東西部，市民需留意打風",
-        "香港01",
-        "https://www.hk01.com/天氣/60371247/",
-        "2026-07-20"
-      ]
-    ],
-    "cn": [
-      [
-        "中國Q2 GDP增4.3% 遜官方目標",
-        "私人投資暴跌8.5%、房地產崩18%，內需冰封",
-        "大紀元",
-        "https://www.epochtimes.com/gb/26/7/19/n14812308.htm",
-        "2026-07-20"
-      ],
-      [
-        "吉林黑龍江多地遭洪災",
-        "水庫開閘洩洪釀災，淒慘視頻曝光",
-        "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/19/1102226.html",
-        "2026-07-20"
-      ],
-      [
-        "湖南破特大盜採稀土案",
-        "設瞭望哨配對講機通風報信，9人當庭認罪",
-        "香港01",
-        "https://www.hk01.com/即時中國/60371615/",
-        "2026-07-20"
-      ]
-    ],
-    "us": [
-      [
-        "川普公開文件指中共干預美國大選",
-        "稱竊2.22億選民資料，質疑習9月訪美",
-        "看中國",
-        "https://www.secretchina.com/news/b5/2026/07/19/1102228.html",
-        "2026-07-20"
-      ],
-      [
-        "世界盃決賽 西班牙加時挫阿根廷",
-        "費倫托利斯奠勝，10人阿根廷飲恨紐約",
-        "香港01",
-        "https://www.hk01.com/即時體育/60371530/",
-        "2026-07-20 05:00"
-      ],
-      [
-        "川普夫婦紐約觀戰頒獎",
-        "2026美加墨世足壓軸，成場邊焦點",
-        "聯合新聞網",
-        "https://udn.com/news/story/123107/9638116",
-        "2026-07-20 05:30"
-      ]
-    ],
-    "tw": [
-      [
-        "賴清德全代會批中共「紅色恐怖」",
-        "批《民族團結進步法》，誓不讓台灣變「中國台灣」",
-        "自由時報",
-        "https://news.ltn.com.tw/news/politics/breakingnews/5510450",
-        "2026-07-20"
-      ],
-      [
-        "賴清德率19縣市長參選人誓師",
-        "頒3「軍令」主打加薪、減稅、增福利",
-        "自由時報",
-        "https://news.ltn.com.tw/news/politics/breakingnews/5510474",
-        "2026-07-20"
-      ],
-      [
-        "台股反彈 台積電漲20元",
-        "指數漲251點至42922，暴跌後喘定",
-        "ETtoday",
-        "https://finance.ettoday.net/news/3204142",
-        "2026-07-20"
-      ]
-    ],
-    "war": [
-      [
-        "美軍連續第8晚空襲伊朗",
-        "伊朗還火波灣美軍基地，戰事未見盡頭",
-        "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran",
-        "2026-07-20"
-      ],
-      [
-        "伊朗轟駐約旦美軍基地 2死",
-        "4傷1失蹤，美出動數百戰機報復空襲",
-        "Newtalk",
-        "https://newtalk.tw/news/view/2026-07-19/1048044",
-        "2026-07-20"
-      ],
-      [
-        "2美兵陣亡後美軍空襲革命衛隊",
-        "「迅速懲罰」，荷莫茲海峽多地傳爆炸",
-        "ETtoday",
-        "https://www.ettoday.net/news/20260719/3203717.htm",
-        "2026-07-20"
-      ],
-      [
-        "伊朗襲海灣盟友 科威特電廠起火",
-        "第二座水電設施中招，海灣多國防空警報",
-        "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies",
-        "2026-07-20"
-      ],
-      [
-        "7月美襲累計50死 伊朗暗示MoU暫停",
-        "批美打擊民用基建，停火備忘錄名存實亡",
-        "Al Jazeera",
-        "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
-        "2026-07-20"
-      ]
-    ],
-    "track": [
-      [
-        "美伊戰爭（2026）",
-        "急劇升級",
-        "第8夜；駐約旦美軍2死、科威特電廠起火；7月累計50死，伊朗暗示停火MoU暫停"
-      ],
-      [
-        "中·2026水災",
-        "災情北移",
-        "吉林黑龍江洪災，水庫洩洪釀災"
-      ],
-      [
-        "中·2026經濟",
-        "數據轉差",
-        "Q2 GDP增4.3%遜目標，私人投資暴跌、樓市崩"
-      ],
-      [
-        "美中·中共干預美國大選",
-        "文件公開",
-        "川普指中共竊2.22億選民資料，質疑習訪美"
-      ],
-      [
-        "台·李傅中武涉詐助理費977萬",
-        "已起訴",
-        "家族7人遭北檢起訴，待開庭（無新進展）"
-      ],
-      [
-        "港·露宿婆婆遭淋煙灰水",
-        "跟進中",
-        "社署安排送院檢查，未有被捕消息"
-      ]
-    ],
-    "_updated": "[20/07/2026 Mon 22:47]"
-  }
+ "2026-07-21": {
+  "hk": [
+   [
+    "香港機場上半年客運量升11.7%",
+    "半年3,280萬人次，日韓內地帶動轉機客回升",
+    "大紀元香港",
+    "https://hk.epochtimes.com/news/2026-07-20/14311316",
+    "2026-07-20 17:16",
+    "",
+    "https://images1.epochhk.com/pictures/321298/1613548_%E9%A6%99%E6%B8%AF%E6%A9%9F%E5%A0%B4_%E4%BD%99%E9%8B%BC@1200x630.jpeg"
+   ],
+   [
+    "紅磡露宿婆婆案 29歲侍應被控普通襲擊",
+    "涉7.15、7.16兩度襲同一婆婆，准保釋8.17再訊",
+    "法庭線",
+    "https://thewitnesshk.com/婆婆紅磡觀音廟對開疑遭淋潑液體-29歲男子被控普通襲擊/",
+    "2026-07-20 19:44",
+    "",
+    ""
+   ],
+   [
+    "天文台料周二部分地區雨勢較大",
+    "初時有狂風雷暴，之後短暫陽光局部驟雨",
+    "香港01",
+    "https://www.hk01.com/天氣/60371528/",
+    "2026-07-20",
+    "",
+    "https://cdn.hk01.com/di/media/images/dw/20260618/1144263887345422336215809.jpeg/pqT4MZ-81bs6qejxdG9xeqoDSM9BAke3pDmD5IE5g-Q?v=w1280r16_9"
+   ]
+  ],
+  "cn": [
+   [
+    "雲南暴雨成災 昆明大商超被淹",
+    "昭通泥石流，傳千名露營客一度被困險沖走",
+    "看中國",
+    "https://www.secretchina.com/news/b5/2026/07/20/1102265.html",
+    "2026-07-20",
+    "",
+    "https://img6.secretchina.com/pic/2026/7-7/p3777931a523854793-ss.jpg"
+   ],
+   [
+    "上海暴雨成災 街道可行船",
+    "地舖大超市入水，正值世界AI大會網民熱議",
+    "看中國",
+    "https://www.secretchina.com/news/b5/2026/07/20/1102245.html",
+    "2026-07-20",
+    "",
+    "https://img6.secretchina.com/pic/2026/7-20/p3781711a752740649-ss.jpg"
+   ],
+   [
+    "王滬寧訪朝「受辱」 黨媒揭習非一尊",
+    "隔枱聽金正恩訓話，措辭暗示中朝關係非習一人主導",
+    "看中國",
+    "https://www.secretchina.com/news/b5/2026/07/20/1102252.html",
+    "2026-07-20",
+    "",
+    "https://img6.secretchina.com/pic/2026/7-20/p3781751a859488709-ss.jpg"
+   ],
+   [
+    "中共「內鬼」預告官員落馬謀利",
+    "黑灰產業鏈成形，被指打臉習近平反腐",
+    "看中國",
+    "https://www.secretchina.com/news/b5/2026/07/20/1102255.html",
+    "2026-07-20",
+    "",
+    "https://img6.secretchina.com/pic/2026/7-18/p3780971a903171949-ss.jpg"
+   ]
+  ],
+  "us": [
+   [
+    "川普：伊朗每殺一名美軍付「數倍代價」",
+    "增派F-16／F-35赴中東，7.22多佛迎陣亡官兵遺體",
+    "大紀元",
+    "https://www.epochtimes.com/gb/26/7/20/n14813625.htm",
+    "2026-07-21 01:57",
+    "",
+    "https://i.epochtimes.com/assets/uploads/2026/07/id14812652-AFP__20260717__C2HB7FT__v1__MidRes__UsPoliticsTrump-700x359.jpg"
+   ],
+   [
+    "川普解密文件指中共竊2.2億選民資料",
+    "分析：華府對北京定位根本轉變，視中共頭號敵人",
+    "大紀元",
+    "https://www.epochtimes.com/gb/26/7/19/n14812699.htm",
+    "2026-07-20",
+    "",
+    "https://i.epochtimes.com/assets/uploads/2026/07/id14811183-GettyImages-2285783769.jpg"
+   ]
+  ],
+  "tw": [
+   [
+    "高雄老夫妻282萬退休金遭騙光",
+    "假投顧誘投資，教訛稱「修繕款」，5月曾被攔阻120萬",
+    "ETtoday",
+    "https://www.ettoday.net/news/20260720/3204245.htm",
+    "2026-07-20 10:53",
+    "",
+    "https://cdn2.ettoday.net/images/8838/e8838380.jpg"
+   ],
+   [
+    "刑事局攔詐團匯款近5.5億",
+    "6月受理案降三成、財損約47億按年減47%",
+    "ETtoday",
+    "https://www.ettoday.net/news/20260720/3204247.htm",
+    "2026-07-20 11:06",
+    "",
+    "https://cdn2.ettoday.net/images/8838/e8838387.jpg"
+   ]
+  ],
+  "war": [
+   [
+    "美連續第9夜轟炸伊朗 荷姆茲緊張升級",
+    "空襲塔布里茲等地，美軍再1兵亡累計17死逾420傷",
+    "Al Jazeera",
+    "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate",
+    "2026-07-20 09:48",
+    "",
+    "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-19T045233Z_545041725_RC2SGMAJKT6K_RTRMADP_3_IRAN-CRISIS-USA-1784510577.jpg?resize=1920%2C1440"
+   ],
+   [
+    "美軍陣亡後再空襲 局勢最新一覽",
+    "停火破裂，伊朗誓報復並還擊海灣美軍基地，美封鎖海峽",
+    "Al Jazeera",
+    "https://www.aljazeera.com/news/2026/7/20/us-renews-attacks-on-iran-after-us-soldier-killed-whats-the-latest",
+    "2026-07-20",
+    "",
+    "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a5d9b4b0f5a-1784519499.jpg?resize=1920%2C1440"
+   ],
+   [
+    "開戰以來美軍陣亡與伊朗傷亡整理",
+    "美軍累計17死逾420傷，伊朗未公布確切數字",
+    "Al Jazeera",
+    "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties",
+    "2026-07-20",
+    "",
+    "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a5e114c52-1784549708.jpg?resize=1920%2C1440"
+   ]
+  ],
+  "track": [
+   [
+    "美伊戰爭（2026）",
+    "急劇升級",
+    "第9夜空襲；美軍累計17死逾420傷；川普誓數倍報復、增派F-16／F-35，7.22多佛迎遺體"
+   ],
+   [
+    "港·露宿婆婆案",
+    "已落案",
+    "29歲侍應被控兩項普通襲擊，准保釋，8.17再訊（KCCC2082/2026）"
+   ],
+   [
+    "中·2026水災",
+    "災情華東",
+    "轉華東：上海暴雨街道行船、雲南昭通暴雨泥石流"
+   ],
+   [
+    "美中·中共干預美國大選",
+    "文件公開",
+    "川普續公開解密文件，指中共竊2.2億選民資料，視中共頭號敵人"
+   ],
+   [
+    "台·李傅中武涉詐助理費977萬",
+    "已起訴",
+    "家族7人遭北檢起訴，待開庭（今日無新進展）"
+   ]
+  ],
+  "_updated": "[21/07/2026 Tue 06:17]"
+ },
+ "2026-07-18": {
+  "hk": [
+   [
+    "紅磡露宿婆婆疑遭淋煙灰水",
+    "目擊者報警揭發，其後獲當局安排送院檢查",
+    "星島",
+    "https://www.stheadline.com/breaking-news/3595029/紅磡露宿婆婆區議員形容婆婆為人內斂執著-今獲當局安排送院檢查",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "瑪麗醫院病房辦婚禮",
+    "病重血癌母親病房見證愛女出嫁，醫護助統籌",
+    "星島",
+    "https://www.stheadline.com/society/3594928/瑪麗醫院病房化身婚禮現場-病重母親見證愛女出嫁-醫護助統籌婚禮",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "書展2026 書商稱人流減",
+    "市民嘆有獨立書店無法參展，選擇少失色",
+    "香港01",
+    "https://www.hk01.com/社會新聞/60371225/書展2026-書商稱人流減-市民嘆有獨立書店無法參展-選擇少失色",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "網約車規管在即 滴滴加碼攻港",
+    "消息指將延長優惠兼為司機買保險",
+    "香港01",
+    "https://www.hk01.com/財經快訊/60274590/網約車規管在即-滴滴出行加碼攻港-消息-將延長優惠兼買保險",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "宏福苑 吸煙投訴部門互「轉介」",
+    "勞工處消防處互轉介被質疑，勞處終認管轄",
+    "香港01",
+    "https://www.hk01.com/社會新聞/60342226/宏福苑-吸煙投訴勞工處消防處互-轉介-被質疑-勞處終認其管轄",
+    "2026-07-18",
+    "",
+    ""
+   ]
+  ],
+  "cn": [
+   [
+    "南方水災持續 46河超警",
+    "罕見7預警齊發，多省洪澇未止",
+    "看中國",
+    "https://www.secretchina.com/news/b5/2026/07/14/1101990.html",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "政治局會議認形勢嚴峻",
+    "官方罕有承認極端天氣頻發、防汛吃力",
+    "大紀元",
+    "https://www.epochtimes.com/gb/26/7/2/n14801889.htm",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "洪災言論網民恐被拘",
+    "轉發批評救災帖文者傳遭警方帶走",
+    "大紀元",
+    "https://www.epochtimes.com/gb/26/7/15/n14809865.htm",
+    "2026-07-18",
+    "",
+    ""
+   ]
+  ],
+  "us": [
+   [
+    "特朗普黃金時段全國演講",
+    "重提2020大選「被竊」，質疑選舉合法性",
+    "Post-Gazette",
+    "https://www.post-gazette.com/news/politics-nation/2026/07/17/trump-primetime-speech-elections/stories/202607170035",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "美股科技股重挫 納指挫1.47%",
+    "SK海力士ADR瀉13.6%，晶片股拖累",
+    "香港01",
+    "https://www.hk01.com/財經快訊/60370755/美股-道指收跌105點-納指挫1-47-sk海力士adr瀉13-6",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "眾院通過5億美元對台軍援",
+    "國防撥款案編列，反制中共威脅",
+    "世界新聞網",
+    "https://www.worldjournal.com/wj/story/121220/8885750",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "DHS終結留學生D/S身份效期",
+    "F-1/J-1停留設上限，半世紀制度取消",
+    "世界新聞網",
+    "https://www.worldjournal.com/wj/story/121469/9632997",
+    "2026-07-18",
+    "",
+    ""
+   ]
+  ],
+  "tw": [
+   [
+    "台積電法說後台股重挫逾2000點",
+    "創史上次高跌點，權值股慘綠",
+    "聯合新聞網",
+    "https://udn.com/news/story/7251/9633675",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "藍議員李傅中武涉詐助理費977萬",
+    "找岳母當人頭，家族共7人遭北檢起訴",
+    "自由時報",
+    "https://news.ltn.com.tw/news/society/breakingnews/5508259",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "金門海漂豬驗出非洲豬瘟",
+    "今年首例，豬肉製品7天禁運本島",
+    "聯合新聞網",
+    "https://udn.com/news/story/7266/9632458",
+    "2026-07-18",
+    "",
+    ""
+   ]
+  ],
+  "war": [
+   [
+    "美軍公布第七晚打擊目標",
+    "連7晚空襲，伊朗報復性攻擊波灣多國",
+    "大紀元",
+    "https://www.epochtimes.com/gb/26/7/18/n14811860.htm",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "伊朗指美打擊關鍵民用基建",
+    "戰事升級，多處基礎設施受損",
+    "Al Jazeera",
+    "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "美擊海水淡化廠 約1萬人斷水",
+    "霍爾木茲甘省逾20村落供水中斷",
+    "Yenişafak",
+    "https://en.yenisafak.com/world/us-strike-on-iranian-desalination-plant-leaves-10000-without-water-3720957",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "伊朗再襲科威特第二座水電廠",
+    "報復連夜美軍空襲，波及海灣鄰國",
+    "The National",
+    "https://www.thenationalnews.com/news/gulf/2026/07/18/iran-hits-second-power-and-water-plant-in-kuwait-after-another-night-of-us-strikes/",
+    "2026-07-18",
+    "",
+    ""
+   ],
+   [
+    "阿巴斯港、橋樑、鐵路連遇襲",
+    "美軍鎖伊朗南部交通命脈，切斷後勤",
+    "看中國",
+    "https://www.secretchina.com/news/b5/2026/07/17/1102139.html",
+    "2026-07-18",
+    "",
+    ""
+   ]
+  ],
+  "track": [
+   [
+    "美伊戰爭（2026）",
+    "持續升級",
+    "6月中停火 → 7月破裂 → 連續7晚空襲，戰火深入內陸"
+   ],
+   [
+    "台·李傅中武涉詐助理費977萬",
+    "已起訴",
+    "家族7人遭檢方起訴，待開庭"
+   ],
+   [
+    "中·南方水災",
+    "災情中",
+    "46河超警、7預警齊發，政治局認形勢嚴峻"
+   ],
+   [
+    "港·露宿婆婆遭淋煙灰水",
+    "發生",
+    "待跟進是否報案／有無被捕"
+   ]
+  ],
+  "_updated": "[18/07/2026 Sat 23:06]"
+ },
+ "2026-07-19": {
+  "hk": [
+   [
+    "美國終止涉港「國家緊急狀態」命令",
+    "美稱無恢復香港特殊經貿及自治地位，夏寶龍李家超等制裁持續",
+    "大紀元",
+    "https://www.epochtimes.com/gb/26/7/18/n14812052.htm",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "長沙灣道地盤升降機疑急墜",
+    "兩工人腿部受傷被困，消防升雲梯救出送院",
+    "香港01",
+    "https://www.hk01.com/article/60371136",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "屯門公路近油柑頭貨車自炒翻側 2傷",
+    "急凍腸手推車散落一地，往九龍方向交通擠塞",
+    "香港01",
+    "https://www.hk01.com/article/60371178",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "紅磡露宿婆婆疑遭淋煙灰水欺凌",
+    "社署等安排送院檢查，區議員促警方嚴正跟進",
+    "香港01",
+    "https://www.hk01.com/article/60371218",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "低壓槽壓境 周末續有大雨雷暴",
+    "天文台料本港持續有驟雨及狂風雷暴",
+    "香港01",
+    "https://www.hk01.com/article/60371160",
+    "2026-07-19",
+    "",
+    ""
+   ]
+  ],
+  "cn": [
+   [
+    "重慶彭水縣特大山體滑坡",
+    "十幾棟居民樓被推入江水，官方通報至少8死；南北洪災續蔓延",
+    "新唐人",
+    "https://www.ntdtv.com/b5/2026/07/18/a104116402.html",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "中共救災被指「擺拍作騷」",
+    "官媒宣傳救援畫面遭網民質疑造假，掩飾真實災情",
+    "看中國",
+    "https://www.secretchina.com/news/b5/2026/07/18/1102155.html",
+    "2026-07-19",
+    "",
+    ""
+   ]
+  ],
+  "us": [
+   [
+    "加拿大野火濃煙「入侵」美國",
+    "川普發怒威脅加徵新關稅，指加方蓄意疏忽",
+    "自由時報",
+    "https://news.ltn.com.tw/news/world/breakingnews/5509620",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "川普推兩大移民改革",
+    "防堵移民濫用福利，收緊申領門檻",
+    "大紀元",
+    "https://www.epochtimes.com/gb/26/7/18/n14811757.htm",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "海外申請綠卡擬收10萬美元保證金",
+    "川普收緊移民政策再出新招",
+    "世界新聞網",
+    "https://www.worldjournal.com/wj/story/121468/9630929",
+    "2026-07-19",
+    "",
+    ""
+   ]
+  ],
+  "tw": [
+   [
+    "美台首例超大額跨境詐欺",
+    "詐騙廣告年收上看70億美元，第一線嘆源頭難斷",
+    "自由時報",
+    "https://news.ltn.com.tw/news/society/breakingnews/5509321",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "民進黨全代會19日登場",
+    "賴清德授19縣市長參選人戰旗，黨職改選牽動權力布局",
+    "自由時報",
+    "https://news.ltn.com.tw/news/politics/breakingnews/5509671",
+    "2026-07-19",
+    "",
+    ""
+   ]
+  ],
+  "war": [
+   [
+    "美軍連7夜狂轟伊朗 川普預告「下周更慘」",
+    "揚言炸電廠、斷橋梁，伊朗反擊區域美軍基地",
+    "壹蘋",
+    "https://news.nextapple.com/international/20260718/347621D3CFB0C6404949D4CE3CED73E3",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "美發動第7波夜襲 雙方互炸基建",
+    "伊朗反擊轟炸科威特發電廠，全面開戰風險飆升",
+    "ETtoday",
+    "https://www.ettoday.net/news/20260718/3203286.htm",
+    "2026-07-19",
+    "",
+    ""
+   ],
+   [
+    "美軍猛炸控制塔、對外橋梁",
+    "戰術有變疑欲奪伊朗港口，重磅炸彈亦大開轟",
+    "Newtalk",
+    "https://newtalk.tw/news/view/2026-07-18/1047911",
+    "2026-07-19",
+    "",
+    ""
+   ]
+  ],
+  "track": [
+   [
+    "美伊戰爭（2026）",
+    "持續升級",
+    "連續7夜空襲；川普預告下周炸電廠斷橋，伊朗反擊區域美軍基地"
+   ],
+   [
+    "台·李傅中武涉詐助理費977萬",
+    "已起訴",
+    "家族7人遭北檢起訴，待開庭（本日無新進展）"
+   ],
+   [
+    "中·2026水災",
+    "災情擴大",
+    "南方水災未止，重慶彭水山體滑坡至少8死"
+   ],
+   [
+    "港·露宿婆婆遭淋煙灰水",
+    "跟進中",
+    "社署安排送院檢查，區議員促警嚴正跟進"
+   ]
+  ],
+  "_updated": "[19/07/2026 Sun 07:30]"
+ },
+ "2026-07-20": {
+  "hk": [
+   [
+    "尖沙咀寶馬「黑玻璃」當場拘捕",
+    "截查揭司機已被停牌，警員起疑揭發",
+    "香港01",
+    "https://www.hk01.com/突發/60371322/",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "尖沙咀中年漢大鬧堵路遭制服",
+    "4名警員合力按地拘捕，交通一度受阻",
+    "香港01",
+    "https://www.hk01.com/突發/60371310/",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "西營盤兩的士相撞波及巴士",
+    "「小露寶」小巴翻側，司機被困受傷",
+    "香港01",
+    "https://www.hk01.com/突發/60371328/",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "筲箕灣停水逾20小時",
+    "水務署指早上10時48分已恢復供水",
+    "香港01",
+    "https://www.hk01.com/突發/60371640/",
+    "2026-07-20 11:32",
+    "",
+    ""
+   ],
+   [
+    "周一返工注意 黃雨一度生效",
+    "天文台料驟雨雷暴，部分地區雨勢較大",
+    "香港01",
+    "https://www.hk01.com/天氣/60371348/",
+    "2026-07-20 07:10",
+    "",
+    ""
+   ],
+   [
+    "天文台料低壓區菲律賓發展",
+    "下周移向廣東西部，市民需留意打風",
+    "香港01",
+    "https://www.hk01.com/天氣/60371247/",
+    "2026-07-20",
+    "",
+    ""
+   ]
+  ],
+  "cn": [
+   [
+    "中國Q2 GDP增4.3% 遜官方目標",
+    "私人投資暴跌8.5%、房地產崩18%，內需冰封",
+    "大紀元",
+    "https://www.epochtimes.com/gb/26/7/19/n14812308.htm",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "吉林黑龍江多地遭洪災",
+    "水庫開閘洩洪釀災，淒慘視頻曝光",
+    "看中國",
+    "https://www.secretchina.com/news/b5/2026/07/19/1102226.html",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "湖南破特大盜採稀土案",
+    "設瞭望哨配對講機通風報信，9人當庭認罪",
+    "香港01",
+    "https://www.hk01.com/即時中國/60371615/",
+    "2026-07-20",
+    "",
+    ""
+   ]
+  ],
+  "us": [
+   [
+    "川普公開文件指中共干預美國大選",
+    "稱竊2.22億選民資料，質疑習9月訪美",
+    "看中國",
+    "https://www.secretchina.com/news/b5/2026/07/19/1102228.html",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "世界盃決賽 西班牙加時挫阿根廷",
+    "費倫托利斯奠勝，10人阿根廷飲恨紐約",
+    "香港01",
+    "https://www.hk01.com/即時體育/60371530/",
+    "2026-07-20 05:00",
+    "",
+    ""
+   ],
+   [
+    "川普夫婦紐約觀戰頒獎",
+    "2026美加墨世足壓軸，成場邊焦點",
+    "聯合新聞網",
+    "https://udn.com/news/story/123107/9638116",
+    "2026-07-20 05:30",
+    "",
+    ""
+   ]
+  ],
+  "tw": [
+   [
+    "賴清德全代會批中共「紅色恐怖」",
+    "批《民族團結進步法》，誓不讓台灣變「中國台灣」",
+    "自由時報",
+    "https://news.ltn.com.tw/news/politics/breakingnews/5510450",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "賴清德率19縣市長參選人誓師",
+    "頒3「軍令」主打加薪、減稅、增福利",
+    "自由時報",
+    "https://news.ltn.com.tw/news/politics/breakingnews/5510474",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "台股反彈 台積電漲20元",
+    "指數漲251點至42922，暴跌後喘定",
+    "ETtoday",
+    "https://finance.ettoday.net/news/3204142",
+    "2026-07-20",
+    "",
+    ""
+   ]
+  ],
+  "war": [
+   [
+    "美軍連續第8晚空襲伊朗",
+    "伊朗還火波灣美軍基地，戰事未見盡頭",
+    "Al Jazeera",
+    "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "伊朗轟駐約旦美軍基地 2死",
+    "4傷1失蹤，美出動數百戰機報復空襲",
+    "Newtalk",
+    "https://newtalk.tw/news/view/2026-07-19/1048044",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "2美兵陣亡後美軍空襲革命衛隊",
+    "「迅速懲罰」，荷莫茲海峽多地傳爆炸",
+    "ETtoday",
+    "https://www.ettoday.net/news/20260719/3203717.htm",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "伊朗襲海灣盟友 科威特電廠起火",
+    "第二座水電設施中招，海灣多國防空警報",
+    "Al Jazeera",
+    "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies",
+    "2026-07-20",
+    "",
+    ""
+   ],
+   [
+    "7月美襲累計50死 伊朗暗示MoU暫停",
+    "批美打擊民用基建，停火備忘錄名存實亡",
+    "Al Jazeera",
+    "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
+    "2026-07-20",
+    "",
+    ""
+   ]
+  ],
+  "track": [
+   [
+    "美伊戰爭（2026）",
+    "急劇升級",
+    "第8夜；駐約旦美軍2死、科威特電廠起火；7月累計50死，伊朗暗示停火MoU暫停"
+   ],
+   [
+    "中·2026水災",
+    "災情北移",
+    "吉林黑龍江洪災，水庫洩洪釀災"
+   ],
+   [
+    "中·2026經濟",
+    "數據轉差",
+    "Q2 GDP增4.3%遜目標，私人投資暴跌、樓市崩"
+   ],
+   [
+    "美中·中共干預美國大選",
+    "文件公開",
+    "川普指中共竊2.22億選民資料，質疑習訪美"
+   ],
+   [
+    "台·李傅中武涉詐助理費977萬",
+    "已起訴",
+    "家族7人遭北檢起訴，待開庭（無新進展）"
+   ],
+   [
+    "港·露宿婆婆遭淋煙灰水",
+    "跟進中",
+    "社署安排送院檢查，未有被捕消息"
+   ]
+  ],
+  "_updated": "[20/07/2026 Mon 22:47]"
+ }
 };
 const SEC=[["hk","🇭🇰 香港 · 社會民生"],["cn","🇨🇳 中國大陸"],["us","🇺🇸 美國"],["tw","🇹🇼 台灣"],["war","🔥 專題 · 美伊戰爭（2026）"]];
 const WD=["日","一","二","三","四","五","六"];
 const pad=n=>String(n).padStart(2,"0");
-function todayHK(){const s=new Date().toLocaleString("en-CA",{timeZone:"Asia/Hong_Kong",year:"numeric",month:"2-digit",day:"2-digit"});return s.slice(0,10);}
+const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+function todayHK(){return new Date().toLocaleString("en-CA",{timeZone:"Asia/Hong_Kong",year:"numeric",month:"2-digit",day:"2-digit"}).slice(0,10);}
 const TODAY=todayHK();
 const keys=Object.keys(DB).sort();
 let selDate=DB[TODAY]?TODAY:(keys[keys.length-1]||TODAY);
 let viewY=+selDate.slice(0,4),viewM=+selDate.slice(5,7);
+function card(it){
+  const t=it[0],de=it[1],src=it[2],url=it[3],pub=it[4]||"",upd=it[5]||"",img=it[6]||"";
+  const thumb=img?('<div class="thumb"><img loading="lazy" src="'+esc(img)+'" onerror="this.parentNode.classList.add(\'ph\');this.remove();this.parentNode.innerHTML=\'<span>'+esc(src)+'</span>\'"></div>'):('<div class="thumb ph"><span>'+esc(src)+'</span></div>');
+  const times='🕒 發放：'+esc(pub)+(upd?' ｜ 更新：'+esc(upd):'');
+  return '<a class="card" href="'+esc(url)+'" target="_blank" rel="noopener">'+thumb+
+    '<div class="cbody"><div class="ctitle">'+esc(t)+'</div><div class="cmeta">'+times+'</div><div class="cdesc">'+esc(de)+'</div><div class="csrc">'+esc(src)+'</div></div></a>';
+}
 function renderNews(dd){
   const box=document.getElementById("news");
   const data=DB[dd];
   const dt=new Date(dd+"T00:00:00");
   document.getElementById("curDate").textContent=dd.slice(0,4)+"年"+(+dd.slice(5,7))+"月"+(+dd.slice(8,10))+"日（週"+WD[dt.getDay()]+"）· 香港時間";
-  const upd=document.getElementById("curUpd");
-  upd.textContent=data&&data._updated?("最後更新："+data._updated):"";
-  if(!data){box.innerHTML='<div class="empty">呢日暗時未有新聞紀錄 🗒️</div>';return;}
+  document.getElementById("curUpd").textContent=data&&data._updated?("最後更新："+data._updated):"";
+  if(!data){box.innerHTML='<div class="empty">呢日暫時未有新聞紀錄 🗒️</div>';return;}
   let h="";
   for(const [k,title] of SEC){
     const arr=data[k]||[];if(!arr.length)continue;
-    h+='<section class="'+k+'"><h2>'+title+'</h2>';
-    for(const it of arr){
-      const t=it[0],de=it[1],src=it[2],url=it[3],pub=it[4]||"",upd=it[5]||"";
-      h+='<div class="item"><div class="t">'+t+'</div>';
-      h+='<div class="meta"><span class="pub">🕒 發放：'+pub+(upd?' ｜ 更新：'+upd:'')+'</span></div>';
-      h+='<div class="d">'+de+' · <a class="src" href="'+url+'" target="_blank" rel="noopener">'+src+'</a></div></div>';
-    }
-    h+='</section>';
+    h+='<div class="sec '+k+'"><h2>'+title+'</h2><div class="cards">'+arr.map(card).join("")+'</div></div>';
   }
   if((data.track||[]).length){
-    h+='<section class="track"><h2>🧭 事件追蹤（持續更新）</h2>';
-    for(const r of data.track){h+='<div class="row"><b>'+r[0]+'</b><span class="badge">'+r[1]+'</span><br><span class="d" style="color:var(--muted);font-size:14px">'+r[2]+'</span></div>';}
-    h+='</section>';
+    h+='<div class="track"><h2>🧭 事件追蹤（持續更新）</h2>';
+    for(const r of data.track){h+='<div class="trow"><b>'+esc(r[0])+'</b><span class="badge">'+esc(r[1])+'</span><div class="tnote">'+esc(r[2])+'</div></div>';}
+    h+='</div>';
   }
   box.innerHTML=h;
 }
@@ -758,14 +903,11 @@ function renderCal(){
   const first=new Date(viewY,viewM-1,1).getDay();
   const days=new Date(viewY,viewM,0).getDate();
   for(let i=0;i<first;i++)h+="<div></div>";
-  for(let dnum=1;dnum<=days;dnum++){
-    const key=viewY+"-"+pad(viewM)+"-"+pad(dnum);
-    const cls=["day"];
-    if(DB[key])cls.push("has");
-    if(key===selDate)cls.push("sel");
-    if(key===TODAY)cls.push("today");
+  for(let dn=1;dn<=days;dn++){
+    const key=viewY+"-"+pad(viewM)+"-"+pad(dn);
+    const cls=["day"];if(DB[key])cls.push("has");if(key===selDate)cls.push("sel");if(key===TODAY)cls.push("today");
     const click=DB[key]?" onclick=\"pick('"+key+"')\"":"";
-    h+='<div class="'+cls.join(" ")+'"'+click+'>'+dnum+"</div>";
+    h+='<div class="'+cls.join(" ")+'"'+click+'>'+dn+"</div>";
   }
   grid.innerHTML=h;
 }
