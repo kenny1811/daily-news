@@ -20,7 +20,8 @@ catch (e) { console.error("✖ 內嵌 script 編譯失敗: " + e.message); proce
 
 const G = ["hks", "hkl", "hke", "hkp", "cn", "us", "tw", "war"];
 const NAME = { hks: "香港社會", hkl: "民生", hke: "經濟", hkp: "政治", cn: "中國", us: "美國", tw: "台灣", war: "美伊戰爭" };
-const MIN = 3;                      // 每組最少條數
+// 每組最少條數：社會／民生規格係 8 條，其餘最少 3 條
+const MINS = { hks: 8, hkl: 8, hke: 3, hkp: 3, cn: 3, us: 3, tw: 3, war: 3 };
 const HK = ["hks", "hkl", "hke", "hkp"];
 // 24 小時窗：發放時間唔可以早過 date 前一日 00:00
 const prev = new Date(date + "T00:00:00Z"); prev.setUTCDate(prev.getUTCDate() - 1);
@@ -29,7 +30,7 @@ const FLOOR = prev.toISOString().slice(0, 10) + " 00:00";
 const bad = [];
 G.forEach(k => {
   const a = d[k] || [];
-  if (a.length < MIN) bad.push(`${NAME[k]}(${k}) 只有 ${a.length} 條（最少 ${MIN}）`);
+  if (a.length < MINS[k]) bad.push(`${NAME[k]}(${k}) 只有 ${a.length} 條（要 ${MINS[k]} 條）`);
   const srcs = new Set(a.map(x => x[2]));
   if (a.length >= 3 && srcs.size < 2) bad.push(`${NAME[k]}(${k}) 100% 單一來源：${[...srcs].join("/")}`);
   const urls = new Set();
