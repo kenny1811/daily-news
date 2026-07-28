@@ -1,0 +1,7 @@
+# Keep every file byte-identical across platforms.
+#
+# Why: tools/selfcheck.js matches /const DB = ...;\n/ on index.html.
+# With git's default core.autocrlf=true on Windows, checkout rewrites LF to
+# CRLF, the file becomes ";\r\n", the regex fails, and selfcheck wrongly
+# reports "cannot find const DB". Disabling text conversion keeps LF.
+* -text
