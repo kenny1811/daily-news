@@ -62,8 +62,8 @@ all.forEach(([k, u]) => { if (seen[u]) bad.push(`跨組重複連結：${seen[u]}
   if (!b.t || b.t.length < 200) bad.push(`${n}簡報太短（${(b.t || "").length} 字，要 ~300）`);
   if (!/^https:\/\/\S+/.test(b.img || "")) bad.push(`${n}簡報冇插圖`);
   if (!Array.isArray(b.src) || b.src.length < 2) bad.push(`${n}簡報來源少過 2 個`);
-  // 簡報改成隔日更新：upd 係今日或者尋日都收貨，再舊就 fail
-  if (b.upd !== date && b.upd !== FLOOR.slice(0, 10)) bad.push(`${n}簡報 upd=${b.upd}，超過兩日冇更新（今日 ${date}）`);
+  // 簡報每日更新：upd 一定要係今日
+  if (b.upd !== date) bad.push(`${n}簡報 upd=${b.upd}，唔係今日 ${date}（即係冇更新過）`);
   if (b.t && !/[一-鿿]/.test(b.t)) bad.push(`${n}簡報唔係中文`);
 });
 
