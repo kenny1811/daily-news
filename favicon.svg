@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <clipPath id="r"><rect x="0" y="0" width="64" height="64" rx="11" ry="11"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="64" height="64" fill="#f4f1e8"/>
+    <!-- masthead -->
+    <rect x="0" y="0" width="64" height="19" fill="#0d1117"/>
+    <rect x="0" y="19" width="64" height="3" fill="#f0883e"/>
+    <!-- masthead rules -->
+    <rect x="7"  y="7"  width="50" height="3" rx="1.5" fill="#f4f1e8"/>
+    <rect x="17" y="12.5" width="30" height="2" rx="1" fill="#8b949e"/>
+    <!-- photo block -->
+    <rect x="7" y="28" width="20" height="17" rx="2" fill="#0d1117"/>
+    <!-- columns -->
+    <rect x="31" y="28" width="26" height="3" rx="1.5" fill="#0d1117"/>
+    <rect x="31" y="35" width="26" height="3" rx="1.5" fill="#5b626d"/>
+    <rect x="31" y="42" width="18" height="3" rx="1.5" fill="#5b626d"/>
+    <rect x="7"  y="50" width="50" height="3" rx="1.5" fill="#5b626d"/>
+  </g>
+</svg>
