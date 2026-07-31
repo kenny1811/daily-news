@@ -4,7 +4,9 @@
 // exit 0 = 通過可以 push；exit 1 = 有問題，唔准 push，要修好再跑
 const fs = require("fs");
 const date = process.argv[2];
-if (!date) { console.error("用法: node tools/selfcheck.js YYYY-MM-DD"); process.exit(1); }
+const mode = (process.argv[3] || "am").toLowerCase();   // am = 朝早版(05:45)，pm = 晚間版(18:00)
+if (!date) { console.error("用法: node tools/selfcheck.js YYYY-MM-DD [am|pm]"); process.exit(1); }
+if (!["am", "pm"].includes(mode)) { console.error("第二個參數只可以係 am 或 pm"); process.exit(1); }
 
 const html = fs.readFileSync("index.html", "utf8");
 const m = html.match(/const DB = ([\s\S]*?);\n/);
@@ -23,11 +25,20 @@ const NAME = { hks: "香港社會", hkl: "民生", hke: "經濟", hkp: "政治",
 // 每組最少條數：社會／民生規格係 8 條，其餘最少 3 條
 const MINS = { hks: 8, hkl: 8, hke: 3, hkp: 3, cn: 3, us: 3, tw: 3, war: 3 };
 const HK = ["hks", "hkl", "hke", "hkp"];
-// 24 小時窗：發放時間唔可以早過 date 前一日 00:00
+// 一日兩版之後改用 12 小時窗（留 3 鐘頭鬆動位，硬底線 15 鐘頭）
+// am（朝早 05:45 出）：收前一晚 18:00 起嘅料，硬底線 = 前一日 15:00
+// pm（晚間 18:00 出）：收今朝 06:00 起嘅料，硬底線 = 今日 03:00
 const prev = new Date(date + "T00:00:00Z"); prev.setUTCDate(prev.getUTCDate() - 1);
-const FLOOR = prev.toISOString().slice(0, 10) + " 00:00";
+const prevDay = prev.toISOString().slice(0, 10);
+// 香港組料多，收得緊；國際組中文料少，硬底線放鬆到 24 小時
+const FLOOR_HK  = mode === "pm" ? date + " 03:00"     : prevDay + " 15:00";
+const FLOOR_INT = mode === "pm" ? prevDay + " 18:00"  : prevDay + " 00:00";
+const WANT      = mode === "pm" ? date + " 06:00"     : prevDay + " 18:00";
+const HKG = ["hks", "hkl", "hke", "hkp"];
+const floorOf = k => HKG.includes(k) ? FLOOR_HK : FLOOR_INT;
 
 const bad = [];
+const warn = [];
 G.forEach(k => {
   const a = d[k] || [];
   if (a.length < MINS[k]) bad.push(`${NAME[k]}(${k}) 只有 ${a.length} 條（要 ${MINS[k]} 條）`);
@@ -44,7 +55,8 @@ G.forEach(k => {
     if (/^https?:\/\/[^\/]+\/?$/.test(x[3] || "")) bad.push(`${tag} 用咗首頁／列表頁做連結`);
     if (urls.has(x[3])) bad.push(`${tag} 同組內重複連結`); else urls.add(x[3]);
     if (!x[4]) bad.push(`${tag} 冇發放時間`);
-    else if (x[4] < FLOOR) bad.push(`${tag} 發放時間超出 24 小時窗：${x[4]}`);
+    else if (x[4] < floorOf(k)) bad.push(`${tag} 發放時間超出時間窗（硬底線 ${floorOf(k)}）：${x[4]}`);
+    else if (x[4] < WANT) warn.push(`${tag} 早過 12 小時窗（想要 ${WANT} 之後）：${x[4]}`);
     if (!/^https:\/\/\S+/.test(x[6] || "")) bad.push(`${tag} 冇插圖 og:image`);
   });
 });
@@ -71,10 +83,14 @@ if (!Array.isArray(d.track) || d.track.length < 3) bad.push(`事件追蹤只有 
 if (!d._updated) bad.push("_updated 冇填");
 if (!fs.existsSync("archive/" + date.replace(/-/g, "") + ".html")) bad.push("冇寫 archive 快照");
 
-console.log("── 自檢報告 " + date + " ──");
+console.log("── 自檢報告 " + date + "（" + (mode === "pm" ? "晚間版" : "朝早版") + "，12小時窗 " + WANT + " 起）──");
 console.log(G.map(k => `${NAME[k]}=${(d[k] || []).length}`).join("｜"));
 console.log(`事件追蹤=${(d.track || []).length}｜AI簡報=${((d.ai || {}).t || "").length}字｜美伊簡報=${((d.warb || {}).t || "").length}字`);
 console.log(`總卡數=${all.length}｜缺圖=${all.filter(([k, u]) => 0).length}`);
+if (warn.length) {
+  console.log("\n⚠ 提提你（唔會 fail，但盡量換返新料）共 " + warn.length + " 項：");
+  warn.forEach(x => console.log("  • " + x));
+}
 if (bad.length) {
   console.log("\n✖ 唔合格，共 " + bad.length + " 項問題：");
   bad.forEach(x => console.log("  • " + x));
