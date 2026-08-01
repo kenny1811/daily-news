@@ -123,10 +123,11 @@ const keys=Object.keys(DB).sort();
 let selDate=DB[TODAY]?TODAY:(keys[keys.length-1]||TODAY);
 let viewY=+selDate.slice(0,4),viewM=+selDate.slice(5,7);
 let curTab="news";
+function fmtT(s){s=String(s||"");var m=s.match(/^(\d{4})-(\d{2})-(\d{2})[T ](\d{2}):(\d{2})(?::(\d{2}))?/);return m?m[3]+"/"+m[2]+"/"+m[1]+" "+m[4]+":"+m[5]+":"+(m[6]||"00"):s;}
 function card(it){
   const t=it[0],de=it[1],src=it[2],url=it[3],pub=it[4]||"",upd=it[5]||"",img=it[6]||"";
   const thumb=img?('<div class="thumb"><img loading="lazy" src="'+esc(img)+'" onerror="this.onerror=null;var p=this.parentNode;p.classList.add(\\'ph\\');p.innerHTML=\\'<span>'+esc(src)+'</span>\\'"></div>'):('<div class="thumb ph"><span>'+esc(src)+'</span></div>');
-  const times='🕒 發放：'+esc(pub)+(upd?' ｜ 更新：'+esc(upd):'');
+  const times='🕒 發放：'+esc(fmtT(pub))+(upd?' ｜ 更新：'+esc(fmtT(upd)):'');
   return '<a class="card" href="'+esc(url)+'" target="_blank" rel="noopener">'+thumb+'<div class="cbody"><div class="ctitle">'+esc(t)+'</div><div class="cmeta">'+times+'</div><div class="cdesc">'+esc(de)+'</div><div class="csrc">'+esc(src)+'</div></div></a>';
 }
 function renderNews(dd){
