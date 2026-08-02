@@ -36,7 +36,8 @@ const HK = ["hks", "hkl", "hke", "hkp"];
 const prev = new Date(date + "T00:00:00Z"); prev.setUTCDate(prev.getUTCDate() - 1);
 const prevDay = prev.toISOString().slice(0, 10);
 // 香港組料多，收得緊；國際組中文料少，硬底線放鬆到 24 小時
-const FLOOR_HK  = mode === "pm" ? date + " 03:00"     : prevDay + " 15:00";
+// 2026-08-02 用戶追加：晚報香港組唔准出今朝 06:00 之前嘅料（嗰啲係早報範圍），所以硬底線＝06:00 冇鬆動位
+const FLOOR_HK  = mode === "pm" ? date + " 06:00"     : prevDay + " 15:00";
 const FLOOR_INT = mode === "pm" ? prevDay + " 18:00"  : prevDay + " 00:00";
 const WANT      = mode === "pm" ? date + " 06:00"     : prevDay + " 18:00";
 const HKG = ["hks", "hkl", "hke", "hkp"];
