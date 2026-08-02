@@ -9,7 +9,7 @@
 <link rel="shortcut icon" href="/daily-news/favicon.ico">
 <link rel="apple-touch-icon" href="/daily-news/apple-touch-icon.png">
 <meta name="theme-color" content="#0d1117">
-<title>每日新聞 · 目錄</title>
+<title>門前直樹每日新聞 · 目錄</title>
 <style>
   :root{--bg:#0d1117;--card:#161b22;--border:#242c38;--txt:#e6edf3;--muted:#8b949e;--accent:#58a6ff;--hk:#f0883e;--cn:#f85149;--us:#3fb950;--tw:#d2a8ff;--war:#ff7b72}
   *{box-sizing:border-box}
@@ -94,7 +94,7 @@
       <div class="tab" id="tab-war" onclick="setTab('war')">🔥 美伊戰爭</div>
     </div>
     <div id="panel"></div>
-    <footer>每日新聞 · 目錄頁</footer>
+    <footer>門前直樹每日新聞 · 目錄頁</footer>
   </div>
 </div>
 <script>
@@ -121,7 +121,7 @@ function renderNews(dd){
   let h="";
   if(!data){document.getElementById("panel").innerHTML='<div class="empty">呢日暫時未有新聞紀錄 🗒️</div>';return;}
   const dt=new Date(dd+"T00:00:00");
-  h+='<header><h1>📰 每日新聞</h1><div class="date">'+dd.slice(0,4)+"年"+(+dd.slice(5,7))+"月"+(+dd.slice(8,10))+"日（週"+WD[dt.getDay()]+"）· 香港時間</div>";
+  h+='<header><h1>📰 門前直樹每日新聞</h1><div class="date">'+dd.slice(0,4)+"年"+(+dd.slice(5,7))+"月"+(+dd.slice(8,10))+"日（週"+WD[dt.getDay()]+"）· 香港時間</div>";
   h+='<div class="row2"><span class="win">涵蓋過去 24 小時內最新新聞</span>'+(data._updated?'<span class="upd">最後更新：'+esc(data._updated)+'</span>':'')+'</div></header>';
   for(const [k,title] of SEC){
     const arr=data[k]||[];if(!arr.length)continue;
