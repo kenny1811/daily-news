@@ -35,10 +35,12 @@ const HK = ["hks", "hkl", "hke", "hkp"];
 // pm（晚間 18:00 出）：收今朝 06:00 起嘅料，硬底線 = 今日 03:00
 const prev = new Date(date + "T00:00:00Z"); prev.setUTCDate(prev.getUTCDate() - 1);
 const prevDay = prev.toISOString().slice(0, 10);
-// 香港組料多，收得緊；國際組中文料少，硬底線放鬆到 24 小時
-// 2026-08-02 用戶追加：晚報香港組唔准出今朝 06:00 之前嘅料（嗰啲係早報範圍），所以硬底線＝06:00 冇鬆動位
+// 2026-08-02 用戶追加（兩條）：
+//  ① 晚報香港組唔准出今朝 06:00 之前嘅料（嗰啲係早報範圍），硬底線＝06:00 冇鬆動位
+//  ② 國際組唔再放寬到 24 小時：來源乜嘢語言都得（英文／阿拉伯文／日文…），出稿時自己譯做中文，
+//     所以「中文料少」唔再係出舊料嘅理由。國際組硬底線同香港組睇齊。
 const FLOOR_HK  = mode === "pm" ? date + " 06:00"     : prevDay + " 15:00";
-const FLOOR_INT = mode === "pm" ? prevDay + " 18:00"  : prevDay + " 00:00";
+const FLOOR_INT = FLOOR_HK;
 const WANT      = mode === "pm" ? date + " 06:00"     : prevDay + " 18:00";
 const HKG = ["hks", "hkl", "hke", "hkp"];
 const floorOf = k => HKG.includes(k) ? FLOOR_HK : FLOOR_INT;
