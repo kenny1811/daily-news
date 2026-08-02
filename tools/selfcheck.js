@@ -81,6 +81,36 @@ if (other && mode === "pm") {
   if (dup.length) bad.push(...dup);
 }
 
+// 同一單事跨來源撞卡（用戶 2026-08-02 定案：同一單新聞一律只留一條，唔理係咪唔同來源）
+// URL 去重捉唔到（hk01 同星島各出一篇），所以用標題＋撮要嘅罕見二字詞重疊做偵測。
+// 只出 ⚠ 提示，唔 fail —— 機械判斷有機會誤殺，留返俾出稿嗰個 session 自己睇。
+const STOPG = new Set(("警方,調查,被捕,送院,身亡,不治,死亡,事件,現場,消防,救護,男子,女子,涉嫌,拘捕,案件,昨日,今日,香港," +
+  "政府,表示,指出,相關,包括,目標,問題,影響,市民,發生,一名,兩名,傷者,證實,回應,批次,實用,司機,車撞,投票," +
+  "恢復,暫停,繼續,報復,美軍,威脅,打擊,共和,和黨,一房,警告,美元,服務,宣布").split(","));
+function gramsOf(x) {
+  const out = new Set();
+  [x[0], x[1]].forEach(s => {
+    String(s || "").split(/[^一-鿿0-9A-Za-z]+/).filter(Boolean).forEach(seg => {
+      if (/^[0-9A-Za-z]+$/.test(seg)) { if (seg.length >= 3) out.add(seg.toLowerCase()); return; }
+      for (let i = 0; i + 2 <= seg.length; i++) {
+        const g = seg.slice(i, i + 2);
+        if (!STOPG.has(g) && !/[0-9]/.test(g)) out.add(g);
+      }
+    });
+  });
+  return out;
+}
+{
+  const cards = [];
+  G.forEach(k => (d[k] || []).forEach((x, i) => cards.push({ tag: `${NAME[k]}[${i}]`, t: x[0], g: gramsOf(x) })));
+  const df = {};
+  cards.forEach(c => c.g.forEach(g => df[g] = (df[g] || 0) + 1));
+  for (let a = 0; a < cards.length; a++) for (let b = a + 1; b < cards.length; b++) {
+    const sh = [...cards[a].g].filter(g => cards[b].g.has(g) && df[g] <= 2);
+    if (sh.length >= 3) warn.push(`疑似同一單事：${cards[a].tag}「${cards[a].t}」⟷ ${cards[b].tag}「${cards[b].t}」（共通詞：${sh.join("、")}）→ 只留最新最全嗰條，另一條換第二單`);
+  }
+}
+
 // 兩篇簡報
 [["ai", "AI 動向"], ["warb", "美伊戰爭"]].forEach(([k, n]) => {
   const b = d[k];
