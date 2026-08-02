@@ -13,8 +13,13 @@ const m = html.match(/const DB = ([\s\S]*?);\n/);
 if (!m) { console.error("✖ 搵唔到 const DB"); process.exit(1); }
 let db;
 try { db = eval("(" + m[1] + ")"); } catch (e) { console.error("✖ DB 唔係合法 JS: " + e.message); process.exit(1); }
-const d = db[date];
-if (!d) { console.error("✖ DB 冇 " + date + " 呢個 key"); process.exit(1); }
+const day = db[date];
+if (!day) { console.error("✖ DB 冇 " + date + " 呢個 key"); process.exit(1); }
+// 一日兩版：DB[date] = {am:{...}, pm:{...}}；舊日子仍然係單版（平鋪）
+const twoEd = !!(day.am || day.pm);
+const d = twoEd ? day[mode] : day;
+if (!d) { console.error("✖ DB[" + date + "] 冇 " + mode + " 呢版"); process.exit(1); }
+const other = twoEd ? day.am : null;   // 只用嚟查晚報有冇重複早報
 
 // 內嵌 script 必須可以編譯
 try { require("vm").compileFunction(html.match(/<script>([\s\S]*?)<\/script>/)[1]); }
@@ -67,6 +72,15 @@ G.forEach(k => (d[k] || []).forEach(x => all.push([k, x[3]])));
 const seen = {};
 all.forEach(([k, u]) => { if (seen[u]) bad.push(`跨組重複連結：${seen[u]} 同 ${k} 用同一條 ${u}`); else seen[u] = k; });
 
+// 晚報唔准重複早報出過嘅文章（用戶 2026-08-02 定案：以「唔准重複」為硬規則）
+if (other && mode === "pm") {
+  const prevUrls = new Set();
+  G.forEach(k => (other[k] || []).forEach(x => prevUrls.add(x[3])));
+  const dup = [];
+  G.forEach(k => (d[k] || []).forEach(x => { if (prevUrls.has(x[3])) dup.push(`${NAME[k]} 重複咗早報出過嘅：${x[3]}`); }));
+  if (dup.length) bad.push(...dup);
+}
+
 // 兩篇簡報
 [["ai", "AI 動向"], ["warb", "美伊戰爭"]].forEach(([k, n]) => {
   const b = d[k];
@@ -83,10 +97,11 @@ if (!Array.isArray(d.track) || d.track.length < 3) bad.push(`事件追蹤只有 
 if (!d._updated) bad.push("_updated 冇填");
 if (!fs.existsSync("archive/" + date.replace(/-/g, "") + ".html")) bad.push("冇寫 archive 快照");
 
-console.log("── 自檢報告 " + date + "（" + (mode === "pm" ? "晚間版" : "朝早版") + "，12小時窗 " + WANT + " 起）──");
+console.log("── 自檢報告 " + date + "（" + (mode === "pm" ? "晚報" : "早報") + "，12小時窗 " + WANT + " 起）──");
 console.log(G.map(k => `${NAME[k]}=${(d[k] || []).length}`).join("｜"));
 console.log(`事件追蹤=${(d.track || []).length}｜AI簡報=${((d.ai || {}).t || "").length}字｜美伊簡報=${((d.warb || {}).t || "").length}字`);
-console.log(`總卡數=${all.length}｜缺圖=${all.filter(([k, u]) => 0).length}`);
+let noimg = 0; G.forEach(k => (d[k] || []).forEach(x => { if (!x[6]) noimg++; }));
+console.log(`總卡數=${all.length}｜缺圖=${noimg}`);
 if (warn.length) {
   console.log("\n⚠ 提提你（唔會 fail，但盡量換返新料）共 " + warn.length + " 項：");
   warn.forEach(x => console.log("  • " + x));
