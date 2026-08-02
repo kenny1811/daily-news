@@ -45,6 +45,15 @@ const WANT      = mode === "pm" ? date + " 06:00"     : prevDay + " 18:00";
 const HKG = ["hks", "hkl", "hke", "hkp"];
 const floorOf = k => HKG.includes(k) ? FLOOR_HK : FLOOR_INT;
 
+// 禁用來源（交接 doc「內容版塊」嗰節）：東網on.cc、TVB、大公、文匯、中央社／CNA、政府網
+// 08-02 教訓：用咗中央社做台灣卡先發現，自檢捉唔到，所以補呢個 check。
+const BAN = [
+  [/on\.cc/i, "東網 on.cc"], [/東網/, "東網"],
+  [/tvb\.com/i, "TVB"], [/無綫|TVB/i, "TVB"],
+  [/takungpao|大公/i, "大公報"], [/wenweipo|文匯/i, "文匯報"],
+  [/cna\.com\.tw|focustaiwan/i, "中央社／CNA"], [/^中央社$|中央通訊社/, "中央社"],
+  [/\.gov(\.|$)|gov\.hk|gov\.tw|gov\.cn/i, "政府網"],
+];
 const bad = [];
 const warn = [];
 G.forEach(k => {
@@ -66,6 +75,7 @@ G.forEach(k => {
     else if (x[4] < floorOf(k)) bad.push(`${tag} 發放時間超出時間窗（硬底線 ${floorOf(k)}）：${x[4]}`);
     else if (x[4] < WANT) warn.push(`${tag} 早過 12 小時窗（想要 ${WANT} 之後）：${x[4]}`);
     if (!/^https:\/\/\S+/.test(x[6] || "")) bad.push(`${tag} 冇插圖 og:image`);
+    BAN.forEach(([re, n]) => { if (re.test(x[2] || "") || re.test(x[3] || "")) bad.push(`${tag} 用咗禁用來源：${n}（${x[2]}）`); });
   });
 });
 
