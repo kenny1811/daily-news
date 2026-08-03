@@ -19,7 +19,16 @@ if (!day) { console.error("✖ DB 冇 " + date + " 呢個 key"); process.exit(1)
 const twoEd = !!(day.am || day.pm);
 const d = twoEd ? day[mode] : day;
 if (!d) { console.error("✖ DB[" + date + "] 冇 " + mode + " 呢版"); process.exit(1); }
-const other = twoEd ? day.am : null;   // 只用嚟查晚報有冇重複早報
+// 「上一版」＝時間上緊接住嘅前一版：pm 嘅上一版係同日 am；am 嘅上一版係前一日 pm（前一日單版就係佢自己）。
+// 2026-08-03 教訓：本來只查同日 am↔pm，結果 08-03 早報照抄咗 08-02 晚報兩條，完全捉唔到。
+const prevD = new Date(date + "T00:00:00Z"); prevD.setUTCDate(prevD.getUTCDate() - 1);
+const prevKey = prevD.toISOString().slice(0, 10);
+let other = null, otherName = "";
+if (mode === "pm") { other = twoEd ? day.am : null; otherName = "今朝早報"; }
+else {
+  const pd = db[prevKey];
+  if (pd) { other = (pd.am || pd.pm) ? (pd.pm || pd.am) : pd; otherName = "尋晚晚報（" + prevKey + "）"; }
+}
 
 // 內嵌 script 必須可以編譯
 try { require("vm").compileFunction(html.match(/<script>([\s\S]*?)<\/script>/)[1]); }
@@ -75,6 +84,10 @@ G.forEach(k => {
     else if (x[4] < floorOf(k)) bad.push(`${tag} 發放時間超出時間窗（硬底線 ${floorOf(k)}）：${x[4]}`);
     else if (x[4] < WANT) warn.push(`${tag} 早過 12 小時窗（想要 ${WANT} 之後）：${x[4]}`);
     if (!/^https:\/\/\S+/.test(x[6] || "")) bad.push(`${tag} 冇插圖 og:image`);
+    // 2026-08-03 教訓：hk01 CDN 圖一定要帶簽名段，即 .../<id>.jpeg/<hash>[?v=...]。
+    // 淨係抄到 .../<id>.jpeg（冇 hash）就會 403 甩圖，網頁顯示灰底「香港01」。
+    else if (/cdn\.hk01\.com\//.test(x[6]) && !/\.(jpe?g|png|webp)\/[A-Za-z0-9_\-]{10,}/i.test(x[6]))
+      bad.push(`${tag} hk01 圖片 URL 冇簽名段（會甩圖）：${x[6]}`);
     BAN.forEach(([re, n]) => { if (re.test(x[2] || "") || re.test(x[3] || "")) bad.push(`${tag} 用咗禁用來源：${n}（${x[2]}）`); });
   });
 });
@@ -85,12 +98,12 @@ G.forEach(k => (d[k] || []).forEach(x => all.push([k, x[3]])));
 const seen = {};
 all.forEach(([k, u]) => { if (seen[u]) bad.push(`跨組重複連結：${seen[u]} 同 ${k} 用同一條 ${u}`); else seen[u] = k; });
 
-// 晚報唔准重複早報出過嘅文章（用戶 2026-08-02 定案：以「唔准重複」為硬規則）
-if (other && mode === "pm") {
+// 唔准重複「上一版」出過嘅文章（用戶 2026-08-02 定案；2026-08-03 擴展到跨日：早報 vs 尋晚晚報）
+if (other) {
   const prevUrls = new Set();
   G.forEach(k => (other[k] || []).forEach(x => prevUrls.add(x[3])));
   const dup = [];
-  G.forEach(k => (d[k] || []).forEach(x => { if (prevUrls.has(x[3])) dup.push(`${NAME[k]} 重複咗早報出過嘅：${x[3]}`); }));
+  G.forEach(k => (d[k] || []).forEach(x => { if (prevUrls.has(x[3])) dup.push(`${NAME[k]} 重複咗${otherName}出過嘅：${x[3]}`); }));
   if (dup.length) bad.push(...dup);
 }
 
@@ -115,10 +128,14 @@ function gramsOf(x) {
 }
 {
   const cards = [];
-  G.forEach(k => (d[k] || []).forEach((x, i) => cards.push({ tag: `${NAME[k]}[${i}]`, t: x[0], g: gramsOf(x) })));
+  G.forEach(k => (d[k] || []).forEach((x, i) => cards.push({ tag: `${NAME[k]}[${i}]`, t: x[0], g: gramsOf(x), cur: true })));
+  // 2026-08-03 加：連上一版一齊比（早報 vs 尋晚晚報／晚報 vs 今朝早報）。
+  // 同一單事跨版跟進報導 URL 唔同，URL 去重捉唔到，一定要靠詞重疊。
+  if (other) G.forEach(k => (other[k] || []).forEach((x, i) => cards.push({ tag: `${otherName}·${NAME[k]}[${i}]`, t: x[0], g: gramsOf(x), cur: false })));
   const df = {};
   cards.forEach(c => c.g.forEach(g => df[g] = (df[g] || 0) + 1));
   for (let a = 0; a < cards.length; a++) for (let b = a + 1; b < cards.length; b++) {
+    if (!cards[a].cur && !cards[b].cur) continue;          // 兩張都係舊版嘅唔關事
     const sh = [...cards[a].g].filter(g => cards[b].g.has(g) && df[g] <= 2);
     if (sh.length >= 3) warn.push(`疑似同一單事：${cards[a].tag}「${cards[a].t}」⟷ ${cards[b].tag}「${cards[b].t}」（共通詞：${sh.join("、")}）→ 只留最新最全嗰條，另一條換第二單`);
   }
