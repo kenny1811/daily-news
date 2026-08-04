@@ -85,6 +85,12 @@ G.forEach(k => {
     // 淨係抄到 .../<id>.jpeg（冇 hash）就會 403 甩圖，網頁顯示灰底「香港01」。
     else if (/cdn\.hk01\.com\//.test(x[6]) && !/\.(jpe?g|png|webp)\/[A-Za-z0-9_\-]{10,}/i.test(x[6]))
       bad.push(`${tag} hk01 圖片 URL 冇簽名段（會甩圖）：${x[6]}`);
+    // 2026-08-04 教訓：WebFetch 轉 markdown 有機會將簽名段中間某一小截重複咗（例：...Kz__EKz__EK...），
+    // 出嚟嘅 URL 一樣「有簽名段」但係 404 甩圖。hk01 簽名段固定 43 個字元（32 bytes base64url），唔等於 43 就一定錯。
+    else if (/cdn\.hk01\.com\//.test(x[6])) {
+      const sig = (x[6].match(/\.(?:jpe?g|png|webp)\/([A-Za-z0-9_\-]+)/i) || [])[1] || "";
+      if (sig.length !== 43) bad.push(`${tag} hk01 簽名段長度 ${sig.length}（應該係 43，多數係 WebFetch 抄漏／抄多咗）：${x[6]}`);
+    }
     BAN.forEach(([re, n]) => { if (re.test(x[2] || "") || re.test(x[3] || "")) bad.push(`${tag} 用咗禁用來源：${n}（${x[2]}）`); });
   });
 });
