@@ -39,18 +39,16 @@ const NAME = { hks: "香港社會", hkl: "民生", hke: "經濟", hkp: "政治",
 // 每組最少條數：社會／民生規格係 8 條，其餘最少 3 條
 const MINS = { hks: 8, hkl: 8, hke: 3, hkp: 3, cn: 3, us: 3, tw: 3, war: 3 };
 const HK = ["hks", "hkl", "hke", "hkp"];
-// 一日兩版之後改用 12 小時窗（留 3 鐘頭鬆動位，硬底線 15 鐘頭）
-// am（朝早 05:45 出）：收前一晚 18:00 起嘅料，硬底線 = 前一日 15:00
-// pm（晚間 18:00 出）：收今朝 06:00 起嘅料，硬底線 = 今日 03:00
+// 2026-08-04 用戶更正：**12 小時窗本身就係硬底線，冇鬆動位**。
+// 之前 session 自己加咗個「15 鐘頭硬底線 + 12 鐘頭只出 ⚠」嘅寬限，用戶講明從來冇定過，已取消。
+// am（朝早 06:00 出）：只收前一晚 18:00 之後嘅料，早過即 fail
+// pm（晚間 18:00 出）：只收今朝 06:00 之後嘅料，早過即 fail
+// 香港組同國際組完全相同（來源乜嘢語言都得，出稿自己譯，「中文料少」唔係出舊料嘅理由）。
 const prev = new Date(date + "T00:00:00Z"); prev.setUTCDate(prev.getUTCDate() - 1);
 const prevDay = prev.toISOString().slice(0, 10);
-// 2026-08-02 用戶追加（兩條）：
-//  ① 晚報香港組唔准出今朝 06:00 之前嘅料（嗰啲係早報範圍），硬底線＝06:00 冇鬆動位
-//  ② 國際組唔再放寬到 24 小時：來源乜嘢語言都得（英文／阿拉伯文／日文…），出稿時自己譯做中文，
-//     所以「中文料少」唔再係出舊料嘅理由。國際組硬底線同香港組睇齊。
-const FLOOR_HK  = mode === "pm" ? date + " 06:00"     : prevDay + " 15:00";
-const FLOOR_INT = FLOOR_HK;
 const WANT      = mode === "pm" ? date + " 06:00"     : prevDay + " 18:00";
+const FLOOR_HK  = WANT;
+const FLOOR_INT = WANT;
 const HKG = ["hks", "hkl", "hke", "hkp"];
 const floorOf = k => HKG.includes(k) ? FLOOR_HK : FLOOR_INT;
 
@@ -81,8 +79,7 @@ G.forEach(k => {
     if (/^https?:\/\/[^\/]+\/?$/.test(x[3] || "")) bad.push(`${tag} 用咗首頁／列表頁做連結`);
     if (urls.has(x[3])) bad.push(`${tag} 同組內重複連結`); else urls.add(x[3]);
     if (!x[4]) bad.push(`${tag} 冇發放時間`);
-    else if (x[4] < floorOf(k)) bad.push(`${tag} 發放時間超出時間窗（硬底線 ${floorOf(k)}）：${x[4]}`);
-    else if (x[4] < WANT) warn.push(`${tag} 早過 12 小時窗（想要 ${WANT} 之後）：${x[4]}`);
+    else if (x[4] < floorOf(k)) bad.push(`${tag} 發放時間早過 12 小時硬底線 ${floorOf(k)}：${x[4]}`);
     if (!/^https:\/\/\S+/.test(x[6] || "")) bad.push(`${tag} 冇插圖 og:image`);
     // 2026-08-03 教訓：hk01 CDN 圖一定要帶簽名段，即 .../<id>.jpeg/<hash>[?v=...]。
     // 淨係抄到 .../<id>.jpeg（冇 hash）就會 403 甩圖，網頁顯示灰底「香港01」。
