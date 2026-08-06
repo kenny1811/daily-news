@@ -28,7 +28,13 @@
   .grid .day.has:hover{background:#2b3a4d}
   .grid .day.sel{background:var(--accent);color:#04101f;font-weight:700}
   .grid .day.today{outline:1px solid var(--accent)}
-  .side .tip{color:var(--muted);font-size:12.5px;margin-top:10px;text-align:center}
+  .sbox{margin-top:12px}
+  .sbox input{width:100%;padding:9px 12px;border-radius:10px;border:1px solid var(--border);background:var(--card);color:var(--txt);font-size:15px;font-family:inherit}
+  .sbox input::placeholder{color:#5b6673}
+  .sbox input:focus{outline:none;border-color:var(--accent)}
+  .shint{color:var(--muted);font-size:12.5px;margin-top:7px;text-align:center;line-height:1.45}
+  .stag{color:#6e7b8a;font-size:12.5px;font-weight:600}
+  mark{background:#4a3a00;color:#ffd866;padding:0 2px;border-radius:3px}
   .main{flex:1;min-width:0}
   .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
   .tab{padding:9px 17px;border-radius:10px;background:var(--card);border:1px solid var(--border);color:var(--muted);cursor:pointer;font-size:16px;font-weight:600}
@@ -91,7 +97,10 @@
       <div class="hd"><button class="nav" onclick="shiftMonth(-1)">‹</button><b id="calTitle"></b><button class="nav" onclick="shiftMonth(1)">›</button></div>
       <div class="grid" id="calGrid"></div>
     </div>
-    <div class="tip">藍色日子＝有內容，ㄢ一下睇返</div>
+    <div class="sbox">
+      <input id="q" type="search" placeholder="🔍 搵新聞…" oninput="onSearch()" autocomplete="off" spellcheck="false">
+      <div class="shint" id="shint"></div>
+    </div>
   </div>
   <div class="main">
     <div class="tabs">
@@ -163,15 +172,73 @@ function renderBrief(key,label){
   const srcs=(data.src||[]).map(s=>'<a href="'+esc(s[1])+'" target="_blank" rel="noopener">'+esc(s[0])+'</a>').join("");
   box.innerHTML=_barh+'<div class="brief">'+img+'<div class="bhd"><h2>'+esc(label)+'</h2><div class="bupd">更新：'+esc(data.upd||d)+'　·　約 300 字簡報</div></div><div class="btxt">'+paras+'</div><div class="bsrc">來源：'+srcs+'</div></div>';
 }
+let SIDX=null,prevTab="news",sTimer=null;
+function buildIdx(){
+  if(SIDX)return SIDX;
+  const out=[],seen={};
+  const ds=Object.keys(DB).sort().reverse();
+  for(const dd of ds){
+    const d=DB[dd];if(!d)continue;
+    const es=eds(dd);
+    const parts=es.length?es.map(e=>[e,d[e]]):[[null,d]];
+    for(const pe of parts){
+      const e=pe[0],data=pe[1];if(!data)continue;
+      for(const kt of SEC){
+        const k=kt[0],title=kt[1],arr=data[k]||[];
+        for(const it of arr){
+          const u=it[3];if(!u||seen[u])continue;seen[u]=1;
+          out.push({it:it,dd:dd,ed:e,sec:title,hay:((it[0]||"")+" "+(it[1]||"")+" "+(it[2]||"")).toLowerCase()});
+        }
+      }
+    }
+  }
+  SIDX=out;return out;
+}
+function hl(str,ts){
+  const t=esc(String(str||""));
+  if(!ts.length)return t;
+  const r=new RegExp("("+ts.map(x=>x.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")).join("|")+")","gi");
+  return t.replace(r,'<mark>$1</mark>');
+}
+function scard(r,ts){
+  const it=r.it,img=it[6]||"",src=it[2]||"";
+  const thumb=img?('<div class="thumb"><img loading="lazy" referrerpolicy="no-referrer" src="'+esc(imgFix(img))+'" onerror="this.onerror=null;var p=this.parentNode;p.classList.add(\'ph\');p.innerHTML=\'<span>'+esc(src)+'</span>\'"></div>'):('<div class="thumb ph"><span>'+esc(src)+'</span></div>');
+  const dt=r.dd.slice(8,10)+"/"+r.dd.slice(5,7)+"/"+r.dd.slice(0,4);
+  const edl=r.ed?(r.ed==="am"?"☀️ 早報":"🌙 晚報"):"";
+  const tag='<div class="stag">'+esc(dt)+(edl?" · "+edl:"")+" · "+esc(r.sec)+'</div>';
+  return '<a class="card" href="'+esc(it[3])+'" target="_blank" rel="noopener">'+thumb+'<div class="cbody">'+tag+'<div class="ctitle">'+hl(it[0],ts)+'</div><div class="cmeta">🕒 '+esc(fmtT(it[4]||""))+'</div><div class="cdesc">'+hl(it[1]||"",ts)+'</div><div class="csrc">'+hl(src,ts)+'</div></div></a>';
+}
+function renderSearch(){
+  const el=document.getElementById("q");
+  const q=((el&&el.value)||"").trim();
+  const ts=q.split(/\s+/).filter(Boolean);
+  const low=ts.map(t=>t.toLowerCase());
+  const box=document.getElementById("panel");
+  let res=buildIdx().filter(r=>low.every(t=>r.hay.indexOf(t)>=0));
+  const total=res.length,MAX=300;
+  if(res.length>MAX)res=res.slice(0,MAX);
+  let h='<header><h1>🔍 搜尋結果</h1><div class="date">關鍵字：'+esc(q)+'　·　搵到 '+total+' 條'+(total>MAX?'（只顯示最新 '+MAX+' 條）':'')+'</div></header>';
+  if(!total){box.innerHTML=h+'<div class="empty">搵唔到相關新聞 🙈<br>試下少打幾個字，或者換個講法</div>';return;}
+  box.innerHTML=h+'<div class="cards">'+res.map(r=>scard(r,ts)).join("")+'</div>';
+}
+function onSearch(){clearTimeout(sTimer);sTimer=setTimeout(doSearch,130);}
+function doSearch(){
+  const el=document.getElementById("q");
+  const q=((el&&el.value)||"").trim();
+  if(!q){if(curTab==="search")curTab=prevTab||"news";renderPanel();return;}
+  if(curTab!=="search"){prevTab=curTab;curTab="search";}
+  renderPanel();
+}
 function renderPanel(){
   document.getElementById("tab-news").classList.toggle("on",curTab==="news");
   document.getElementById("tab-ai").classList.toggle("on",curTab==="ai");
   document.getElementById("tab-war").classList.toggle("on",curTab==="war");
+  if(curTab==="search"){renderSearch();return;}
   if(curTab==="news") renderNews(selDate);
   else if(curTab==="ai") renderBrief("ai","🤖 AI 動向（Claude／ChatGPT／Gemini）");
   else renderBrief("warb","🔥 美伊戰爭最新情況");
 }
-function setTab(t){curTab=t;renderPanel();window.scrollTo(0,0);}
+function setTab(t){const el=document.getElementById("q");if(el)el.value="";prevTab=t;curTab=t;renderPanel();window.scrollTo(0,0);}
 function renderCal(){
   document.getElementById("calTitle").textContent=viewY+"年"+viewM+"月";
   const grid=document.getElementById("calGrid");
@@ -187,9 +254,11 @@ function renderCal(){
   }
   grid.innerHTML=h;
 }
-function pick(dd){selDate=dd;selEd=null;viewY=+dd.slice(0,4);viewM=+dd.slice(5,7);renderCal();renderPanel();}
+function pick(dd){const _q=document.getElementById("q");if(_q)_q.value="";if(curTab==="search")curTab=prevTab||"news";selDate=dd;selEd=null;viewY=+dd.slice(0,4);viewM=+dd.slice(5,7);renderCal();renderPanel();}
 function shiftMonth(n){viewM+=n;if(viewM<1){viewM=12;viewY--}if(viewM>12){viewM=1;viewY++}renderCal();}
 renderCal();renderPanel();
+(function(){var n=buildIdx().length,d=Object.keys(DB).length;
+ var e=document.getElementById("shint");if(e)e.textContent="藍色日子＝有內容　·　可搜尋 "+d+" 日、"+n+" 條新聞";})();
 </script>
 </body>
 </html>
