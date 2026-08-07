@@ -156,7 +156,57 @@ function gramsOf(x) {
   if (b.t && !/[一-鿿]/.test(b.t)) bad.push(`${n}簡報唔係中文`);
 });
 
+// ── 事件追蹤（2026-08-07 用戶定案）──────────────────────────────
+// 唔再有上限：所有仲生效嘅線索每版都要照出，冇新進展就寫「今日無新進展」＋帶返最後一次進展。
+// 要除名一定要事件真係完咗，而且**要問過用戶**；用戶批准之後將事件名加入 tools/retired.json 先過到自檢。
+// 舊做法（硬性淨係出 6 條）令到「港·水務署五年換喉」等線索俾新事件靜靜雞頂走，用戶 08-07 捉到。
+const RET = (() => {
+  try {
+    const j = JSON.parse(fs.readFileSync("tools/retired.json", "utf8"));
+    return new Set((Array.isArray(j) ? j : j.retired || []).map(x => typeof x === "string" ? x : x.name));
+  } catch (e) { return new Set(); }
+})();
+const NOP = /今日無新進展|今日未見新|未見新進展|未見新報道|無新進展|冇新進展/;
 if (!Array.isArray(d.track) || d.track.length < 3) bad.push(`事件追蹤只有 ${(d.track || []).length} 條`);
+else {
+  // 格式：一定要 3 欄 [事件名, 狀態, 今日進展]。2 欄會令網頁出「undefined」（08-06 晚報中招）。
+  d.track.forEach((r, i) => {
+    if (!Array.isArray(r) || r.length !== 3)
+      bad.push(`事件追蹤[${i}] 唔係 3 欄 [事件名, 狀態, 今日進展]：${JSON.stringify(r).slice(0, 70)}`);
+    else if (!String(r[0] || "").trim() || !String(r[1] || "").trim() || !String(r[2] || "").trim())
+      bad.push(`事件追蹤[${i}] 有空欄：${JSON.stringify(r).slice(0, 70)}`);
+  });
+  const tnames = new Set(d.track.map(r => Array.isArray(r) ? r[0] : ""));
+  if (tnames.size !== d.track.length) bad.push("事件追蹤有重複事件名");
+  // 唔准靜靜雞除名：上一版有嘅，今版一定要有
+  if (other && Array.isArray(other.track)) {
+    other.track.forEach(r => {
+      if (!Array.isArray(r) || !r[0]) return;
+      if (!tnames.has(r[0]) && !RET.has(r[0]))
+        bad.push(`事件追蹤漏咗${otherName}出過嘅「${r[0]}」→ 唔准靜靜雞除名。冇新進展就照出（狀態寫「跟進中」、進展寫「今日無新進展」＋帶返最後一次進展）；真係完咗就要問用戶，用戶批准後將事件名加入 tools/retired.json`);
+    });
+  }
+  // 連續多版無新進展 → ⚠ 建議問用戶除唔除名（唔會 fail）
+  const edsList = [];
+  Object.keys(db).sort().forEach(dt => {
+    const v = db[dt];
+    if (v.am || v.pm) { if (v.am) edsList.push({ k: dt + " am", t: v.am.track }); if (v.pm) edsList.push({ k: dt + " pm", t: v.pm.track }); }
+    else edsList.push({ k: dt, t: v.track });
+  });
+  const curKey = twoEd ? date + " " + mode : date;
+  const ci = edsList.findIndex(e => e.k === curKey);
+  const past = ci > 0 ? edsList.slice(Math.max(0, ci - 5), ci).reverse() : [];
+  d.track.forEach(r => {
+    if (!Array.isArray(r) || r.length !== 3) return;
+    if (!NOP.test(String(r[1]) + String(r[2]))) return;
+    let n = 1;
+    for (const e of past) {
+      const p = (e.t || []).find(x => Array.isArray(x) && x[0] === r[0]);
+      if (p && NOP.test(String(p[1]) + String(p[2]))) n++; else break;
+    }
+    if (n >= 4) warn.push(`「${r[0]}」已經連續 ${n} 版無新進展 → 喺回覆度問返用戶洗唔洗除名；用戶批准先加入 tools/retired.json，唔准自己刪`);
+  });
+}
 if (!d._updated) bad.push("_updated 冇填");
 if (!fs.existsSync("archive/" + date.replace(/-/g, "") + ".html")) bad.push("冇寫 archive 快照");
 
