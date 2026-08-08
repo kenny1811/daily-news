@@ -150,7 +150,20 @@ function gramsOf(x) {
   if (!b || typeof b !== "object") { bad.push(`${n}簡報完全冇`); return; }
   if (!b.t || b.t.length < 200) bad.push(`${n}簡報太短（${(b.t || "").length} 字，要 ~300）`);
   if (!/^https:\/\/\S+/.test(b.img || "")) bad.push(`${n}簡報冇插圖`);
-  if (!Array.isArray(b.src) || b.src.length < 2) bad.push(`${n}簡報來源少過 2 個`);
+  // 2026-08-08 用戶要求：簡報要多幾個 source，唔可以成篇都係同一間媒體
+  // （08-06 至 08-08 好多版嘅 AI 簡報淨係得兩條，兩條都係 TechCrunch）
+  const MINSRC = k === "ai" ? 4 : 3;          // AI 動向要 4 個，美伊要 3 個
+  const MINOUT = k === "ai" ? 3 : 2;          // 唔同媒體數目下限
+  const srcArr = Array.isArray(b.src) ? b.src : [];
+  if (srcArr.length < MINSRC) bad.push(`${n}簡報得 ${srcArr.length} 個來源（要最少 ${MINSRC} 個）`);
+  // 來源名有機會寫成「TechCrunch — 標題」，比對嗰陣要斬走破折號後面嗰截
+  const outlet = s => String(s || "").split(/\s*[—–|｜:：]\s*/)[0].trim().toLowerCase();
+  const outlets = new Set(srcArr.map(x => outlet(Array.isArray(x) ? x[0] : x)).filter(Boolean));
+  if (srcArr.length >= 2 && outlets.size < MINOUT)
+    bad.push(`${n}簡報得 ${outlets.size} 間媒體（${[...outlets].join("／")}），要最少 ${MINOUT} 間唔同媒體`);
+  const surls = srcArr.map(x => Array.isArray(x) ? x[1] : "").filter(Boolean);
+  if (new Set(surls).size !== surls.length) bad.push(`${n}簡報有重複來源連結`);
+  surls.forEach(u => { if (!/^https:\/\/\S+$/.test(u)) bad.push(`${n}簡報來源連結有問題：${u}`); });
   // 簡報每日更新：upd 一定要係今日
   if (b.upd !== date) bad.push(`${n}簡報 upd=${b.upd}，唔係今日 ${date}（即係冇更新過）`);
   if (b.t && !/[一-鿿]/.test(b.t)) bad.push(`${n}簡報唔係中文`);
