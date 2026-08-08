@@ -60,6 +60,8 @@ const BAN = [
   [/takungpao|大公/i, "大公報"], [/wenweipo|文匯/i, "文匯報"],
   [/cna\.com\.tw|focustaiwan/i, "中央社／CNA"], [/^中央社$|中央通訊社/, "中央社"],
   [/\.gov(\.|$)|gov\.hk|gov\.tw|gov\.cn/i, "政府網"],
+  // 2026-08-08 用戶指示：唔要巴士的報
+  [/bastillepost/i, "巴士的報"], [/巴士的報/, "巴士的報"],
 ];
 const bad = [];
 const warn = [];
