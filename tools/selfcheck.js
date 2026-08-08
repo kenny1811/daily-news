@@ -196,6 +196,30 @@ else {
   const curKey = twoEd ? date + " " + mode : date;
   const ci = edsList.findIndex(e => e.k === curKey);
   const past = ci > 0 ? edsList.slice(Math.max(0, ci - 5), ci).reverse() : [];
+  // ── 交叉核對：今日有相關新聞卡，就唔准寫「今日無新進展」──────────────
+  // 2026-08-07 教訓：08-07 晚報有「荃灣工地爆食水管」同「北角福蔭道爆水管」兩張卡，
+  // 但「港·水務署五年換喉」照抄住「今日無新進展；最後進展（08-04）」，用戶即刻捉到。
+  const TKEYS = (() => {
+    try {
+      const j = JSON.parse(fs.readFileSync("tools/track_keys.json", "utf8"));
+      return j.keys || j;
+    } catch (e) { return {}; }
+  })();
+  const todayCards = [];
+  G.forEach(k => (d[k] || []).forEach((x, i) => todayCards.push({ tag: `${NAME[k]}[${i}]`, t: x[0] || "", txt: (x[0] || "") + " " + (x[1] || "") })));
+  Object.keys(TKEYS).forEach(name => {
+    const res = (TKEYS[name] || []).map(p => { try { return new RegExp(p, "i"); } catch (e) { return null; } }).filter(Boolean);
+    if (!res.length) return;
+    const hit = todayCards.filter(c => res.some(re => re.test(c.txt)));
+    if (!hit.length) return;
+    const row = d.track.find(r => Array.isArray(r) && r[0] === name);
+    if (!row) {
+      warn.push(`今日有 ${hit.length} 張卡好似關「${name}」事（${hit.slice(0, 2).map(h => h.tag + "「" + h.t + "」").join("、")}），但事件追蹤冇呢條線索 → 睇下使唔使加返`);
+      return;
+    }
+    if (NOP.test(String(row[1]) + String(row[2])))
+      bad.push(`事件追蹤「${name}」寫住「無新進展」，但今日明明有相關新聞卡：${hit.map(h => h.tag + "「" + h.t + "」").join("、")} → 一定要寫返今日嘅實質進展`);
+  });
   d.track.forEach(r => {
     if (!Array.isArray(r) || r.length !== 3) return;
     if (!NOP.test(String(r[1]) + String(r[2]))) return;
