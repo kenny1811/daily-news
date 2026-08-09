@@ -262,6 +262,30 @@ if (warn.length) {
   console.log("\n⚠ 提提你（唔會 fail，但盡量換返新料）共 " + warn.length + " 項：");
   warn.forEach(x => console.log("  • " + x));
 }
+// ── 🖼 要人手驗圖嘅清單（2026-08-09 加）─────────────────────────
+// selfcheck 淨係驗到 URL 格式，驗唔到張圖真係開唔開到（雲端 container 對外封晒，curl 一律 403）。
+// 2026-08-09 教訓：以色列時報張圖路徑被抄成 /2026/05/（跟咗檔名入面嘅 20260525），
+// 實際 og:image 係 /2026/08/，格式完全正確所以自檢放行，出街先發現甩圖。
+// 做法：下面每條 URL 用 WebFetch 開一次——
+//   回「Image content is not supported」＝ 張圖存在，OK
+//   回 404 / CLIENT_ERROR ＝ URL 錯咗，要返去原文重新逐字抄 og:image，唔准自己砌路徑
+{
+  const need = [];
+  G.forEach(k => (d[k] || []).forEach((x, i) => {
+    const u = x[6] || "";
+    if (!u || /cdn\.hk01\.com|image\.hkhl\.hk/.test(u)) return;   // 呢兩個 CDN 已有專門格式檢查
+    need.push(`${NAME[k]}[${i}] ${u}`);
+  }));
+  [["ai", "AI 動向"], ["warb", "美伊戰爭"]].forEach(([k, n]) => {
+    const u = (d[k] || {}).img || "";
+    if (u && !/cdn\.hk01\.com|image\.hkhl\.hk/.test(u)) need.push(`${n}簡報插圖 ${u}`);
+  });
+  if (need.length) {
+    console.log(`\n🖼 要 WebFetch 逐條驗圖（非 hk01／星島，共 ${need.length} 條）——回「Image content is not supported」＝ OK；回 404 ＝ URL 抄錯，要返原文重抄：`);
+    need.forEach(x => console.log("  • " + x));
+  }
+}
+
 if (bad.length) {
   console.log("\n✖ 唔合格，共 " + bad.length + " 項問題：");
   bad.forEach(x => console.log("  • " + x));
