@@ -93,6 +93,10 @@ G.forEach(k => {
       const sig = (x[6].match(/\.(?:jpe?g|png|webp)\/([A-Za-z0-9_\-]+)/i) || [])[1] || "";
       if (sig.length !== 43) bad.push(`${tag} hk01 簽名段長度 ${sig.length}（應該係 43，多數係 WebFetch 抄漏／抄多咗）：${x[6]}`);
     }
+    // 2026-08-09 教訓：NPR 嘅 og:image 係 Brightspot dims3 轉檔連結，喺我哋個站 hotlink 會失敗變灰底。
+    // 網頁 imgFix 而家會自動拆返入面 ?url= 嗰條原圖，但存落 DB 最好一開始就存直接連結。
+    if (/\/dims[0-9]?\//.test(x[6] || "") && /[?&]url=/.test(x[6] || ""))
+      warn.push(`${tag} og:image 係轉檔連結（Brightspot dims），建議直接抄 ?url= 入面嗰條原圖並改成 https：${x[6].slice(0, 90)}…`);
     BAN.forEach(([re, n]) => { if (re.test(x[2] || "") || re.test(x[3] || "")) bad.push(`${tag} 用咗禁用來源：${n}（${x[2]}）`); });
   });
 });
