@@ -185,6 +185,15 @@ const RET = (() => {
     return new Set((Array.isArray(j) ? j : j.retired || []).map(x => typeof x === "string" ? x : x.name));
   } catch (e) { return new Set(); }
 })();
+// 低頻跟進名單（2026-08-09 用戶批准）：仲要每版照出，但唔會再出「連續 N 版無新進展」⚠。
+const LOW = (() => {
+  try {
+    const j = JSON.parse(fs.readFileSync("tools/lowfreq.json", "utf8"));
+    const arr = (Array.isArray(j) ? j : j.lowfreq || []);
+    const today = date;
+    return new Set(arr.filter(x => !x.until || today <= x.until).map(x => typeof x === "string" ? x : x.name));
+  } catch (e) { return new Set(); }
+})();
 const NOP = /今日無新進展|今日未見新|未見新進展|未見新報道|無新進展|冇新進展/;
 if (!Array.isArray(d.track) || d.track.length < 3) bad.push(`事件追蹤只有 ${(d.track || []).length} 條`);
 else {
@@ -247,7 +256,7 @@ else {
       const p = (e.t || []).find(x => Array.isArray(x) && x[0] === r[0]);
       if (p && NOP.test(String(p[1]) + String(p[2]))) n++; else break;
     }
-    if (n >= 4) warn.push(`「${r[0]}」已經連續 ${n} 版無新進展 → 喺回覆度問返用戶洗唔洗除名；用戶批准先加入 tools/retired.json，唔准自己刪`);
+    if (n >= 4 && !LOW.has(r[0])) warn.push(`「${r[0]}」已經連續 ${n} 版無新進展 → 喺回覆度問返用戶洗唔洗除名；用戶批准先加入 tools/retired.json，唔准自己刪`);
   });
 }
 if (!d._updated) bad.push("_updated 冇填");
