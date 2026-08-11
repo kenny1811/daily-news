@@ -49,6 +49,7 @@ foreach($f in 'favicon.svg','favicon.ico','favicon-32.png','favicon-16.png','app
 }
 
 if($OpenChrome){
-  try{ Start-Process 'chrome.exe' 'http://localhost:8080/' }
-  catch{ Start-Process 'http://localhost:8080/' }
+  # shell-open via the default browser association - behaves exactly like clicking a link,
+  # so it lands in your normal Chrome session (direct chrome.exe launch can pick the wrong profile)
+  Start-Process 'http://localhost:8080/'
 }
