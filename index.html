@@ -15740,13 +15740,16 @@ function imgFix(u){if(!u)return u;
   if(mm&&/\/dims[0-9]?\//.test(u)){try{var inner=decodeURIComponent(mm[1]);if(/^https?:\/\//.test(inner))u=inner.replace(/^http:/,"https:");}catch(e){}}
   var i=u.indexOf("?"),p=i<0?u:u.slice(0,i),q=i<0?"":u.slice(i);return p.replace(/%2F/gi,"/").replace(/%3A/gi,":")+q;}
 const ED={am:{lab:"☀️ 早報",win:"涵蓋前晚 18:00 至今朝 06:00"},pm:{lab:"🌙 晚報",win:"涵蓋今日 06:00 至 18:00"}};
+const ED2={am:{lab:"☀️ 午報",win:"涵蓋噚晚 21:00 至今朝 09:00"},pm:{lab:"🌙 夜報",win:"涵蓋今日 09:00 至 21:00"}};
+const ED2START="2026-08-15";
+function EDOF(dd,e){return (dd>=ED2START?ED2:ED)[e];}
 function eds(dd){const d=DB[dd];if(!d)return[];const r=[];if(d.am)r.push("am");if(d.pm)r.push("pm");return r;}
 function edData(dd,e){const d=DB[dd];if(!d)return null;const es=eds(dd);if(!es.length)return d;return d[e&&d[e]?e:es[es.length-1]]||null;}
 function curEd(dd){const es=eds(dd);if(!es.length)return null;return (selEd&&es.indexOf(selEd)>=0)?selEd:es[es.length-1];}
 function setEd(e){selEd=e;renderPanel();window.scrollTo(0,0);}
 function edBar(dd){const es=eds(dd);if(!es.length)return"";const c=curEd(dd);
   return '<span class="edsw">'+["am","pm"].map(function(k){var have=es.indexOf(k)>=0;
-    return '<button'+(have?'':' disabled')+(k===c?' class="on"':'')+(have?' onclick="setEd(\''+k+'\')"':'')+'>'+ED[k].lab+'</button>';}).join("")+'</span>';}
+    return '<button'+(have?'':' disabled')+(k===c?' class="on"':'')+(have?' onclick="setEd(\''+k+'\')"':'')+'>'+EDOF(selDate,k).lab+'</button>';}).join("")+'</span>';}
 function card(it){
   const t=it[0],de=it[1],src=it[2],url=it[3],pub=it[4]||"",upd=it[5]||"",img=it[6]||"";
   const thumb=img?('<div class="thumb"><img loading="lazy" referrerpolicy="no-referrer" src="'+esc(imgFix(img))+'" onerror="this.onerror=null;var p=this.parentNode;p.classList.add(\'ph\');p.innerHTML=\'<span>'+esc(src)+'</span>\'"></div>'):('<div class="thumb ph"><span>'+esc(src)+'</span></div>');
@@ -15761,7 +15764,7 @@ function renderNews(dd){
   h+='<header><h1>📰 門前直樹每日新聞</h1><div class="date">'+dd.slice(0,4)+"年"+(+dd.slice(5,7))+"月"+(+dd.slice(8,10))+"日（週"+WD[dt.getDay()]+"）· 香港時間</div>";
   const _c=curEd(dd);
   h+=edBar(dd);
-  h+='<div class="row2"><span class="win">'+(_c?ED[_c].win:'涵蓋過去 24 小時內最新新聞')+'</span>'+(data._updated?'<span class="upd">最後更新：'+esc(data._updated)+'</span>':'')+'</div></header>';
+  h+='<div class="row2"><span class="win">'+(_c?EDOF(selDate,_c).win:'涵蓋過去 24 小時內最新新聞')+'</span>'+(data._updated?'<span class="upd">最後更新：'+esc(data._updated)+'</span>':'')+'</div></header>';
   for(const [k,title] of SEC){
     const arr=data[k]||[];if(!arr.length)continue;
     h+='<div class="sec '+k+'"><h2>'+title+'</h2><div class="cards">'+arr.map(card).join("")+'</div></div>';
@@ -15826,7 +15829,7 @@ function scard(r,ts){
   const it=r.it,img=it[6]||"",src=it[2]||"";
   const thumb=img?('<div class="thumb"><img loading="lazy" referrerpolicy="no-referrer" src="'+esc(imgFix(img))+'" onerror="this.onerror=null;var p=this.parentNode;p.classList.add(\'ph\');p.innerHTML=\'<span>'+esc(src)+'</span>\'"></div>'):('<div class="thumb ph"><span>'+esc(src)+'</span></div>');
   const dt=r.dd.slice(8,10)+"/"+r.dd.slice(5,7)+"/"+r.dd.slice(0,4);
-  const edl=r.ed?(r.ed==="am"?"☀️ 早報":"🌙 晚報"):"";
+  const edl=r.ed?EDOF(r.dd,r.ed).lab:"";
   const tag='<div class="stag">'+esc(dt)+(edl?" · "+edl:"")+" · "+esc(r.sec)+'</div>';
   return '<a class="card" href="'+esc(it[3])+'" target="_blank" rel="noopener">'+thumb+'<div class="cbody">'+tag+'<div class="ctitle">'+hl(it[0],ts)+'</div><div class="cmeta">🕒 '+esc(fmtT(it[4]||""))+'</div><div class="cdesc">'+hl(it[1]||"",ts)+'</div><div class="csrc">'+hl(src,ts)+'</div></div></a>';
 }

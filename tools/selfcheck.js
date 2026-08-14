@@ -4,7 +4,7 @@
 // exit 0 = 通過可以 push；exit 1 = 有問題，唔准 push，要修好再跑
 const fs = require("fs");
 const date = process.argv[2];
-const mode = (process.argv[3] || "am").toLowerCase();   // am = 朝早版(05:45)，pm = 晚間版(18:00)
+const mode = (process.argv[3] || "am").toLowerCase();   // am = 午報(09:00 出稿)，pm = 夜報(21:00 出稿)。2026-08-15 改制，DB key 照舊 am/pm
 if (!date) { console.error("用法: node tools/selfcheck.js YYYY-MM-DD [am|pm]"); process.exit(1); }
 if (!["am", "pm"].includes(mode)) { console.error("第二個參數只可以係 am 或 pm"); process.exit(1); }
 
@@ -24,10 +24,10 @@ if (!d) { console.error("✖ DB[" + date + "] 冇 " + mode + " 呢版"); process
 const prevD = new Date(date + "T00:00:00Z"); prevD.setUTCDate(prevD.getUTCDate() - 1);
 const prevKey = prevD.toISOString().slice(0, 10);
 let other = null, otherName = "";
-if (mode === "pm") { other = twoEd ? day.am : null; otherName = "今朝早報"; }
+if (mode === "pm") { other = twoEd ? day.am : null; otherName = "今日午報"; }
 else {
   const pd = db[prevKey];
-  if (pd) { other = (pd.am || pd.pm) ? (pd.pm || pd.am) : pd; otherName = "尋晚晚報（" + prevKey + "）"; }
+  if (pd) { other = (pd.am || pd.pm) ? (pd.pm || pd.am) : pd; otherName = "噚日夜報（" + prevKey + "）"; }
 }
 
 // 內嵌 script 必須可以編譯
@@ -41,12 +41,13 @@ const MINS = { hks: 8, hkl: 8, hke: 3, hkp: 3, cn: 3, us: 3, tw: 3, war: 3 };
 const HK = ["hks", "hkl", "hke", "hkp"];
 // 2026-08-04 用戶更正：**12 小時窗本身就係硬底線，冇鬆動位**。
 // 之前 session 自己加咗個「15 鐘頭硬底線 + 12 鐘頭只出 ⚠」嘅寬限，用戶講明從來冇定過，已取消。
-// am（朝早 06:00 出）：只收前一晚 18:00 之後嘅料，早過即 fail
-// pm（晚間 18:00 出）：只收今朝 06:00 之後嘅料，早過即 fail
+// 2026-08-15 改制（用戶定案：佢晚晚 22:00 先睇新聞）：
+// am＝午報（09:00 出）：只收噚日 21:00 之後嘅料，早過即 fail
+// pm＝夜報（21:00 出）：只收今日 09:00 之後嘅料，早過即 fail
 // 香港組同國際組完全相同（來源乜嘢語言都得，出稿自己譯，「中文料少」唔係出舊料嘅理由）。
 const prev = new Date(date + "T00:00:00Z"); prev.setUTCDate(prev.getUTCDate() - 1);
 const prevDay = prev.toISOString().slice(0, 10);
-const WANT      = mode === "pm" ? date + " 06:00"     : prevDay + " 18:00";
+const WANT      = mode === "pm" ? date + " 09:00"     : prevDay + " 21:00";
 const FLOOR_HK  = WANT;
 const FLOOR_INT = WANT;
 const HKG = ["hks", "hkl", "hke", "hkp"];
@@ -262,7 +263,7 @@ else {
 if (!d._updated) bad.push("_updated 冇填");
 if (!fs.existsSync("archive/" + date.replace(/-/g, "") + ".html")) bad.push("冇寫 archive 快照");
 
-console.log("── 自檢報告 " + date + "（" + (mode === "pm" ? "晚報" : "早報") + "，12小時窗 " + WANT + " 起）──");
+console.log("── 自檢報告 " + date + "（" + (mode === "pm" ? "夜報" : "午報") + "，12小時窗 " + WANT + " 起）──");
 console.log(G.map(k => `${NAME[k]}=${(d[k] || []).length}`).join("｜"));
 console.log(`事件追蹤=${(d.track || []).length}｜AI簡報=${((d.ai || {}).t || "").length}字｜美伊簡報=${((d.warb || {}).t || "").length}字`);
 let noimg = 0; G.forEach(k => (d[k] || []).forEach(x => { if (!x[6]) noimg++; }));
