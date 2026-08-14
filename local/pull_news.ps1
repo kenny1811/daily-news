@@ -20,9 +20,9 @@ for($i=1;$i -le 10;$i++){
     $got=$true
     $c=[IO.File]::ReadAllText($tmp,[Text.Encoding]::UTF8)
     if($Edition -eq 'am'){
-      $fresh=($c -match ('"'+[regex]::Escape($today)+'":'))          # DB has today's key
+      $fresh=($c -match ('"'+[regex]::Escape($today)+'"\s*:'))          # DB has today's key
     }else{
-      $fresh=($c -match ('"_updated":"'+[regex]::Escape($today)+' (1[5-9]|2[0-3]):'))  # evening _updated
+      $fresh=($c -match ('"_updated"\s*:\s*"'+[regex]::Escape($today)+' (1[5-9]|2[0-3]):'))  # evening _updated (tolerate spaces around colon)
     }
     if($fresh){$ok=$true;break}
     Log ("try {0}: downloaded, but {1} edition for {2} not published yet" -f $i,$Edition,$today)
