@@ -272,29 +272,31 @@ if (warn.length) {
   console.log("\n⚠ 提提你（唔會 fail，但盡量換返新料）共 " + warn.length + " 項：");
   warn.forEach(x => console.log("  • " + x));
 }
-// ── 🖼 要人手驗圖嘅清單（2026-08-09 加）─────────────────────────
-// selfcheck 淨係驗到 URL 格式，驗唔到張圖真係開唔開到（雲端 container 對外封晒，curl 一律 403）。
-// 2026-08-09 教訓：以色列時報張圖路徑被抄成 /2026/05/（跟咗檔名入面嘅 20260525），
-// 實際 og:image 係 /2026/08/，格式完全正確所以自檢放行，出街先發現甩圖。
-// 做法：下面每條 URL 用 WebFetch 開一次——
-//   回「Image content is not supported」＝ 張圖存在，OK
-//   回 404 / CLIENT_ERROR ＝ URL 錯咗，要返去原文重新逐字抄 og:image，唔准自己砌路徑
-// 2026-08-17 教訓：hk01 曾經豁免（因為有 43 字簽名格式檢查），但 17號夜報「元朗YOHO大狗咬死兩小狗」
-// 條簽名 SqEHE9eK 抄錯一個字（正確 SqEHU9eK），長度仍然係 43，格式檢查照樣放行 → 出街甩圖。
-// 簽名係雜湊值，錯一個字母 = 404，格式檢查根本驗唔到。由今日起 **每一條圖 URL 都要驗**，冇豁免。
+// ── 🖼 驗圖：對返原文 og:image 字串（2026-08-25 改制）─────────────
+// 歷史：
+//   2026-08-09 以色列時報張圖被抄錯月份（/2026/05/ vs /2026/08/），格式正確但 404。
+//   2026-08-17 hk01 簽名抄錯一個字母（SqEHE9eK vs SqEHU9eK），長度照樣 43，格式檢查放行。
+//   2026-08-25 星島「佐敦換冷氣棚架」hash 抄錯兩個字（…4142… vs …4214…）——
+//              **而且用 WebFetch 開張圖仲係回「Image content is not supported」**。
+//              實測 image.hkhl.hk 對「任何」hash 都會咁回應，連 000000… 都係。
+//              即係「fetch 張圖睇存唔存在」呢招對星島完全無效，之前個做法已經作廢。
+// ★ 新做法（唯一可靠）：WebFetch **篇文**，攞返 og:image，同卡入面條 URL **逐字比對**。
+//   一個字唔同就係抄錯，用原文嗰條覆蓋，唔准自己砌、唔准補、唔准縮短。
+//   條數多就開幾個 subagent 分批做，每個 agent 交返 `MATCH` / `MISMATCH 正確=<URL>`。
 {
   const need = [];
   G.forEach(k => (d[k] || []).forEach((x, i) => {
     const u = x[6] || "";
     if (!u) return;
-    need.push(`${NAME[k]}[${i}] ${u}`);
+    need.push(`${NAME[k]}[${i}] 文章=${x[3]}  現用圖=${u}`);
   }));
   [["ai", "AI 動向"], ["warb", "美伊戰爭"]].forEach(([k, n]) => {
-    const u = (d[k] || {}).img || "";
-    if (u) need.push(`${n}簡報插圖 ${u}`);
+    const b = d[k] || {}; const u = b.img || "";
+    const from = (b.src && b.src[0] && b.src[0][1]) || "（來源見 src）";
+    if (u) need.push(`${n}簡報插圖 文章=${from}  現用圖=${u}`);
   });
   if (need.length) {
-    console.log(`\n🖼 要 WebFetch 逐條驗圖（全部圖，冇豁免，共 ${need.length} 條）——回「Image content is not supported」＝ OK；回 404 ＝ URL 抄錯，要返原文重抄：`);
+    console.log(`\n🖼 驗圖（共 ${need.length} 條，全部要驗，冇豁免）——**唔好去 fetch 張圖**，要 WebFetch 下面每條「文章」攞返 og:image，同「現用圖」逐字比對；有一個字唔同就用原文嗰條覆蓋：`);
     need.forEach(x => console.log("  • " + x));
   }
 }
