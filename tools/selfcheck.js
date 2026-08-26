@@ -65,6 +65,8 @@ const BAN = [
   [/bastillepost/i, "巴士的報"], [/巴士的報/, "巴士的報"],
   // 2026-08-25 用戶指示：唔要 am730
   [/am730/i, "am730"], [/^am730$/, "am730"],
+  // 2026-08-26：RTHK 係公營廣播，doc 一直當政府網禁用，但 /\.gov/ 條 regex 捉唔到 rthk.hk
+  [/rthk\.hk/i, "RTHK 香港電台"], [/香港電台|RTHK/i, "RTHK 香港電台"],
 ];
 const bad = [];
 const warn = [];
