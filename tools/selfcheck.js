@@ -276,17 +276,21 @@ if (warn.length) {
   console.log("\n⚠ 提提你（唔會 fail，但盡量換返新料）共 " + warn.length + " 項：");
   warn.forEach(x => console.log("  • " + x));
 }
-// ── 🖼 驗圖：對返原文 og:image 字串（2026-08-25 改制）─────────────
-// 歷史：
-//   2026-08-09 以色列時報張圖被抄錯月份（/2026/05/ vs /2026/08/），格式正確但 404。
-//   2026-08-17 hk01 簽名抄錯一個字母（SqEHE9eK vs SqEHU9eK），長度照樣 43，格式檢查放行。
-//   2026-08-25 星島「佐敦換冷氣棚架」hash 抄錯兩個字（…4142… vs …4214…）——
-//              **而且用 WebFetch 開張圖仲係回「Image content is not supported」**。
-//              實測 image.hkhl.hk 對「任何」hash 都會咁回應，連 000000… 都係。
-//              即係「fetch 張圖睇存唔存在」呢招對星島完全無效，之前個做法已經作廢。
-// ★ 新做法（唯一可靠）：WebFetch **篇文**，攞返 og:image，同卡入面條 URL **逐字比對**。
-//   一個字唔同就係抄錯，用原文嗰條覆蓋，唔准自己砌、唔准補、唔准縮短。
-//   條數多就開幾個 subagent 分批做，每個 agent 交返 `MATCH` / `MISMATCH 正確=<URL>`。
+// ── 🖼 驗圖：兩步走（2026-08-27 定版）────────────────────────────
+// 三次甩圖教訓，兩種 CDN 行為完全相反，所以兩步缺一不可：
+//   ① image.hkhl.hk（星島）對「任何」hash 都回「Image content is not supported」，
+//      連 000000… 都係 → fetch 張圖驗唔到嘢，只可以同原文對字串。
+//   ② cdn.hk01.com 對錯 hash 一定回 404 → fetch 張圖驗得到；
+//      但 **WebFetch 讀 hk01 og:image 會隨機讀錯簽名段**：同一頁問三次，
+//      同一個位置分別讀出 D／P／Y 三個唔同字母（2026-08-27 實測，60384010）。
+//      即係「對字串」對 hk01 反而唔可信，一定要 fetch 張圖做最終裁決。
+// ★ 做法：
+//   第一步（全部圖）：WebFetch 篇「文章」攞 og:image，同「現用圖」逐字比對。唔同就換原文嗰條。
+//   第二步（全部圖）：WebFetch「張圖」本身。
+//       回 404              → 一定錯，唔准 push
+//       回「Image content is not supported」→ hk01／一般站＝存在 OK；hkhl 就當冇檢查過（睇第一步）
+//   hk01 第二步 404 嘅話，唔好自己估個字：換個問法再讀一次篇文
+//   （例如叫佢「列出頁面上所有 cdn.hk01.com 開頭嘅完整 URL」），再 fetch 張圖驗，直到唔係 404。
 {
   const need = [];
   G.forEach(k => (d[k] || []).forEach((x, i) => {
@@ -300,7 +304,9 @@ if (warn.length) {
     if (u) need.push(`${n}簡報插圖 文章=${from}  現用圖=${u}`);
   });
   if (need.length) {
-    console.log(`\n🖼 驗圖（共 ${need.length} 條，全部要驗，冇豁免）——**唔好去 fetch 張圖**，要 WebFetch 下面每條「文章」攞返 og:image，同「現用圖」逐字比對；有一個字唔同就用原文嗰條覆蓋：`);
+    console.log(`\n🖼 驗圖（共 ${need.length} 條，全部要驗，冇豁免）——**兩步都要做**：`);
+    console.log(`   ① WebFetch「文章」攞 og:image，同「現用圖」逐字比對（捉抄錯；星島 hkhl 只可以靠呢步）`);
+    console.log(`   ② WebFetch「現用圖」本身：回 404 ＝ 一定錯（hk01 只可以靠呢步，因為讀 og:image 會隨機讀錯簽名）`);
     need.forEach(x => console.log("  • " + x));
   }
 }
