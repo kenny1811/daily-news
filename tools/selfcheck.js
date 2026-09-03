@@ -108,6 +108,34 @@ G.forEach(k => {
   });
 });
 
+// ── 經濟組來源改制（2026-09-03 用戶定案）────────────────────────
+// 用戶：「香港01、星島嘅經濟版隱惡揚善、唱好香港，唔係以事論事」。
+// The Standard 係星島集團旗下，同一把聲，一併禁。
+// 規矩兩條：
+//   ① hke 唔准用 香港01／星島／The Standard（fatal）
+//   ② hke 每版**最少一條**要嚟自獨立來源：端傳媒 theinitium.com／綠豆 greenbean.media／追新聞 thechasernews
+//   其餘位可以用：大紀元財經、i-CABLE、世界日報、集誌社、CNBC／BBC／Guardian／Politico 等非港01星島來源
+{
+  const HKE_BAN = [
+    [/hk01\.com/i, "香港01"], [/^香港01$/, "香港01"],
+    [/stheadline\.com/i, "星島"], [/星島/, "星島"],
+    [/thestandard\.com\.hk/i, "The Standard（星島集團）"], [/The Standard/i, "The Standard（星島集團）"],
+  ];
+  const INDIE = [
+    [/theinitium\.com/i, "端傳媒"], [/端傳媒/, "端傳媒"],
+    [/greenbean\.media/i, "綠豆"], [/^綠豆$/, "綠豆"],
+    [/thechasernews/i, "追新聞"], [/^追新聞$/, "追新聞"],
+  ];
+  const a = d.hke || [];
+  a.forEach((x, i) => {
+    const h = HKE_BAN.find(([re]) => re.test(x[2] || "") || re.test(x[3] || ""));
+    if (h) bad.push(`經濟[${i}] 經濟組禁用來源：${h[1]}（用戶 2026-09-03 定案：唱好香港、唔以事論事）`);
+  });
+  const hit = a.filter(x => INDIE.some(([re]) => re.test(x[2] || "") || re.test(x[3] || "")));
+  if (a.length && hit.length === 0)
+    bad.push("經濟組每版最少要有一條嚟自 端傳媒／綠豆／追新聞（用戶 2026-09-03 定案）");
+}
+
 // 全站唯一性：唔准同一條文章重複出現喺唔同組
 const all = [];
 G.forEach(k => (d[k] || []).forEach(x => all.push([k, x[3]])));
