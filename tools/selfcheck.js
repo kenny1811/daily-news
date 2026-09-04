@@ -113,18 +113,20 @@ G.forEach(k => {
 // The Standard 係星島集團旗下，同一把聲，一併禁。
 // 規矩兩條：
 //   ① hke 唔准用 香港01／星島／The Standard（fatal）
-//   ② hke 每版**最少一條**要嚟自獨立來源：端傳媒 theinitium.com／綠豆 greenbean.media／追新聞 thechasernews
-//   其餘位可以用：大紀元財經、i-CABLE、世界日報、集誌社、CNBC／BBC／Guardian／Politico 等非港01星島來源
+//   ② hke 每版**最少一條**要嚟自獨立來源：端傳媒 theinitium.com／綠豆 greenbean.media
+//      ★ 2026-09-04 用戶指示：追新聞 thechasernews 停更近一年，正式取消，唔再算獨立來源
+//   ③ ★ 2026-09-04 用戶指示：etnet 經濟通唔要（hke fatal）；有線新聞財經 i-cable 用得
+//   其餘位可以用：有線新聞財經、香港財經時報、大紀元財經、世界日報、集誌社、CNBC／BBC／Guardian／Politico 等非港01星島來源
 {
   const HKE_BAN = [
     [/hk01\.com/i, "香港01"], [/^香港01$/, "香港01"],
     [/stheadline\.com/i, "星島"], [/星島/, "星島"],
     [/thestandard\.com\.hk/i, "The Standard（星島集團）"], [/The Standard/i, "The Standard（星島集團）"],
+    [/etnet\.com\.hk/i, "etnet 經濟通"], [/etnet|經濟通/i, "etnet 經濟通"],
   ];
   const INDIE = [
     [/theinitium\.com/i, "端傳媒"], [/端傳媒/, "端傳媒"],
     [/greenbean\.media/i, "綠豆"], [/^綠豆$/, "綠豆"],
-    [/thechasernews/i, "追新聞"], [/^追新聞$/, "追新聞"],
   ];
   const a = d.hke || [];
   a.forEach((x, i) => {
@@ -133,7 +135,7 @@ G.forEach(k => {
   });
   const hit = a.filter(x => INDIE.some(([re]) => re.test(x[2] || "") || re.test(x[3] || "")));
   if (a.length && hit.length === 0)
-    bad.push("經濟組每版最少要有一條嚟自 端傳媒／綠豆／追新聞（用戶 2026-09-03 定案）");
+    bad.push("經濟組每版最少要有一條嚟自 端傳媒／綠豆（用戶 2026-09-03 定案；追新聞已於 2026-09-04 取消）");
 }
 
 // 全站唯一性：唔准同一條文章重複出現喺唔同組
