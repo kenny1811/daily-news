@@ -113,8 +113,15 @@ G.forEach(k => {
 // The Standard 係星島集團旗下，同一把聲，一併禁。
 // 規矩兩條：
 //   ① hke 唔准用 香港01／星島／The Standard（fatal）
-//   ② hke 每版**最少一條**要嚟自獨立來源：端傳媒 theinitium.com／綠豆 greenbean.media
+//   ② hke 每版**最少一條**要嚟自「合資格獨立來源」清單（見下面 INDIE）
 //      ★ 2026-09-04 用戶指示：追新聞 thechasernews 停更近一年，正式取消，唔再算獨立來源
+//      ★★ 2026-09-06 用戶定案（揀咗方案 2「擴池」）：原本淨係認端傳媒／綠豆，但 09-06 午報同夜報
+//         連續兩版死喺呢條——端傳媒當日 09:00 後零文章、綠豆最新稿停喺 09-04，週末尤其中伏。
+//         用戶指示擴闊合資格清單，**任何一間都算數**：端傳媒、綠豆、大紀元財經、世界日報、
+//         有線新聞財經 i-CABLE、CNBC、衛報 Guardian、路透社 Reuters、日經亞洲、BBC（英文）、
+//         Politico、The Hill、France24、NPR。
+//         ⚠ 香港財經時報 businesstimes 同經濟一週 edigest **唔算**合資格獨立來源（佢哋本身就係
+//         「其餘位」嘅常規填充來源，計埋去等於取消咗呢條規矩），但照舊可以用嚟填其餘兩格。
 //   ③ ★ 2026-09-04 用戶指示：etnet 經濟通唔要（hke fatal）；有線新聞財經 i-cable 用得
 //   其餘位可以用：有線新聞財經、香港財經時報、大紀元財經、世界日報、集誌社、CNBC／BBC／Guardian／Politico 等非港01星島來源
 {
@@ -124,9 +131,22 @@ G.forEach(k => {
     [/thestandard\.com\.hk/i, "The Standard（星島集團）"], [/The Standard/i, "The Standard（星島集團）"],
     [/etnet\.com\.hk/i, "etnet 經濟通"], [/etnet|經濟通/i, "etnet 經濟通"],
   ];
+  // ★ 2026-09-06 用戶定案：擴池，任何一間都算數
   const INDIE = [
     [/theinitium\.com/i, "端傳媒"], [/端傳媒/, "端傳媒"],
     [/greenbean\.media/i, "綠豆"], [/^綠豆$/, "綠豆"],
+    [/epochtimes/i, "大紀元"], [/大紀元/, "大紀元"],
+    [/worldjournal\.com/i, "世界日報"], [/世界日報/, "世界日報"],
+    [/i-cable\.com/i, "有線新聞"], [/有線新聞|有線財經/, "有線新聞"],
+    [/cnbc\.com/i, "CNBC"], [/^CNBC$/i, "CNBC"],
+    [/theguardian\.com/i, "衛報"], [/衛報|Guardian/i, "衛報"],
+    [/reuters\.com/i, "路透社"], [/路透社|Reuters/i, "路透社"],
+    [/asia\.nikkei\.com|nikkei\.com/i, "日經亞洲"], [/日經/, "日經亞洲"],
+    [/bbc\.com|bbc\.co\.uk/i, "BBC"], [/^BBC/i, "BBC"],
+    [/politico\.com/i, "Politico"], [/^Politico$/i, "Politico"],
+    [/thehill\.com/i, "The Hill"], [/^The Hill$/i, "The Hill"],
+    [/france24\.com/i, "France24"], [/France ?24/i, "France24"],
+    [/npr\.org/i, "NPR"], [/^NPR$/i, "NPR"],
   ];
   const a = d.hke || [];
   a.forEach((x, i) => {
@@ -135,7 +155,7 @@ G.forEach(k => {
   });
   const hit = a.filter(x => INDIE.some(([re]) => re.test(x[2] || "") || re.test(x[3] || "")));
   if (a.length && hit.length === 0)
-    bad.push("經濟組每版最少要有一條嚟自 端傳媒／綠豆（用戶 2026-09-03 定案；追新聞已於 2026-09-04 取消）");
+    bad.push("經濟組每版最少要有一條嚟自合資格獨立來源：端傳媒／綠豆／大紀元／世界日報／有線新聞／CNBC／衛報／路透社／日經亞洲／BBC／Politico／The Hill／France24／NPR（用戶 2026-09-06 定案「擴池」）");
 }
 
 // 全站唯一性：唔准同一條文章重複出現喺唔同組
