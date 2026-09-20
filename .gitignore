@@ -1,0 +1,15 @@
+# scratch pages curl 落嚟嘅外站頁面／feed（唔係 project 檔）
+/*.html
+!/index.html
+/*.xml
+*.tmp
+
+# 執行 log
+server_log.txt
+
+# index.html 嘅每日 archive 副本（26MB+，可由 index.html 重生）
+/archive/
+
+# OS/editor
+Thumbs.db
+.DS_Store
