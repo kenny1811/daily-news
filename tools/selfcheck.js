@@ -43,10 +43,23 @@ if (!date) { console.error("用法: node tools/selfcheck.js YYYY-MM-DD [am|pm]  
 if (!["am", "pm"].includes(mode)) { console.error("第二個參數只可以係 am 或 pm"); process.exit(1); }
 
 const html = fs.readFileSync("index.html", "utf8");
-const m = html.match(/const DB = ([\s\S]*?);\n/);
-if (!m) { console.error("✖ 搵唔到 const DB"); process.exit(1); }
-let db;
-try { db = eval("(" + m[1] + ")"); } catch (e) { console.error("✖ DB 唔係合法 JS: " + e.message); process.exit(1); }
+// ── 資料唯一來源：data/YYYY-MM-DD.json（2026-09-21 起，DB 由 index.html 拆出）────
+// data/index.json 存日期清單（由新到舊）；每日一個 data/YYYY-MM-DD.json，內容就係嗰日嗰個 DB[date] object。
+// 讀晒全部日子先重組做 db，等落面所有「望返之前幾多版」嘅邏輯（track 無新進展門檻等）照舊得。
+function loadDB() {
+  let dates;
+  try { dates = JSON.parse(fs.readFileSync("data/index.json", "utf8")); }
+  catch (e) { console.error("✖ 讀唔到 data/index.json：" + e.message); process.exit(1); }
+  if (!Array.isArray(dates)) { console.error("✖ data/index.json 唔係陣列"); process.exit(1); }
+  const out = {};
+  for (const dd of dates) {
+    const fp = "data/" + dd + ".json";
+    try { out[dd] = JSON.parse(fs.readFileSync(fp, "utf8")); }
+    catch (e) { console.error("✖ 讀唔到 " + fp + "：" + e.message); process.exit(1); }
+  }
+  return out;
+}
+const db = loadDB();
 const day = db[date];
 if (!day) { console.error("✖ DB 冇 " + date + " 呢個 key"); process.exit(1); }
 // 一日兩版：DB[date] = {am:{...}, pm:{...}}；舊日子仍然係單版（平鋪）

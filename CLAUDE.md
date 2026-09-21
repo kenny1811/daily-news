@@ -35,27 +35,31 @@
 ★ 收 subagent 料之前、同埋任何「趕唔切」嘅判斷之前，**重讀一次時鐘**，唔好一路推算。
 
 ## 3. 出稿流程（本機直出，唔經 GitHub）
+> **2026-09-21 DB 拆檔**：新聞資料由 `index.html` 入面嗰句 `const DB = {...}`（2.3MB+、日日變大）拆咗做 `data/YYYY-MM-DD.json`（一日一個檔，內容就係嗰日嗰個 `{am:{...},pm:{...}}`）+ `data/index.json`（日期清單，由新到舊）。`index.html` 而家得返 ~24KB，開場 fetch 呢兩類檔案嚟畫面，畫面/操作同以前一模一樣。**出稿淨係郁 `data/` 入面嘅 json，唔再郁 `index.html`。**
 1. 讀本機時間 → 決定 am／pm。
-2. 讀 `index.html` 入面 `const DB = {...}`，睇**上一版**（午報嘅上一版＝噚日 pm，冇就噚日 am；夜報嘅上一版＝同日 am），抽晒每組標題同 URL 做排除清單。
+2. 讀 `data/<上一版日期>.json`（午報嘅上一版＝噚日 pm，冇就噚日 am；夜報嘅上一版＝同日 am；例如今日做午報，就開 `data/<噚日>.json` 睇佢個 `pm`），抽晒每組標題同 URL 做排除清單。
 3. 攞熱度訊號（見第 5 節）。
 4. 一個 message 同時開 **4 個 subagent**（開完即刻數返有冇 4 個）。
-5. 砌好當日嗰版，寫入 `DB[今日] = { am:{...}, pm:{...} }`。
-   - **唔准郁另一版**（做夜報唔准郁 am，反之亦然）。
-   - **唔准郁**：舊日子、CSS、tab、favicon 標籤、`fmtT`、早晚切換嗰組 function（`ED`／`ED2`／`EDOF`）、搜尋嗰組 function。
-   - DB key 由新到舊排：`Object.keys(db).sort().reverse()`。
-   - 驗 `JSON.parse` 過到先算。
-6. 跑自檢：`node tools/selfcheck.js <今日日期> <am|pm>`，**exit 0 先可以出街**。
+5. 砌好當日嗰版，寫入 `data/<今日>.json`：
+   - 檔案未存在（今日第一版）→ 新起檔案，內容 `{ "am": {...} }`（做午報）或 `{ "pm": {...} }`（做夜報）。
+   - 檔案已存在（今日第二版，通常係夜報跟喺午報後面）→ **讀返現有內容，喺原有 object 加多一個 key**（例如已有 `am`，加 `pm`），**唔准掉低／覆寫原有嗰個版**。
+   - **唔准郁另一版**（做夜報唔准郁份 json 入面嘅 `am`，反之亦然）。
+   - **唔准郁**：`data/` 入面其他日子嘅檔案、`index.html` 嘅 CSS、tab、favicon 標籤、`fmtT`、早晚切換嗰組 function（`ED`／`ED2`／`EDOF`）、搜尋嗰組 function（呢啲而家全部喺 `index.html`，出稿日常完全唔使掂佢）。
+   - 更新 `data/index.json`：今日日期未喺清單就加去**最前面**（`[今日, ...原本清單]`，由新到舊排）；已經存在（今日第二版）就唔使再加，淨係改返 `data/<今日>.json` 個內容就夠。
+   - 兩個檔（`data/<今日>.json` 同 `data/index.json`）都要驗 `JSON.parse` 過到先算。
+6. 跑自檢：`node tools/selfcheck.js <今日日期> <am|pm>`（selfcheck 而家直接讀 `data/index.json` + `data/*.json`，唔再讀 `index.html`），**exit 0 先可以出街**。
 7. 跟自檢個 🖼 清單**逐條驗圖**（第 9 節，兩步都要做）。
 8. ~~`cp index.html archive/YYYYMMDD.html`~~ **已取消（2026-09-21）**：快照由第 11 步嘅 git commit 取代，唔使再 cp；`archive/` 舊檔留住、已 gitignore，selfcheck 亦唔再驗 archive 檔。
-9. **發佈**：唔使做任何嘢。8080 server（`serve_news.ps1`）就係直接讀呢個資料夾嘅 `index.html`，寫完即刻生效，Meshnet 睇嘅就係佢。
+9. **發佈**：唔使做任何嘢。8080 server（`serve_news.ps1`）就係直接讀呢個資料夾嘅 `index.html` 同 `data/*.json`，寫完即刻生效（瀏覽器開住個頁重新整理就 fetch 返新 `data/<今日>.json`），Meshnet 睇嘅就係佢。
 10. 寫 `簡報/每日簡報_YYYYMMDD.md`（各組條數、自檢結果、遇到嘅問題）。
 11. **commit**（用戶 2026-09-21 要求，每次出完稿都要）：`git add -A && git commit -m "<午報|夜報> dd/mm/yyyy"`。
-    root 嘅 scratch（`*.html`／`*.xml`／`*.json`，`index.html`／`settings.example.json` 除外）、`settings.json`（用戶狀態，2026-09-21 起唔入 git，範本係 `settings.example.json`）同 `archive/` 已 gitignore，唔會入 commit。
-    夜報放棄嗰陣用 `git checkout -- index.html tools/` 還原，就係還原到午報嗰個 commit。
+    DB 拆檔之後，出稿改動嘅主要係 `data/<今日>.json`（同新日子要 `data/index.json`），`index.html` 一般唔會再有改動。
+    root 嘅 scratch（`*.html`／`*.xml`／`*.json`，`index.html`／`settings.example.json` 除外）、`settings.json`（用戶狀態，2026-09-21 起唔入 git，範本係 `settings.example.json`）同 `archive/` 已 gitignore，唔會入 commit；`data/` 唔喺 gitignore 之內，要入 commit。
+    夜報放棄嗰陣用 `git checkout -- data/ index.html tools/` 還原，就係還原到午報嗰個 commit。
 12. 用廣東話向用戶報告，帶 timestamp。**只寫需要用戶跟進嘅事**（缺料、驗圖失敗、selfcheck fail、放棄咗嘅部分、要佢手動做嘅嘢）；一切正常嘅嘢唔好講，冇嘢要跟進就一句「✅ 已出，冇嘢要跟進」。
 
 **死線**：午報目標 09:45 前搞掂、夜報 21:45 前搞掂（用戶 22:00 坐低睇）。任何一步卡住就放棄嗰部分照出，唔准無限等。
-夜報死線到咗仍然唔合格 → **放棄呢次夜報**（`git checkout` 或者還原 index.html），保住午報，回覆講明點解。午報死線到咗唔合格 → 照出，但回覆入面逐項列出問題。
+夜報死線到咗仍然唔合格 → **放棄呢次夜報**（`git checkout -- data/ index.html tools/` 或者手動還原返 `data/<今日>.json`），保住午報，回覆講明點解。午報死線到咗唔合格 → 照出，但回覆入面逐項列出問題。
 
 ## 4. ★★★ 經濟組 hke 兩條硬規矩（selfcheck fatal）
 **呢兩條一定要原文貼落 Sub2 嘅指示入面。**
@@ -300,7 +304,7 @@ selfcheck 出呢個 ⚠ **唔可以照出街，一定要打開兩條比對內容
 ## 14. ⚙️ Web app 設定（2026-09-07 起）
 - 左欄下半有「⚙️ 設定」盒：Kenny 輸入想幾點睇到午報／夜報（`hh:mm` 或 `hhmm` 都收）。
 - 儲存去本資料夾 `settings.json`（`{"amView":"10:00","pmView":"22:00","updated":...}`），經 `serve_news.ps1` 嘅 `GET/POST …/api/settings` 寫檔；冇 server 就 fallback localStorage。`settings.json` 唔入 git（範本 `settings.example.json`）。
-- **server 行為（2026-09-21 起）**：只 serve `index.html`、root 嘅 `*.png`／`*.svg`／`*.ico` 同 `/api/settings`，其他路徑一律 404；POST 只收 JSON object，key 只准 `amView`／`pmView`（`HH:MM`）／`updated`，唔合格回 400；每次 POST 後嘅 `sync_open_times.ps1` 同一分鐘內只跑一次；`server_log.txt` 超過 500 行自動只留最後 250 行。
+- **server 行為（2026-09-21 起）**：只 serve `index.html`、root 嘅 `*.png`／`*.svg`／`*.ico`、`data/index.json`、`data/YYYY-MM-DD.json` 同 `/api/settings`，其他路徑一律 404（`data/` 入面除咗嗰兩種檔名格式，其他一律 404，唔係成個 folder 任讀）；POST 只收 JSON object，key 只准 `amView`／`pmView`（`HH:MM`）／`updated`，唔合格回 400；每次 POST 後嘅 `sync_open_times.ps1` 同一分鐘內只跑一次；`server_log.txt` 超過 500 行自動只留最後 250 行。
 - 排程任務 `daily-news-am`／`daily-news-pm`／`daily-news-sync` 開工時讀 `settings.json`：死線＝睇報時間 −15 分鐘，開工＝睇報時間 −90 分鐘（自動改 cron）。
 - **出稿時唔准郁**設定盒嗰組 HTML／CSS／JS（`setbox`、`parseHM`、`saveSettings`、`loadSettings`），亦唔好郁 `settings.json`。
 - **自動開網頁**：Windows 排程 `DailyNews-Open-AM`／`DailyNews-Open-PM` 喺睇報時間跑 `open_news.ps1`（開 http://localhost:8080/）。每次 POST settings 後 server 會背景跑 `sync_open_times.ps1` 重新註冊兩個 task 嘅時間（唔使 admin，即時生效）。

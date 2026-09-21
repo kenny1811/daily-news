@@ -2,6 +2,8 @@
 # 2026-09-21 hardening: whitelist-only file serving (index.html + root icons + /api/settings, everything else 404),
 #   Test-Path -LiteralPath, strict /api/settings POST schema (object with amView/pmView as HH:MM only),
 #   sync_open_times spawn throttled to once per minute, server_log.txt rotated by line count (>500 -> keep last 250).
+# 2026-09-21 DB split: index.html no longer embeds the whole news DB; it fetches data/index.json + data/YYYY-MM-DD.json
+#   at runtime, so the whitelist also allows exactly those two shapes under data/ (nothing else in that folder).
 # Usage: serve_news.ps1 [-Port 8080] [-BindHost +]   (smoke test on another port: -Port 8099 -BindHost localhost)
 param([int]$Port=8080,[string]$BindHost='+')
 $ErrorActionPreference='Continue'
@@ -32,9 +34,12 @@ function SendJson($res,[int]$code,[string]$json){ SendBytes $res $code 'applicat
 function Send404($res){ SendBytes $res 404 'text/plain; charset=utf-8' ([Text.Encoding]::UTF8.GetBytes('404')) }
 
 RotateLog
-$mime=@{'.html'='text/html; charset=utf-8';'.png'='image/png';'.ico'='image/x-icon';'.svg'='image/svg+xml'}
-# Whitelist: only these paths are ever read from disk. Root-level only (no slash in the name), so no traversal is possible.
-$allowRe='^/(index\.html|[A-Za-z0-9_\-]+\.(png|svg|ico))$'
+$mime=@{'.html'='text/html; charset=utf-8';'.png'='image/png';'.ico'='image/x-icon';'.svg'='image/svg+xml';'.json'='application/json; charset=utf-8'}
+# Whitelist: only these paths are ever read from disk. Root-level index.html/icons, PLUS the split daily-news
+# data files under data/ (2026-09-21: DB moved out of index.html into data/YYYY-MM-DD.json + data/index.json).
+# The data/ branch only matches an exact date-named file or index.json directly inside data/ - no wildcard
+# subfolder read, no ".." (dot-dot can never match \d{4}-\d{2}-\d{2} or "index"), so no traversal is possible.
+$allowRe='^/(index\.html|[A-Za-z0-9_\-]+\.(png|svg|ico)|data/(index\.json|\d{4}-\d{2}-\d{2}\.json))$'
 $hmRe='^([01][0-9]|2[0-3]):[0-5][0-9]$'
 $knownKeys=@('amView','pmView','updated')
 $syncScript=Join-Path $dir 'sync_open_times.ps1'
