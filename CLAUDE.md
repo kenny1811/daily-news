@@ -47,7 +47,10 @@
 8. `cp index.html archive/YYYYMMDD.html`
 9. **發佈**：唔使做任何嘢。8080 server（`serve_news.ps1`）就係直接讀呢個資料夾嘅 `index.html`，寫完即刻生效，Meshnet 睇嘅就係佢。
 10. 寫 `簡報/每日簡報_YYYYMMDD.md`（各組條數、自檢結果、遇到嘅問題）。
-11. 用廣東話向用戶報告，帶 timestamp。**只寫需要用戶跟進嘅事**（缺料、驗圖失敗、selfcheck fail、放棄咗嘅部分、要佢手動做嘅嘢）；一切正常嘅嘢唔好講，冇嘢要跟進就一句「✅ 已出，冇嘢要跟進」。
+11. **commit**（用戶 2026-09-21 要求，每次出完稿都要）：`git add -A && git commit -m "<午報|夜報> dd/mm/yyyy"`。
+    root 嘅 scratch（`*.html`／`*.xml`／`*.json`，`index.html`／`settings.json` 除外）同 `archive/` 已 gitignore，唔會入 commit。
+    夜報放棄嗰陣用 `git checkout -- index.html tools/` 還原，就係還原到午報嗰個 commit。
+12. 用廣東話向用戶報告，帶 timestamp。**只寫需要用戶跟進嘅事**（缺料、驗圖失敗、selfcheck fail、放棄咗嘅部分、要佢手動做嘅嘢）；一切正常嘅嘢唔好講，冇嘢要跟進就一句「✅ 已出，冇嘢要跟進」。
 
 **死線**：午報目標 09:45 前搞掂、夜報 21:45 前搞掂（用戶 22:00 坐低睇）。任何一步卡住就放棄嗰部分照出，唔准無限等。
 夜報死線到咗仍然唔合格 → **放棄呢次夜報**（`git checkout` 或者還原 index.html），保住午報，回覆講明點解。午報死線到咗唔合格 → 照出，但回覆入面逐項列出問題。
