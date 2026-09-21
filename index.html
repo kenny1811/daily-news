@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" href="/daily-news/favicon.svg" type="image/svg+xml">
-<link rel="icon" href="/daily-news/favicon-32.png" sizes="32x32" type="image/png">
-<link rel="icon" href="/daily-news/favicon-16.png" sizes="16x16" type="image/png">
-<link rel="shortcut icon" href="/daily-news/favicon.ico">
-<link rel="apple-touch-icon" href="/daily-news/apple-touch-icon.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/favicon-16.png" sizes="16x16" type="image/png">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <meta name="theme-color" content="#0d1117">
 <title>門前直樹每日新聞 · 目錄</title>
 <style>
@@ -153,9 +153,10 @@ function fmtT(s){s=String(s||"");var m=s.match(/^(\d{4})-(\d{2})-(\d{2})[T ](\d{
 function imgFix(u){if(!u)return u;
   // 2026-08-09：NPR 等 Brightspot 站嘅 og:image 係 dims3 轉檔連結（.../format/jpeg/?url=<原圖>），
   // 喺我哋個站 hotlink 會失敗變灰底。拆返入面嗰條原圖直接用，順手 http→https。
+  // 2026-09-21：只對 dims 轉檔連結做嘢；其他 URL（例如 FT images.ft.com/v3/image/raw/<encoded>）原樣照用，唔再亂解 %2F／%3A。
   var mm=u.match(/[?&]url=([^&]+)/);
   if(mm&&/\/dims[0-9]?\//.test(u)){try{var inner=decodeURIComponent(mm[1]);if(/^https?:\/\//.test(inner))u=inner.replace(/^http:/,"https:");}catch(e){}}
-  var i=u.indexOf("?"),p=i<0?u:u.slice(0,i),q=i<0?"":u.slice(i);return p.replace(/%2F/gi,"/").replace(/%3A/gi,":")+q;}
+  return u;}
 const ED={am:{lab:"☀️ 早報",win:"涵蓋前晚 18:00 至今朝 06:00"},pm:{lab:"🌙 晚報",win:"涵蓋今日 06:00 至 18:00"}};
 const ED2={am:{lab:"☀️ 午報",win:"涵蓋噚晚 21:00 至今朝 09:00"},pm:{lab:"🌙 夜報",win:"涵蓋今日 09:00 至 21:00"}};
 const ED2START="2026-08-15";
@@ -210,7 +211,7 @@ function renderBrief(key,label){
   const _bar=edBar(d), _barh=_bar?'<div class="edsw-wrap">'+_bar+'</div>':"";
   if(!data){ box.innerHTML=_barh+'<div class="empty">呢版未有'+esc(label)+'簡報 🗒️</div>'; return; }
   const paras=String(data.t).split("\n").filter(x=>x.trim()).map(p=>'<p>'+esc(p)+'</p>').join("");
-  const img=data.img?'<img class="bimg" src="'+esc(data.img)+'" onerror="this.style.display=\'none\'">':'';
+  const img=data.img?'<img class="bimg" src="'+esc(imgFix(data.img))+'" onerror="this.style.display=\'none\'">':'';
   const srcs=(data.src||[]).map(s=>'<a href="'+esc(s[1])+'" target="_blank" rel="noopener">'+esc(s[0])+'</a>').join("");
   box.innerHTML=_barh+'<div class="brief">'+img+'<div class="bhd"><h2>'+esc(label)+'</h2><div class="bupd">更新：'+esc(data.upd||d)+'　·　約 300 字簡報</div></div><div class="btxt">'+paras+'</div><div class="bsrc">來源：'+srcs+'</div></div>';
 }
@@ -237,10 +238,11 @@ function buildIdx(){
   SIDX=out;return out;
 }
 function hl(str,ts){
-  const t=esc(String(str||""));
-  if(!ts.length)return t;
+  // 2026-09-21：先用關鍵字 split 原文，再逐段 esc，唔會切開 &amp; 之類 HTML entity；搜含 & 嘅字亦配得中。
+  const s=String(str||"");
+  if(!ts.length)return esc(s);
   const r=new RegExp("("+ts.map(x=>x.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")).join("|")+")","gi");
-  return t.replace(r,'<mark>$1</mark>');
+  return s.split(r).map(function(seg,i){return i%2?'<mark>'+esc(seg)+'</mark>':esc(seg);}).join("");
 }
 function scard(r,ts){
   const it=r.it,img=it[6]||"",src=it[2]||"";

@@ -1,6 +1,7 @@
 # 門前直樹每日新聞 — 本機出稿規矩
 
 呢個資料夾係「每日新聞簡報」嘅出稿工作區。**全部規矩以本檔為準。**
+> **規矩放邊度（2026-09-21 起）**：selfcheck 會機械驗嘅 8 組規矩——時間窗、每組條數、禁用來源、hke 禁用＋合資格獨立來源、hk01 簽名段、簡報來源數、事件追蹤門檻、「無新進展」字眼——**機器版統一喺 `tools/rules.json`**，`tools/selfcheck.js` 直接讀佢，唔再自己寫一份。本檔對應段落（有標「以 `tools/rules.json` 為準」嗰啲）係俾人睇嘅抄本，內容同 rules.json 一致；改規矩要兩邊一齊改，跑 `node tools/selfcheck.js --print-rules` 可以印返機器版核對。
 
 ## 0. 講嘢方式（唔跟＝做錯）
 - 全程**廣東話**，輕鬆友善親切，**唔好用匪語**。
@@ -23,6 +24,7 @@
 夜報如果係凌晨 00:00–02:59 開，日期用**前一日**（即係補做嗰日嘅夜報）。
 
 ## 2. ★ 時間窗＝硬底線，冇鬆動位
+以 `tools/rules.json` → `window` 為準，內容如下：
 | 版 | 只收呢個時段發放（HKT）嘅新聞 |
 |---|---|
 | 午報 am | **噚日 21:00 之後、今日 09:30 之前** |
@@ -44,11 +46,11 @@
    - 驗 `JSON.parse` 過到先算。
 6. 跑自檢：`node tools/selfcheck.js <今日日期> <am|pm>`，**exit 0 先可以出街**。
 7. 跟自檢個 🖼 清單**逐條驗圖**（第 9 節，兩步都要做）。
-8. `cp index.html archive/YYYYMMDD.html`
+8. ~~`cp index.html archive/YYYYMMDD.html`~~ **已取消（2026-09-21）**：快照由第 11 步嘅 git commit 取代，唔使再 cp；`archive/` 舊檔留住、已 gitignore，selfcheck 亦唔再驗 archive 檔。
 9. **發佈**：唔使做任何嘢。8080 server（`serve_news.ps1`）就係直接讀呢個資料夾嘅 `index.html`，寫完即刻生效，Meshnet 睇嘅就係佢。
 10. 寫 `簡報/每日簡報_YYYYMMDD.md`（各組條數、自檢結果、遇到嘅問題）。
 11. **commit**（用戶 2026-09-21 要求，每次出完稿都要）：`git add -A && git commit -m "<午報|夜報> dd/mm/yyyy"`。
-    root 嘅 scratch（`*.html`／`*.xml`／`*.json`，`index.html`／`settings.json` 除外）同 `archive/` 已 gitignore，唔會入 commit。
+    root 嘅 scratch（`*.html`／`*.xml`／`*.json`，`index.html`／`settings.example.json` 除外）、`settings.json`（用戶狀態，2026-09-21 起唔入 git，範本係 `settings.example.json`）同 `archive/` 已 gitignore，唔會入 commit。
     夜報放棄嗰陣用 `git checkout -- index.html tools/` 還原，就係還原到午報嗰個 commit。
 12. 用廣東話向用戶報告，帶 timestamp。**只寫需要用戶跟進嘅事**（缺料、驗圖失敗、selfcheck fail、放棄咗嘅部分、要佢手動做嘅嘢）；一切正常嘅嘢唔好講，冇嘢要跟進就一句「✅ 已出，冇嘢要跟進」。
 
@@ -57,6 +59,7 @@
 
 ## 4. ★★★ 經濟組 hke 兩條硬規矩（selfcheck fatal）
 **呢兩條一定要原文貼落 Sub2 嘅指示入面。**
+①② 以 `tools/rules.json` → `hkeBan`／`indie` 為準，內容如下：
 ① **hke 禁用**：香港01（hk01.com）、星島（stheadline.com）、The Standard（thestandard.com.hk）、etnet 經濟通（etnet.com.hk）
    — 用戶原話：「香港01、星島嘅經濟版隱惡揚善、唱好香港，唔係以事論事」；The Standard 係星島集團旗下，同一把聲。
 ② **hke 每版最少一條**要嚟自呢個「合資格獨立來源」清單，**任何一間都算數**：
@@ -136,6 +139,7 @@
 - 硬規矩全部不變：時間窗、禁用來源、去重、唔收純娛樂／KOL（藝人緋聞幾熱都唔收）。熱度只係同級之間嘅排序器，「突發重大＞影響多人」行先。
 
 ## 6. 4 個 subagent 點分工
+每組條數以 `tools/rules.json` → `mins` 為準，內容如下：
 - **Sub1**：香港社會 hks 8 條 ＋ 民生 hkl 8 條（唔好收政界表態／法官人事，留返俾 Sub2）
 - **Sub2**：香港經濟 hke 3 條（**第 4 節要原文貼晒俾佢**）＋ 政治 hkp 3 條
 - **Sub3**：中國 cn **8** 條（2026-09-19 由 3 加到 8）／美國 us 3 ／台灣 tw 3 ／美伊 war 3。cn 8 條唔可以淨靠星島，要混埋香港01 /zone/5、大紀元、希望之聲；唔夠就開補位 agent，一樣守硬時間窗。
@@ -172,6 +176,7 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
 - **相對時間換算**（仍然適用於其他真係冇 meta 嘅站）：可以用**單篇頁上面**嘅「N mins/hours ago」用本機時鐘減返；「yesterday／N days ago」直接唔要。**列表頁嘅相對時間唔可信。**
 - og:image 必填，讀唔到就唔要嗰條；**唔准自己砌圖 URL，一定要由原文逐字抄**。
 - **hk01 CDN 圖一定要連簽名段**，簽名段固定 43 個字元，唔係 43 就重新 WebFetch（fatal）。
+  （簽名段長度以 `tools/rules.json` → `hk01.sigLen` 為準，同上面一致。）
 - og:image **唔好用轉檔連結**（Brightspot dims3 嗰類 `.../format/jpeg/?url=...`）→ 抄 `?url=` 入面嗰條原圖並改 https。
   ⚠ 例外（呢啲要照抄完整，剝殼就壞）：世界日報同 UDN 嘅 `pgw...photo.php?u=`、
   新加坡 CNA 嘅 `dam.mediacorp.sg/…?itok=`、Hong Kong Business 嘅 `cmgassets.com/…?VersionId=…&itok=`、
@@ -179,6 +184,7 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
 - ⚠ **HTML 入面嘅 `&amp;` 要解返做 `&` 先入卡**（Semafor、衛報、UDN／世界日報 photo.php 嗰啲長 query 最常中）；唔解就成條圖連結壞。
 
 ## 8. ★★ 事件追蹤 track（冇上限，唔准刪）
+欄數、最少條數、20／40 版門檻、「無新進展」字眼（NOP regex，同 `index.html` 嘅 `NOP` 一致，selfcheck 會核對）以 `tools/rules.json` → `track` 為準，內容如下：
 1. **上一版 track 每一條，今版都要照出**（漏一條 exit 1，除非喺 `tools/retired.json`）。
 2. 冇新進展**唔係**除名理由：狀態寫「跟進中」，進展寫「今日無新進展；最後進展（MM-DD）：⋯」。
 3. 有新線索直接加落去（**加線索唔使問用戶**），同時加 `tools/track_keys.json` 關鍵詞。
@@ -212,6 +218,7 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
 - 條數多可以開幾個 subagent 分批驗。
 
 ## 10. 兩篇簡報
+來源數／媒體數以 `tools/rules.json` → `brief` 為準，內容如下：
 - **ai：最少 4 個來源、最少 3 間唔同媒體。warb：最少 3 個來源、最少 2 間唔同媒體。**（fatal）
 - 來源名寫法 `媒體名 — 標題`，連結唔准重複、一定要 https 單篇。
 - `upd` 必須等於今日日期。**唔准抄上一版嗰篇。**
@@ -269,6 +276,7 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
 - **台灣 tw**：ETtoday（https://www.ettoday.net/news/news-list-YYYY-MM-DD-0.htm 帶日期）、UDN 單篇、自由時報單篇、NOWnews、星島兩岸熱話 /china-taiwan/（SETN 唔好用）
 - **美伊 war**：① Al Arabiya English ② Times of Israel ③ Iran International（liveblog 唔可以做卡）④ i24NEWS ⑤ 後備：半島單篇、The National、愛爾蘭時報、日經亞洲、gCaptain。已試唔得：jpost 列表、apnews hub、MEE、arabnews 列表、**Reuters（2026-09-19 實測全站 401）**
 
+禁用清單以 `tools/rules.json` → `ban` 為準，內容如下：
 **禁用（selfcheck fatal）**：東網 on.cc、TVB、大公、文匯、中央社／CNA／Focus Taiwan（⚠ **指台灣嘅 cna.com.tw／focustaiwan；新加坡 Channel NewsAsia channelnewsasia.com 唔同嘢，用得**）、政府網／新聞公報、RTHK、巴士的報 bastillepost、am730、香港商報 hkcd、星島美國／加拿大。**任何一組唔可以 100% 單一來源。**
 
 **已試唔得**：HKFP、光傳媒、Yahoo HK、SCMP、now、Channel C、信報（robots 封）、明報（403）。
@@ -291,7 +299,8 @@ selfcheck 出呢個 ⚠ **唔可以照出街，一定要打開兩條比對內容
 
 ## 14. ⚙️ Web app 設定（2026-09-07 起）
 - 左欄下半有「⚙️ 設定」盒：Kenny 輸入想幾點睇到午報／夜報（`hh:mm` 或 `hhmm` 都收）。
-- 儲存去本資料夾 `settings.json`（`{"amView":"10:00","pmView":"22:00","updated":...}`），經 `serve_news.ps1` 嘅 `GET/POST …/api/settings` 寫檔；冇 server 就 fallback localStorage。
+- 儲存去本資料夾 `settings.json`（`{"amView":"10:00","pmView":"22:00","updated":...}`），經 `serve_news.ps1` 嘅 `GET/POST …/api/settings` 寫檔；冇 server 就 fallback localStorage。`settings.json` 唔入 git（範本 `settings.example.json`）。
+- **server 行為（2026-09-21 起）**：只 serve `index.html`、root 嘅 `*.png`／`*.svg`／`*.ico` 同 `/api/settings`，其他路徑一律 404；POST 只收 JSON object，key 只准 `amView`／`pmView`（`HH:MM`）／`updated`，唔合格回 400；每次 POST 後嘅 `sync_open_times.ps1` 同一分鐘內只跑一次；`server_log.txt` 超過 500 行自動只留最後 250 行。
 - 排程任務 `daily-news-am`／`daily-news-pm`／`daily-news-sync` 開工時讀 `settings.json`：死線＝睇報時間 −15 分鐘，開工＝睇報時間 −90 分鐘（自動改 cron）。
 - **出稿時唔准郁**設定盒嗰組 HTML／CSS／JS（`setbox`、`parseHM`、`saveSettings`、`loadSettings`），亦唔好郁 `settings.json`。
 - **自動開網頁**：Windows 排程 `DailyNews-Open-AM`／`DailyNews-Open-PM` 喺睇報時間跑 `open_news.ps1`（開 http://localhost:8080/）。每次 POST settings 後 server 會背景跑 `sync_open_times.ps1` 重新註冊兩個 task 嘅時間（唔使 admin，即時生效）。

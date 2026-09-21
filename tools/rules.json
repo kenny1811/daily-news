@@ -1,0 +1,91 @@
+{
+  "_說明": "出稿規矩嘅唯一機器版（2026-09-21 起）。selfcheck.js 直接讀呢個檔；CLAUDE.md 對應段落只係人睇嘅抄本，兩邊要一致。改規矩：改呢度 → 跑 `node tools/selfcheck.js --print-rules` 睇返 → 同步 CLAUDE.md 嘅文字。regex 用 JS 寫法（re＝pattern，flags＝i 等），name＝報錯時顯示嘅名。",
+
+  "window": {
+    "_說明": "時間窗＝硬底線（CLAUDE.md 第 2 節）。floor／ceil 全部 HKT；day=prev 即係噚日、same 即係出稿當日。strictFrom：由呢日（含）起嘅版先用新規則（parse 做 epoch、驗上限、驗未來）；之前嘅舊版照舊只用字串比較驗下限，免得舊資料（08-01～08-27 嘅 T 格式、非 +08 offset）被翻舊帳。",
+    "am": { "floor": { "day": "prev", "time": "21:00" }, "ceil": { "day": "same", "time": "09:30" } },
+    "pm": { "floor": { "day": "same", "time": "09:00" }, "ceil": { "day": "same", "time": "21:30" } },
+    "tz": "+08:00",
+    "strictFrom": "2026-09-21"
+  },
+
+  "mins": {
+    "_說明": "每組最少條數（CLAUDE.md 第 6 節）。",
+    "hks": 8, "hkl": 8, "hke": 3, "hkp": 3, "cn": 8, "us": 3, "tw": 3, "war": 3
+  },
+
+  "ban": {
+    "_說明": "全組禁用來源（CLAUDE.md 第 11 節「禁用」）。來源名或 URL 中一個就 fatal。",
+    "list": [
+      { "re": "on\\.cc", "flags": "i", "name": "東網 on.cc" }, { "re": "東網", "flags": "", "name": "東網" },
+      { "re": "tvb\\.com", "flags": "i", "name": "TVB" }, { "re": "無綫|TVB", "flags": "i", "name": "TVB" },
+      { "re": "takungpao|大公", "flags": "i", "name": "大公報" }, { "re": "wenweipo|文匯", "flags": "i", "name": "文匯報" },
+      { "re": "cna\\.com\\.tw|focustaiwan", "flags": "i", "name": "中央社／CNA" }, { "re": "^中央社$|中央通訊社", "flags": "", "name": "中央社" },
+      { "re": "\\.gov(\\.|$)|gov\\.hk|gov\\.tw|gov\\.cn", "flags": "i", "name": "政府網" },
+      { "re": "bastillepost", "flags": "i", "name": "巴士的報" }, { "re": "巴士的報", "flags": "", "name": "巴士的報" },
+      { "re": "am730", "flags": "i", "name": "am730" }, { "re": "^am730$", "flags": "", "name": "am730" },
+      { "re": "rthk\\.hk", "flags": "i", "name": "RTHK 香港電台" }, { "re": "香港電台|RTHK", "flags": "i", "name": "RTHK 香港電台" },
+      { "re": "hkcd\\.com\\.hk", "flags": "i", "name": "香港商報" }, { "re": "香港商報", "flags": "", "name": "香港商報" },
+      { "re": "singtaousa\\.com|singtao\\.ca(/|$|\\?)", "flags": "i", "name": "星島美國／加拿大" }, { "re": "星島美國|星島加拿大|星島美加|星島日報（美國|星島日報（加拿大", "flags": "", "name": "星島美國／加拿大" }
+    ]
+  },
+
+  "hkeBan": {
+    "_說明": "經濟組 hke 額外禁用（CLAUDE.md 第 4 節①）。",
+    "list": [
+      { "re": "hk01\\.com", "flags": "i", "name": "香港01" }, { "re": "^香港01$", "flags": "", "name": "香港01" },
+      { "re": "stheadline\\.com", "flags": "i", "name": "星島" }, { "re": "星島", "flags": "", "name": "星島" },
+      { "re": "thestandard\\.com\\.hk", "flags": "i", "name": "The Standard（星島集團）" }, { "re": "The Standard", "flags": "i", "name": "The Standard（星島集團）" },
+      { "re": "etnet\\.com\\.hk", "flags": "i", "name": "etnet 經濟通" }, { "re": "etnet|經濟通", "flags": "i", "name": "etnet 經濟通" }
+    ]
+  },
+
+  "indie": {
+    "_說明": "hke 合資格獨立來源（CLAUDE.md 第 4 節②），每版最少一條要中呢張清單任何一間。路透社 reuters 已於 2026-09-19 剔除（全站 401）。",
+    "list": [
+      { "re": "theinitium\\.com", "flags": "i", "name": "端傳媒" }, { "re": "端傳媒", "flags": "", "name": "端傳媒" },
+      { "re": "greenbean\\.media", "flags": "i", "name": "綠豆" }, { "re": "^綠豆$", "flags": "", "name": "綠豆" },
+      { "re": "epochtimes", "flags": "i", "name": "大紀元" }, { "re": "大紀元", "flags": "", "name": "大紀元" },
+      { "re": "worldjournal\\.com", "flags": "i", "name": "世界日報" }, { "re": "世界日報", "flags": "", "name": "世界日報" },
+      { "re": "i-cable\\.com", "flags": "i", "name": "有線新聞" }, { "re": "有線新聞|有線財經", "flags": "", "name": "有線新聞" },
+      { "re": "cnbc\\.com", "flags": "i", "name": "CNBC" }, { "re": "^CNBC$", "flags": "i", "name": "CNBC" },
+      { "re": "theguardian\\.com", "flags": "i", "name": "衛報" }, { "re": "衛報|Guardian", "flags": "i", "name": "衛報" },
+      { "re": "asia\\.nikkei\\.com|nikkei\\.com", "flags": "i", "name": "日經亞洲" }, { "re": "日經", "flags": "", "name": "日經亞洲" },
+      { "re": "bbc\\.com|bbc\\.co\\.uk", "flags": "i", "name": "BBC" }, { "re": "^BBC", "flags": "i", "name": "BBC" },
+      { "re": "politico\\.com", "flags": "i", "name": "Politico" }, { "re": "^Politico$", "flags": "i", "name": "Politico" },
+      { "re": "thehill\\.com", "flags": "i", "name": "The Hill" }, { "re": "^The Hill$", "flags": "i", "name": "The Hill" },
+      { "re": "france24\\.com", "flags": "i", "name": "France24" }, { "re": "France ?24", "flags": "i", "name": "France24" },
+      { "re": "npr\\.org", "flags": "i", "name": "NPR" }, { "re": "^NPR$", "flags": "i", "name": "NPR" },
+      { "re": "straitstimes\\.com", "flags": "i", "name": "海峽時報" }, { "re": "海峽時報|Straits Times", "flags": "i", "name": "海峽時報" },
+      { "re": "channelnewsasia\\.com", "flags": "i", "name": "新加坡CNA" }, { "re": "新加坡ＣＮＡ|新加坡CNA", "flags": "i", "name": "新加坡CNA" },
+      { "re": "asiatimes\\.com", "flags": "i", "name": "Asia Times" }, { "re": "Asia ?Times", "flags": "i", "name": "Asia Times" },
+      { "re": "fortune\\.com", "flags": "i", "name": "Fortune" }, { "re": "^Fortune$", "flags": "i", "name": "Fortune" },
+      { "re": "semafor\\.com", "flags": "i", "name": "Semafor" }, { "re": "^Semafor$", "flags": "i", "name": "Semafor" },
+      { "re": "dimsumdaily\\.hk", "flags": "i", "name": "Dimsum Daily" }, { "re": "Dimsum ?Daily", "flags": "i", "name": "Dimsum Daily" },
+      { "re": "asiafinancial\\.com", "flags": "i", "name": "Asia Financial" }, { "re": "Asia ?Financial", "flags": "i", "name": "Asia Financial" },
+      { "re": "dw\\.com", "flags": "i", "name": "DW 德國之聲" }, { "re": "德國之聲|^DW$", "flags": "i", "name": "DW 德國之聲" }
+    ]
+  },
+
+  "hk01": {
+    "_說明": "hk01 CDN 圖片簽名段（CLAUDE.md 第 7 節）：cdn.hk01.com 嘅圖一定要帶簽名段，長度固定 43 個字元。",
+    "cdnRe": "cdn\\.hk01\\.com/",
+    "sigLen": 43
+  },
+
+  "brief": {
+    "_說明": "兩篇簡報（CLAUDE.md 第 10 節）：minSrc＝最少來源數、minOutlets＝最少唔同媒體數、minLen＝正文最少字數。",
+    "ai":   { "minSrc": 4, "minOutlets": 3, "minLen": 200 },
+    "warb": { "minSrc": 3, "minOutlets": 2, "minLen": 200 }
+  },
+
+  "track": {
+    "_說明": "事件追蹤（CLAUDE.md 第 8 節）：每條一定要 cols 欄；最少 minRows 條；連續 lowfreqAfter 版無新進展→直接轉低頻（唔使問）；連續 retireAfter 版→可除名（有已知後續節點除外）；lookback＝回望幾多版。nop＝「無新進展」字眼嘅 regex（同 index.html 嘅 NOP 一模一樣，改要兩邊一齊改）。",
+    "cols": 3,
+    "minRows": 3,
+    "lowfreqAfter": 20,
+    "retireAfter": 40,
+    "lookback": 45,
+    "nop": "今日無新進展|今日未見新|未見新進展|未見新報道|無新進展|冇新進展|暫無新進展|暫未見新"
+  }
+}

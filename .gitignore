@@ -3,7 +3,8 @@
 !/index.html
 /*.xml
 /*.json
-!/settings.json
+# settings.json 係用戶狀態（每次 POST 都改），唔入 git；範本用 settings.example.json
+!/settings.example.json
 *.tmp
 
 # 執行 log
