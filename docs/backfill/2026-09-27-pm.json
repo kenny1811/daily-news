@@ -1,0 +1,638 @@
+{
+ "checkedAt": "2026-09-28T15:46:08.871Z",
+ "historicalBackfill": true,
+ "cards": [
+  {
+   "group": "hks",
+   "title": "西半山男子疑家中吸毒被捕",
+   "url": "https://www.hk01.com/article/60394248",
+   "publishedHKT": "2026-09-27 20:06",
+   "publishedRaw": "2026-09-27T20:06:47+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260928/1181275768450191360732410.jpeg/yqOJJ-LXhmKQchBfahF14jCIr3mf7oHZV3kje1d5I3s",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|216509",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 216509
+  },
+  {
+   "group": "hks",
+   "title": "大角咀夾公仔舖遭盜約萬元",
+   "url": "https://www.hk01.com/article/60394250",
+   "publishedHKT": "2026-09-27 19:43",
+   "publishedRaw": "2026-09-27T19:43:10+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180970503871926272486037.jpeg/-GqHFM0MD3ghObINxQhBJwnLbk8Rgzlun2ou-p9qLvo",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|251498",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 251498
+  },
+  {
+   "group": "hks",
+   "title": "彩雲邨墮木塊砸傷七歲女童",
+   "url": "https://www.hk01.com/article/60394246",
+   "publishedHKT": "2026-09-27 19:35",
+   "publishedRaw": "2026-09-27T19:35:32+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/455750/org/279715e4026ccc23fd4574c8f6196a6e.jpg/Xm9gUzJVb_LjDXmgGSAiYr7iYRN94B9MAAKf9gACn_Y?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|130622",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 130622
+  },
+  {
+   "group": "hks",
+   "title": "西灣河男途人遭七人車撞傷",
+   "url": "https://www.hk01.com/article/60394228",
+   "publishedHKT": "2026-09-27 18:12",
+   "publishedRaw": "2026-09-27T18:12:19+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180941273368891392291458.jpeg/6101bjtp3oGYlweS0TRjH5NHSTEM_fzQX-TKGl_kyho?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|285603",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 285603
+  },
+  {
+   "group": "hks",
+   "title": "港鐵女子指遭偷拍拉扯男乘客",
+   "url": "https://www.hk01.com/article/60394216",
+   "publishedHKT": "2026-09-27 17:43",
+   "publishedRaw": "2026-09-27T17:43:00+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180943951784316928396524.jpeg/GjRIm9cRUeY-Ei3jeAclJliuKP_X15U27LMjPuyzIz4",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|166629",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 166629
+  },
+  {
+   "group": "hks",
+   "title": "男子酷熱天氣遊娥眉洲不治",
+   "url": "https://www.hk01.com/article/60394195",
+   "publishedHKT": "2026-09-27 16:14",
+   "publishedRaw": "2026-09-27T16:14:22+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260903/1172113586118463488912346.jpeg/W8VxZPeWbCQtqpXEotGc3GWubJgN54dvy7pYj8u6WI8?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|171983",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 171983
+  },
+  {
+   "group": "hks",
+   "title": "流浮山鐵皮屋火警波及車輛",
+   "url": "https://www.dimsumdaily.hk/lau-fau-shan-lorry-fire-sends-thick-smoke-skyward-before-firefighters-extinguish-blaze/",
+   "publishedHKT": "2026-09-27 16:22",
+   "publishedRaw": "2026-09-27T08:22:39+00:00",
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/27162156/Kau-Nam-Street-3.webp",
+   "ogMatch": true,
+   "imageResponse": "200|image/webp|100396",
+   "magic": "524946462488010057454250",
+   "bytes": 100396
+  },
+  {
+   "group": "hks",
+   "title": "荃錦公路電單車自炒騎士受傷",
+   "url": "https://www.hk01.com/article/60394117",
+   "publishedHKT": "2026-09-27 09:41",
+   "publishedRaw": "2026-09-27T09:41:31+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180810671382597632498732.jpeg/4ZAUmaFU5rEwZSfMhfeXxAXRDp58WP0swhr6CcIa-gk?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|264491",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 264491
+  },
+  {
+   "group": "hkl",
+   "title": "破邊洲預約遊人逾半未到訪",
+   "url": "https://www.hk01.com/article/60394264",
+   "publishedHKT": "2026-09-27 21:29",
+   "publishedRaw": "2026-09-27T21:29:50+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180993619205558272093524.jpeg/6NDt8gBi82jDnNKkHTetkben0hWfi3CfxKLJJsSiySY?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|423105",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 423105
+  },
+  {
+   "group": "hkl",
+   "title": "房屋局試用機械人清洗屋邨水缸",
+   "url": "https://www.hk01.com/article/60394196",
+   "publishedHKT": "2026-09-27 17:18",
+   "publishedRaw": "2026-09-27T17:18:44+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260928/1181284796832157696317258.jpeg/L357peTx7C-pJuGjJW-KZpo6YNuKfANUh_OwuIfzsLg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|160093",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 160093
+  },
+  {
+   "group": "hkl",
+   "title": "公屋遷出高危戶獲轉介輔導",
+   "url": "https://www.hk01.com/article/60394202",
+   "publishedHKT": "2026-09-27 17:04",
+   "publishedRaw": "2026-09-27T17:04:35+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260407/1118172875912646656432510.jpeg/d8_JwsZuGdhf_BuontThVVTgK5REUSAS-aVQ-_mlUPs?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|195065",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 195065
+  },
+  {
+   "group": "hkl",
+   "title": "大灣區航空開通直飛泗水航線",
+   "url": "https://www.hk01.com/article/60394200",
+   "publishedHKT": "2026-09-27 16:40",
+   "publishedRaw": "2026-09-27T16:40:09+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180917560384688128547063.jpeg/BTYpiYkeEJSUeef9ldZxkrTnCOBzfI4GjYdNrY2HTa0?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|207225",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 207225
+  },
+  {
+   "group": "hkl",
+   "title": "吐露港渡海泳吸引七百一十人",
+   "url": "https://www.hk01.com/article/60394177",
+   "publishedHKT": "2026-09-27 16:33",
+   "publishedRaw": "2026-09-27T16:33:58+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180900297480867840986310.jpeg/QR7urmWcXF_4ha643I0CNoKM3hjHIkSlWj6LzHM-i8w?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|220090",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 220090
+  },
+  {
+   "group": "hkl",
+   "title": "穗禾苑消防裝置失效工程受阻",
+   "url": "https://www.hk01.com/article/60394070",
+   "publishedHKT": "2026-09-27 16:05",
+   "publishedRaw": "2026-09-27T16:05:46+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260928/1181231064052404224508361.jpeg/fVBdM8dMJr_7jLpOMFWnZnI7tdii8qacrOPfvqzj374",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|293647",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 293647
+  },
+  {
+   "group": "hkl",
+   "title": "中秋回港潮港珠澳大橋繁忙",
+   "url": "https://www.hk01.com/article/60394182",
+   "publishedHKT": "2026-09-27 15:28",
+   "publishedRaw": "2026-09-27T15:28:44+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180902114658881536875013.jpeg/Zq-bRkVaB9zZL5NRzcwRVbVkitf_KPrEtgdRd7YHUXc?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|28131",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 28131
+  },
+  {
+   "group": "hkl",
+   "title": "四成行人過路處換新發聲裝置",
+   "url": "https://www.dimsumdaily.hk/40-of-crossings-now-have-new-generation-electronic-audible-devices/",
+   "publishedHKT": "2026-09-27 13:15",
+   "publishedRaw": "2026-09-27T05:15:25+00:00",
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/27131315/TD-2-232.webp",
+   "ogMatch": true,
+   "imageResponse": "200|image/webp|82858",
+   "magic": "52494646a243010057454250",
+   "bytes": 82858
+  },
+  {
+   "group": "hke",
+   "title": "陳茂波指八月出口增百分之五十三",
+   "url": "https://www.dimsumdaily.hk/august-exports-up-53-to-hk667-9b-on-ai-paul-chan-says-3-5-4-5-goal-still-in-reach/",
+   "publishedHKT": "2026-09-27 14:53",
+   "articleResponse": "200 text/html; charset=UTF-8 508675",
+   "publishedRaw": [
+    "2026-09-27T06:53:10+00:00",
+    "2026-09-27T06:53:10+00:00"
+   ],
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/27144552/Paul-Chan-2-232-1.webp",
+   "ogMatch": true,
+   "imageResponse": "200 image/webp 127956",
+   "magic": "52494646ccf3010057454250",
+   "bytes": 127956
+  },
+  {
+   "group": "hke",
+   "title": "吉寶星和商討M1潛在交易",
+   "url": "https://www.straitstimes.com/business/companies-markets/keppel-starhub-discuss-potential-m1-deal-grab-execs-buy-shares-after-stock-falls-markets-this-week",
+   "publishedHKT": "2026-09-27 12:00",
+   "articleResponse": "200 text/html; charset=utf-8 162454",
+   "publishedRaw": [
+    "2026-09-27T12:00:00+08:00"
+   ],
+   "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/8f2ecd06c24bebd6e0095183bf147f943c078f6f5cb5aae36532eb5dbbb69f0b",
+   "ogMatch": true,
+   "imageResponse": "200 image/webp 170590",
+   "magic": "52494646569a020057454250",
+   "bytes": 170590
+  },
+  {
+   "group": "hke",
+   "title": "鄧希煒談大學城帶動經濟",
+   "url": "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/507874/%E8%B2%A1%E6%99%BA%E5%95%86%E5%82%B3-%E9%84%A7%E5%B8%8C%E7%85%92-%E6%B5%B7%E5%A4%96%E4%BE%8B%E5%AD%90%E8%AA%AA%E5%90%8D%E5%A4%A7%E5%AD%B8%E5%9F%8E%E5%8A%A9%E5%B8%B6%E5%8B%95%E7%B6%93",
+   "publishedHKT": "2026-09-27 09:33",
+   "articleResponse": "200 text/html; charset=UTF-8 187681",
+   "publishedRaw": [
+    "2026-09-27T01:33:37+00:00"
+   ],
+   "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/09/27183530/WhatsApp-Image-2026-09-27-at-10.34.31.jpeg",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 472989",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 472989
+  },
+  {
+   "group": "hkp",
+   "title": "麥美娟稱黃碧嬌病情涉私隱",
+   "url": "https://www.hk01.com/article/60394144",
+   "publishedHKT": "2026-09-27 11:56",
+   "articleResponse": "200 text/html; charset=utf-8 499510",
+   "publishedRaw": [
+    "2026-09-27T11:56:21+08:00"
+   ],
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260707/1151223636137349120378569.jpeg/I6h34mwP0cE76hiZsy7yo3ibIIrUmz5wGeQQFTzkEBU?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 115108",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 115108
+  },
+  {
+   "group": "hkp",
+   "title": "盧寵茂否認護士畢業即失業",
+   "url": "https://www.dimsumdaily.hk/lo-chung-mau-says-hospital-authority-has-over-3000-nurse-vacancies-and-rejects-graduate-joblessness-claim/",
+   "publishedHKT": "2026-09-27 10:46",
+   "articleResponse": "200 text/html; charset=UTF-8 508880",
+   "publishedRaw": [
+    "2026-09-27T02:46:43+00:00",
+    "2026-09-27T02:46:43+00:00"
+   ],
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/27104508/Lo-Chung-mau-2-23.webp",
+   "ogMatch": true,
+   "imageResponse": "200 image/webp 143706",
+   "magic": "524946465231020057454250",
+   "bytes": 143706
+  },
+  {
+   "group": "hkp",
+   "title": "何永賢稱簡約公屋明年三月建成",
+   "url": "https://www.stheadline.com/politics/3619811/",
+   "publishedHKT": "2026-09-27 12:00",
+   "articleResponse": "200 text/html; charset=UTF-8 195121",
+   "publishedRaw": [
+    "2026-09-27T12:00:08+0800"
+   ],
+   "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/ur/sthl_square/ecb853fab87be7549f6822092902aa3f/2026-09/NA260625HA054thumb.jpg",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg; charset=UTF-8 316386",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 316386
+  },
+  {
+   "group": "cn",
+   "title": "廣西教師被迫自費培訓惹議",
+   "url": "https://www.hk01.com/article/60394139",
+   "publishedHKT": "2026-09-27 12:00",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T12:00:21+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180840383890853888759048.jpeg/1cvWsM_VCmFmVkjhY7mz16c25rmZUvnmdxpWng0aVp4?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|191074",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "廣州景區女演員高空墮下骨折",
+   "url": "https://www.hk01.com/article/60394150",
+   "publishedHKT": "2026-09-27 13:00",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T13:00:32+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180857185983270912428603.png/T0yObFYmQPZvQlkrYsD-sz5NNpSFPIUFutTHc7rUx3M?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|121411",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "高鐵即棄座套熱議清潔安排",
+   "url": "https://www.hk01.com/article/60394180",
+   "publishedHKT": "2026-09-27 17:00",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T17:00:16+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1181003853911298048372045.jpeg/PX6DnxfgfpjsVd0MxRseyCw5fwoMvoEe4APqu-AD6rs",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|203976",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "京港高鐵雄商段將正式開通",
+   "url": "https://www.hk01.com/article/60394213",
+   "publishedHKT": "2026-09-27 19:00",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T19:00:21+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180929529368023040184760.png/jwkW-ebiajFNB-GxtjJikA3FtV5z3ouQMPS7lTD0u5U?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|191248",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "日本前外相岩屋毅率團訪京",
+   "url": "https://www.hk01.com/article/60394170",
+   "publishedHKT": "2026-09-27 14:18",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T14:18:54+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260730/1159504973885607936054168.jpeg/6nB46C8kgFLYri9LGy0jZMFttJAUGZ8_qAjz26gI89s?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|155498",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "河南餐廳老闆獎員工寶馬車",
+   "url": "https://www.hk01.com/article/60394184",
+   "publishedHKT": "2026-09-27 16:00",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T16:00:32+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180900991331995648653027.png/lmwZevfoFQgK4n4ACIgX86tJqYMZxEekYHAaemBwGno?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|92195",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "中國賣地收入按年下跌近29%",
+   "url": "https://www.epochtimes.com/b5/26/9/27/n14858250.htm",
+   "publishedHKT": "2026-09-27 16:21",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T08:21:27.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2020/06/1-605x359.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|48725",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "福建羅源工地泥石流三人失聯",
+   "url": "https://www.epochtimes.com/b5/26/9/27/n14858332.htm",
+   "publishedHKT": "2026-09-27 19:44",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T11:44:42.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/09/id14858359-MixCollage-27-Sep-2026-11-39-AM-8225-600x359.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|159220",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "us",
+   "title": "蘋果侵權案判賠五十七億美元",
+   "url": "https://www.hk01.com/article/60394206",
+   "publishedHKT": "2026-09-27 17:03",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T17:03:12+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20240219/836256654247858176713589.jpeg/NP9I9Tj9-hTRtEIoGJxTG6khOcLKktj07hV7w-4Ve8M?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|116600",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "us",
+   "title": "波音737MAX發現導航軟件缺陷",
+   "url": "https://www.hk01.com/article/60394173",
+   "publishedHKT": "2026-09-27 14:42",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T14:42:59+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260225/1103447843089158144982174.jpeg/88jl5IGtCv1l1vYM6ahaYMeicr0YxJDt5RN7GuUTexo?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|40556",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "us",
+   "title": "民主黨擬奪眾院後查特朗普家族",
+   "url": "https://newtalk.tw/news/view/2026-09-27/1062196",
+   "publishedHKT": "2026-09-27 17:31",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T17:31:44+08:00",
+   "ogImage": "https://s.newtalk.tw/album/news/1063/6ab8e2721ee3c.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|165812",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "tw",
+   "title": "蔣萬安中秋宴請議員部署選戰",
+   "url": "https://www.nexttv.com.tw/NextTV/News/Home/Politics/2026-09-27/2478648.html",
+   "publishedHKT": "2026-09-27 15:06",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T15:06:14+08:00",
+   "ogImage": "https://image.nexttv.com.tw/material/news/img/2026/09/202609271248393lXp.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|315852",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "tw",
+   "title": "高鐵自由座人潮外溢商務艙",
+   "url": "https://newtalk.tw/news/view/2026-09-27/1062199",
+   "publishedHKT": "2026-09-27 17:58",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T17:58:55+08:00",
+   "ogImage": "https://s.newtalk.tw/album/news/1015/6981834983cb8.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|2419880",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "tw",
+   "title": "台灣收假料22路段易擠塞",
+   "url": "https://newtalk.tw/news/view/2026-09-27/1062215",
+   "publishedHKT": "2026-09-27 18:43",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T18:43:07+08:00",
+   "ogImage": "https://s.newtalk.tw/album/news/1063/6ab8f2e12ac24.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|64884",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "war",
+   "title": "伊朗改走裏海維持貿易出口",
+   "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz",
+   "publishedHKT": "2026-09-27 16:49",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T08:49:32Z",
+   "ogImage": "https://www.aljazeera.com/wp-content/uploads/2012/08/201281221355296734_20.jpeg?resize=1200%2C675",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|162881",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "war",
+   "title": "分析指美方以制裁換取伊朗讓步",
+   "url": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer",
+   "publishedHKT": "2026-09-27 21:17",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T13:17:53Z",
+   "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab7d4f7ee67-1790432503.jpg?resize=1920%2C1440",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|305824",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "war",
+   "title": "中東戰事推高歐洲能源危機風險",
+   "url": "https://english.elpais.com/international/2026-09-27/middle-east-conflicts-push-europe-toward-a-second-energy-crisis-in-five-years.html",
+   "publishedHKT": "2026-09-27 12:00",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T06:00:00+02:00",
+   "ogImage": "https://imagenes.elpais.com/resizer/v2/6VN6MMD7BFP4DLYXDGKEGDSBTQ.jpg?auth=9a305d62c5f8c462f3e5e7dc6239b941af6750ed96ee7b6bd1c8f33dbb0ad219&width=1200",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|67775",
+   "magic": "ffd8ffe000104a4649460001"
+  }
+ ],
+ "briefs": [
+  {
+   "date": "2026-09-27",
+   "edition": "pm",
+   "kind": "ai",
+   "cutoffHKT": "2026-09-27T21:30:00+08:00",
+   "sources": [
+    {
+     "url": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
+     "status": 200,
+     "publishedRaw": "2026-09-27T09:23:36+00:00",
+     "datesRaw": [
+      "2026-09-27T09:23:36+00:00",
+      "2026-09-27T09:26:00+00:00",
+      "2026-09-27T09:23:36+00:00",
+      "2026-09-27T09:26:00+00:00"
+     ]
+    },
+    {
+     "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
+     "status": 200,
+     "publishedRaw": "2026-09-27T10:59:11+00:00",
+     "datesRaw": [
+      "2026-09-27T10:59:11+00:00",
+      "2026-09-27T10:59:39+00:00",
+      "2026-09-27T10:59:11+00:00",
+      "2026-09-27T10:59:39+00:00"
+     ]
+    },
+    {
+     "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+     "status": 200,
+     "publishedRaw": "2026-09-27T09:00:01.000Z",
+     "datesRaw": [
+      "2026-09-27T09:00:01.000Z",
+      "2026-09-28T12:50:45.000Z"
+     ]
+    },
+    {
+     "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+     "status": 200,
+     "publishedRaw": "2026-09-26T21:02:06+00:00",
+     "datesRaw": [
+      "2026-09-26T21:02:06+00:00",
+      "2026-09-26T21:02:14+00:00",
+      "2026-09-26T21:02:06+00:00",
+      "2026-09-26T21:02:14+00:00"
+     ]
+    }
+   ],
+   "illustrationArticle": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
+   "illustrationOg": "https://the-decoder.com/wp-content/uploads/2026/09/openai_hacking_arms-1.png",
+   "imageVerification": {
+    "articleStatus": 200,
+    "ogMatch": true,
+    "imageStatus": 200,
+    "contentType": "image/png",
+    "bytes": 893378,
+    "first16Hex": "89504e470d0a1a0a0000000d49484452",
+    "format": "PNG",
+    "width": 1376,
+    "height": 768,
+    "decoded": true
+   }
+  },
+  {
+   "date": "2026-09-27",
+   "edition": "pm",
+   "kind": "warb",
+   "cutoffHKT": "2026-09-27T21:30:00+08:00",
+   "sources": [
+    {
+     "url": "https://www.hurriyetdailynews.com/iran-stands-firm-on-hormuz-plan-after-trump-rejection-227388",
+     "status": 200,
+     "publishedRaw": "2026-09-27T05:04:12+03:00",
+     "datesRaw": [
+      "2026-09-27T05:04:12+03:00",
+      "2026-09-27T05:04:12+03:00"
+     ]
+    },
+    {
+     "url": "https://www.ajupress.com/view/20260927114070722",
+     "status": 200,
+     "publishedRaw": "2026-09-27T11:40:00+09:00",
+     "datesRaw": [
+      "2026-09-27T11:40:00+09:00",
+      "2026-09-27T11:40:00+09:00"
+     ]
+    },
+    {
+     "url": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer",
+     "status": 200,
+     "publishedRaw": "2026-09-27T13:17:53Z",
+     "datesRaw": [
+      "2026-09-27T13:17:53Z",
+      "2026-09-28T06:13:07Z"
+     ]
+    }
+   ],
+   "illustrationArticle": "https://www.hurriyetdailynews.com/iran-stands-firm-on-hormuz-plan-after-trump-rejection-227388",
+   "illustrationOg": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab8a3c44f33a65e8bfdcb10.jpg",
+   "imageVerification": {
+    "articleStatus": 200,
+    "ogMatch": true,
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 6273,
+    "first16Hex": "ffd8ffe000104a464946000101010048",
+    "format": "JPEG",
+    "width": 200,
+    "height": 200,
+    "decoded": true
+   }
+  }
+ ],
+ "trackUpdates": [
+  {
+   "event": "🔥 美伊戰爭（2026）",
+   "status": "伊方堅持原有條件",
+   "note": "自由報27日報道，阿拉格齊表示伊朗不會撤回重開霍爾木茲海峽的條件，仍等中間人正式傳話；外交渠道未有宣布中止。",
+   "sourceURL": "https://www.hurriyetdailynews.com/iran-stands-firm-on-hormuz-plan-after-trump-rejection-227388",
+   "published": "2026-09-27T10:04:12+08:00"
+  },
+  {
+   "event": "港·宏福苑大火獨立調查",
+   "status": "授權票案續交執法跟進",
+   "note": "麥美娟27日回應黃碧嬌辭職，確認宏福苑大維修授權票問題早前已交執法部門跟進；健康理由屬私隱不披露，議席補選安排視實際情況。此為回應及調查狀態確認，唔代表新起訴或已定罪。",
+   "sourceURL": "https://www.hk01.com/article/60394144",
+   "published": "2026-09-27T11:56:21+08:00"
+  },
+  {
+   "event": "港·熱帶氣旋動向",
+   "status": "舒力基增強為超強颱風",
+   "note": "香港01報道，舒力基27日下午已增強為超強颱風，下午4時在沖繩島東南約110公里，預計橫過琉球及日本以南海域。另外，26日娥眉洲昏迷男子確認搶救不治；最新報道指事主54歲，修正上一版30歲資料。",
+   "sourceURL": "https://www.hk01.com/article/60394232",
+   "published": "2026-09-27T18:25:09+08:00",
+   "additionalSources": [
+    {
+     "url": "https://www.hk01.com/article/60394195",
+     "published": "2026-09-27T16:14:22+08:00"
+    }
+   ]
+  }
+ ]
+}
