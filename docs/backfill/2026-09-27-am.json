@@ -1,0 +1,611 @@
+{
+ "checkedAt": "2026-09-28T15:46:02.250Z",
+ "historicalBackfill": true,
+ "cards": [
+  {
+   "group": "hks",
+   "title": "西貢兩私家車相撞衝上安全島",
+   "url": "https://www.hk01.com/article/60394111",
+   "publishedHKT": "2026-09-27 08:38",
+   "publishedRaw": "2026-09-27T08:38:57+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180812627152998400457810.jpeg/w_qcqiuNjxoXU0ru8UQVbCROBVsOCCmHv2obFr9qGxY",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|142601",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 142601
+  },
+  {
+   "group": "hks",
+   "title": "屯門公路私家車撞壆飛起",
+   "url": "https://www.hk01.com/article/60394110",
+   "publishedHKT": "2026-09-27 07:00",
+   "publishedRaw": "2026-09-27T07:00:37+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180771092856311808410597.jpeg/0qfnUcvVkoiY_fiuFzWQLNzOftZJeoV3TwZa3U8GWt0?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|78161",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 78161
+  },
+  {
+   "group": "hks",
+   "title": "近水灣八旬婦游早泳遇溺不治",
+   "url": "https://www.hk01.com/article/60394108",
+   "publishedHKT": "2026-09-27 05:49",
+   "publishedRaw": "2026-09-27T05:49:56+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180772001736822784084196.jpeg/tjyg89-KlEPEipqkrZAYeAcdG3tIb7y01KX1p9Sl9ac",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|224097",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 224097
+  },
+  {
+   "group": "hks",
+   "title": "荃錦公路跑車越線撞車起火",
+   "url": "https://www.hk01.com/article/60394104",
+   "publishedHKT": "2026-09-27 03:43",
+   "publishedRaw": "2026-09-27T03:43:28+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180732591821557760267935.jpeg/IIkuhRFkYd9ZicV1vtXzlz2jE-Jri8aStw1jPrcNYz4",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|122869",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 122869
+  },
+  {
+   "group": "hks",
+   "title": "旺角群煞強開的士車門襲乘客",
+   "url": "https://www.hk01.com/article/60394094",
+   "publishedHKT": "2026-09-27 00:47",
+   "publishedRaw": "2026-09-27T00:47:19+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180727474263166976256084.jpeg/NTb9EnDISGyZ4TnN5OYnL8lR0YAI4uiHnMO_x5zDv8c",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|209182",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 209182
+  },
+  {
+   "group": "hks",
+   "title": "西貢黃石碼頭男子遇溺不治",
+   "url": "https://www.hk01.com/article/60394085",
+   "publishedHKT": "2026-09-26 23:03",
+   "publishedRaw": "2026-09-26T23:03:22+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260208/1097014985537622016743905.jpeg/7IuDJqQSP5L_-Ci7ki3yqdtcJrJ9u7Wickbj9nJG4_Y?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|179804",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 179804
+  },
+  {
+   "group": "hks",
+   "title": "深水埗掃黃拘三名泰籍女子",
+   "url": "https://www.dimsumdaily.hk/police-arrest-three-thai-prostitutes-in-sham-shui-po-for-alleged-breach-of-stay-conditions/",
+   "publishedHKT": "2026-09-26 22:32",
+   "publishedRaw": "2026-09-26T14:32:50+00:00",
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/26223054/SSP-prostitutes.webp",
+   "ogMatch": true,
+   "imageResponse": "200|image/webp|267358",
+   "magic": "524946465614040057454250",
+   "bytes": 267358
+  },
+  {
+   "group": "hks",
+   "title": "清水灣反非法賽車扣查十輛車",
+   "url": "https://www.dimsumdaily.hk/police-seize-ten-clear-water-bay-cars-over-illegal-mods/",
+   "publishedHKT": "2026-09-26 21:46",
+   "publishedRaw": "2026-09-26T13:46:56+00:00",
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/26214527/Clear-Water-Bay-2-23-32.webp",
+   "ogMatch": true,
+   "imageResponse": "200|image/webp|277380",
+   "magic": "524946467c3b040057454250",
+   "bytes": 277380
+  },
+  {
+   "group": "hkl",
+   "title": "酷熱警告生效市區料達三十三度",
+   "url": "https://www.hk01.com/article/60394107",
+   "publishedHKT": "2026-09-27 06:36",
+   "publishedRaw": "2026-09-27T06:36:01+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180767533712543744849073.jpeg/b8YMTBPSFzJeSbLoxSJT-CQVhIJpRr61SmhqKnBoaio?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|117172",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 117172
+  },
+  {
+   "group": "hkl",
+   "title": "九龍塘爆水管交通輕微受阻",
+   "url": "https://www.hk01.com/article/60394088",
+   "publishedHKT": "2026-09-26 23:35",
+   "publishedRaw": "2026-09-26T23:35:16+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260926/1180661477879582720825407.jpeg/O12Z4v9tQ04Ak_tHOga1NHSqLOR61KaPyNWIMvLViDI?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|211781",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 211781
+  },
+  {
+   "group": "hkl",
+   "title": "亞運港將何詩蓓等凱旋返港",
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/507837/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%B8%AF%E5%B0%87%E4%BD%95%E8%A9%A9%E8%93%93-%E4%BD%95%E7%94%84%E9%99%B6-%E5%90%B3%E5%AE%B6%E8%A4%80%E5%87%B1%E6%97%8B",
+   "publishedHKT": "2026-09-26 23:09",
+   "publishedRaw": "2026-09-26T15:09:04+00:00",
+   "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/09/27062853/vlcsnap-2026-09-26-22h27m21s927.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|412183",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 412183
+  },
+  {
+   "group": "hkl",
+   "title": "中秋金多寶頭獎無人中",
+   "url": "https://www.hk01.com/article/60394082",
+   "publishedHKT": "2026-09-26 22:14",
+   "publishedRaw": "2026-09-26T22:14:45+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180825922459144192378162.jpeg/bXNksS6PV9Y-ZjK7DflqdY6dPxfdn6Tu7Nu2IOzbtiA",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|166175",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 166175
+  },
+  {
+   "group": "hkl",
+   "title": "維園追月夜綵燈大街晚上截龍",
+   "url": "https://www.hk01.com/article/60394073",
+   "publishedHKT": "2026-09-26 21:25",
+   "publishedRaw": "2026-09-26T21:25:25+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260925/1180269694972596224480371.jpeg/eAKEbaSQ37PAd_tkb5FXIWmJYOFeKZL3PNFZDhnRWQ4?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|169022",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 169022
+  },
+  {
+   "group": "hkl",
+   "title": "醫護為末期癌症病人辦畫展",
+   "url": "https://www.stheadline.com/society/3619715/",
+   "publishedHKT": "2026-09-26 23:39",
+   "publishedRaw": "2026-09-26T23:39:47+0800",
+   "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/9f7fd5e7b4caa6b1d3b945354c4243dd/2026-09/ha1.JPG",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg; charset=UTF-8|144717",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 144717
+  },
+  {
+   "group": "hkl",
+   "title": "京港大學生走訪三地文化地標",
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/507871/%E5%AE%B6%E5%9C%8B%E5%A4%A9%E4%B8%8B-%E4%BA%AC%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%94%9F%E8%B5%B0%E8%A8%AA%E5%85%A7%E5%9C%B0%E6%96%87%E5%8C%96%E5%9C%B0%E6%A8%99-%E5%9F%B9%E8%82%B2%E5%85%B7",
+   "publishedHKT": "2026-09-27 09:25",
+   "publishedRaw": "2026-09-27T01:25:31+00:00",
+   "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/09/27172446/vlcsnap-2026-09-27-09h22m52s189.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|594618",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 594618
+  },
+  {
+   "group": "hkl",
+   "title": "同路舍微就業助無家者重拾自信",
+   "url": "https://thecollectivehk.com/%e7%84%a1%e5%ae%b6%e8%80%85%ef%bd%9c%e3%80%8c%e5%be%ae%e5%b0%b1%e6%a5%ad%e3%80%8d%e6%98%af%e4%bb%80%e9%ba%bc%ef%bc%9f%e3%80%80%e5%90%8c%e8%b7%af%e8%88%8d%e5%80%a1%e7%b5%90%e5%90%88%e4%bd%8f%e5%ae%bf/",
+   "publishedHKT": "2026-09-26 22:59",
+   "publishedRaw": "2026-09-26T22:59:55+08:00",
+   "ogImage": "https://thecollectivehk.com/wp-content/uploads/2026/09/DVS07128-1.jpeg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|88994",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 88994
+  },
+  {
+   "group": "hke",
+   "title": "中小企用AI省兩成開支",
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/507861/%E6%9C%89%E4%B8%AD%E5%B0%8F%E4%BC%81%E5%BC%95%E5%85%A5ai%E9%96%8B%E6%94%AF%E7%AF%80%E7%9C%81%E5%85%A9%E6%88%90-%E6%96%99%E6%B8%9B%E5%B0%91%E8%81%98%E5%88%9D%E7%B4%9A%E8%81%B7%E4%BD%8D",
+   "publishedHKT": "2026-09-27 09:12",
+   "articleResponse": "200 text/html; charset=UTF-8 186488",
+   "publishedRaw": [
+    "2026-09-27T01:12:50+00:00"
+   ],
+   "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/09/27201548/WhatsApp-Image-2026-09-27-at-12.14.47.jpeg",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 338081",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 338081
+  },
+  {
+   "group": "hke",
+   "title": "投資者交出密碼損失千萬",
+   "url": "https://www.straitstimes.com/business/invest/investor-lost-over-10m-after-trusting-remisier-with-trading-account-password",
+   "publishedHKT": "2026-09-27 05:00",
+   "articleResponse": "200 text/html; charset=utf-8 121106",
+   "publishedRaw": [
+    "2026-09-27T05:00:00+08:00"
+   ],
+   "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/08a037a68a712f2c62ee48869c4d3ca4cc08218919ca716fc322ccd2ddc8c6b9",
+   "ogMatch": true,
+   "imageResponse": "200 image/webp 18414",
+   "magic": "52494646e647000057454250",
+   "bytes": 18414
+  },
+  {
+   "group": "hke",
+   "title": "月入五萬二家庭自述零儲蓄",
+   "url": "https://www.dimsumdaily.hk/hong-kong-family-with-hk52000-monthly-income-reports-no-savings-amid-mortgage-school-fees-and-insurance-costs/",
+   "publishedHKT": "2026-09-26 21:40",
+   "articleResponse": "200 text/html; charset=UTF-8 505635",
+   "publishedRaw": [
+    "2026-09-26T13:40:01+00:00",
+    "2026-09-26T13:40:01+00:00"
+   ],
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/26213829/Hong-Kong-couple-calculating.webp",
+   "ogMatch": true,
+   "imageResponse": "200 image/webp 236066",
+   "magic": "524946461a9a030057454250",
+   "bytes": 236066
+  },
+  {
+   "group": "hkp",
+   "title": "人民幣國際化下港元如何定位",
+   "url": "https://www.hk01.com/article/60393951",
+   "publishedHKT": "2026-09-27 08:00",
+   "articleResponse": "200 text/html; charset=utf-8 532372",
+   "publishedRaw": [
+    "2026-09-27T08:00:44+08:00"
+   ],
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260926/1180625759241244672617354.jpeg/z55uII_Xn8ms-5hz3Hq_lQbFj81N_QegM1I51zNSOdc",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 192670",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 192670
+  },
+  {
+   "group": "hkp",
+   "title": "華富邨老店盼房署安置減租",
+   "url": "https://thecollectivehk.com/%e8%8f%af%e5%af%8c%e9%82%a8%e5%b0%8f%e5%ba%97%e5%8e%bb%e7%95%99%ef%bc%8e%e6%83%a0%e8%8f%af%e7%9a%ae%e9%9e%8b%ef%bd%9c%e8%bf%91%e6%9c%88%e7%8d%b2%e9%82%80%e5%8f%83%e8%88%87%e5%84%aa%e5%85%88%e6%8a%95/",
+   "publishedHKT": "2026-09-27 00:20",
+   "articleResponse": "200 text/html; charset=UTF-8 136324",
+   "publishedRaw": [
+    "2026-09-27T00:20:07+08:00",
+    "2026-09-27T00:20:07+08:00"
+   ],
+   "ogImage": "https://thecollectivehk.com/wp-content/uploads/2026/09/20260928_WahFuEstate_shoes_Store-02-e1790439682399.jpeg",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 186214",
+   "magic": "ffd8ffe000104a4649460001",
+   "bytes": 186214
+  },
+  {
+   "group": "cn",
+   "title": "韓正聯大促美國解除古巴封鎖",
+   "url": "https://www.hk01.com/article/60394101",
+   "publishedHKT": "2026-09-27 02:01",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T02:01:49+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260922/1179120063022632960734051.jpeg/GRZ40SIaofm6neAwk6GfaHI0q6Nd1EtmmPifbJj4n2w?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|111987",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "中國駐大阪領事批日本反華",
+   "url": "https://www.hk01.com/article/60394062",
+   "publishedHKT": "2026-09-26 21:11",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T21:11:50+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260926/1180622645029244928931825.jpeg/gNqRRvdQoFm03McBzTW4ZbDnk2cB8b8iyZTQT8mU0E8?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|101161",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "內地兩券商擬停開戶三個月",
+   "url": "https://www.epochtimes.com/b5/26/9/26/n14858023.htm",
+   "publishedHKT": "2026-09-27 05:08",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T21:08:49.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/08/id14829287-GettyImages-482178744-700x359.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|411399",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "女子提早退機票僅獲退稅款",
+   "url": "https://www.epochtimes.com/b5/26/9/26/n14858067.htm",
+   "publishedHKT": "2026-09-27 04:32",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T20:32:30.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/09/id14858069-GettyImages-2267084311-700x359.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|231338",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "內地剩餘月餅千元一噸回收",
+   "url": "https://www.epochtimes.com/b5/26/9/26/n14858002.htm",
+   "publishedHKT": "2026-09-27 00:46",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T16:46:31.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2024/09/id14328150-GettyImages-2092427656-700x359.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|315950",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "人民幣逼近四年高位惹關注",
+   "url": "https://www.epochtimes.com/b5/26/9/26/n14857899.htm",
+   "publishedHKT": "2026-09-26 22:05",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T14:05:26.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/09/id14857901-GettyImages-53269182-700x359.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|328248",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "西貝濟南店中秋客流仍稀疏",
+   "url": "https://www.epochtimes.com/b5/26/9/26/n14858126.htm",
+   "publishedHKT": "2026-09-27 09:00",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T01:00:12.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/09/id14854915-001-700x359.jpeg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|142470",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "cn",
+   "title": "中印學生海外升學取向有別",
+   "url": "https://www.epochtimes.com/b5/26/9/26/n14857778.htm",
+   "publishedHKT": "2026-09-27 09:24",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T01:24:54.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2023/09/id14067108-shutterstock_1349755526-700x359.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|78601",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "us",
+   "title": "特朗普拒與中國整合AI技術",
+   "url": "https://www.epochtimes.com/b5/26/9/26/n14858094.htm",
+   "publishedHKT": "2026-09-27 07:15",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T23:15:33.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/09/id14858132-AFP__20260926__C9FB9TX__v1__MidRes__UsPoliticsTrump-700x359.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|119644",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "us",
+   "title": "美東風暴致十萬戶停電",
+   "url": "https://www.hk01.com/article/60394102",
+   "publishedHKT": "2026-09-27 02:43",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T02:43:33+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260927/1180709281381486592560471.jpeg/SFZCC3JLLPKKRgUcJmM3sQ3mR8qCTGCRge0fKYHtHyk?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|101940",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "us",
+   "title": "TikTok付一億美元州級和解",
+   "url": "https://www.hk01.com/article/60394078",
+   "publishedHKT": "2026-09-26 23:45",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T23:45:47+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260123/1091303961668882432432150.jpeg/9HlB3NFg-E_imSyU-oe4S-vUUDZwgBSc-eqZzfnqmc0?v=w1280r16_9",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|81519",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "tw",
+   "title": "台北公辦都更工地火警停工",
+   "url": "https://newtalk.tw/news/view/2026-09-27/1062127",
+   "publishedHKT": "2026-09-27 08:25",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T08:25:25+08:00",
+   "ogImage": "https://s.newtalk.tw/album/news/1063/6ab861f6d16fe.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|146896",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "tw",
+   "title": "台灣反駁聯大決議排除參與說法",
+   "url": "https://www.knews.com.tw/news/43EC42B78773D986B7836BED8AB0EC53",
+   "publishedHKT": "2026-09-27 08:30",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-27T08:30:00+08:00",
+   "ogImage": "https://static.kmedia.com.tw/prd/2025/0225/6169E42ABFF9C591A62789594B252B11/b06cbb6f32e5266ea86c8a8469229468.webp",
+   "ogMatch": true,
+   "imageResponse": "200|image/webp|169388",
+   "magic": "52494646a495020057454250"
+  },
+  {
+   "group": "tw",
+   "title": "台北市府網站故障後恢復",
+   "url": "https://newtalk.tw/news/view/2026-09-27/1062118",
+   "publishedHKT": "2026-09-27 07:25",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T23:25:12.000Z",
+   "ogImage": "https://s.newtalk.tw/album/news/1063/6ab853d7971c5.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|127462",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "war",
+   "title": "伊拉克尋求伊朗航班制裁豁免",
+   "url": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights",
+   "publishedHKT": "2026-09-27 01:35",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T17:35:11Z",
+   "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-23T131352Z_531900499_RC20PNAHM1V7_RTRMADP_3_USA-SANCTIONS-IRAN-1790440595.jpg?resize=1920%2C1440",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|608100",
+   "magic": "ffd8ffe000104a4649460001"
+  },
+  {
+   "group": "war",
+   "title": "伊朗海軍挑戰美方霍峽控制說",
+   "url": "https://www.iranintl.com/en/202609265272",
+   "publishedHKT": "2026-09-27 05:06",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T21:06:39.260Z",
+   "ogImage": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|21882",
+   "magic": "ffd8ffdb0043000606060607"
+  },
+  {
+   "group": "war",
+   "title": "也門軍指伊朗武器威脅紅海航班",
+   "url": "https://www.iranintl.com/en/202609260770",
+   "publishedHKT": "2026-09-27 06:16",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-26T22:16:37.966Z",
+   "ogImage": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+   "ogMatch": true,
+   "imageResponse": "200|image/jpeg|21882",
+   "magic": "ffd8ffdb0043000606060607"
+  }
+ ],
+ "briefs": [
+  {
+   "date": "2026-09-27",
+   "edition": "am",
+   "kind": "ai",
+   "cutoffHKT": "2026-09-27T09:30:00+08:00",
+   "sources": [
+    {
+     "url": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/",
+     "status": 200,
+     "publishedRaw": "2026-09-26T16:56:36+00:00",
+     "datesRaw": [
+      "2026-09-26T16:56:36+00:00",
+      "2026-09-26T16:58:31+00:00",
+      "2026-09-26T16:56:36+00:00",
+      "2026-09-26T16:58:31+00:00",
+      "2026-09-26T18:56:36+02:00",
+      "2026-09-26T18:58:31+02:00"
+     ]
+    },
+    {
+     "url": "https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/",
+     "status": 200,
+     "publishedRaw": "2026-09-26T17:27:52+00:00",
+     "datesRaw": [
+      "2026-09-26T17:27:52+00:00",
+      "2026-09-26T17:28:53+00:00",
+      "2026-09-26T17:27:52+00:00",
+      "2026-09-26T17:28:53+00:00"
+     ]
+    },
+    {
+     "url": "https://www.theguardian.com/australia-news/2026/sep/27/sam-altman-openai-dario-amodei-anthropic-senate-inquiry-medicare-hack-rogue-ai-agent-leak",
+     "status": 200,
+     "publishedRaw": "2026-09-26T14:00:37.000Z",
+     "datesRaw": [
+      "2026-09-26T14:00:37.000Z",
+      "2026-09-27T01:58:33.000Z"
+     ]
+    },
+    {
+     "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+     "status": 200,
+     "publishedRaw": "2026-09-27T01:30:00+00:00",
+     "datesRaw": [
+      "2026-09-27T01:30:00+00:00",
+      "2026-09-27T01:30:00+00:00"
+     ]
+    }
+   ],
+   "illustrationArticle": "https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/",
+   "illustrationOg": "https://the-decoder.com/wp-content/uploads/2026/09/huma_talking_ai.png",
+   "imageVerification": {
+    "articleStatus": 200,
+    "ogMatch": true,
+    "imageStatus": 200,
+    "contentType": "image/png",
+    "bytes": 2096889,
+    "first16Hex": "89504e470d0a1a0a0000000d49484452",
+    "format": "PNG",
+    "width": 1376,
+    "height": 768,
+    "decoded": true
+   }
+  },
+  {
+   "date": "2026-09-27",
+   "edition": "am",
+   "kind": "warb",
+   "cutoffHKT": "2026-09-27T09:30:00+08:00",
+   "sources": [
+    {
+     "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz",
+     "status": 200,
+     "publishedRaw": "2026-09-26T14:46:53Z",
+     "datesRaw": [
+      "2026-09-26T14:46:53Z",
+      "2026-09-27T06:14:23Z"
+     ]
+    },
+    {
+     "url": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights",
+     "status": 200,
+     "publishedRaw": "2026-09-26T17:35:11Z",
+     "datesRaw": [
+      "2026-09-26T17:35:11Z",
+      "2026-09-26T17:35:11Z"
+     ]
+    },
+    {
+     "url": "https://m.ajupress.com/view/20260927050470474",
+     "status": 200,
+     "publishedRaw": "2026-09-27T05:04:00+09:00",
+     "datesRaw": [
+      "2026-09-27T05:04:00+09:00",
+      "2026-09-27T05:04:00+09:00"
+     ]
+    }
+   ],
+   "illustrationArticle": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights",
+   "illustrationOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-23T131352Z_531900499_RC20PNAHM1V7_RTRMADP_3_USA-SANCTIONS-IRAN-1790440595.jpg?resize=1920%2C1440",
+   "imageVerification": {
+    "articleStatus": 200,
+    "ogMatch": true,
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 608100,
+    "first16Hex": "ffd8ffe000104a464946000101000001",
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1440,
+    "decoded": true
+   }
+  }
+ ],
+ "trackUpdates": [
+  {
+   "event": "🔥 美伊戰爭（2026）",
+   "status": "公開拒案仍待回覆",
+   "note": "特朗普26日公開表示伊朗七日方案不可接受；阿拉格齊回應仍待中間人傳達正式答覆，未撤回伊方條件。與上一版『私下否決』相比，新增美方公開拒案及伊方回應。",
+   "sourceURL": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz",
+   "published": "2026-09-26T22:46:53+08:00",
+   "caution": "文章27日14:14更新；本條只用26日公開拒案及周六回應，不用其後分析。"
+  },
+  {
+   "event": "港·熱帶氣旋動向",
+   "status": "舒力基移向琉球",
+   "note": "香港01報道，27日凌晨5時颱風舒力基在沖繩島以南約210公里，料向東北橫過琉球群島以東海域；本港早上6時45分再發酷熱警告，市區最高料33度。",
+   "sourceURL": "https://www.hk01.com/article/60394107",
+   "published": "2026-09-27T06:36:01+08:00"
+  }
+ ]
+}
