@@ -1,0 +1,54 @@
+── 自檢報告 2026-09-28（夜報，12小時窗 2026-09-28 09:00 起）──
+香港社會=8｜民生=8｜經濟=3｜政治=3｜中國=8｜美國=3｜台灣=3｜美伊戰爭=3
+事件追蹤=58｜AI簡報=354字｜美伊簡報=309字
+總卡數=39｜缺圖=0
+
+⚠ 提提你（唔會 fail，但盡量換返新料）共 1 項：
+  • 疑似同一單事：民生[2]「黃金周料七百四十四萬人次出入境」⟷ 民生[7]「東鐵黃金周加密高鐵增福田班次」（共通詞：黃金、金周、月三）→ 只留最新最全嗰條，另一條換第二單
+
+🖼 驗圖（共 41 條，全部要驗，冇豁免）——**兩步都要做**：
+   ① WebFetch「文章」攞 og:image，同「現用圖」逐字比對（捉抄錯；星島 hkhl 只可以靠呢步）
+   ② WebFetch「現用圖」本身：回 404 ＝ 一定錯（hk01 只可以靠呢步，因為讀 og:image 會隨機讀錯簽名）
+  • 香港社會[0] 文章=https://www.dimsumdaily.hk/high-court-discharges-abby-choi-murder-jury-after-juror-withdraws-new-selection-wednesday/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/28104659/Abby-Choi-19909-1.webp
+  • 香港社會[1] 文章=https://www.hk01.com/article/60394603  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181323617418350592182460.jpeg/W3W0iVPt1aT2QvMqTJZx499Ehs3f56VzC3lEhwt5RIc
+  • 香港社會[2] 文章=https://www.hk01.com/article/60394492  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181320634035081216719854.jpeg/s2WQ9hDcJ_oVewqF44PTvxA2r-KtUq9olzZ65pc2euY
+  • 香港社會[3] 文章=https://www.hk01.com/article/60394622  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181353062128685056173685.jpeg/8FroZQCPMVsUFtyZpNI-U-x799GEDaRWOPfcLDj33Cw
+  • 香港社會[4] 文章=https://www.hk01.com/article/60394611  現用圖=https://cdn.hk01.com/di/media/images/dw/20201223/418461418845638656216978.jpeg/ZhLpg7FPNO-PEvPZTkFJkz8BRKCQmFZRBeXauwXl2rs?v=w1280r16_9
+  • 香港社會[5] 文章=https://www.hk01.com/article/60394568  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181310225974562816907513.jpeg/W1OH1R0GoINicGi93jpdjdI_Fr1g4EKEpivcCaYr3Ak
+  • 香港社會[6] 文章=https://www.hk01.com/article/60394482  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181281029831266304637519.jpeg/ph76iOOGEWZXrBGqdrr5x572RIann76mtXAgEbVwIBE?v=w1280r16_9
+  • 香港社會[7] 文章=https://www.hk01.com/article/60394516  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181279002329878528127954.jpeg/w5FlHBaERq0SvV7S2bD-fY_rOcTOnt7QYN3u_End7vw?v=w1280r16_9
+  • 民生[0] 文章=https://www.dimsumdaily.hk/kai-tak-hospital-opens-family-medicine-centre-on-5th-october/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/28110821/Kai-Tak-Hospital-3334.webp
+  • 民生[1] 文章=https://www.hk01.com/article/60394612  現用圖=https://cdn.hk01.com/di/media/images/1183925/org/cf901397e86116e134618721db5ff691.jpg/bGP2Z3b6oACNas4dvbUhRb5NORE6ioK90VPpP9FT6T8?v=w1280r16_9
+  • 民生[2] 文章=https://www.hk01.com/article/60394597  現用圖=https://cdn.hk01.com/di/media/images/dw/20251008/1052394436094464000926850.jpeg/kSnB0NlxBQ4GYxnjffl0sth90Xw8YGoq2XwtxMN8LcQ?v=w1280r16_9
+  • 民生[3] 文章=https://www.hk01.com/article/60394558  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181298930378870784457862.jpeg/SRfXAQJt7jrgsLMf17E2Sam5j5IYaZ2AyS50rewudK0?v=w1280r16_9
+  • 民生[4] 文章=https://www.hk01.com/article/60394514  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181279266109657088154683.jpeg/tkbF-SfEgo2frzSWz72hoG_Qu16GL9MIag-IBkAPiAY?v=w1280r16_9
+  • 民生[5] 文章=https://www.hk01.com/article/60394423  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181297481057570816241578.jpeg/QJoHG0xGph_ORforAcFbD75U_NuSQX0ii8Kd6IvCneg
+  • 民生[6] 文章=https://www.hk01.com/article/60394430  現用圖=https://cdn.hk01.com/di/media/images/dw/20260828/1169992100591702016840521.jpeg/xs_-M_aeIWBf3UpI3VSUA0IjAHVYQeJ14CrYEuAq2BI?v=w1280r16_9
+  • 民生[7] 文章=https://www.hk01.com/article/60394412  現用圖=https://cdn.hk01.com/di/media/images/dw/20251003/1050587688316440576276159.jpeg/06fOKg-iCkBm_X3-bYEmq3dGc8mkfRbbTVGwhldRsIY?v=w1280r16_9
+  • 經濟[0] 文章=https://www.dimsumdaily.hk/hong-kong-home-prices-edge-higher-in-august-as-rents-hit-a-record-and-extend-ten%e2%80%91month-rally/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/28102705/Carol-Mansion-1.webp
+  • 經濟[1] 文章=https://www.dimsumdaily.hk/hong-kong-wages-and-payroll-rise-in-june-and-second-quarter-2026/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/28173101/HK-Crowd-23-2-1.webp
+  • 經濟[2] 文章=https://www.edigest.hk/news/china-tax-investigation-rich-offshore-trusts-hong-kong-haidilao-%e5%8d%b3%e6%99%82%e8%b2%a1%e7%b6%93-2042729/  現用圖=https://images.edigest.hk/wp-content/uploads/2026/09/3c1897b0-ad03-4424-8817-1d40f3aa8c70_7380332876aba35482c0c6.png
+  • 政治[0] 文章=https://www.hk01.com/article/60394579  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181321099451830272368270.jpeg/mknEK3DKNk7gfjb8p6G3NslpFTIik8L3E-H-TRPh_k0
+  • 政治[1] 文章=https://www.stheadline.com/politics/3620251/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/e50c90a998d402ea8bb1cde65fd527d1/2026-09/_2022112115522696049.jpg
+  • 政治[2] 文章=https://www.stheadline.com/politics/3620325/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/421e04312d49f77233dda5b2917c094a/2026-09/P2026092800428_photo_1339679.jpg
+  • 中國[0] 文章=https://www.hk01.com/article/60394468  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181279599191920640261957.jpeg/NmKHnSLryIJAiLlJOSch2xE5r3ZPTGwFrqzFoK6sxaA?v=w1280r16_9
+  • 中國[1] 文章=https://www.hk01.com/article/60394515  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181343713801015296567384.jpeg/S77lFtM-90cCSPCn3Tg0lYvGWH_-IWXsifaCMYn2gjE
+  • 中國[2] 文章=https://www.hk01.com/article/60394553  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181294951229558784058931.jpeg/8mEs1qRxsW83aRVSbelvWXTqR_0uqUXaSfEn1EnxJ9Q?v=w1280r16_9
+  • 中國[3] 文章=https://www.hk01.com/article/60394538  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181294827950575616529687.jpeg/m7bFZsZN6GDn6TjkfwceBxZY4pBsq6bTexpZ5HsaWeQ?v=w1280r16_9
+  • 中國[4] 文章=https://www.hk01.com/article/60394500  現用圖=https://cdn.hk01.com/di/media/images/dw/20260910/1174734501364895744315096.jpeg/on4WRQ-juO6q3zNQwQSZwlHWFZtTTpH-aEnFNmhJxTY?v=w1280r16_9
+  • 中國[5] 文章=https://www.epochtimes.com/b5/26/9/28/n14858978.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/09/id14858980-2671e57c9ecc63784e50f08e476f8ee4-700x359.jpg
+  • 中國[6] 文章=https://www.epochtimes.com/b5/26/9/28/n14859040.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/09/id14859075-GettyImages-1257195766-700x359.jpg
+  • 中國[7] 文章=https://www.epochtimes.com/b5/26/9/28/n14858946.htm  現用圖=https://i.epochtimes.com/assets/uploads/2024/03/id14196455-9aa7bd3fed261f6b787d359c49d5793b-700x359.jpg
+  • 美國[0] 文章=https://www.hk01.com/article/60394549  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181292743226298368534061.jpeg/0vygD2H7Iw3J0g4Ip-FXM8t0EmjwoEReJZrvECWa7xA?v=w1280r16_9
+  • 美國[1] 文章=https://www.theguardian.com/us-news/ng-interactive/2026/sep/28/ice-us-immigration-new-tactics  現用圖=https://i.guim.co.uk/img/media/26f634a617d506916ce09851054a7d34ba12b2a5/577_218_1284_1027/master/1284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=443ea803c6da2449907cfe93c46fdc2a
+  • 美國[2] 文章=https://www.hk01.com/article/60394316  現用圖=https://cdn.hk01.com/di/media/images/dw/20260928/1181250642887315456218479.jpeg/zwTUu_liB1cz324hxy6M9-5wUtuC6Jlk3GXlN9xl5Tc
+  • 台灣[0] 文章=https://news.m.pchome.com.tw/society/m00361/20260928/index-79057464520459361002.html  現用圖=https://news.pchome.com.tw/newsdata/society/m00361/20260928/79057464520459361002_original.jpg
+  • 台灣[1] 文章=https://newtalk.tw/news/view/2026-09-28/1062287  現用圖=https://s.newtalk.tw/album/news/1033/69f5826cdb282.png
+  • 台灣[2] 文章=https://newtalk.tw/news/view/2026-09-28/1062280  現用圖=https://s.newtalk.tw/album/news/1063/6ab9fba219e16.jpg
+  • 美伊戰爭[0] 文章=https://www.hk01.com/article/60394600  現用圖=https://cdn.hk01.com/di/media/images/dw/20260825/1168900124395442176489203.jpeg/XuGtV-kGluF4vHnY5OsmHpo7fjHdefgHjNiBXYzYgV0?v=w1280r16_9
+  • 美伊戰爭[1] 文章=https://www.hk01.com/article/60394521  現用圖=https://cdn.hk01.com/di/media/images/dw/20260806/1162047875530625024471386.jpeg/gs1E4NHWyHbf41JyibQNZfF67hxgiAZQSKSuBEikrgQ?v=w1280r16_9
+  • 美伊戰爭[2] 文章=https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war  現用圖=https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a79e24fcb8e-1786372687.jpg?resize=1920%2C1440
+  • AI 動向簡報插圖 文章=https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/  現用圖=https://the-decoder.com/wp-content/uploads/2026/09/wuhan_court_token_costs.png
+  • 美伊戰爭簡報插圖 文章=https://www.justsecurity.org/159075/early-edition-september-28-2026/  現用圖=https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/JW6VJEY4TZGDLLQLA6WJAZMWMY.jpg?api_key=click2houston_85fdeb57f8cd3635
+
+✅ 全部通過，可以 push。
