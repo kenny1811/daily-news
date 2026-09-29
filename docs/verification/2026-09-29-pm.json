@@ -1,0 +1,1328 @@
+{
+ "edition": "2026-09-29/pm",
+ "checkedAtHKT": "2026-09-29 20:44:41",
+ "window": {
+  "from": "2026-09-29 09:00",
+  "to": "2026-09-29 21:30"
+ },
+ "cards": [
+  {
+   "group": "hks",
+   "title": "青馬橋巴士撞的士兩死案提堂",
+   "url": "https://www.hk01.com/article/60394850",
+   "publishedRaw": "2026-09-29T15:05:40+08:00",
+   "publishedHKT": "2026-09-29 15:05",
+   "modifiedRaw": "2026-09-29T15:06:15+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260331/1115450638780731392018275.jpeg/N9r4QDp6TDLJ3dBHiKOST0GRCDhmWpyeSxlD1m4ZQ9Y?v=w1280r16_9",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 169438,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394850.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394850.bin"
+  },
+  {
+   "group": "hks",
+   "title": "美容師誘騙兩女子案押後判刑",
+   "url": "https://www.dimsumdaily.hk/judge-delays-sentencing-of-beautician-who-lured-two-women-to-myanmar-scam-park/",
+   "publishedRaw": "2026-09-29T06:33:29+00:00",
+   "publishedHKT": "2026-09-29 14:33",
+   "modifiedRaw": "2026-09-29T06:33:34+00:00",
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/29143254/KK-Scam-park-33.webp",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/webp",
+   "bytes": 165192,
+   "magic": "524946464085020057454250",
+   "decoded": {
+    "format": "WEBP",
+    "width": 942,
+    "height": 746
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-judge-delays-sentencing.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-judge-delays-sentencing.bin",
+   "wpDate": "2026-09-29T14:33:29",
+   "wpGmt": "2026-09-29T06:33:29"
+  },
+  {
+   "group": "hks",
+   "title": "鄧龍威菲國服刑廿六年後返港",
+   "url": "https://www.hk01.com/article/60394990",
+   "publishedRaw": "2026-09-29T20:27:35+08:00",
+   "publishedHKT": "2026-09-29 20:27",
+   "modifiedRaw": "2026-09-29T20:32:35+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181700731053281280034729.jpeg/Wo9mKtJSSZbyLHp6etaiKV_HPlaWIOGLik5QfopOUH4?v=w1280r16_9",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 73262,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 960,
+    "height": 540
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394990.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394990.bin"
+  },
+  {
+   "group": "hks",
+   "title": "元朗女子疑遭狗咬死追查致命傷",
+   "url": "https://www.hk01.com/article/60394977",
+   "publishedRaw": "2026-09-29T19:50:38+08:00",
+   "publishedHKT": "2026-09-29 19:50",
+   "modifiedRaw": "2026-09-29T20:26:44+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181701980402225152476089.jpeg/r62dBAlivZu2akWqh-Hfpf74WpxkvTbe4EbvQuBG70I",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 225917,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394977.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394977.bin"
+  },
+  {
+   "group": "hks",
+   "title": "手機預購盜刷案增至千五宗報案",
+   "url": "https://www.hk01.com/article/60394924",
+   "publishedRaw": "2026-09-29T17:30:14+08:00",
+   "publishedHKT": "2026-09-29 17:30",
+   "modifiedRaw": "2026-09-29T18:38:04+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260211/1098290395499991040807915.jpeg/EzSeHBBHLXwQI2OKMIbLk_7Mj-tJXW6cf4ISh1qCEoc?v=w1280r16_9",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 94822,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394924.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394924.bin"
+  },
+  {
+   "group": "hks",
+   "title": "沙田健身室偷拍案管工提堂准保",
+   "url": "https://www.dimsumdaily.hk/site-supervisor-charged-over-pinhole-cameras-at-sha-tin-24-7-fitness-bailed-until-25th-november/",
+   "publishedRaw": "2026-09-29T03:11:53+00:00",
+   "publishedHKT": "2026-09-29 11:11",
+   "modifiedRaw": "2026-09-29T03:11:58+00:00",
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/29110951/247-Fitness-pinhole-3-1.webp",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/webp",
+   "bytes": 63148,
+   "magic": "52494646a4f6000057454250",
+   "decoded": {
+    "format": "WEBP",
+    "width": 1184,
+    "height": 930
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-site-supervisor-charged.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-site-supervisor-charged.bin",
+   "wpDate": "2026-09-29T11:11:53",
+   "wpGmt": "2026-09-29T03:11:53"
+  },
+  {
+   "group": "hks",
+   "title": "男子巴士上暈倒亡裁定自然死亡",
+   "url": "https://www.hk01.com/article/60394888",
+   "publishedRaw": "2026-09-29T16:21:51+08:00",
+   "publishedHKT": "2026-09-29 16:21",
+   "modifiedRaw": "2026-09-29T17:00:42+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181650006004731904738164.jpeg/GpQGpQkmimk7HfIcem-UpPDhu5c6ajALwutX88LrV_M",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 172226,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394888.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394888.bin"
+  },
+  {
+   "group": "hks",
+   "title": "冒牌香水案男子再涉洗黑錢被捕",
+   "url": "https://www.hk01.com/article/60394975",
+   "publishedRaw": "2026-09-29T19:08:00+08:00",
+   "publishedHKT": "2026-09-29 19:08",
+   "modifiedRaw": "2026-09-29T19:09:38+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20221208/677574973581168640283657.jpeg/Gv0oOGLCxLlVddmi7cZjrcy1TjyAsS-Prtubma7bm5k?v=w1280r16_9",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 192625,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394975.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394975.bin"
+  },
+  {
+   "group": "hkl",
+   "title": "官津小一班數按年減逾一百班",
+   "url": "https://www.hk01.com/article/60394979",
+   "publishedRaw": "2026-09-29T20:11:15+08:00",
+   "publishedHKT": "2026-09-29 20:11",
+   "modifiedRaw": "2026-09-29T20:14:32+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181685523228397568861359.jpeg/Q3aXh688_NwFDLvCGNOlRBkJmrz62025ZJ6Y5mSemOY?v=w1280r16_9",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 133282,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1024,
+    "height": 576
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394979.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394979.bin"
+  },
+  {
+   "group": "hkl",
+   "title": "國慶城巴多條日間線小童免費",
+   "url": "https://www.hk01.com/article/60394840",
+   "publishedRaw": "2026-09-29T16:23:47+08:00",
+   "publishedHKT": "2026-09-29 16:23",
+   "modifiedRaw": "2026-09-29T16:25:25+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181616545227345920965273.png/OnQ0HoYoxoVqlhLLTfg9do-FuwmBrk4396zXSPes10g?v=w1280r16_9",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 133231,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394840.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394840.bin"
+  },
+  {
+   "group": "hkl",
+   "title": "宏福苑業主特設銷售開始揀樓",
+   "url": "https://www.dimsumdaily.hk/flat-selection-begins-for-wang-fuk-court-owners-under-special-sales-exercise/",
+   "publishedRaw": "2026-09-29T07:36:08+00:00",
+   "publishedHKT": "2026-09-29 15:36",
+   "modifiedRaw": "2026-09-29T07:36:13+00:00",
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/29153501/Wang-Fuk-Court-2508-1.webp",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/webp",
+   "bytes": 218064,
+   "magic": "52494646c853030057454250",
+   "decoded": {
+    "format": "WEBP",
+    "width": 1118,
+    "height": 876
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-flat-selection-begins.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-flat-selection-begins.bin",
+   "wpDate": "2026-09-29T15:36:08",
+   "wpGmt": "2026-09-29T07:36:08"
+  },
+  {
+   "group": "hkl",
+   "title": "乳癌基金倡四十歲起定期篩查",
+   "url": "https://www.dimsumdaily.hk/mammography%e2%80%91detected-breast-cancers-fare-better-screening-from-40-could-save-hk770-million/",
+   "publishedRaw": "2026-09-29T07:47:04+00:00",
+   "publishedHKT": "2026-09-29 15:47",
+   "modifiedRaw": "2026-09-29T07:47:09+00:00",
+   "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/29154536/mamography-34.webp",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/webp",
+   "bytes": 166266,
+   "magic": "524946467289020057454250",
+   "decoded": {
+    "format": "WEBP",
+    "width": 952,
+    "height": 748
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-mammography.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-mammography.bin",
+   "wpDate": "2026-09-29T15:47:04",
+   "wpGmt": "2026-09-29T07:47:04"
+  },
+  {
+   "group": "hkl",
+   "title": "大角咀海帆道寵物共享公園將開放",
+   "url": "https://www.hk01.com/article/60394769",
+   "publishedRaw": "2026-09-29T12:41:06+08:00",
+   "publishedHKT": "2026-09-29 12:41",
+   "modifiedRaw": "2026-09-29T15:48:04+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181631255389671424405391.jpeg/fZ9SUOuWde3ikxHvQPu85HC8LCBXi9y3QfcqIkH3KiI",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 330846,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394769.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394769.bin"
+  },
+  {
+   "group": "hkl",
+   "title": "國慶十五間家庭醫學診所應診",
+   "url": "https://www.hk01.com/article/60394762",
+   "publishedRaw": "2026-09-29T12:36:22+08:00",
+   "publishedHKT": "2026-09-29 12:36",
+   "modifiedRaw": "2026-09-29T12:37:01+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20251010/1053397091755364352427061.jpeg/eaCMZh90M4hF1LtaYvaK1Y3ensjqZ2H4MViD3zFYg98?v=w1280r16_9",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 231413,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394762.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394762.bin"
+  },
+  {
+   "group": "hkl",
+   "title": "國慶後東北季候風到港料降溫",
+   "url": "https://www.hk01.com/article/60394970",
+   "publishedRaw": "2026-09-29T19:20:30+08:00",
+   "publishedHKT": "2026-09-29 19:20",
+   "modifiedRaw": "2026-09-29T20:17:47+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181699694967918592590362.jpeg/oVM0_aRt8_-Yw871RcGAkb_ddYMar10oVNZ-ClTWfgo",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 277526,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394970.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394970.bin"
+  },
+  {
+   "group": "hkl",
+   "title": "旅發局首推萬聖月周末街頭表演",
+   "url": "https://www.hk01.com/article/60394903",
+   "publishedRaw": "2026-09-29T17:24:33+08:00",
+   "publishedHKT": "2026-09-29 17:24",
+   "modifiedRaw": "2026-09-29T19:20:41+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181685363249254400824376.jpeg/o2DyxYQX_lkDme5LQfv4HhfzS1gCwWa4pD8dcaQ_HXE",
+   "ogMatch": true,
+   "articleStatus": 200,
+   "imageStatus": 200,
+   "contentType": "image/jpeg",
+   "bytes": 278011,
+   "magic": "ffd8ffe000104a4649460001",
+   "decoded": {
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   "rawSnapshot": "scratch/pm-20260929/hk-raw-60394903.html",
+   "imageSnapshot": "scratch/pm-20260929/hk-image-60394903.bin"
+  },
+  {
+   "group": "hke",
+   "title": "恒指收跌一百一十八點車股受壓",
+   "id": "c508580",
+   "url": "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/508580/%E6%81%92%E6%8C%87%E5%9B%9E%E5%90%90118%E9%BB%9E-%E8%BB%8A%E8%82%A1%E9%96%8B%E5%80%92%E8%BB%8A%E5%90%89%E5%88%A9%E7%82%BA%E6%9C%80%E5%BC%B1%E8%97%8D%E7%B1%8C",
+   "publishedRaw": "2026-09-29T11:06:44+00:00",
+   "publishedNormalized": "2026-09-29T11:06:44+00:00",
+   "publishedHKT": "2026-09-29 19:06",
+   "timezoneNote": "Original metadata offset used",
+   "articleResponse": "200 text/html; charset=UTF-8 183498",
+   "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/09/30010056/vlcsnap-2026-09-29-17h00m36s423.jpg",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 449068",
+   "bytes": 449068,
+   "magic": "ffd8ffe000104a464946000101000001",
+   "decoded": {
+    "format": "JPEG",
+    "size": [
+     1920,
+     1080
+    ]
+   }
+  },
+  {
+   "group": "hke",
+   "title": "調查指近七成港企擬加碼投資AI",
+   "id": "c508634",
+   "url": "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/508634/%E6%BB%99%E8%B1%90-%E8%BF%91%E4%B8%83%E6%88%90%E6%B8%AF%E4%BC%81%E5%8A%A0%E7%A2%BC%E6%8A%95%E8%B3%87ai-%E8%87%B4%E5%90%8C-%E6%B8%AF%E4%BC%81%E8%91%A3%E4%BA%8B%E6%AC%A0ai",
+   "publishedRaw": "2026-09-29T11:22:54+00:00",
+   "publishedNormalized": "2026-09-29T11:22:54+00:00",
+   "publishedHKT": "2026-09-29 19:22",
+   "timezoneNote": "Original metadata offset used",
+   "articleResponse": "200 text/html; charset=UTF-8 183541",
+   "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/09/30031306/N_20260929_HKAI-SURVEY-260929-1630.jpg",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 68943",
+   "bytes": 68943,
+   "magic": "ffd8ffe000104a4649460001020001d0",
+   "decoded": {
+    "format": "JPEG",
+    "size": [
+     930,
+     522
+    ]
+   }
+  },
+  {
+   "group": "hke",
+   "title": "英皇文化全年轉盈賺一百三十萬",
+   "id": "e2042940",
+   "url": "https://www.edigest.hk/%e6%b8%af%e8%82%a1/%e8%8b%b1%e7%9a%87%e6%96%87%e5%8c%96%e7%94%a2%e6%a5%ad-%e7%b8%bd%e6%94%b6%e5%85%a5-%e8%bd%89%e8%99%a7%e7%82%ba%e7%9b%88-2042940/",
+   "publishedRaw": "2026-09-29T18:22:01+00:00",
+   "publishedNormalized": "2026-09-29T18:22:01+08:00",
+   "publishedHKT": "2026-09-29 18:22",
+   "timezoneNote": "WordPress date and date_gmt crosschecked: meta numerical HKT despite +00:00 label.",
+   "articleResponse": "200 text/html; charset=UTF-8 443708",
+   "ogImage": "https://images.edigest.hk/wp-content/uploads/2025/09/-2025-09-26-110006_123256137268d610bd4a827.png",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 119624",
+   "bytes": 119624,
+   "magic": "ffd8ffe000104a464946000101000001",
+   "decoded": {
+    "format": "JPEG",
+    "size": [
+     1200,
+     630
+    ]
+   }
+  },
+  {
+   "group": "hkp",
+   "title": "訴苦護士澄清非工會成員斥受辱",
+   "id": "hk60394673",
+   "url": "https://www.hk01.com/article/60394673",
+   "publishedRaw": "2026-09-29T09:05:43+08:00",
+   "publishedNormalized": "2026-09-29T09:05:43+08:00",
+   "publishedHKT": "2026-09-29 09:05",
+   "timezoneNote": "Original metadata offset used",
+   "articleResponse": "200 text/html; charset=utf-8 523470",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181544135153160192934786.jpeg/9bZXGhkpREsVl6BpsYciiWd6CfjGoeJmyjpy9so6cvY",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 184022",
+   "bytes": 184022,
+   "magic": "ffd8ffe000104a464946000102010048",
+   "decoded": {
+    "format": "JPEG",
+    "size": [
+     1200,
+     675
+    ]
+   }
+  },
+  {
+   "group": "hkp",
+   "title": "宏福居民促黃碧嬌解釋授權票疑問",
+   "id": "hk60394798",
+   "url": "https://www.hk01.com/article/60394798",
+   "publishedRaw": "2026-09-29T14:30:56+08:00",
+   "publishedNormalized": "2026-09-29T14:30:56+08:00",
+   "publishedHKT": "2026-09-29 14:30",
+   "timezoneNote": "Original metadata offset used",
+   "articleResponse": "200 text/html; charset=utf-8 502062",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181625483612131328713295.jpeg/h5ob-lAlCeeKM220WoiAkQ0XUw-8OcWydO2J7XTtie0",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 192753",
+   "bytes": 192753,
+   "magic": "ffd8ffe000104a464946000102010048",
+   "decoded": {
+    "format": "JPEG",
+    "size": [
+     1200,
+     675
+    ]
+   }
+  },
+  {
+   "group": "hkp",
+   "title": "新皇崗開通前協調最後準備",
+   "id": "c508648",
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/508648/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%84%A7%E7%82%B3%E5%BC%B7-%E9%96%8B%E9%80%9A%E5%9C%A8%E5%8D%B3-%E6%AD%A3%E5%8D%94%E8%AA%BF%E6%9C%80%E5%BE%8C%E6%BA%96%E5%82%99",
+   "publishedRaw": "2026-09-29T10:41:09+00:00",
+   "publishedNormalized": "2026-09-29T10:41:09+00:00",
+   "publishedHKT": "2026-09-29 18:41",
+   "timezoneNote": "Original metadata offset used",
+   "articleResponse": "200 text/html; charset=UTF-8 185439",
+   "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/09/30021820/vlcsnap-2026-09-29-18h17m57s639.jpg",
+   "ogMatch": true,
+   "imageResponse": "200 image/jpeg 301107",
+   "bytes": 301107,
+   "magic": "ffd8ffe000104a464946000101000001",
+   "decoded": {
+    "format": "JPEG",
+    "size": [
+     1920,
+     1080
+    ]
+   }
+  },
+  {
+   "group": "cn",
+   "title": "中国10月起为首套房贷贴息 暂定实施一年",
+   "id": "zb9756118",
+   "url": "https://www.zaobao.com.sg/news/china/story20260929-9756118",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T18:18:54+08:00",
+   "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/ecc9d0d37be9567be67d3fc946c5204b880e337ffb030890c3a16dc60cbecde5",
+   "description": "中国将从10月1日起，对符合条件的居民首套住房贷款给予财政贴息，政策实施期暂定一年。这是中国中央财政首次对商业性个人住房贷款实施贴息。",
+   "publishedHKT": "2026-09-29T18:18:54+08:00",
+   "imageStatus": "200",
+   "contentType": "image/webp",
+   "bytes": 103446,
+   "magic": "524946460e94010057454250",
+   "ogMatch": true,
+   "imageFormat": "WEBP",
+   "imageDimensions": [
+    1023,
+    682
+   ],
+   "source": "聯合早報",
+   "articleRaw": "scratch/pm-20260929/world-zb9756118.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T18:24:19+08:00",
+   "modifiedHKT": "2026-09-29T18:24:19+08:00"
+  },
+  {
+   "group": "cn",
+   "title": "受賄2.63億　廣西政協原副主席彭曉春一審被判死緩",
+   "id": "60394950",
+   "url": "https://www.hk01.com/article/60394950",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T18:17:25+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181667536383512576203584.png/l0Rp1D_9E3IsVgSsbqQx1iuRFtC5LHL5P0vyDj9L8g4?v=w1280r16_9",
+   "description": "據《央視新聞》消息，2026年9月29日，廣東省佛山市中級人民法院一審公開宣判廣西壯族自治區政協原黨組成員、副主席彭曉春受賄一案，對被告人彭曉春",
+   "publishedHKT": "2026-09-29T18:17:25+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 71591,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    720,
+    405
+   ],
+   "source": "香港01",
+   "articleRaw": "scratch/pm-20260929/world-60394950.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T18:17:41+08:00",
+   "modifiedHKT": "2026-09-29T18:17:41+08:00"
+  },
+  {
+   "group": "cn",
+   "title": "陝西女教師遭拖行數公里死亡案 最新進展",
+   "id": "e14859787",
+   "url": "https://www.epochtimes.com/b5/26/9/29/n14859787.htm",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T08:45:52.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/09/id14859827-d51da2da6fb84aea8614208d0c510b9f-700x359.png",
+   "description": "陝西省安康市白河縣一名小學女教師2024年4月遭兩輛轎車先後撞擊，其中一輛車將她捲入車底後拖行約5.9公里，最終死亡。事故發生後，涉案人員還曾商議尋找他人「頂包」，並向警方提供虛假說法。",
+   "publishedHKT": "2026-09-29T16:45:52+08:00",
+   "imageStatus": "200",
+   "contentType": "image/png",
+   "bytes": 101471,
+   "magic": "89504e470d0a1a0a0000000d",
+   "ogMatch": true,
+   "imageFormat": "PNG",
+   "imageDimensions": [
+    700,
+    359
+   ],
+   "source": "大紀元",
+   "articleRaw": "scratch/pm-20260929/world-e14859787.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T08:45:52.000Z",
+   "modifiedHKT": "2026-09-29T16:45:52+08:00"
+  },
+  {
+   "group": "cn",
+   "title": "大連櫻桃種植戶維權案數十人被抓",
+   "id": "e14859662",
+   "url": "https://www.epochtimes.com/b5/26/9/29/n14859662.htm",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T06:29:01.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/09/id14859698-20260925154000669-600x400-1-600x359.jpg",
+   "description": "2022年前後，遼寧大連多名櫻桃種植戶的果樹大面積死亡。圍繞果樹死亡原因及農資產品的多年維權，事件在近日擴大成一宗涉及種植戶、律師、打假博主、媒體人、助理及引薦人員的刑事案件。",
+   "publishedHKT": "2026-09-29T14:29:01+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 177054,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    600,
+    359
+   ],
+   "source": "大紀元",
+   "articleRaw": "scratch/pm-20260929/world-e14859662.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T06:29:03.000Z",
+   "modifiedHKT": "2026-09-29T14:29:03+08:00"
+  },
+  {
+   "group": "cn",
+   "title": "僅退款遭拒報復商家　江蘇男惡意下單2700次涉額過千萬獲刑1年半",
+   "id": "60394880",
+   "url": "https://www.hk01.com/article/60394880",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T17:00:22+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181640118558003200963541.png/X-D47b-NXdQXKROrDysOb_gPTWqc5_Kb9ti0fvbYtH4?v=w1280r16_9",
+   "description": "江蘇男子陳某虛構理由申請「僅退款」被拒絕後，為了報復商家，竟在3年間惡意下單逾2700次，涉額過千萬元（人民幣，下同）。法院認為，陳某的行為已",
+   "publishedHKT": "2026-09-29T17:00:22+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 34266,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    1033,
+    581
+   ],
+   "source": "香港01",
+   "articleRaw": "scratch/pm-20260929/world-60394880.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T17:00:22+08:00",
+   "modifiedHKT": "2026-09-29T17:00:22+08:00"
+  },
+  {
+   "group": "cn",
+   "title": "2歲童連食8個月「銀鱈魚」汞中毒　家長斥商家包裝成兒童輔食販售",
+   "id": "60394797",
+   "url": "https://www.hk01.com/article/60394797",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T15:30:32+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181618753692372992073814.png/h7a8v9blZRPIH-H_yRX-_8_wtm6r3_GdsTY-E7E2PhM?v=w1280r16_9",
+   "description": "「兒童裝」銀鱈魚竟成汞中毒源頭。浙江杭州的李女士反映，2歲兒子連續8個月食用銀鱈魚後，血汞含量竟超標5倍以上，確診為汞中毒，需住院接受排汞治",
+   "publishedHKT": "2026-09-29T15:30:32+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 50045,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    607,
+    341
+   ],
+   "source": "香港01",
+   "articleRaw": "scratch/pm-20260929/world-60394797.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T15:30:32+08:00",
+   "modifiedHKT": "2026-09-29T15:30:32+08:00"
+  },
+  {
+   "group": "cn",
+   "title": "中国地产富豪陈红天被限制高消费 曾多次登上胡润百富榜",
+   "id": "zb9754761",
+   "url": "https://www.zaobao.com.sg/news/china/story20260929-9754761",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T16:15:00+08:00",
+   "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/ee6fc0bf8a87f7a445fbe91c6f3c464da26892cce800796d649754365d05e040",
+   "description": "中国房地产企业祥祺集团创始人陈红天因多起债务纠纷，被法院采取限制高消费措施，关联企业也新增多条被执行人信息。他及家族曾多次登上胡润百富榜，近年来却面临债务及现金流压力。",
+   "publishedHKT": "2026-09-29T16:15:00+08:00",
+   "imageStatus": "200",
+   "contentType": "image/webp",
+   "bytes": 51152,
+   "magic": "52494646c8c7000057454250",
+   "ogMatch": true,
+   "imageFormat": "WEBP",
+   "imageDimensions": [
+    800,
+    533
+   ],
+   "source": "聯合早報",
+   "articleRaw": "scratch/pm-20260929/world-zb9754761.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T16:30:27+08:00",
+   "modifiedHKT": "2026-09-29T16:30:27+08:00"
+  },
+  {
+   "group": "cn",
+   "title": "恒瑞26亿美元授权减重药 诺和诺德获海外独家权益",
+   "id": "zb9754541",
+   "url": "https://www.zaobao.com.sg/news/china/story20260929-9754541",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T15:31:43+08:00",
+   "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/114fb809fb2fb77afe426e61814d552ff0bc7fe39fad1fff2d0007c4a295bba1",
+   "description": "中国药企恒瑞医药将自主研发的一款口服减重药授权给丹麦制药巨头诺和诺德，交易潜在总额最高达26亿美元（约33.2亿新元），显示中国创新药企持续拓展海外市场。",
+   "publishedHKT": "2026-09-29T15:31:43+08:00",
+   "imageStatus": "200",
+   "contentType": "image/webp",
+   "bytes": 123038,
+   "magic": "5249464696e0010057454250",
+   "ogMatch": true,
+   "imageFormat": "WEBP",
+   "imageDimensions": [
+    1023,
+    682
+   ],
+   "source": "聯合早報",
+   "articleRaw": "scratch/pm-20260929/world-zb9754541.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T15:31:45+08:00",
+   "modifiedHKT": "2026-09-29T15:31:45+08:00"
+  },
+  {
+   "group": "us",
+   "title": "特朗普宣布1170億新建鋼鐵廠計劃　規模料將冠絕美國歷史",
+   "id": "60394736",
+   "url": "https://www.hk01.com/article/60394736",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T12:30:02+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181560895063461888621793.jpeg/PXa9BneBirXFwqPaQ-wrunj2Jz-zwyHQEMmU-BDJlPg?v=w1280r16_9",
+   "description": "美國總統特朗普（Donald Trump，又譯川普）9月28日宣布，礦業公司Mesabi Metallics計劃投資約150億美元（約1170億港元），在艾奧瓦州興建鋼鐵廠，",
+   "publishedHKT": "2026-09-29T12:30:02+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 156091,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    1280,
+    720
+   ],
+   "source": "香港01",
+   "articleRaw": "scratch/pm-20260929/world-60394736.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T12:30:02+08:00",
+   "modifiedHKT": "2026-09-29T12:30:02+08:00"
+  },
+  {
+   "group": "us",
+   "title": "美航母「艾森豪威爾」號爆著艦事故　2飛行員彈射逃生　4水兵受傷",
+   "id": "60394841",
+   "url": "https://www.hk01.com/article/60394841",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T16:22:29+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20231028/794987839233200128968012.jpeg/09rtdBcsWEAD_kyOJNfYyicdKK_IEwbAszfEvbM3xL0?v=w1280r16_9",
+   "description": "美國兩名海軍飛行員9月28日於部署在維珍尼亞州外海的航空母艦「艾森豪威爾」號（USS Dwight D. Eisenhower，CVN-69）上著艦（即飛機降落艦上）時出",
+   "publishedHKT": "2026-09-29T16:22:29+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 164270,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    1280,
+    720
+   ],
+   "source": "香港01",
+   "articleRaw": "scratch/pm-20260929/world-60394841.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T16:25:56+08:00",
+   "modifiedHKT": "2026-09-29T16:25:56+08:00"
+  },
+  {
+   "group": "us",
+   "title": "美限制27名拉美人士簽證 打擊貪腐與販毒",
+   "id": "e14859697",
+   "url": "https://www.epochtimes.com/b5/26/9/29/n14859697.htm",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T05:57:41.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/03/id14713634-AFP__20260307__A2CH4EV__v1__MidRes__TrumpHostsAlignedLatinAmericanLeadersAtInternati-700x359.jpg",
+   "description": "川普政府推出新簽證限制政策，首批涉及玻利維亞、哥倫比亞、厄瓜多爾和秘魯27人，並配合「美洲之盾」打擊腐敗、毒品販運及24個毒品恐怖組織。",
+   "publishedHKT": "2026-09-29T13:57:41+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 132470,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    700,
+    359
+   ],
+   "source": "大紀元",
+   "articleRaw": "scratch/pm-20260929/world-e14859697.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T05:57:49.000Z",
+   "modifiedHKT": "2026-09-29T13:57:49+08:00"
+  },
+  {
+   "group": "tw",
+   "title": "国民党提“加码”送钱　行政院长强调绝不债留子孙",
+   "id": "zb9756718",
+   "url": "https://www.zaobao.com.sg/news/china/story20260929-9756718",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T20:26:47+08:00",
+   "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/0433b8c50c306fbd033f7e9cc31d10288b3dcccce5b393ee35ff2f4e795adbf5",
+   "description": "台湾朝野近期因普发现金议题交锋。民进党政府提出明年每人普发现金1万元（新台币，下同，约400新元）后，在野的国民党主张今年先普发2万元，行政院长卓荣泰回应时强调不能债留子孙。",
+   "publishedHKT": "2026-09-29T20:26:47+08:00",
+   "imageStatus": "200",
+   "contentType": "image/webp",
+   "bytes": 30896,
+   "magic": "52494646a878000057454250",
+   "ogMatch": true,
+   "imageFormat": "WEBP",
+   "imageDimensions": [
+    754,
+    503
+   ],
+   "source": "聯合早報",
+   "articleRaw": "scratch/pm-20260929/world-zb9756718.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T20:26:49+08:00",
+   "modifiedHKT": "2026-09-29T20:26:49+08:00"
+  },
+  {
+   "group": "tw",
+   "title": "收假首日驚悚悲劇！台南女大生遭水泥車撞倒...慘被輾壓奪命 | ETtoday社會新聞 | ETtoday新聞雲",
+   "id": "et3246008",
+   "url": "https://www.ettoday.net/news/20260929/3246008.htm",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T18:52:00+08:00",
+   "ogImage": "https://cdn2.ettoday.net/images/8945/e8945068.jpg",
+   "description": "台南市仁德區保安路56巷29日上午發生死亡車禍，25歲湯姓男子駕駛水泥預拌車倒車時，與後方由23歲吳姓女大生騎乘的機車發生碰撞，吳女倒地後遭車輛輾壓，送醫搶救仍宣告不治，歸仁分局警方確認湯男酒測值為0，詳細肇事原因及責任仍待調查。",
+   "publishedHKT": "2026-09-29T18:52:00+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 200375,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    1017,
+    960
+   ],
+   "source": "ETtoday",
+   "articleRaw": "scratch/pm-20260929/world-et3246008.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T18:53:51+08:00",
+   "modifiedHKT": "2026-09-29T18:53:51+08:00"
+  },
+  {
+   "group": "tw",
+   "title": "金門幼兒園「柚子變裝」活動惹議　縣府要求1週內提完整報告 | ETtoday地方新聞 | ETtoday新聞雲",
+   "id": "et3246014",
+   "url": "https://www.ettoday.net/news/20260929/3246014.htm",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T18:46:00+08:00",
+   "ogImage": "https://cdn2.ettoday.net/images/8945/e8945069.jpg",
+   "description": "金門縣某私立幼兒園日前舉辦中秋節活動，安排幼兒穿著柚子造型服裝，並帶隊前往賣場認識柚子及中秋食材，活動照片曝光後引發民眾對幼兒服裝適切性、個人隱私及身體自主權的疑慮。金門縣政府表示，已啟動行政查核，並要求園方限期提出說明。",
+   "publishedHKT": "2026-09-29T18:46:00+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 314601,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    1280,
+    960
+   ],
+   "source": "ETtoday",
+   "articleRaw": "scratch/pm-20260929/world-et3246014.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T18:44:00+08:00",
+   "modifiedHKT": "2026-09-29T18:44:00+08:00"
+  },
+  {
+   "group": "war",
+   "title": "美軍明日全面撤出伊拉克　結束23年駐軍任務　路透：或對伊朗有利",
+   "id": "60394937",
+   "url": "https://www.hk01.com/article/60394937",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T20:01:18+08:00",
+   "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260929/1181664734047375360965137.jpeg/UqjUMy6XbjOI-AfW_UICvabY2S5Qh-yyk3ZBk5N2QZM?v=w1280r16_9",
+   "description": "美軍將於9月30日撤出其駐伊拉克的最後基地，正式結束美國自2003年伊拉克戰爭，在當地的駐軍任務。路透社引述安全專家指，這或會有利伊朗及其在伊拉",
+   "publishedHKT": "2026-09-29T20:01:18+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 143167,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    1280,
+    720
+   ],
+   "source": "香港01",
+   "articleRaw": "scratch/pm-20260929/world-60394937.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T20:01:18+08:00",
+   "modifiedHKT": "2026-09-29T20:01:18+08:00"
+  },
+  {
+   "group": "war",
+   "title": "川普斥Axios報導不實 否認提議放鬆伊朗制裁",
+   "id": "e14859651",
+   "url": "https://www.epochtimes.com/b5/26/9/29/n14859651.htm",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T08:16:20.000Z",
+   "ogImage": "https://i.epochtimes.com/assets/uploads/2026/05/id14773057-EpochImages-5013538345-xl-700x359.jpg",
+   "description": "美國總統川普（特朗普）週一（9月28日）駁斥了新聞網站Axios的一篇報導，該報導稱，他願意放寬對伊朗的制裁，並解凍伊朗資金，以促使伊朗政權重新審查自己的核計劃。",
+   "publishedHKT": "2026-09-29T16:16:20+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 286660,
+   "magic": "ffd8ffe000104a4649460001",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    700,
+    359
+   ],
+   "source": "大紀元",
+   "articleRaw": "scratch/pm-20260929/world-e14859651.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T08:16:20.000Z",
+   "modifiedHKT": "2026-09-29T16:16:20+08:00"
+  },
+  {
+   "group": "war",
+   "title": "US dollar rises above 2.5 million rials in Iran as inflation pressures deepen",
+   "id": "ii202609297229",
+   "url": "https://www.iranintl.com/en/202609297229",
+   "articleStatus": "200",
+   "publishedRaw": "2026-09-29T07:54:01.845Z",
+   "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/02a1739aef489aa3e1de2ebf40f9f16eec9a005b-1280x843.jpg?rect=0,86,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+   "description": "Iran’s free-market dollar rate rose above 2.5 million rials on Tuesday, extending a sharp fall in the currency and adding to concerns about rising prices and shrinking household purchasing power.",
+   "publishedHKT": "2026-09-29T15:54:01.845000+08:00",
+   "imageStatus": "200",
+   "contentType": "image/jpeg",
+   "bytes": 54203,
+   "magic": "ffd8ffdb0043000b07080a08",
+   "ogMatch": true,
+   "imageFormat": "JPEG",
+   "imageDimensions": [
+    1200,
+    630
+   ],
+   "source": "Iran International",
+   "articleRaw": "scratch/pm-20260929/world-ii202609297229.html",
+   "checkedAt": "2026-09-29T20:39:07.846748+08:00",
+   "modifiedRaw": "2026-09-29T11:32:31Z",
+   "modifiedHKT": "2026-09-29T19:32:31+08:00"
+  }
+ ],
+ "briefs": {
+  "edition": "2026-09-29/pm",
+  "cutoffHKT": "2026-09-29T21:30:00+08:00",
+  "checkedAt": "2026-09-29T20:38:54.872567+08:00",
+  "searchAudit": [
+   "AI incident/hack/lawsuit/regulation web search performed. Florida motion discovered, direct Ars article403 excluded; current apology/release pause selected.",
+   "Previous 2026-09-29 am briefs checked; all seven source URLs newly selected.",
+   "AP403, Axios403, Yahoo429 excluded; readable Gulf News AFP report used for Trump denial.",
+   "Iran International currency item is a short news report; free-market quote only, no official-rate inference."
+  ],
+  "briefs": {
+   "ai": {
+    "sources": [
+     {
+      "media": "衛報",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+      "title": "Revealed: the five-paragraph email OpenAI used to inform Australia about agent attack",
+      "publishedRaw": "2026-09-29T11:04:05.000Z",
+      "publishedHKT": "2026-09-29T19:04:05+08:00",
+      "articleHTTP": 200,
+      "snapshot": "brief-ai-apology.html",
+      "fetchedAt": "2026-09-29T20:37:15.569123+08:00",
+      "allDatesRaw": [
+       "2026-09-29T11:04:05.000Z",
+       "2026-09-29T11:04:05.000Z"
+      ],
+      "articleVerified": true
+     },
+     {
+      "media": "The Decoder",
+      "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/",
+      "title": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+      "publishedRaw": "2026-09-29T08:26:38+00:00",
+      "publishedHKT": "2026-09-29T16:26:38+08:00",
+      "articleHTTP": 200,
+      "snapshot": "brief-ai-astra.html",
+      "fetchedAt": "2026-09-29T20:36:42.907785+08:00",
+      "allDatesRaw": [
+       "2026-09-29T08:26:38+00:00",
+       "2026-09-29T08:27:27+00:00",
+       "2026-09-29T08:26:38+00:00",
+       "2026-09-29T08:27:27+00:00"
+      ],
+      "articleVerified": true
+     },
+     {
+      "media": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "title": "Anthropic's prospectus details losses, growth, and, yes, a warning that its AI could end humanity | TechCrunch",
+      "publishedRaw": "2026-09-29T05:13:43+00:00",
+      "publishedHKT": "2026-09-29T13:13:43+08:00",
+      "articleHTTP": 200,
+      "snapshot": "brief-ai-ipo.html",
+      "fetchedAt": "2026-09-29T20:36:42.384673+08:00",
+      "allDatesRaw": [
+       "2026-09-29T05:13:43+00:00",
+       "2026-09-29T05:16:33+00:00",
+       "2026-09-29T05:13:43+00:00",
+       "2026-09-29T05:16:33+00:00"
+      ],
+      "articleVerified": true
+     },
+     {
+      "media": "The Decoder",
+      "url": "https://the-decoder.com/manus-2-0-lets-users-edit-videos-host-multiplayer-games-and-run-agents-remotely-from-their-phone/",
+      "title": "Manus 2.0 lets users edit videos, host multiplayer games, and run agents remotely from their phone",
+      "publishedRaw": "2026-09-29T08:47:37+00:00",
+      "publishedHKT": "2026-09-29T16:47:37+08:00",
+      "articleHTTP": 200,
+      "snapshot": "brief-ai-manus.html",
+      "fetchedAt": "2026-09-29T20:36:42.967035+08:00",
+      "allDatesRaw": [
+       "2026-09-29T08:47:37+00:00",
+       "2026-09-29T08:53:31+00:00",
+       "2026-09-29T08:47:37+00:00",
+       "2026-09-29T08:53:31+00:00"
+      ],
+      "articleVerified": true
+     }
+    ],
+    "imageVerification": {
+     "articleURL": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+     "originalOg": "https://i.guim.co.uk/img/media/382f5ce9a99ca59f0295e666583b6b694b2ebb34/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=435f58910e5a84c536fbcac0c3f4571f",
+     "recheckOg": "https://i.guim.co.uk/img/media/382f5ce9a99ca59f0295e666583b6b694b2ebb34/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=435f58910e5a84c536fbcac0c3f4571f",
+     "exactMatch": true,
+     "HTTP": 200,
+     "contentType": "image/jpeg",
+     "bytes": 105118,
+     "first16Hex": "ffd8ffe000104a464946000101000001",
+     "decoded": true,
+     "format": "JPEG",
+     "width": 1200,
+     "height": 630,
+     "checkedAt": "2026-09-29T20:38:56.401164+08:00",
+     "articleSnapshot": "brief-recheck-ai-apology.html"
+    },
+    "bodyCharacters": 341
+   },
+   "warb": {
+    "sources": [
+     {
+      "media": "法新社／Gulf News",
+      "url": "https://gulfnews.com/world/americas/trump-denies-he-offered-iran-sanctions-relief-release-of-frozen-funds-1.500691408",
+      "title": "Trump denies he offered Iran sanctions relief, release of frozen funds ",
+      "publishedRaw": "2026-09-29T05:15:39+04:00",
+      "publishedHKT": "2026-09-29T09:15:39+08:00",
+      "articleHTTP": 200,
+      "snapshot": "brief-war-denial-afp.html",
+      "fetchedAt": "2026-09-29T20:37:30.332706+08:00",
+      "allDatesRaw": [
+       "2026-09-29T05:15:39+04:00",
+       "2026-09-29T05:15:39+04:00",
+       "2026-09-29T05:15:39+04:00",
+       "2026-09-29T05:15:39+04:00"
+      ],
+      "articleVerified": true
+     },
+     {
+      "media": "半島電視台",
+      "url": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks",
+      "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+      "publishedRaw": "2026-09-29T02:36:25Z",
+      "publishedHKT": "2026-09-29T10:36:25+08:00",
+      "articleHTTP": 200,
+      "snapshot": "brief-war-aj.html",
+      "fetchedAt": "2026-09-29T20:36:43.245140+08:00",
+      "allDatesRaw": [
+       "2026-09-29T02:36:25Z",
+       "2026-09-29T03:13:18Z"
+      ],
+      "articleVerified": true
+     },
+     {
+      "media": "Iran International",
+      "url": "https://www.iranintl.com/en/202609297229",
+      "title": "US dollar rises above 2.5 million rials in Iran as inflation pressures deepen",
+      "publishedRaw": "2026-09-29T07:54:01.845Z",
+      "publishedHKT": "2026-09-29T15:54:01.845000+08:00",
+      "articleHTTP": 200,
+      "snapshot": "brief-war-rial.html",
+      "fetchedAt": "2026-09-29T20:37:44.420669+08:00",
+      "allDatesRaw": [
+       "2026-09-29T07:54:01.845Z",
+       "2026-09-29T11:32:31Z"
+      ],
+      "articleVerified": true
+     }
+    ],
+    "imageVerification": {
+     "articleURL": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks",
+     "originalOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abae8a0-1790634144.jpg?resize=1920%2C1440",
+     "recheckOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6abae8a0-1790634144.jpg?resize=1920%2C1440",
+     "exactMatch": true,
+     "HTTP": 200,
+     "contentType": "image/jpeg",
+     "bytes": 437408,
+     "first16Hex": "ffd8ffe000104a464946000101000001",
+     "decoded": true,
+     "format": "JPEG",
+     "width": 1920,
+     "height": 1440,
+     "checkedAt": "2026-09-29T20:38:58.243596+08:00",
+     "articleSnapshot": "brief-recheck-war-aj.html"
+    },
+    "bodyCharacters": 336
+   }
+  }
+ },
+ "review": {
+  "edition": "2026-09-29 pm",
+  "reviewedAtHKT": "2026-09-29T20:42:38+08:00",
+  "scope": "root.json 6 cards and world.json 17 cards; saved original article HTML, source evidence, AM comparison and cached image decoding",
+  "blockingFindings": [],
+  "resolvedFindings": [
+   {
+    "url": "https://www.epochtimes.com/b5/26/9/29/n14859662.htm",
+    "issue": "Original title described approximately 20 people as arrested. Original article describes criminal measures, with some people taken away or missing; not every person has a confirmed formal arrest.",
+    "resolution": "Current world.json now says 報道指大連維權案約廿人遭刑事措施. Verified corrected."
+   },
+   {
+    "url": "https://www.epochtimes.com/b5/26/9/29/n14859787.htm",
+    "issue": "Original title said all five defendants had charges changed. Article says three previously charged, two previously not pursued; all five charged with intentional homicide in August, confirmed by family on September 28.",
+    "resolution": "Current world.json now says 五人被控殺人 and 家屬披露八月起訴變更，尚待法院審理. Verified corrected; does not present charges as conviction or a September 29 prosecution decision."
+   }
+  ],
+  "optionalClarity": [
+   {
+    "url": "https://www.hk01.com/article/60394736",
+    "suggestion": "美鋼鐵公司 could be read as the proper name U.S. Steel. Actual company is Mesabi Metallics; 美企擬投資一百五十億美元建廠 avoids that ambiguity."
+   },
+   {
+    "url": "https://www.iranintl.com/en/202609297229",
+    "suggestion": "Source says free-market dollar rate rose above 2.5 million rials. 美元兌里亞爾升穿二百五十萬 is numerically clearer than 里亞爾跌破; short original specifically mentions rising prices and shrinking household purchasing power, not an explicit import-price measure."
+   }
+  ],
+  "checks": {
+   "publicationTimes": "All 23 cards' original publication timestamps are inside PM 09:00–21:30 HKT and before review time; publication and modification distinguished. ETtoday kindergarten modification precedes publication in source metadata; preserved rather than invented.",
+   "edigestTimezone": "Live WP API for post 2042940 returned date 2026-09-29T18:22:01 and date_gmt 2026-09-29T10:22:01. Card 18:22 HKT is correct despite misleading +00:00 article meta.",
+   "amDedup": "No exact source URL duplicates against AM. Root Macro Court residents' reaction concerns unanswered proxy-vote questions and is distinct from AM legal-aid interview. No same-topic card without substantive different material identified.",
+   "oldCases": "Dalian land dispute dates to 2022; article reports recent September criminal measures and a September 27 report. Shaanxi charge change occurred in August, family confirmed September 28. Chen Hongtian restrictions include June and later cases; card does not claim a September 29 court ruling.",
+   "attribution": "Child mercury poisoning retains parents' allegation and company's response, without asserting established causation. Charges against teacher-case defendants remain pending trial. US visa restrictions described as allegations, not convictions. Iraq withdrawal and steel plant opening retain planned/future status.",
+   "images": "23 of 23 selected card image URLs matched og:image extracted from their saved original article HTML, and cached image files passed Pillow verification. Source evidence records HTTP/type/bytes; independent review did not refetch every image.",
+   "anthropic": "TechCrunch original explicitly says 2025 operating loss exceeded $8 billion. Brief's 營運虧損超過八十億美元 is correct and distinct from a reported net-loss figure exceeding $42 billion."
+  },
+  "trackReview": {
+   "status": "pass_with_editorial_fix",
+   "findings": [
+    {
+     "severity": "minor",
+     "track": "港·宏福苑大火獨立調查",
+     "issue": "進展內仍有交稿指示『可與本版政治組居民授權票疑問合併。』，應刪掉，後面實際已合併。"
+    }
+   ],
+   "checks": {
+    "previousNames": 59,
+    "stagedNames": 62,
+    "missingNames": [],
+    "futureDatesRetained": [
+     "元朗狗咬狗10月再訊",
+     "黎智英11月30日聆訊",
+     "碧瑤灣10月21日再訊",
+     "教大10月9日判刑",
+     "施駿興10月27日判刑",
+     "杏花邨12月11日再訊",
+     "潘焯鴻11月2日再訊及10月8至12日離港"
+    ],
+    "newTracksAndKeys": "健身室、青馬巴士撞的士、美容師三個名稱與stage track_keys一致，regex可命中各自卡面或URL；11月25日、11月25日、10月27日節點均有原文支持。",
+    "unrelatedCases": "三狗線已明說元朗女子案並非狗咬狗或打鼓嶺本案的新證據；青馬跳海案與3月30日巴士兩死案亦有清楚分開。寬關鍵詞而引入別案背景不代表舊案自身有新發展。",
+    "warningGym": "實質新進展：am為警方恢復影片；pm為29日上午被告正式提堂、准保及11月25日再訊，Dimsum原始發布11:11合pm窗口，非單純更新時間。",
+    "warningMortgage": "pm首套房貸貼息新政策與am工業利潤放緩屬不同事件，並非重複；不能因同為內地經濟或含百分比而剔除。"
+   },
+   "limits": [
+    "本次只核對stage內容承接及已取得原文，不重新核實歷史各案舊報道。",
+    "大埔七旬婦低頻門檻由root處理，本檔不修改任何stage/live資料。",
+    "打鼓嶺條目將原09-07細節概括為原有跟進資料，沒有已知未來庭期遺漏，但保留具體舊進展較方便讀者。"
+   ],
+   "resolution": "Removed internal merge instruction; retained explicit last developments for dog cases; powder arrest date corrected from original article."
+  }
+ },
+ "trackAudit": {
+  "checkedAt": "2026-09-29T20:43:43.822311+08:00",
+  "window": "2026-09-29 09:00–21:30 HKT; only <= actual check time",
+  "scope": [
+   "Read AM selected track names and factual baseline",
+   "Scanned hk-feed.json, world-hkcn.raw and world-hkus.raw article titles/descriptions",
+   "Targeted web searches date+蔡天鳳/潘焯鴻/黎智英/網約車/粉末信/川習會",
+   "Read 7 selected brief article raw HTML and compared each factual claim"
+  ],
+  "limits": [
+   "Not exhaustive search of all 59 tracks or long low-frequency list",
+   "No matching search result is not proof no development occurred",
+   "Search-returned banned outlets not adopted as evidence",
+   "Court dates retained as future nodes, not treated as newly occurred events"
+  ],
+  "confirmedUpdates": [
+   {
+    "track": "中·中共高層清洗／落馬潮",
+    "sourceURL": "https://www.hk01.com/article/60394950",
+    "publishedRaw": "2026-09-29T18:17:25+08:00",
+    "publishedHKT": "2026-09-29T18:17:25+08:00",
+    "raw": "scratch/pm-20260929/world-60394950.html",
+    "facts": "彭曉春29日一審受賄2.63億元人民幣判死刑緩期兩年執行、剝奪政治權利終身、沒收個人全部財產。",
+    "duplicateRationale": "不同於AM魯昕、徐和誼案件；新判決。"
+   }
+  ],
+  "notAdopted": [
+   {
+    "track": "美中·川習會",
+    "sourceURL": "https://udn.com/news/story/125026/9782038",
+    "published": "2026-09-29 02:34 HKT",
+    "reason": "經貿十項成果文章早於PM時間窗；9/28已公布，不當PM新進展。"
+   },
+   {
+    "track": "美中·川習會",
+    "sourceURL": "https://money.udn.com/money/amp/story/5599/9782543",
+    "published": "2026-09-29 09:36 HKT",
+    "reason": "中央社轉載禁用；亦屬專家解讀，不應寫作新政府政策。"
+   },
+   {
+    "track": "美中·川習會",
+    "sourceURL": "https://money.udn.com/money/story/5603/9783649",
+    "published": "2026-09-29 15:49:26 HKT",
+    "reason": "謝守真獨立署名但內容為座談會學者分析對台軍售方向；未核實新軍售或經貿實施，不建議當新政策。"
+   },
+   {
+    "track": "港·蔡天鳳碎屍案審訊",
+    "sourceURL": "https://www.am730.com.hk/article/1055733",
+    "published": "2026-09-29 04:00 HKT",
+    "reason": "早於PM窗；重述28日解散陪審團及30日重選，未新增庭上進展。"
+   }
+  ],
+  "baselineCorrection": {
+   "track": "港·星島粉末恐嚇信案",
+   "sourceURL": "https://www.stheadline.com/breaking-news/3620454/",
+   "published": "2026-09-29 07:48 HKT",
+   "support": "報道指28日上午接報，28日下午旺角拘24歲姓陳本地男子；不是29日凌晨。",
+   "instruction": "PM承接應更正拘捕事件時間；不是PM新進展。AM不動。",
+   "crosscheckFeed": "香港01 60394664同日拘捕標題及28日接報描述。"
+  },
+  "noVerifiedPMUpdateFound": [
+   "港·潘焯鴻涉騙擔保貸款案",
+   "港·黎智英案",
+   "港·的士及網約車發牌",
+   "港·蔡天鳳碎屍案審訊",
+   "港·星島粉末恐嚇信案"
+  ],
+  "briefReview": {
+   "ai": "未發現實質事實錯誤。道歉、無病人/客戶紀錄遭存取保留OpenAI歸屬、Jason Kwon10月6日出席、Astra原定10月推出暫停、Anthropic2025 operating loss >$8bn、Manus功能均有原文支持。",
+   "warb": "未發現實質事實錯誤。特朗普否認與匿名官員說法分開；半島核問題為協議條件；250萬里亞爾為自由市場。未把建議當共同協議。",
+   "rawFiles": [
+    "brief-ai-apology.html",
+    "brief-ai-astra.html",
+    "brief-ai-ipo.html",
+    "brief-ai-manus.html",
+    "brief-war-aj.html",
+    "brief-war-denial-afp.html",
+    "brief-war-rial.html"
+   ]
+  }
+ },
+ "trackUpdates": {
+  "港·新皇崗口岸開通": [
+   "協調開通前最後準備",
+   "有線新聞29日報道，鄧炳強聯同跨部門代表再視察聯檢大樓，稱運輸交匯處路面已鋪防滑物料、WiFi流量提升，執漏接近完成；正逐項協調軟硬件最後準備，尚未公布正式開通日期。"
+  ],
+  "港·宏福苑大火獨立調查": [
+   "特設揀樓及授權票爭議",
+   "29日特設銷售開始揀樓，首節約35戶出席，程序預計11月底完成。此屬居民安置新進展，不代表獨立調查已有結論；香港01同日訪問有居民促黃碧嬌公開解釋授權票疑問，相關指控未有定罪。"
+  ],
+  "港·施政報告2026": [
+   "護士回應輸入醫護爭議",
+   "香港01報道，在施政報告電台聯播訴苦搵工難嘅前護士郭先生29日澄清並非工會成員或幹事，回應張宇人「工會扮人」說法感到受辱；亦表示並非反對內地同工。屬政策討論中新回應，唔等同輸入醫護政策改動。"
+  ],
+  "港·熱帶氣旋動向": [
+   "舒力基續移日本以南",
+   "香港01引述29日下午4時資料：強烈熱帶風暴舒力基位於大阪以南約620公里，向東北移動，料橫過日本以南海域並逐漸變為溫帶氣旋。本港國慶後受東北季候風影響，下周二石崗及打鼓嶺預測低至21度。"
+  ],
+  "港·元朗惡犬咬死女騎士": [
+   "追查頸傷及死者基因",
+   "消息指死者頸部被狗咬傷，疑為致命傷；除捕獲八犬外，當局調查附近約20隻倉狗有否沾死者基因，結果交死因庭。漁護署稱檢視危險狗隻管束規定，擬年底交立法會討論。"
+  ],
+  "港·元朗狗咬狗案": [
+   "同區新進展另案跟進",
+   "同區元朗女子疑遭狗咬死案：當局調查約20隻倉狗有否沾死者基因。這並非本宗狗咬狗案的新證據；本案保留原有10月再訊節點。本案最後進展（08-20）：狗主被控兩項容受大型狗隻進入公眾地方罪，准保釋10月再訊。"
+  ],
+  "港·打鼓嶺狗咬死人案": [
+   "同類新進展另案跟進",
+   "同類但不同地點案件：元朗女子疑遭狗咬死案調查約20隻倉狗有否沾死者基因；此非打鼓嶺本案的新證據，本案維持原有跟進資料。本案最後進展（09-07）：漁護署巡查郊野公園揭發三宗大型犬未牽引個案。"
+  ],
+  "港·iPhone 18信用卡盜刷案": [
+   "報案增至1503宗",
+   "29日警方稱已接1503宗報案、涉逾3000萬元；所有涉案交易已取消，卡主、銀行及蘋果均無損失，警方續查幕後團夥，要求檢視下一輪預售交易流程。"
+  ],
+  "港·青馬大橋的士司機跳海失蹤": [
+   "另案提堂分開跟進",
+   "本版青馬橋巴士撞的士兩死案為3月30日交通事故，巴士司機29日被控危險駕駛致死，准保釋至11月25日再訊；與的士司機跳海案無關，跳海案保留9月11日尋獲遺體及死因待驗資料。"
+  ],
+  "中·中共高層清洗／落馬潮": [
+   "彭曉春一審判死緩",
+   "香港01報道，廣西政協前副主席彭曉春29日一審被判死刑緩期兩年，受賄逾2.63億元人民幣並沒收財產；屬新判決，與上一版魯昕及徐和誼案件不同。"
+  ],
+  "🔥 美伊戰爭（2026）": [
+   "制裁說法分歧匯價下挫",
+   "特朗普否認曾提議解除伊朗制裁或釋放凍結資金，反駁Axios匿名官員報道；尚未有共同停戰協議。Iran International報道伊朗自由市場一美元升穿250萬里亞爾，唔係官方匯率。香港01報道美軍計劃9月30日撤出伊拉克最後基地，源於2024年安排，未代表撤軍已完成。"
+  ],
+  "港·星島粉末恐嚇信案": [
+   "跟進中",
+   "今日無新進展；最後進展（09-29報道）：警方28日下午在旺角拘捕24歲姓陳男子，涉嫌刑事恐嚇，並非29日凌晨拘捕。星島29日07:48原文明示日期；此處更正午報追蹤記錄，案件仍待調查，未有定罪。"
+  ]
+ },
+ "selfcheckExit": 0,
+ "schedule": {
+  "amStart": "08:30",
+  "pmStart": "20:30",
+  "amDeadline": "09:45",
+  "pmDeadline": "21:45",
+  "changed": false
+ }
+}
