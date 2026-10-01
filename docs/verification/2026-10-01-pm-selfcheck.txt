@@ -1,0 +1,57 @@
+── 自檢報告 2026-10-01（夜報，12小時窗 2026-10-01 09:00 起）──
+香港社會=8｜民生=8｜經濟=3｜政治=3｜中國=8｜美國=3｜台灣=3｜美伊戰爭=3
+事件追蹤=73｜AI簡報=363字｜美伊簡報=308字
+總卡數=39｜缺圖=0
+
+⚠ 提提你（唔會 fail，但盡量換返新料）共 4 項：
+  • 疑似同一單事：香港社會[0]「元朗輕鐵與私家車相撞乘客受傷」⟷ 今日午報·台灣[2]「高雄國軍兩裝甲車相撞一兵受傷」（共通詞：車相、相撞、碰撞）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：民生[2]「東北季候風抵港周五局部雨勢較大」⟷ 今日午報·台灣[0]「彩雲颱風生成台灣周五轉雨降溫」（共通詞：東北、北季、降溫）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：民生[4]「何文田停電後恢復供電旅客憂慮」⟷ 今日午報·民生[2]「何文田停電波及住宅酒店」（共通詞：田停、停電、中電）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：民生[7]「盧寵茂稱護士畢業失業屬個案」⟷ 今日午報·民生[7]「畢業護士稱多名同學未獲聘」（共通詞：護士、畢業、業護、求職）→ 只留最新最全嗰條，另一條換第二單
+
+🖼 驗圖（共 41 條，全部要驗，冇豁免）——**兩步都要做**：
+   ① WebFetch「文章」攞 og:image，同「現用圖」逐字比對（捉抄錯；星島 hkhl 只可以靠呢步）
+   ② WebFetch「現用圖」本身：回 404 ＝ 一定錯（hk01 只可以靠呢步，因為讀 og:image 會隨機讀錯簽名）
+  • 香港社會[0] 文章=https://www.hk01.com/article/60395621  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182426607332102144097132.jpeg/rNAhfMznsiwlVolPSNYpIgHMV4rpny_61e2bj9Xtm48?v=w1280r16_9
+  • 香港社會[1] 文章=https://www.hk01.com/article/60395604  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182399166656024576802436.jpeg/umnCOy_EWYeXjPWXKf-hWnK7mpoT_5my1nzVCtZ81Qo?v=w1280r16_9
+  • 香港社會[2] 文章=https://www.hk01.com/article/60395585  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182390816534958080691375.jpeg/WFA5Sxfk7Z69zSiNmc5S0u_RGH-FkZeyMmqs9BdqrPQ?v=w1280r16_9
+  • 香港社會[3] 文章=https://www.hk01.com/article/60395574  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182376867571699712895630.jpeg/yTNTYLBDYEDKFuw4ZBDLfzq87Eb7b5x5tXfB4LV3weA?v=w1280r16_9
+  • 香港社會[4] 文章=https://www.thestandard.com.hk/news/article/344345  現用圖=https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/d776ec7a7c547c646e9bf3fca2584a3d/2026-10/police_happyvalley.jpg
+  • 香港社會[5] 文章=https://www.hk01.com/article/60395493  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182321519817134080709215.jpeg/NJNBDkw3uECWDNpI-ffeiy9tibiVC-Fn03hehtN4XoY
+  • 香港社會[6] 文章=https://www.hk01.com/article/60395497  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182375069603598336523698.jpeg/SWpfBGxBfzBBYL1h-54a30fd9WgyUFM-bD_dKGw_3Sg
+  • 香港社會[7] 文章=https://www.hk01.com/article/60395468  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182290191105134592302658.jpeg/zl6DLoTszLD8yOKA6s4ALrPDcZW1ojNq6SGFJekhhSU?v=w1280r16_9
+  • 民生[0] 文章=https://www.thestandard.com.hk/news/article/344366  現用圖=https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/18430ae499a17066841862f4fa90526b/2026-10/h.png
+  • 民生[1] 文章=https://www.hk01.com/article/60392912  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182400995909439488419357.jpeg/TQ8KPaLwx2d6hTeeV_h7qbctceCJcM7Al0ayb5dGsm8
+  • 民生[2] 文章=https://www.hk01.com/article/60395600  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182416376292184064147806.jpeg/ykVEM0_3Zb4VemNWGkfHZhdoELw_mJiq0lVoqtJVaKo
+  • 民生[3] 文章=https://www.hk01.com/article/60395524  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182370176608243712172804.jpeg/4sIuidu7TC6aSxdLlWSN-hpOx0pw77qq20H_INtB_yA
+  • 民生[4] 文章=https://www.hk01.com/article/60395439  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182271783705776128815347.jpeg/loEfTLA4cYm54TDznQAlAv2ZWIuLcHE0xib9-sYm_fo?v=w1280r16_9
+  • 民生[5] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509315/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%B8%AF%E9%9A%8A%E7%B6%B2%E7%90%83%E9%8E%96%E5%AE%9A%E5%A5%B3%E9%9B%99-%E7%94%B7%E5%96%AE%E5%85%A9%E9%9D%A2%E7%8D%8E%E7%89%8C  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/02012936/TENNIS-COLEMAN-261001-1600.transfer_frame_1704.jpeg
+  • 民生[6] 文章=https://www.thestandard.com.hk/news/article/344368  現用圖=https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/7b5ffe37b852b13bf779c4db81fe494e/2026-10/XxjpseC000422_20261001_PEPFN0A001.JPG
+  • 民生[7] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509186/%E8%AD%B7%E5%A3%AB%E5%B0%B1%E6%A5%AD-%E7%9B%A7%E5%AF%B5%E8%8C%82-%E6%9C%AC%E6%B8%AF%E9%9C%80%E6%B1%82%E4%B8%8D%E6%96%B7%E4%B8%8A%E5%8D%87-%E7%95%A2%E6%A5%AD%E5%B0%B1  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/01194153/LO20261001-1.jpg
+  • 經濟[0] 文章=https://www.scmp.com/business/article/3369144/hong-kong-needs-new-funding-model-draw-investment-global-drug-makers-astrazeneca  現用圖=https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/29/f7ce4897-6533-4eef-adf9-51579125f4ee_3d93fd22.jpg?itok=FOmszAIx&v=1790657138
+  • 經濟[1] 文章=https://www.dimsumdaily.hk/receivers-launch-tender-for-peak-road-adjoining-sites-valued-at-hk1-6-billion/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/01113420/Chan-Kin-wai-2.webp
+  • 經濟[2] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509189/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E6%A5%AD%E7%95%8C-%E4%B8%AD%E7%A7%8B%E9%96%8B%E5%A7%8B%E4%BA%BA%E6%B5%81%E5%A2%9E%E5%8A%A0-%E4%B8%AD%E5%B0%8F%E5%9E%8B%E9%85%92  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/01181843/vlcsnap-2026-10-01-10h17m46s663.jpg
+  • 政治[0] 文章=https://www.hk01.com/article/60395551  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182357872932032512897620.jpeg/SoFBlY7K8cVRDkg33gKAlClZtZ7TiuWOQGFY2EBhWNg?v=w1280r16_9
+  • 政治[1] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509202/%E7%9F%AD%E6%9C%9F%E8%A8%AA%E5%AE%A2%E8%A8%88%E5%8A%83%E6%96%B0%E5%A2%9E%E7%A4%BE%E7%A6%8F%E7%95%8C-%E5%87%86%E5%B7%A5%E4%BD%9C%E5%85%A9%E5%91%A8-%E4%BD%95%E5%95%9F%E6%98%8E  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/01202410/vlcsnap-2026-10-01-12h22m39s401.jpg
+  • 政治[2] 文章=https://www.hk01.com/article/60395253  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182179653440245760492160.jpeg/EfALIbHs1eOeZuI3b2tzxqsnTVjdbChKvCB-drwgfnY
+  • 中國[0] 文章=https://www.hk01.com/article/60395544  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182384889152933888561348.jpeg/8yCEv_CC1PKCenuNEY5-wa_9vZb4606RtgvoVrYL6FY
+  • 中國[1] 文章=https://www.hk01.com/article/60395598  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182392022737096704075128.png/Ibq1FV_Zs9O1vB-MD6T5sUxTnbXCAwZPjkOCo45DgqM?v=w1280r16_9
+  • 中國[2] 文章=https://www.hk01.com/article/60395614  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182407200732090368845271.png/T7Q2WpmLmcxa1p1wopiBI2a79-a0PMigGD2Exhg9hMY?v=w1280r16_9
+  • 中國[3] 文章=https://www.hk01.com/article/60395554  現用圖=https://cdn.hk01.com/di/media/images/dw/20260725/1157725755937918976621589.jpeg/wcAUzcMzMcGE6wo5RgBzazmfdsu1rmADjqc0yY6nNMk?v=w1280r16_9
+  • 中國[4] 文章=https://www.hk01.com/article/60395569  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182371623747981312357821.png/Zj5_2YN-4wYczMbQv7U-ld1H3oJDPDNyaHV7n2h1e58?v=w1280r16_9
+  • 中國[5] 文章=https://www.epochtimes.com/b5/26/10/1/n14861288.htm  現用圖=https://i.epochtimes.com/assets/uploads/2024/05/id14246097-GettyImages-181903167-700x359.jpg
+  • 中國[6] 文章=https://www.epochtimes.com/b5/26/10/1/n14860997.htm  現用圖=https://i.epochtimes.com/assets/uploads/2022/07/id13777931-GettyImages-143302126-700x359.jpeg
+  • 中國[7] 文章=https://www.ettoday.net/news/20261001/3247376.htm  現用圖=https://cdn2.ettoday.net/images/7274/e7274049.jpg
+  • 美國[0] 文章=https://www.hk01.com/article/60395619  現用圖=https://cdn.hk01.com/di/media/images/dw/20261001/1182420756332548096571034.jpeg/7PAAJkpDj53I1X8OqTHpW3vIs0i0wfuPu7n_4bu5_-E?v=w1280r16_9
+  • 美國[1] 文章=https://www.hk01.com/article/60395556  現用圖=https://cdn.hk01.com/di/media/images/dw/20260226/1103512542346481664145029.jpeg/aFDuuyMf61aczKwGTGnTCa7Pn4qphX4yWBwaRlgcGkY?v=w1280r16_9
+  • 美國[2] 文章=https://www.epochtimes.com/b5/26/10/1/n14861361.htm  現用圖=https://i.epochtimes.com/assets/uploads/2025/11/id14634334-c56ac91ab1f27920e4cffe035da8ded3-700x359.jpg
+  • 台灣[0] 文章=https://www.ettoday.net/news/20261001/3247383.htm  現用圖=https://cdn2.ettoday.net/images/8613/e8613638.jpg
+  • 台灣[1] 文章=https://www.ettoday.net/news/20261001/3247361.htm  現用圖=https://cdn2.ettoday.net/images/8948/e8948408.jpg
+  • 台灣[2] 文章=https://udn.com/news/story/6656/9789119  現用圖=https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/01/35381438.jpg&M=1&s=Y&x=0&y=107&sw=1280&sh=853&exp=3600
+  • 美伊戰爭[0] 文章=https://www.iranintl.com/en/202610014681  現用圖=https://i.iranintl.com/images/rdk9umy0/production/e75fa2cfa2d80e1c828d90a31d45e32138b40ca3-3598x2018.jpg?rect=0,65,3598,1889&w=1200&h=630&q=66&fit=max&auto=format
+  • 美伊戰爭[1] 文章=https://www.wral.com/news/ap/96d02-rubio-orders-visiting-iranian-un-delegation-to-leave-nyc-ahead-of-schedule/  現用圖=https://images.wral.com/651124d6-efb3-525c-bf14-ad44642db9d4?w=1200&h=630&height=630
+  • 美伊戰爭[2] 文章=https://www.marketscreener.com/news/iran-readies-harder-retaliation-if-attacked-as-diplomacy-faces-long-odds-ce785ad3de80f421  現用圖=https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-28T111052Z_1_LYNXMPEM8R0TX_RTROPTP_4_IRAN-CRISIS.JPG
+  • AI 動向簡報插圖 文章=https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/  現用圖=https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png
+  • 美伊戰爭簡報插圖 文章=https://www.iranintl.com/en/202610011277  現用圖=https://i.iranintl.com/images/rdk9umy0/production/c184fbf17ecf1551bb00b6dbfdba30e9a2502fe5-5088x3392.jpg?rect=0,361,5088,2671&w=1200&h=630&q=66&fit=max&auto=format
+
+✅ 全部通過，可以 push。
