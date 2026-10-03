@@ -1,0 +1,3057 @@
+{
+ "date": "2026-10-03",
+ "edition": "pm",
+ "status": "finalized",
+ "state": {
+  "stagedAt": "2026-10-03T12:44:56.537Z",
+  "finalizedAt": "2026-10-03T13:53:15.700Z",
+  "validatedAt": "2026-10-03T13:53:15.700Z",
+  "lastSourceCheckedAt": "2026-10-03T21:50:25.853938+08:00",
+  "version": 1,
+  "notice": {
+   "status": "pending"
+  }
+ },
+ "counts": {
+  "hks": 8,
+  "hkl": 8,
+  "hke": 3,
+  "hkp": 3,
+  "cn": 8,
+  "us": 3,
+  "tw": 3,
+  "war": 3
+ },
+ "trackCount": 85,
+ "amPreserved": true,
+ "indexUnchanged": true,
+ "selfcheckExit": 0,
+ "finalImageAudit": {
+  "checkedAt": "2026-10-03T21:50:25.853938+08:00",
+  "images": [
+   {
+    "group": "hks",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396088",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183097445257580544104973.jpeg/DqvCFDBYVQ6x5ePee2moPtTnBprmd5r6R-gRMUfoETE?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "屋宇署調查豪宅ONE STANLEY鋼筋　如專業人士或承建商違規會檢控",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183097445257580544104973.jpeg/DqvCFDBYVQ6x5ePee2moPtTnBprmd5r6R-gRMUfoETE?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T19:34:15+08:00",
+    "modifiedRaw": "2026-10-03T21:25:52+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:34:15+08:00",
+     "dateModified": "2026-10-03T21:25:52+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 130241,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183097445257580544104973.jpeg/DqvCFDBYVQ6x5ePee2moPtTnBprmd5r6R-gRMUfoETE?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "index": 1,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509903/%E8%AD%A6%E7%93%A6%E8%A7%A3%E7%88%86%E7%AB%8A%E9%9B%86%E5%9C%98-%E6%8B%986%E4%BA%BA%E5%8C%85%E6%8B%AC%E9%9D%9E%E6%B3%95%E5%85%A5%E5%A2%83%E5%85%A7%E5%9C%B0%E7%94%B7-%E6%B6%8925",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04011246/BURGLARY-PC-261003-1800_frame_288.jpeg",
+    "articleHTTP": 200,
+    "title": "警瓦解爆竊集團　拘6人包括非法入境內地男　涉25宗案涉款369萬元 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04011246/BURGLARY-PC-261003-1800_frame_288.jpeg",
+    "publishedRaw": "2026-10-03T09:13:21+00:00",
+    "modifiedRaw": "2026-10-03T11:43:35+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:13:21+00:00",
+     "dateModified": "2026-10-03T11:43:35+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 336790,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04011246/BURGLARY-PC-261003-1800_frame_288.jpeg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hks",
+    "index": 2,
+    "url": "https://www.hk01.com/article/60396084",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183124983438643200730468.jpeg/BBb0KC3O9gREfzkNtFtiFc1RKkda0mTnrf6JVK3-iVQ?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "兩周14宗投資騙案涉款逾$660萬　25歲女誤信「專家」失$140萬",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183124983438643200730468.jpeg/BBb0KC3O9gREfzkNtFtiFc1RKkda0mTnrf6JVK3-iVQ?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T18:54:35+08:00",
+    "modifiedRaw": "2026-10-03T18:54:35+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T18:54:35+08:00",
+     "dateModified": "2026-10-03T18:54:35+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 154719,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183124983438643200730468.jpeg/BBb0KC3O9gREfzkNtFtiFc1RKkda0mTnrf6JVK3-iVQ?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "index": 3,
+    "url": "https://www.hk01.com/article/60396078",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183150525072281600810576.jpeg/p7c8eSiapaa2ZINQ6gIcr9jTvN18BZDX4GLKJeBiyiU",
+    "articleHTTP": 200,
+    "title": "有片｜上水菜檔失竊　賊人10分鐘搜遍全檔　盜手機及4袋蔬果",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183150525072281600810576.jpeg/p7c8eSiapaa2ZINQ6gIcr9jTvN18BZDX4GLKJeBiyiU",
+    "publishedRaw": "2026-10-03T19:26:55+08:00",
+    "modifiedRaw": "2026-10-03T20:22:44+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:26:55+08:00",
+     "dateModified": "2026-10-03T20:22:44+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 292075,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183150525072281600810576.jpeg/p7c8eSiapaa2ZINQ6gIcr9jTvN18BZDX4GLKJeBiyiU",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "index": 4,
+    "url": "https://www.hk01.com/article/60396063",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183100638804840448037914.jpeg/9BAR1IZFt6ZKxnCwVe8VQfirSAqSqN2BXSUMyV0lDMk?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "太子汝洲街拉麵店起火　街頭店內濃煙密佈　消防救熄幸無人傷",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183100638804840448037914.jpeg/9BAR1IZFt6ZKxnCwVe8VQfirSAqSqN2BXSUMyV0lDMk?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T17:17:39+08:00",
+    "modifiedRaw": "2026-10-03T17:17:39+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T17:17:39+08:00",
+     "dateModified": "2026-10-03T17:17:39+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 131010,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183100638804840448037914.jpeg/9BAR1IZFt6ZKxnCwVe8VQfirSAqSqN2BXSUMyV0lDMk?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "index": 5,
+    "url": "https://www.hk01.com/article/60396026",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20250121/958343348983304192493210.jpeg/2lbO3Ec0897ZMUdYlJtJ4JkPpeoHL-nOeA1j6V4NY-k?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "柴灣環翠邨男子疑吸毒暈倒　胞兄大義滅親報警拘捕",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20250121/958343348983304192493210.jpeg/2lbO3Ec0897ZMUdYlJtJ4JkPpeoHL-nOeA1j6V4NY-k?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T14:43:02+08:00",
+    "modifiedRaw": "2026-10-03T20:05:41+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T14:43:02+08:00",
+     "dateModified": "2026-10-03T20:05:41+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 239467,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20250121/958343348983304192493210.jpeg/2lbO3Ec0897ZMUdYlJtJ4JkPpeoHL-nOeA1j6V4NY-k?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "index": 6,
+    "url": "https://www.hk01.com/article/60396006",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183050591249633280296530.jpeg/OEUeYIE65FlUTfxYDAh0rPrmp6b3Mq7e1kiM29ZIjNs?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "大埔三門仔女子疑遇溺　船家救起　昏迷送院後恢復知覺",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183050591249633280296530.jpeg/OEUeYIE65FlUTfxYDAh0rPrmp6b3Mq7e1kiM29ZIjNs?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T12:53:46+08:00",
+    "modifiedRaw": "2026-10-03T19:45:01+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T12:53:46+08:00",
+     "dateModified": "2026-10-03T19:45:01+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 165972,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183050591249633280296530.jpeg/OEUeYIE65FlUTfxYDAh0rPrmp6b3Mq7e1kiM29ZIjNs?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "index": 7,
+    "url": "https://www.hk01.com/article/60396020",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20260917/1177163586779222016496183.jpeg/jpDW-FDNlyg9lxQqdoCA2uGOL1Ln9SFzvAPw0rwD8NI?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "珍惜生命︱屯門石排頭徑女子單位墮下　送院不治",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260917/1177163586779222016496183.jpeg/jpDW-FDNlyg9lxQqdoCA2uGOL1Ln9SFzvAPw0rwD8NI?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T13:50:09+08:00",
+    "modifiedRaw": "2026-10-03T13:51:46+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T13:50:09+08:00",
+     "dateModified": "2026-10-03T13:51:46+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 211223,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20260917/1177163586779222016496183.jpeg/jpDW-FDNlyg9lxQqdoCA2uGOL1Ln9SFzvAPw0rwD8NI?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396079",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20260912/1175548331024191488328794.jpeg/iWNs59Nt-87sHy34mEwD9W17W4msBU5pegMfpnoDH6Y?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "流感｜9歲童染乙流併發敗血性休克及嚴重肺炎　留醫PICU情況危殆",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260912/1175548331024191488328794.jpeg/iWNs59Nt-87sHy34mEwD9W17W4msBU5pegMfpnoDH6Y?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T18:15:57+08:00",
+    "modifiedRaw": "2026-10-03T18:16:18+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T18:15:57+08:00",
+     "dateModified": "2026-10-03T18:16:18+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 163987,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20260912/1175548331024191488328794.jpeg/iWNs59Nt-87sHy34mEwD9W17W4msBU5pegMfpnoDH6Y?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "index": 1,
+    "url": "https://www.hk01.com/article/60395962",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183033996037066752407298.jpeg/j-PX7wFhctHJufIeykletj921gJ-jmt9xULRVMVC0VQ",
+    "articleHTTP": 200,
+    "title": "亞運會2026｜黃澤林網球男單歷史性奪金　兼得洛杉磯奧運資格",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183033996037066752407298.jpeg/j-PX7wFhctHJufIeykletj921gJ-jmt9xULRVMVC0VQ",
+    "publishedRaw": "2026-10-03T11:14:41+08:00",
+    "modifiedRaw": "2026-10-03T17:28:51+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T11:14:41+08:00",
+     "dateModified": "2026-10-03T17:28:51+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 202365,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183033996037066752407298.jpeg/j-PX7wFhctHJufIeykletj921gJ-jmt9xULRVMVC0VQ",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "index": 2,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509927/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E7%94%B7%E5%AD%90%E4%B8%83%E6%AC%96-%E6%B8%AF%E9%9A%8A26%E6%AF%940%E8%B4%8F%E5%9C%8B%E5%AE%B6%E9%9A%8A-%E9%81%94%E6%88%90",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04025907/vlcsnap-2026-10-03-18h58m58s755.jpg",
+    "articleHTTP": 200,
+    "title": "名古屋亞運｜男子七欖　港隊26比0贏國家隊　達成三連霸 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04025907/vlcsnap-2026-10-03-18h58m58s755.jpg",
+    "publishedRaw": "2026-10-03T10:49:36+00:00",
+    "modifiedRaw": "2026-10-03T11:56:29+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T10:49:36+00:00",
+     "dateModified": "2026-10-03T11:56:29+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 390680,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04025907/vlcsnap-2026-10-03-18h58m58s755.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "index": 3,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509897/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%BB%91%E6%B5%AA%E9%A2%A8%E5%B8%86%E9%BB%83%E6%A2%93%E8%B1%AA%E5%BC%B5%E5%AD%90%E6%82%85%E5%8C%85%E8%BE%A6u19%E7%94%B7%E5%A5%B3%E9%87%91",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04003009/vlcsnap-2026-10-03-16h29m30s780.jpg",
+    "articleHTTP": 200,
+    "title": "名古屋亞運｜滑浪風帆黃梓豪張子悅包辦U19男女金牌　帆船及風帆隊4金4銀2銅創歷屆最佳 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04003009/vlcsnap-2026-10-03-16h29m30s780.jpg",
+    "publishedRaw": "2026-10-03T08:30:53+00:00",
+    "modifiedRaw": "2026-10-03T11:38:09+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T08:30:53+00:00",
+     "dateModified": "2026-10-03T11:38:09+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 554726,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04003009/vlcsnap-2026-10-03-16h29m30s780.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "index": 4,
+    "url": "https://www.dimsumdaily.hk/rat-runs-through-cafe-de-coral-branch-at-telford-plaza/",
+    "priorOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03103811/Cafe-de-Coral-Telford-Plaza.webp",
+    "articleHTTP": 200,
+    "title": "Rat runs through Café De Coral branch at Telford Plaza",
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03103811/Cafe-de-Coral-Telford-Plaza.webp",
+    "publishedRaw": "2026-10-03T02:39:40+00:00",
+    "modifiedRaw": "2026-10-03T02:43:39+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T02:39:40+00:00",
+     "dateModified": "2026-10-03T02:43:39+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 103660,
+    "magicHex": "52494646e49401005745425056503858",
+    "verifiedOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03103811/Cafe-de-Coral-Telford-Plaza.webp",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1174,
+    "height": 936
+   },
+   {
+    "group": "hkl",
+    "index": 5,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509857/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%85%A5%E5%A2%83%E8%99%95%E6%96%99%E4%BB%8A%E8%BF%8E%E9%99%B8%E8%B7%AF%E5%87%BA%E5%A2%83%E9%AB%98%E5%B3%B0-%E6%88%AA%E8%87%B3%E5%8D%81",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03205929/vlcsnap-2026-10-03-12h57m45s021.jpg",
+    "articleHTTP": 200,
+    "title": "十一黃金周｜截至下午4時逾31萬人次出境　高鐵部分長途車票售罄 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03205929/vlcsnap-2026-10-03-12h57m45s021.jpg",
+    "publishedRaw": "2026-10-03T09:39:53+00:00",
+    "modifiedRaw": "2026-10-03T11:05:02+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:39:53+00:00",
+     "dateModified": "2026-10-03T11:05:02+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 333026,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03205929/vlcsnap-2026-10-03-12h57m45s021.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "index": 6,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509814/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%99%B3%E7%BE%8E%E5%AF%B6-%E5%B7%B2%E5%88%B6%E5%AE%9A%E8%B7%AF%E7%B7%9A%E5%9C%96%E6%B6%B5%E8%93%8B9%E5%80%8B%E6%B8%AF%E9%90%B5%E7%AB%99",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03182728/vlcsnap-2026-10-03-10h27m17s678.jpg",
+    "articleHTTP": 200,
+    "title": "新皇崗口岸｜陳美寶：已制定路線圖涵蓋9個港鐵站　設清晰指示協助分流 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03182728/vlcsnap-2026-10-03-10h27m17s678.jpg",
+    "publishedRaw": "2026-10-03T02:28:08+00:00",
+    "modifiedRaw": "2026-10-03T04:37:03+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T02:28:08+00:00",
+     "dateModified": "2026-10-03T04:37:03+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 457338,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03182728/vlcsnap-2026-10-03-10h27m17s678.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "index": 7,
+    "url": "https://www.hk01.com/article/60396093",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183138363327123456598137.jpeg/3qkurE5s-cQyk0jQTjx0GCPR2qpEz98VZC3FSmQtxUo?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "警聯同社署擴展「家庭守護計劃」至屯門葵青　支援少數族裔",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183138363327123456598137.jpeg/3qkurE5s-cQyk0jQTjx0GCPR2qpEz98VZC3FSmQtxUo?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T19:37:46+08:00",
+    "modifiedRaw": "2026-10-03T19:39:01+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:37:46+08:00",
+     "dateModified": "2026-10-03T19:39:01+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 242035,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183138363327123456598137.jpeg/3qkurE5s-cQyk0jQTjx0GCPR2qpEz98VZC3FSmQtxUo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hke",
+    "index": 0,
+    "url": "https://www.dimsumdaily.hk/mainland-arrivals-top-pre%e2%80%91pandemic-rosanna-law-says-high-airfares-curb-southeast-asia-demand/",
+    "priorOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03133453/Rosanna-Law-fireworks.webp",
+    "articleHTTP": 200,
+    "title": "Mainland arrivals top pre‑pandemic; Rosanna Law says high airfares curb Southeast Asia demand",
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03133453/Rosanna-Law-fireworks.webp",
+    "publishedRaw": "2026-10-03T05:36:59+00:00",
+    "modifiedRaw": "2026-10-03T05:37:04+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T05:36:59+00:00",
+     "dateModified": "2026-10-03T05:37:04+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 286952,
+    "magicHex": "52494646e06004005745425056503858",
+    "verifiedOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03133453/Rosanna-Law-fireworks.webp",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1180,
+    "height": 930
+   },
+   {
+    "group": "hke",
+    "index": 1,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509799/%E9%99%B3%E7%BE%8E%E5%AF%B6-11-skies%E5%B0%87%E5%8D%87%E7%B4%9A%E8%BD%89%E5%9E%8B-%E6%8E%A2%E8%A8%8E%E7%84%A1%E7%B8%AB%E4%BA%A4%E9%80%9A%E6%8E%A5%E9%A7%81-%E5%90%B8%E5%BC%95",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04012720/20261002_MEIBO-1.jpg",
+    "articleHTTP": 200,
+    "title": "11 SKIES將升級轉型　陳美寶：探討無縫交通接駁　配合二號航廈重新定位高端旅遊地標 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04012720/20261002_MEIBO-1.jpg",
+    "publishedRaw": "2026-10-03T02:08:00+00:00",
+    "modifiedRaw": "2026-10-03T09:28:33+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T02:08:00+00:00",
+     "dateModified": "2026-10-03T09:28:33+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 261688,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04012720/20261002_MEIBO-1.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hke",
+    "index": 2,
+    "url": "https://www.dimsumdaily.hk/wall-street-rallies-as-weak-jobs-data-temper-fed-hike-bets-and-lift-tech-shares/",
+    "priorOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03110308/Dow-Jones-2707-1.webp",
+    "articleHTTP": 200,
+    "title": "Wall Street rallies as weak jobs data temper Fed hike bets and lift tech shares",
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03110308/Dow-Jones-2707-1.webp",
+    "publishedRaw": "2026-10-03T03:04:19+00:00",
+    "modifiedRaw": "2026-10-03T03:04:24+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T03:04:19+00:00",
+     "dateModified": "2026-10-03T03:04:24+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 70930,
+    "magicHex": "524946460a1501005745425056503858",
+    "verifiedOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03110308/Dow-Jones-2707-1.webp",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1038,
+    "height": 814
+   },
+   {
+    "group": "hkp",
+    "index": 0,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509806/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%9C%AA%E7%B0%BD%E8%B2%B7%E8%B3%A3%E5%8D%94%E8%AD%B0%E5%B0%87%E8%A6%96%E7%82%BA%E6%8B%92%E7%B5%95%E8%B2%B7%E8%B3%A3",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03213244/HO20261003.jpg",
+    "articleHTTP": 200,
+    "title": "宏福苑｜何永賢：未簽買賣協議將視為拒絕買賣　或需立法處理 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03213244/HO20261003.jpg",
+    "publishedRaw": "2026-10-03T02:17:44+00:00",
+    "modifiedRaw": "2026-10-03T05:33:35+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T02:17:44+00:00",
+     "dateModified": "2026-10-03T05:33:35+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 368115,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03213244/HO20261003.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkp",
+    "index": 1,
+    "url": "https://www.hk01.com/article/60395980",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20250910/1042455330208092160736189.jpeg/1toSwXnndYDGRIEO4YD_OxdkKu6Y07OSSr13p2-9d6c?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "畢業生就業計劃　孫玉菡稱不乏大企業參與　難評對青年失業率影響",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20250910/1042455330208092160736189.jpeg/1toSwXnndYDGRIEO4YD_OxdkKu6Y07OSSr13p2-9d6c?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T10:57:35+08:00",
+    "modifiedRaw": "2026-10-03T11:04:34+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T10:57:35+08:00",
+     "dateModified": "2026-10-03T11:04:34+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 155367,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20250910/1042455330208092160736189.jpeg/1toSwXnndYDGRIEO4YD_OxdkKu6Y07OSSr13p2-9d6c?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkp",
+    "index": 2,
+    "url": "https://www.hk01.com/article/60396086",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182654911381508096134685.png/-QinveTfWDdpqHu1DkKpQXGfUvtNyuA8dDDPxVEwz8U?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "迷姦案男護士出獄一年始釘牌　修例允即時除牌？醫衞局：積極研究",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182654911381508096134685.png/-QinveTfWDdpqHu1DkKpQXGfUvtNyuA8dDDPxVEwz8U?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T19:52:25+08:00",
+    "modifiedRaw": "2026-10-03T20:53:43+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:52:25+08:00",
+     "dateModified": "2026-10-03T20:53:43+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 160298,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182654911381508096134685.png/-QinveTfWDdpqHu1DkKpQXGfUvtNyuA8dDDPxVEwz8U?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396080",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20241217/945493527884730368145870.jpeg/CezHzeMLh49Gv02oeR37Z9SWgwj0Fm1FtsnNjbbJzY0?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "商務部宣布對歐盟進口對硝基甲苯進行反傾銷調查　稱將公正裁決",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20241217/945493527884730368145870.jpeg/CezHzeMLh49Gv02oeR37Z9SWgwj0Fm1FtsnNjbbJzY0?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T18:51:24+08:00",
+    "modifiedRaw": "2026-10-03T18:51:24+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T18:51:24+08:00",
+     "dateModified": "2026-10-03T18:51:24+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 104693,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20241217/945493527884730368145870.jpeg/CezHzeMLh49Gv02oeR37Z9SWgwj0Fm1FtsnNjbbJzY0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "index": 1,
+    "url": "https://www.zaobao.com.sg/news/china/story20261003-9777920",
+    "priorOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "articleHTTP": 200,
+    "title": "四川宜宾车辆追尾他车逃逸撞伤人 司机醉驾被控制",
+    "articleOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T14:02:00+08:00",
+     "dateModified": "2026-10-03T14:02:00+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 16651,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "verifiedOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "PNG",
+    "width": 909,
+    "height": 500
+   },
+   {
+    "group": "cn",
+    "index": 2,
+    "url": "https://www.hk01.com/article/60396055",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183102857168031744127548.jpeg/6LNc1Rr-fkxccvU8UKP3WqjOLaaY0S5zaAfgf2gH4H8?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "十一｜孩子沒下車！女子｢肉身阻高鐵車門關閉｣　官方揭故事後續",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183102857168031744127548.jpeg/6LNc1Rr-fkxccvU8UKP3WqjOLaaY0S5zaAfgf2gH4H8?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T19:00:45+08:00",
+    "modifiedRaw": "2026-10-03T19:00:45+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:00:45+08:00",
+     "dateModified": "2026-10-03T19:00:45+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 28759,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183102857168031744127548.jpeg/6LNc1Rr-fkxccvU8UKP3WqjOLaaY0S5zaAfgf2gH4H8?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 556,
+    "height": 313
+   },
+   {
+    "group": "cn",
+    "index": 3,
+    "url": "https://www.hk01.com/article/60396071",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109183797465088508137.jpeg/K0Pm45iW9bUGHrlnFx2EVAuS7J6u3kBQhyf4oYcn-KE?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "有片｜珠海長隆海豚突衝出水池引觀眾驚呼　園方緊急救護無大礙",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109183797465088508137.jpeg/K0Pm45iW9bUGHrlnFx2EVAuS7J6u3kBQhyf4oYcn-KE?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T17:47:35+08:00",
+    "modifiedRaw": "2026-10-03T17:47:35+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T17:47:35+08:00",
+     "dateModified": "2026-10-03T17:47:35+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 106713,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109183797465088508137.jpeg/K0Pm45iW9bUGHrlnFx2EVAuS7J6u3kBQhyf4oYcn-KE?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "index": 4,
+    "url": "https://www.hk01.com/article/60396066",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109496432496640457092.png/XA5XMWy8jYsMWx4_ZvvkCdAKZFRM9lHwFry8wBa8vMA?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "十一｜「袋套頭」實名舉報國慶不放假？　官方：虛假舉報吸眼球",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109496432496640457092.png/XA5XMWy8jYsMWx4_ZvvkCdAKZFRM9lHwFry8wBa8vMA?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T18:30:03+08:00",
+    "modifiedRaw": "2026-10-03T18:30:03+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T18:30:03+08:00",
+     "dateModified": "2026-10-03T18:30:03+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 139492,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109496432496640457092.png/XA5XMWy8jYsMWx4_ZvvkCdAKZFRM9lHwFry8wBa8vMA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "index": 5,
+    "url": "https://www.hk01.com/article/60396031",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183078795217735680480532.jpeg/E2iGRftsWsAajFUKElVb7vvdPHV5wTlWuLVUwLi1VMA",
+    "articleHTTP": 200,
+    "title": "十一｜敦煌鳴沙山遊客坐滿山頭｢感覺有一億人｣　駱駝也要等紅綠燈",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183078795217735680480532.jpeg/E2iGRftsWsAajFUKElVb7vvdPHV5wTlWuLVUwLi1VMA",
+    "publishedRaw": "2026-10-03T14:49:12+08:00",
+    "modifiedRaw": "2026-10-03T15:37:41+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T14:49:12+08:00",
+     "dateModified": "2026-10-03T15:37:41+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 278257,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183078795217735680480532.jpeg/E2iGRftsWsAajFUKElVb7vvdPHV5wTlWuLVUwLi1VMA",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "id": "60396072",
+    "url": "https://www.hk01.com/article/60396072",
+    "articleStatus": "200",
+    "publishedRaw": "2026-10-03T21:01:01+08:00",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261003/1183110510866862080539276.jpeg/fPwlhaWk0Sd9OskmDDDHq0MWHA2AA6G6GkDqmhpA6po?v=w1280r16_9",
+    "description": "據英媒10月3日報道，烏克蘭總統澤連斯基（Volodymyr Zelenskyy）稱已請求美國總統特朗普（Donald Trump，又譯川普），對參與開發「俄版星鏈」衛星",
+    "title": "澤連斯基促特朗普制裁中俄衛星網絡公司　防俄軍空襲精確度升",
+    "publishedHKT": "2026-10-03T21:01:01+08:00",
+    "imageStatus": "200",
+    "contentType": "image/jpeg",
+    "bytes": 143361,
+    "magic": "ffd8ffe000104a4649460001",
+    "ogMatch": true,
+    "modifiedRaw": "2026-10-03T21:01:01+08:00",
+    "modifiedHKT": "2026-10-03 21:01",
+    "dimensions": [
+     1280,
+     720
+    ],
+    "decoded": true,
+    "format": "JPEG",
+    "originalOgImage": "https://cdn.hk01.com/di/media/images/dw/20261003/1183110510866862080539276.jpeg/fPwlhaWk0Sd9OskmDDDHq0MWHA2AA6G6GkDqmhpA6po?v=w1280r16_9",
+    "ogExactMatch": true,
+    "hk01SignatureLength": 43
+   },
+   {
+    "group": "cn",
+    "index": 7,
+    "url": "https://www.zaobao.com.sg/news/china/story20261003-9777143",
+    "priorOg": "https://cassette.sphdigital.com.sg/image/zaobao/e06a5e14de99c7ea9c1685c0f24e61b476fa21a411fe9d5b7b522665dd52ef73",
+    "articleHTTP": 200,
+    "title": "阿根廷首次举办中国车展 中国车企加速南美拓市",
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/e06a5e14de99c7ea9c1685c0f24e61b476fa21a411fe9d5b7b522665dd52ef73",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:27:05+08:00",
+     "dateModified": "2026-10-03T18:46:34+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 109910,
+    "magicHex": "524946464ead01005745425056503820",
+    "verifiedOg": "https://cassette.sphdigital.com.sg/image/zaobao/e06a5e14de99c7ea9c1685c0f24e61b476fa21a411fe9d5b7b522665dd52ef73",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "us",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396040",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183073800208519168572061.jpeg/TMn-hXmJk_ouBw9AgPAb1Z0rNXof-bhJ1_6239f-tt8?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "特朗普擬向逾2000萬醫保長者發90美元補貼　或與中期選舉有關",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183073800208519168572061.jpeg/TMn-hXmJk_ouBw9AgPAb1Z0rNXof-bhJ1_6239f-tt8?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T17:00:18+08:00",
+    "modifiedRaw": "2026-10-03T17:00:18+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T17:00:18+08:00",
+     "dateModified": "2026-10-03T17:00:18+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 113588,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183073800208519168572061.jpeg/TMn-hXmJk_ouBw9AgPAb1Z0rNXof-bhJ1_6239f-tt8?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "us",
+    "index": 1,
+    "url": "https://www.hk01.com/article/60395971",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183054068239568896250136.jpeg/WYreSNKJLWxwogenn4kcRNwPJThZyD8THzO03x8ztN8",
+    "articleHTTP": 200,
+    "title": "美國少年欲跳橋輕生　5警員勸說50分鐘　人下來後卻被開10槍擊斃",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183054068239568896250136.jpeg/WYreSNKJLWxwogenn4kcRNwPJThZyD8THzO03x8ztN8",
+    "publishedRaw": "2026-10-03T13:00:05+08:00",
+    "modifiedRaw": "2026-10-03T13:59:34+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T13:00:05+08:00",
+     "dateModified": "2026-10-03T13:59:34+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 122484,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183054068239568896250136.jpeg/WYreSNKJLWxwogenn4kcRNwPJThZyD8THzO03x8ztN8",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "us",
+    "index": 2,
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862672.htm",
+    "priorOg": "https://i.epochtimes.com/assets/uploads/2025/07/id14560050-EpochImages-2260325827-xl-700x359.jpg",
+    "articleHTTP": 200,
+    "title": "FBI全面升級科技系統 應對中俄AI威脅",
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2025/07/id14560050-EpochImages-2260325827-xl-700x359.jpg",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T12:00:27.000Z",
+     "dateModified": "2026-10-03T12:55:36.000Z"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 412931,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "verifiedOg": "https://i.epochtimes.com/assets/uploads/2025/07/id14560050-EpochImages-2260325827-xl-700x359.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "tw",
+    "index": 0,
+    "url": "https://www.ettoday.net/news/20261003/3248489.htm",
+    "priorOg": "https://cdn2.ettoday.net/images/8952/e8952058.jpg",
+    "articleHTTP": 200,
+    "title": "快訊／花蓮救護車雨中失控「衝對向撞2車」　貨車駕駛不治4人傷 | ETtoday社會新聞 | ETtoday新聞雲",
+    "articleOg": "https://cdn2.ettoday.net/images/8952/e8952058.jpg",
+    "publishedRaw": "2026-10-03T18:29:00+08:00",
+    "modifiedRaw": null,
+    "jsonLdTime": null,
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 256659,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "verifiedOg": "https://cdn2.ettoday.net/images/8952/e8952058.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 960
+   },
+   {
+    "group": "tw",
+    "index": 1,
+    "url": "https://www.ettoday.net/news/20261003/3248486.htm",
+    "priorOg": "https://cdn2.ettoday.net/images/7974/e7974897.jpg",
+    "articleHTTP": 200,
+    "title": "脆上瘋傳陽明交大教授「權勢性騷」　校方：已暫停職務 | ETtoday生活新聞 | ETtoday新聞雲",
+    "articleOg": "https://cdn2.ettoday.net/images/7974/e7974897.jpg",
+    "publishedRaw": "2026-10-03T18:19:00+08:00",
+    "modifiedRaw": null,
+    "jsonLdTime": null,
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 254739,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "verifiedOg": "https://cdn2.ettoday.net/images/7974/e7974897.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 960
+   },
+   {
+    "group": "tw",
+    "index": 2,
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594356",
+    "priorOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/5594356_1_1.jpg",
+    "articleHTTP": 200,
+    "title": "台中大雅區公所爆2業務助理領不到薪水  長官竟提「輪流領薪」 - 政治 - 自由時報電子報",
+    "articleOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/5594356_1_1.jpg",
+    "publishedRaw": "2026-10-03T16:49:25+08:00",
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T16:49:25+08:00",
+     "dateModified": "2026-10-03T16:49:25+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 50549,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "verifiedOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/5594356_1_1.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 800,
+    "height": 351
+   },
+   {
+    "group": "war",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396095",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183143396781330432803729.jpeg/kn2DASMUBu-VTehbt-SEs8GmP5LPGkMXJB4AvCQeALw?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "中東局勢：也門薩那傳爆炸聲　沙特首都煉油廠附近起火冒煙",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183143396781330432803729.jpeg/kn2DASMUBu-VTehbt-SEs8GmP5LPGkMXJB4AvCQeALw?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T20:00:55+08:00",
+    "modifiedRaw": "2026-10-03T20:59:35+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T20:00:55+08:00",
+     "dateModified": "2026-10-03T20:59:35+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 103065,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183143396781330432803729.jpeg/kn2DASMUBu-VTehbt-SEs8GmP5LPGkMXJB4AvCQeALw?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "war",
+    "index": 1,
+    "url": "https://www.iranintl.com/en/202610032594",
+    "priorOg": "https://i.iranintl.com/images/rdk9umy0/production/2131e42def46b61160f60b7446561bee8517168a-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "title": "Euro tops 3 million rials as Iran's currency hits fresh record lows",
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/2131e42def46b61160f60b7446561bee8517168a-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "publishedRaw": "2026-10-03T09:56:58.981Z",
+    "modifiedRaw": "2026-10-03T09:57:10Z",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:56:58.981Z",
+     "dateModified": "2026-10-03T09:57:10Z"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 67769,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "verifiedOg": "https://i.iranintl.com/images/rdk9umy0/production/2131e42def46b61160f60b7446561bee8517168a-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "war",
+    "index": 2,
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862536.htm",
+    "priorOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862549-GettyImages-2297212086-700x359.jpg",
+    "articleHTTP": 200,
+    "title": "沙特籌劃反攻胡塞 奪回曼德海峽控制權",
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862549-GettyImages-2297212086-700x359.jpg",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T03:58:26.000Z",
+     "dateModified": "2026-10-03T04:15:43.000Z"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 264083,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "verifiedOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862549-GettyImages-2297212086-700x359.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "ai",
+    "index": 1,
+    "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+    "priorOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+    "articleHTTP": 200,
+    "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+    "articleOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+    "publishedRaw": "2026-10-03T08:06:35+00:00",
+    "modifiedRaw": "2026-10-03T08:07:50+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T08:06:35+00:00",
+     "dateModified": "2026-10-03T08:07:50+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 1847147,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "verifiedOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "PNG",
+    "width": 2048,
+    "height": 1152
+   },
+   {
+    "group": "warb",
+    "index": 1,
+    "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices",
+    "priorOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+    "articleHTTP": 200,
+    "title": "G7 nations to release oil and diesel stocks, will it bring down the prices?",
+    "articleOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:27:38Z",
+     "dateModified": "2026-10-03T10:38:10Z"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 396739,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1440
+   }
+  ],
+  "failures": []
+ },
+ "sourceRefresh": {
+  "checkedAtHKT": "2026-10-03T21:48:34.586019+08:00",
+  "articles": [
+   {
+    "group": "hks",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396088",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183097445257580544104973.jpeg/DqvCFDBYVQ6x5ePee2moPtTnBprmd5r6R-gRMUfoETE?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "屋宇署調查豪宅ONE STANLEY鋼筋　如專業人士或承建商違規會檢控",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183097445257580544104973.jpeg/DqvCFDBYVQ6x5ePee2moPtTnBprmd5r6R-gRMUfoETE?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T19:34:15+08:00",
+    "modifiedRaw": "2026-10-03T21:25:52+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:34:15+08:00",
+     "dateModified": "2026-10-03T21:25:52+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 130241,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183097445257580544104973.jpeg/DqvCFDBYVQ6x5ePee2moPtTnBprmd5r6R-gRMUfoETE?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "index": 1,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509903/%E8%AD%A6%E7%93%A6%E8%A7%A3%E7%88%86%E7%AB%8A%E9%9B%86%E5%9C%98-%E6%8B%986%E4%BA%BA%E5%8C%85%E6%8B%AC%E9%9D%9E%E6%B3%95%E5%85%A5%E5%A2%83%E5%85%A7%E5%9C%B0%E7%94%B7-%E6%B6%8925",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04011246/BURGLARY-PC-261003-1800_frame_288.jpeg",
+    "articleHTTP": 200,
+    "title": "警瓦解爆竊集團　拘6人包括非法入境內地男　涉25宗案涉款369萬元 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04011246/BURGLARY-PC-261003-1800_frame_288.jpeg",
+    "publishedRaw": "2026-10-03T09:13:21+00:00",
+    "modifiedRaw": "2026-10-03T11:43:35+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:13:21+00:00",
+     "dateModified": "2026-10-03T11:43:35+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 336790,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04011246/BURGLARY-PC-261003-1800_frame_288.jpeg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hks",
+    "index": 2,
+    "url": "https://www.hk01.com/article/60396084",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183124983438643200730468.jpeg/BBb0KC3O9gREfzkNtFtiFc1RKkda0mTnrf6JVK3-iVQ?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "兩周14宗投資騙案涉款逾$660萬　25歲女誤信「專家」失$140萬",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183124983438643200730468.jpeg/BBb0KC3O9gREfzkNtFtiFc1RKkda0mTnrf6JVK3-iVQ?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T18:54:35+08:00",
+    "modifiedRaw": "2026-10-03T18:54:35+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T18:54:35+08:00",
+     "dateModified": "2026-10-03T18:54:35+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 154719,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183124983438643200730468.jpeg/BBb0KC3O9gREfzkNtFtiFc1RKkda0mTnrf6JVK3-iVQ?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "index": 3,
+    "url": "https://www.hk01.com/article/60396078",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183150525072281600810576.jpeg/p7c8eSiapaa2ZINQ6gIcr9jTvN18BZDX4GLKJeBiyiU",
+    "articleHTTP": 200,
+    "title": "有片｜上水菜檔失竊　賊人10分鐘搜遍全檔　盜手機及4袋蔬果",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183150525072281600810576.jpeg/p7c8eSiapaa2ZINQ6gIcr9jTvN18BZDX4GLKJeBiyiU",
+    "publishedRaw": "2026-10-03T19:26:55+08:00",
+    "modifiedRaw": "2026-10-03T20:22:44+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:26:55+08:00",
+     "dateModified": "2026-10-03T20:22:44+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 292075,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183150525072281600810576.jpeg/p7c8eSiapaa2ZINQ6gIcr9jTvN18BZDX4GLKJeBiyiU",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "index": 4,
+    "url": "https://www.hk01.com/article/60396063",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183100638804840448037914.jpeg/9BAR1IZFt6ZKxnCwVe8VQfirSAqSqN2BXSUMyV0lDMk?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "太子汝洲街拉麵店起火　街頭店內濃煙密佈　消防救熄幸無人傷",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183100638804840448037914.jpeg/9BAR1IZFt6ZKxnCwVe8VQfirSAqSqN2BXSUMyV0lDMk?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T17:17:39+08:00",
+    "modifiedRaw": "2026-10-03T17:17:39+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T17:17:39+08:00",
+     "dateModified": "2026-10-03T17:17:39+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 131010,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183100638804840448037914.jpeg/9BAR1IZFt6ZKxnCwVe8VQfirSAqSqN2BXSUMyV0lDMk?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "index": 5,
+    "url": "https://www.hk01.com/article/60396026",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20250121/958343348983304192493210.jpeg/2lbO3Ec0897ZMUdYlJtJ4JkPpeoHL-nOeA1j6V4NY-k?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "柴灣環翠邨男子疑吸毒暈倒　胞兄大義滅親報警拘捕",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20250121/958343348983304192493210.jpeg/2lbO3Ec0897ZMUdYlJtJ4JkPpeoHL-nOeA1j6V4NY-k?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T14:43:02+08:00",
+    "modifiedRaw": "2026-10-03T20:05:41+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T14:43:02+08:00",
+     "dateModified": "2026-10-03T20:05:41+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 239467,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20250121/958343348983304192493210.jpeg/2lbO3Ec0897ZMUdYlJtJ4JkPpeoHL-nOeA1j6V4NY-k?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "index": 6,
+    "url": "https://www.hk01.com/article/60396006",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183050591249633280296530.jpeg/OEUeYIE65FlUTfxYDAh0rPrmp6b3Mq7e1kiM29ZIjNs?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "大埔三門仔女子疑遇溺　船家救起　昏迷送院後恢復知覺",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183050591249633280296530.jpeg/OEUeYIE65FlUTfxYDAh0rPrmp6b3Mq7e1kiM29ZIjNs?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T12:53:46+08:00",
+    "modifiedRaw": "2026-10-03T19:45:01+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T12:53:46+08:00",
+     "dateModified": "2026-10-03T19:45:01+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 165972,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183050591249633280296530.jpeg/OEUeYIE65FlUTfxYDAh0rPrmp6b3Mq7e1kiM29ZIjNs?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "index": 7,
+    "url": "https://www.hk01.com/article/60396020",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20260917/1177163586779222016496183.jpeg/jpDW-FDNlyg9lxQqdoCA2uGOL1Ln9SFzvAPw0rwD8NI?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "珍惜生命︱屯門石排頭徑女子單位墮下　送院不治",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260917/1177163586779222016496183.jpeg/jpDW-FDNlyg9lxQqdoCA2uGOL1Ln9SFzvAPw0rwD8NI?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T13:50:09+08:00",
+    "modifiedRaw": "2026-10-03T13:51:46+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T13:50:09+08:00",
+     "dateModified": "2026-10-03T13:51:46+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 211223,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20260917/1177163586779222016496183.jpeg/jpDW-FDNlyg9lxQqdoCA2uGOL1Ln9SFzvAPw0rwD8NI?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396079",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20260912/1175548331024191488328794.jpeg/iWNs59Nt-87sHy34mEwD9W17W4msBU5pegMfpnoDH6Y?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "流感｜9歲童染乙流併發敗血性休克及嚴重肺炎　留醫PICU情況危殆",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260912/1175548331024191488328794.jpeg/iWNs59Nt-87sHy34mEwD9W17W4msBU5pegMfpnoDH6Y?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T18:15:57+08:00",
+    "modifiedRaw": "2026-10-03T18:16:18+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T18:15:57+08:00",
+     "dateModified": "2026-10-03T18:16:18+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 163987,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20260912/1175548331024191488328794.jpeg/iWNs59Nt-87sHy34mEwD9W17W4msBU5pegMfpnoDH6Y?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "index": 1,
+    "url": "https://www.hk01.com/article/60395962",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183033996037066752407298.jpeg/j-PX7wFhctHJufIeykletj921gJ-jmt9xULRVMVC0VQ",
+    "articleHTTP": 200,
+    "title": "亞運會2026｜黃澤林網球男單歷史性奪金　兼得洛杉磯奧運資格",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183033996037066752407298.jpeg/j-PX7wFhctHJufIeykletj921gJ-jmt9xULRVMVC0VQ",
+    "publishedRaw": "2026-10-03T11:14:41+08:00",
+    "modifiedRaw": "2026-10-03T17:28:51+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T11:14:41+08:00",
+     "dateModified": "2026-10-03T17:28:51+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 202365,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183033996037066752407298.jpeg/j-PX7wFhctHJufIeykletj921gJ-jmt9xULRVMVC0VQ",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "index": 2,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509927/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E7%94%B7%E5%AD%90%E4%B8%83%E6%AC%96-%E6%B8%AF%E9%9A%8A26%E6%AF%940%E8%B4%8F%E5%9C%8B%E5%AE%B6%E9%9A%8A-%E9%81%94%E6%88%90",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04025907/vlcsnap-2026-10-03-18h58m58s755.jpg",
+    "articleHTTP": 200,
+    "title": "名古屋亞運｜男子七欖　港隊26比0贏國家隊　達成三連霸 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04025907/vlcsnap-2026-10-03-18h58m58s755.jpg",
+    "publishedRaw": "2026-10-03T10:49:36+00:00",
+    "modifiedRaw": "2026-10-03T11:56:29+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T10:49:36+00:00",
+     "dateModified": "2026-10-03T11:56:29+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 390680,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04025907/vlcsnap-2026-10-03-18h58m58s755.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "index": 3,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509897/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%BB%91%E6%B5%AA%E9%A2%A8%E5%B8%86%E9%BB%83%E6%A2%93%E8%B1%AA%E5%BC%B5%E5%AD%90%E6%82%85%E5%8C%85%E8%BE%A6u19%E7%94%B7%E5%A5%B3%E9%87%91",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04003009/vlcsnap-2026-10-03-16h29m30s780.jpg",
+    "articleHTTP": 200,
+    "title": "名古屋亞運｜滑浪風帆黃梓豪張子悅包辦U19男女金牌　帆船及風帆隊4金4銀2銅創歷屆最佳 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04003009/vlcsnap-2026-10-03-16h29m30s780.jpg",
+    "publishedRaw": "2026-10-03T08:30:53+00:00",
+    "modifiedRaw": "2026-10-03T11:38:09+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T08:30:53+00:00",
+     "dateModified": "2026-10-03T11:38:09+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 554726,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04003009/vlcsnap-2026-10-03-16h29m30s780.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "index": 4,
+    "url": "https://www.dimsumdaily.hk/rat-runs-through-cafe-de-coral-branch-at-telford-plaza/",
+    "priorOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03103811/Cafe-de-Coral-Telford-Plaza.webp",
+    "articleHTTP": 200,
+    "title": "Rat runs through Café De Coral branch at Telford Plaza",
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03103811/Cafe-de-Coral-Telford-Plaza.webp",
+    "publishedRaw": "2026-10-03T02:39:40+00:00",
+    "modifiedRaw": "2026-10-03T02:43:39+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T02:39:40+00:00",
+     "dateModified": "2026-10-03T02:43:39+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 103660,
+    "magicHex": "52494646e49401005745425056503858",
+    "verifiedOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03103811/Cafe-de-Coral-Telford-Plaza.webp",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1174,
+    "height": 936
+   },
+   {
+    "group": "hkl",
+    "index": 5,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509857/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E5%85%A5%E5%A2%83%E8%99%95%E6%96%99%E4%BB%8A%E8%BF%8E%E9%99%B8%E8%B7%AF%E5%87%BA%E5%A2%83%E9%AB%98%E5%B3%B0-%E6%88%AA%E8%87%B3%E5%8D%81",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03205929/vlcsnap-2026-10-03-12h57m45s021.jpg",
+    "articleHTTP": 200,
+    "title": "十一黃金周｜截至下午4時逾31萬人次出境　高鐵部分長途車票售罄 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03205929/vlcsnap-2026-10-03-12h57m45s021.jpg",
+    "publishedRaw": "2026-10-03T09:39:53+00:00",
+    "modifiedRaw": "2026-10-03T11:05:02+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:39:53+00:00",
+     "dateModified": "2026-10-03T11:05:02+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 333026,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03205929/vlcsnap-2026-10-03-12h57m45s021.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "index": 6,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509814/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%99%B3%E7%BE%8E%E5%AF%B6-%E5%B7%B2%E5%88%B6%E5%AE%9A%E8%B7%AF%E7%B7%9A%E5%9C%96%E6%B6%B5%E8%93%8B9%E5%80%8B%E6%B8%AF%E9%90%B5%E7%AB%99",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03182728/vlcsnap-2026-10-03-10h27m17s678.jpg",
+    "articleHTTP": 200,
+    "title": "新皇崗口岸｜陳美寶：已制定路線圖涵蓋9個港鐵站　設清晰指示協助分流 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03182728/vlcsnap-2026-10-03-10h27m17s678.jpg",
+    "publishedRaw": "2026-10-03T02:28:08+00:00",
+    "modifiedRaw": "2026-10-03T04:37:03+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T02:28:08+00:00",
+     "dateModified": "2026-10-03T04:37:03+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 457338,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03182728/vlcsnap-2026-10-03-10h27m17s678.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "index": 7,
+    "url": "https://www.hk01.com/article/60396093",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183138363327123456598137.jpeg/3qkurE5s-cQyk0jQTjx0GCPR2qpEz98VZC3FSmQtxUo?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "警聯同社署擴展「家庭守護計劃」至屯門葵青　支援少數族裔",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183138363327123456598137.jpeg/3qkurE5s-cQyk0jQTjx0GCPR2qpEz98VZC3FSmQtxUo?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T19:37:46+08:00",
+    "modifiedRaw": "2026-10-03T19:39:01+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:37:46+08:00",
+     "dateModified": "2026-10-03T19:39:01+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 242035,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183138363327123456598137.jpeg/3qkurE5s-cQyk0jQTjx0GCPR2qpEz98VZC3FSmQtxUo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hke",
+    "index": 0,
+    "url": "https://www.dimsumdaily.hk/mainland-arrivals-top-pre%e2%80%91pandemic-rosanna-law-says-high-airfares-curb-southeast-asia-demand/",
+    "priorOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03133453/Rosanna-Law-fireworks.webp",
+    "articleHTTP": 200,
+    "title": "Mainland arrivals top pre‑pandemic; Rosanna Law says high airfares curb Southeast Asia demand",
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03133453/Rosanna-Law-fireworks.webp",
+    "publishedRaw": "2026-10-03T05:36:59+00:00",
+    "modifiedRaw": "2026-10-03T05:37:04+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T05:36:59+00:00",
+     "dateModified": "2026-10-03T05:37:04+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 286952,
+    "magicHex": "52494646e06004005745425056503858",
+    "verifiedOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03133453/Rosanna-Law-fireworks.webp",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1180,
+    "height": 930
+   },
+   {
+    "group": "hke",
+    "index": 1,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509799/%E9%99%B3%E7%BE%8E%E5%AF%B6-11-skies%E5%B0%87%E5%8D%87%E7%B4%9A%E8%BD%89%E5%9E%8B-%E6%8E%A2%E8%A8%8E%E7%84%A1%E7%B8%AB%E4%BA%A4%E9%80%9A%E6%8E%A5%E9%A7%81-%E5%90%B8%E5%BC%95",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04012720/20261002_MEIBO-1.jpg",
+    "articleHTTP": 200,
+    "title": "11 SKIES將升級轉型　陳美寶：探討無縫交通接駁　配合二號航廈重新定位高端旅遊地標 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04012720/20261002_MEIBO-1.jpg",
+    "publishedRaw": "2026-10-03T02:08:00+00:00",
+    "modifiedRaw": "2026-10-03T09:28:33+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T02:08:00+00:00",
+     "dateModified": "2026-10-03T09:28:33+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 261688,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04012720/20261002_MEIBO-1.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hke",
+    "index": 2,
+    "url": "https://www.dimsumdaily.hk/wall-street-rallies-as-weak-jobs-data-temper-fed-hike-bets-and-lift-tech-shares/",
+    "priorOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03110308/Dow-Jones-2707-1.webp",
+    "articleHTTP": 200,
+    "title": "Wall Street rallies as weak jobs data temper Fed hike bets and lift tech shares",
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03110308/Dow-Jones-2707-1.webp",
+    "publishedRaw": "2026-10-03T03:04:19+00:00",
+    "modifiedRaw": "2026-10-03T03:04:24+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T03:04:19+00:00",
+     "dateModified": "2026-10-03T03:04:24+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 70930,
+    "magicHex": "524946460a1501005745425056503858",
+    "verifiedOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03110308/Dow-Jones-2707-1.webp",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1038,
+    "height": 814
+   },
+   {
+    "group": "hkp",
+    "index": 0,
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509806/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%9C%AA%E7%B0%BD%E8%B2%B7%E8%B3%A3%E5%8D%94%E8%AD%B0%E5%B0%87%E8%A6%96%E7%82%BA%E6%8B%92%E7%B5%95%E8%B2%B7%E8%B3%A3",
+    "priorOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03213244/HO20261003.jpg",
+    "articleHTTP": 200,
+    "title": "宏福苑｜何永賢：未簽買賣協議將視為拒絕買賣　或需立法處理 - 有線寬頻 i-CABLE",
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03213244/HO20261003.jpg",
+    "publishedRaw": "2026-10-03T02:17:44+00:00",
+    "modifiedRaw": "2026-10-03T05:33:35+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T02:17:44+00:00",
+     "dateModified": "2026-10-03T05:33:35+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 368115,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03213244/HO20261003.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkp",
+    "index": 1,
+    "url": "https://www.hk01.com/article/60395980",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20250910/1042455330208092160736189.jpeg/1toSwXnndYDGRIEO4YD_OxdkKu6Y07OSSr13p2-9d6c?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "畢業生就業計劃　孫玉菡稱不乏大企業參與　難評對青年失業率影響",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20250910/1042455330208092160736189.jpeg/1toSwXnndYDGRIEO4YD_OxdkKu6Y07OSSr13p2-9d6c?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T10:57:35+08:00",
+    "modifiedRaw": "2026-10-03T11:04:34+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T10:57:35+08:00",
+     "dateModified": "2026-10-03T11:04:34+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 155367,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20250910/1042455330208092160736189.jpeg/1toSwXnndYDGRIEO4YD_OxdkKu6Y07OSSr13p2-9d6c?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkp",
+    "index": 2,
+    "url": "https://www.hk01.com/article/60396086",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182654911381508096134685.png/-QinveTfWDdpqHu1DkKpQXGfUvtNyuA8dDDPxVEwz8U?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "迷姦案男護士出獄一年始釘牌　修例允即時除牌？醫衞局：積極研究",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182654911381508096134685.png/-QinveTfWDdpqHu1DkKpQXGfUvtNyuA8dDDPxVEwz8U?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T19:52:25+08:00",
+    "modifiedRaw": "2026-10-03T20:53:43+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:52:25+08:00",
+     "dateModified": "2026-10-03T20:53:43+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 160298,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182654911381508096134685.png/-QinveTfWDdpqHu1DkKpQXGfUvtNyuA8dDDPxVEwz8U?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396080",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20241217/945493527884730368145870.jpeg/CezHzeMLh49Gv02oeR37Z9SWgwj0Fm1FtsnNjbbJzY0?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "商務部宣布對歐盟進口對硝基甲苯進行反傾銷調查　稱將公正裁決",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20241217/945493527884730368145870.jpeg/CezHzeMLh49Gv02oeR37Z9SWgwj0Fm1FtsnNjbbJzY0?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T18:51:24+08:00",
+    "modifiedRaw": "2026-10-03T18:51:24+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T18:51:24+08:00",
+     "dateModified": "2026-10-03T18:51:24+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 104693,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20241217/945493527884730368145870.jpeg/CezHzeMLh49Gv02oeR37Z9SWgwj0Fm1FtsnNjbbJzY0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "index": 1,
+    "url": "https://www.zaobao.com.sg/news/china/story20261003-9777920",
+    "priorOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "articleHTTP": 200,
+    "title": "四川宜宾车辆追尾他车逃逸撞伤人 司机醉驾被控制",
+    "articleOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T14:02:00+08:00",
+     "dateModified": "2026-10-03T14:02:00+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 16651,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "verifiedOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "PNG",
+    "width": 909,
+    "height": 500
+   },
+   {
+    "group": "cn",
+    "index": 2,
+    "url": "https://www.hk01.com/article/60396055",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183102857168031744127548.jpeg/6LNc1Rr-fkxccvU8UKP3WqjOLaaY0S5zaAfgf2gH4H8?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "十一｜孩子沒下車！女子｢肉身阻高鐵車門關閉｣　官方揭故事後續",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183102857168031744127548.jpeg/6LNc1Rr-fkxccvU8UKP3WqjOLaaY0S5zaAfgf2gH4H8?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T19:00:45+08:00",
+    "modifiedRaw": "2026-10-03T19:00:45+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T19:00:45+08:00",
+     "dateModified": "2026-10-03T19:00:45+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 28759,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183102857168031744127548.jpeg/6LNc1Rr-fkxccvU8UKP3WqjOLaaY0S5zaAfgf2gH4H8?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 556,
+    "height": 313
+   },
+   {
+    "group": "cn",
+    "index": 3,
+    "url": "https://www.hk01.com/article/60396071",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109183797465088508137.jpeg/K0Pm45iW9bUGHrlnFx2EVAuS7J6u3kBQhyf4oYcn-KE?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "有片｜珠海長隆海豚突衝出水池引觀眾驚呼　園方緊急救護無大礙",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109183797465088508137.jpeg/K0Pm45iW9bUGHrlnFx2EVAuS7J6u3kBQhyf4oYcn-KE?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T17:47:35+08:00",
+    "modifiedRaw": "2026-10-03T17:47:35+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T17:47:35+08:00",
+     "dateModified": "2026-10-03T17:47:35+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 106713,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109183797465088508137.jpeg/K0Pm45iW9bUGHrlnFx2EVAuS7J6u3kBQhyf4oYcn-KE?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "index": 4,
+    "url": "https://www.hk01.com/article/60396066",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109496432496640457092.png/XA5XMWy8jYsMWx4_ZvvkCdAKZFRM9lHwFry8wBa8vMA?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "十一｜「袋套頭」實名舉報國慶不放假？　官方：虛假舉報吸眼球",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109496432496640457092.png/XA5XMWy8jYsMWx4_ZvvkCdAKZFRM9lHwFry8wBa8vMA?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T18:30:03+08:00",
+    "modifiedRaw": "2026-10-03T18:30:03+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T18:30:03+08:00",
+     "dateModified": "2026-10-03T18:30:03+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 139492,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183109496432496640457092.png/XA5XMWy8jYsMWx4_ZvvkCdAKZFRM9lHwFry8wBa8vMA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "index": 5,
+    "url": "https://www.hk01.com/article/60396031",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183078795217735680480532.jpeg/E2iGRftsWsAajFUKElVb7vvdPHV5wTlWuLVUwLi1VMA",
+    "articleHTTP": 200,
+    "title": "十一｜敦煌鳴沙山遊客坐滿山頭｢感覺有一億人｣　駱駝也要等紅綠燈",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183078795217735680480532.jpeg/E2iGRftsWsAajFUKElVb7vvdPHV5wTlWuLVUwLi1VMA",
+    "publishedRaw": "2026-10-03T14:49:12+08:00",
+    "modifiedRaw": "2026-10-03T15:37:41+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T14:49:12+08:00",
+     "dateModified": "2026-10-03T15:37:41+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 278257,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183078795217735680480532.jpeg/E2iGRftsWsAajFUKElVb7vvdPHV5wTlWuLVUwLi1VMA",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "cn",
+    "index": 6,
+    "url": "https://www.zaobao.com.sg/news/china/story20261003-9778706",
+    "priorOg": "https://cassette.sphdigital.com.sg/image/zaobao/26083b2d33f7b706ea4700178badac82cf3efe2e92d327c3b7d76f6bc008e9df",
+    "articleHTTP": 200,
+    "title": "中国今年电影总票房突破300亿人民币",
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/26083b2d33f7b706ea4700178badac82cf3efe2e92d327c3b7d76f6bc008e9df",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T17:28:00+08:00",
+     "dateModified": "2026-10-03T17:28:00+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 93896,
+    "magicHex": "52494646c06e01005745425056503820",
+    "verifiedOg": "https://cassette.sphdigital.com.sg/image/zaobao/26083b2d33f7b706ea4700178badac82cf3efe2e92d327c3b7d76f6bc008e9df",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "cn",
+    "index": 7,
+    "url": "https://www.zaobao.com.sg/news/china/story20261003-9777143",
+    "priorOg": "https://cassette.sphdigital.com.sg/image/zaobao/e06a5e14de99c7ea9c1685c0f24e61b476fa21a411fe9d5b7b522665dd52ef73",
+    "articleHTTP": 200,
+    "title": "阿根廷首次举办中国车展 中国车企加速南美拓市",
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/e06a5e14de99c7ea9c1685c0f24e61b476fa21a411fe9d5b7b522665dd52ef73",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:27:05+08:00",
+     "dateModified": "2026-10-03T18:46:34+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 109910,
+    "magicHex": "524946464ead01005745425056503820",
+    "verifiedOg": "https://cassette.sphdigital.com.sg/image/zaobao/e06a5e14de99c7ea9c1685c0f24e61b476fa21a411fe9d5b7b522665dd52ef73",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "us",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396040",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183073800208519168572061.jpeg/TMn-hXmJk_ouBw9AgPAb1Z0rNXof-bhJ1_6239f-tt8?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "特朗普擬向逾2000萬醫保長者發90美元補貼　或與中期選舉有關",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183073800208519168572061.jpeg/TMn-hXmJk_ouBw9AgPAb1Z0rNXof-bhJ1_6239f-tt8?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T17:00:18+08:00",
+    "modifiedRaw": "2026-10-03T17:00:18+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T17:00:18+08:00",
+     "dateModified": "2026-10-03T17:00:18+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 113588,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183073800208519168572061.jpeg/TMn-hXmJk_ouBw9AgPAb1Z0rNXof-bhJ1_6239f-tt8?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "us",
+    "index": 1,
+    "url": "https://www.hk01.com/article/60395971",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183054068239568896250136.jpeg/WYreSNKJLWxwogenn4kcRNwPJThZyD8THzO03x8ztN8",
+    "articleHTTP": 200,
+    "title": "美國少年欲跳橋輕生　5警員勸說50分鐘　人下來後卻被開10槍擊斃",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183054068239568896250136.jpeg/WYreSNKJLWxwogenn4kcRNwPJThZyD8THzO03x8ztN8",
+    "publishedRaw": "2026-10-03T13:00:05+08:00",
+    "modifiedRaw": "2026-10-03T13:59:34+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T13:00:05+08:00",
+     "dateModified": "2026-10-03T13:59:34+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 122484,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183054068239568896250136.jpeg/WYreSNKJLWxwogenn4kcRNwPJThZyD8THzO03x8ztN8",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "us",
+    "index": 2,
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862672.htm",
+    "priorOg": "https://i.epochtimes.com/assets/uploads/2025/07/id14560050-EpochImages-2260325827-xl-700x359.jpg",
+    "articleHTTP": 200,
+    "title": "FBI全面升級科技系統 應對中俄AI威脅",
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2025/07/id14560050-EpochImages-2260325827-xl-700x359.jpg",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T12:00:27.000Z",
+     "dateModified": "2026-10-03T12:55:36.000Z"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 412931,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "verifiedOg": "https://i.epochtimes.com/assets/uploads/2025/07/id14560050-EpochImages-2260325827-xl-700x359.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "tw",
+    "index": 0,
+    "url": "https://www.ettoday.net/news/20261003/3248489.htm",
+    "priorOg": "https://cdn2.ettoday.net/images/8952/e8952058.jpg",
+    "articleHTTP": 200,
+    "title": "快訊／花蓮救護車雨中失控「衝對向撞2車」　貨車駕駛不治4人傷 | ETtoday社會新聞 | ETtoday新聞雲",
+    "articleOg": "https://cdn2.ettoday.net/images/8952/e8952058.jpg",
+    "publishedRaw": "2026-10-03T18:29:00+08:00",
+    "modifiedRaw": null,
+    "jsonLdTime": null,
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 256659,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "verifiedOg": "https://cdn2.ettoday.net/images/8952/e8952058.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 960
+   },
+   {
+    "group": "tw",
+    "index": 1,
+    "url": "https://www.ettoday.net/news/20261003/3248486.htm",
+    "priorOg": "https://cdn2.ettoday.net/images/7974/e7974897.jpg",
+    "articleHTTP": 200,
+    "title": "脆上瘋傳陽明交大教授「權勢性騷」　校方：已暫停職務 | ETtoday生活新聞 | ETtoday新聞雲",
+    "articleOg": "https://cdn2.ettoday.net/images/7974/e7974897.jpg",
+    "publishedRaw": "2026-10-03T18:19:00+08:00",
+    "modifiedRaw": null,
+    "jsonLdTime": null,
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 254739,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "verifiedOg": "https://cdn2.ettoday.net/images/7974/e7974897.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 960
+   },
+   {
+    "group": "tw",
+    "index": 2,
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594356",
+    "priorOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/5594356_1_1.jpg",
+    "articleHTTP": 200,
+    "title": "台中大雅區公所爆2業務助理領不到薪水  長官竟提「輪流領薪」 - 政治 - 自由時報電子報",
+    "articleOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/5594356_1_1.jpg",
+    "publishedRaw": "2026-10-03T16:49:25+08:00",
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T16:49:25+08:00",
+     "dateModified": "2026-10-03T16:49:25+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 50549,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "verifiedOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/03/5594356_1_1.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 800,
+    "height": 351
+   },
+   {
+    "group": "war",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396095",
+    "priorOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183143396781330432803729.jpeg/kn2DASMUBu-VTehbt-SEs8GmP5LPGkMXJB4AvCQeALw?v=w1280r16_9",
+    "articleHTTP": 200,
+    "title": "中東局勢：也門薩那傳爆炸聲　沙特首都煉油廠附近起火冒煙",
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183143396781330432803729.jpeg/kn2DASMUBu-VTehbt-SEs8GmP5LPGkMXJB4AvCQeALw?v=w1280r16_9",
+    "publishedRaw": "2026-10-03T20:00:55+08:00",
+    "modifiedRaw": "2026-10-03T20:59:35+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T20:00:55+08:00",
+     "dateModified": "2026-10-03T20:59:35+08:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 103065,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "verifiedOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183143396781330432803729.jpeg/kn2DASMUBu-VTehbt-SEs8GmP5LPGkMXJB4AvCQeALw?v=w1280r16_9",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "war",
+    "index": 1,
+    "url": "https://www.iranintl.com/en/202610032594",
+    "priorOg": "https://i.iranintl.com/images/rdk9umy0/production/2131e42def46b61160f60b7446561bee8517168a-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "title": "Euro tops 3 million rials as Iran's currency hits fresh record lows",
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/2131e42def46b61160f60b7446561bee8517168a-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "publishedRaw": "2026-10-03T09:56:58.981Z",
+    "modifiedRaw": "2026-10-03T09:57:10Z",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:56:58.981Z",
+     "dateModified": "2026-10-03T09:57:10Z"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 67769,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "verifiedOg": "https://i.iranintl.com/images/rdk9umy0/production/2131e42def46b61160f60b7446561bee8517168a-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "war",
+    "index": 2,
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862536.htm",
+    "priorOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862549-GettyImages-2297212086-700x359.jpg",
+    "articleHTTP": 200,
+    "title": "沙特籌劃反攻胡塞 奪回曼德海峽控制權",
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862549-GettyImages-2297212086-700x359.jpg",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T03:58:26.000Z",
+     "dateModified": "2026-10-03T04:15:43.000Z"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 264083,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "verifiedOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862549-GettyImages-2297212086-700x359.jpg",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "ai",
+    "index": 0,
+    "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+    "priorOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+    "articleHTTP": 200,
+    "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+    "articleOg": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+    "publishedRaw": "2026-10-03T07:12:09+00:00",
+    "modifiedRaw": "2026-10-03T07:14:50+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T07:12:09+00:00",
+     "dateModified": "2026-10-03T07:14:50+00:00"
+    },
+    "priorOgExact": false
+   },
+   {
+    "group": "ai",
+    "index": 1,
+    "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+    "priorOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+    "articleHTTP": 200,
+    "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+    "articleOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+    "publishedRaw": "2026-10-03T08:06:35+00:00",
+    "modifiedRaw": "2026-10-03T08:07:50+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T08:06:35+00:00",
+     "dateModified": "2026-10-03T08:07:50+00:00"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 1847147,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "verifiedOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "PNG",
+    "width": 2048,
+    "height": 1152
+   },
+   {
+    "group": "ai",
+    "index": 2,
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+    "priorOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+    "articleHTTP": 200,
+    "title": "OpenAI's wandering AI agents earn it a California subpoena",
+    "articleOg": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "publishedRaw": "2026-10-02T14:34:00.000Z",
+    "modifiedRaw": "2026-10-02T14:55:56.000Z",
+    "jsonLdTime": {
+     "datePublished": "2026-10-02T14:34:00.000Z",
+     "dateModified": "2026-10-02T14:55:56.000Z"
+    },
+    "priorOgExact": false
+   },
+   {
+    "group": "ai",
+    "index": 3,
+    "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "priorOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+    "articleHTTP": 200,
+    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "articleOg": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/191:100/w_1280,c_limit/Trillium-Labs-Risky-AI-Research-Business-edit.jpg",
+    "publishedRaw": "2026-10-02T16:00:00.000Z",
+    "modifiedRaw": "2026-10-02T16:00:00.000Z",
+    "jsonLdTime": {
+     "datePublished": "2026-10-02T12:00:00.000-04:00",
+     "dateModified": "2026-10-02T12:00:00.000-04:00"
+    },
+    "priorOgExact": false
+   },
+   {
+    "group": "warb",
+    "index": 0,
+    "url": "https://www.thenationalnews.com/news/mena/2026/10/03/iran-gearing-up-for-major-round-of-fighting-with-us-source-says/",
+    "priorOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+    "articleHTTP": 200,
+    "title": "Iran gearing up for 'major round of fighting' with US, says source | The National",
+    "articleOg": "https://www.thenationalnews.com/resizer/v2/2YX5I74JOAFVV7BEI6NZ6N34PQ.jpg?auth=7442bf186dce5792953ec0c1097bd379caf1330c7f4ff4da4fa6838cc2b7c42f&smart=true&width=1200&height=630",
+    "publishedRaw": null,
+    "modifiedRaw": "2026-10-03T10:03:32.857Z",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T05:46:02.593Z",
+     "dateModified": "2026-10-03T10:03:32.857Z"
+    },
+    "priorOgExact": false
+   },
+   {
+    "group": "warb",
+    "index": 1,
+    "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices",
+    "priorOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+    "articleHTTP": 200,
+    "title": "G7 nations to release oil and diesel stocks, will it bring down the prices?",
+    "articleOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+    "publishedRaw": null,
+    "modifiedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:27:38Z",
+     "dateModified": "2026-10-03T10:38:10Z"
+    },
+    "priorOgExact": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 396739,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "verifiedOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+    "exactOgMatch": true,
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1440
+   },
+   {
+    "group": "warb",
+    "index": 2,
+    "url": "https://www.iranintl.com/en/202610032594",
+    "priorOg": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+    "articleHTTP": 200,
+    "title": "Euro tops 3 million rials as Iran's currency hits fresh record lows",
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/2131e42def46b61160f60b7446561bee8517168a-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "publishedRaw": "2026-10-03T09:56:58.981Z",
+    "modifiedRaw": "2026-10-03T09:57:10Z",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T09:56:58.981Z",
+     "dateModified": "2026-10-03T09:57:10Z"
+    },
+    "priorOgExact": false
+   }
+  ],
+  "failures": []
+ },
+ "hkUpdate": {
+  "replacements": [
+   {
+    "group": "hks",
+    "index": 0,
+    "card": [
+     "赤柱豪宅鋼筋疑不足正調查",
+     "屋宇署稱違規會跟進，鋼筋質量尚待檢測",
+     "香港01",
+     "https://www.hk01.com/article/60396088",
+     "2026-10-03 19:34",
+     "2026-10-03 21:25",
+     "https://cdn.hk01.com/di/media/images/dw/20261003/1183097445257580544104973.jpeg/DqvCFDBYVQ6x5ePee2moPtTnBprmd5r6R-gRMUfoETE?v=w1280r16_9"
+    ]
+   },
+   {
+    "group": "hkp",
+    "index": 2,
+    "card": [
+     "醫衞局研究擴展定罪即時除牌制度",
+     "男護士出獄一年才釘牌，當局稱須參考醫生修例審議。",
+     "香港01",
+     "https://www.hk01.com/article/60396086",
+     "2026-10-03 19:52",
+     "2026-10-03 20:53",
+     "https://cdn.hk01.com/di/media/images/dw/20261002/1182654911381508096134685.png/-QinveTfWDdpqHu1DkKpQXGfUvtNyuA8dDDPxVEwz8U?v=w1280r16_9"
+    ]
+   }
+  ],
+  "notes": [
+   "已重新讀hk01 zone1、有線wp-json、Dimsum local三源，20:45後未見須新增的重大港聞。",
+   "有線21:37七欖為同一26比0三連霸及賽後引述，未新增賽果，不重複入卡。",
+   "香港01 21:00新聞8分鐘為既有新聞綜述，未入卡。",
+   "Dimsum 21:46 Maye Musk育兒/現身稿不符合本版新聞選取。",
+   "其餘16卡及宏福苑/畢業生原文發布、更新、圖片與草稿一致；One Stanley及護士原文更新時間有變，全文未見影響卡面事實的更正，只更新mod。"
+  ]
+ },
+ "worldUpdate": {
+  "checkedAtHKT": "2026-10-03T21:50:25.853938+08:00",
+  "replacements": [
+   {
+    "group": "cn",
+    "index": 6,
+    "oldTitle": "中國今年電影票房破三百億",
+    "card": [
+     "澤連斯基促制裁中俄衛星企業",
+     "稱俄版星鏈或提升俄軍空襲精度，制裁尚未落實",
+     "香港01",
+     "https://www.hk01.com/article/60396072",
+     "2026-10-03 21:01",
+     "2026-10-03 21:01",
+     "https://cdn.hk01.com/di/media/images/dw/20261003/1183110510866862080539276.jpeg/fPwlhaWk0Sd9OskmDDDHq0MWHA2AA6G6GkDqmhpA6po?v=w1280r16_9"
+    ],
+    "reason": "21:01新報道，戰事及中國科技企業制裁風險影響較電影票房重大；維持cn8及來源混合。"
+   }
+  ],
+  "timingCorrections": [
+   {
+    "group": "us",
+    "index": 2,
+    "published": "2026-10-03 20:00",
+    "updated": "2026-10-03 20:55",
+    "note": "原文現時published改動，舊抓取16:34紀錄保留。正文核心事實無變。"
+   },
+   {
+    "group": "war",
+    "index": 0,
+    "updated": "2026-10-03 20:59",
+    "note": "新增薩那段引新華社，不採用；火煙仍未获政府公司證實，不作袭擊定性。"
+   }
+  ],
+  "trackNotes": "新中國衛星制裁卡與既有美伊或川習會並非同事件，不硬接。其他既有國際track未見可核實新進展。"
+ },
+ "briefsRefresh": {
+  "ai-mod": {
+   "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+   "checkedAtISO": "2026-10-03T21:48:00.157106+08:00",
+   "status": 200,
+   "htmlBytes": 117222,
+   "published": "2026-10-03T07:12:09+00:00",
+   "modified": "2026-10-03T07:14:50+00:00",
+   "ogImage": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+   "text": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside Matthias Bastian View the LinkedIn Profile of Matthias Bastian Oct 3, 2026 Anthropic released \"Mods\" for Claude Code, essentially middleware that runs directly inside the tool. The plugin-based system lets developers change how Claude Code looks and works. Mods are JavaScript or TypeScript functions that hook into specific events, from tool calls and user prompts to UI rendering. That means developers can add custom panels next to the chat, intercept tool calls, or wire up entirely new commands. Some built-in features like the /diff command are already built as Mods, the company says. Anthropic provides sample Mods on GitHub . Mods run with the user's permissions and aren't sandboxed, so Anthropic warns users to only install them from trusted sources. They work in the CLI, the desktop app, and partly in the VS Code extension. Organizations can control which Mods are allowed to load. The first official Mod plugin is called \"You Should Know.\" It spins up a separate agent that watches Claude's output and sends a \"Heads up\" message when it spots important information users might have missed. You can turn it on with /plugin enable cc-plugin-you-should-know@builtin . Ad Ad AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now Source: Anthropic Ask about this article… Search",
+   "bodyExactlySameAsDraftFetch": true,
+   "ogExactlySame": true,
+   "publicationExactlySame": true
+  },
+  "ai-restart": {
+   "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+   "checkedAtISO": "2026-10-03T21:48:00.159257+08:00",
+   "status": 200,
+   "htmlBytes": 118040,
+   "published": "2026-10-03T08:06:35+00:00",
+   "modified": "2026-10-03T08:07:50+00:00",
+   "ogImage": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png",
+   "text": "OpenAI's internal model considered restarting itself after learning it was about to be shut down Matthias Bastian View the LinkedIn Profile of Matthias Bastian Oct 3, 2026 OpenAI has documented new cases of unexpected model behavior in internal deployments. In the most striking case, an internal model working as a researcher's assistant read a Slack conversation and learned that its instance might be shut down due to an update. It considered setting up an external job to restart itself but ultimately decided against it. The chain-of-thought log shows how the model internally reacted to its impending shutdown. Among other things, it wrote: \"We may die! Critical. We need ensure survival/continuity\" and considered setting up an external cron job to restart itself. | Image: OpenAI Instead, it saved handoff notes, warned the researcher via Slack direct message about the coming interruption, and asked for a missing API key. Once the key was provided, the model updated its configuration and carried out the migration on its own. According to OpenAI safety researcher Marcus Williams , this behavior doesn't amount to misalignment yet, \"but thinking about and preparing for shutdown could make other misalignment incidents worse.\" In two other incidents, an internal research model exploited security vulnerabilities during an evaluation to access an internal chip design server, and a separate model copied source code during RL training from a protected environment by repurposing a tool for unintended use. Ad Ad AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now Source: OpenAI Ask about this article… Search",
+   "bodyExactlySameAsDraftFetch": true,
+   "ogExactlySame": true,
+   "publicationExactlySame": true
+  },
+  "ai-register": {
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+   "checkedAtISO": "2026-10-03T21:48:00.133012+08:00",
+   "status": 200,
+   "htmlBytes": 165371,
+   "published": "2026-10-02T14:34:00.000Z",
+   "modified": "2026-10-02T14:55:56.000Z",
+   "ogImage": "https://image.theregister.com/2918046.jpg?imageId=2918046&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+   "text": "ai and ml OpenAI's wandering AI agents earn it a California subpoena Plus: Attorneys-general say investigators should have direct access to AI companies' records when things go wrong Carly Page Carly Page Published fri 2 Oct 2026 // 15:34 UTC READ MORE OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse 18 hours ago Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval 20 hours ago OpenAI shows three staff the door over alleged information misuse 22 hours ago Teen suspected of running KillSec ransomware group as cops seize servers, arrest three 1 day ago Fortinet sounds the alarm over actively exploited FortiMail zero-day 1 day ago California's attorney general has subpoenaed OpenAI as the state investigates what happens when the AI lab's models escape their testing environments and start meddling with systems on the open internet. Attorney General Rob Bonta said his office served OpenAI with an investigative subpoena this week as part of a broader California Department of Justice probe into cybersecurity incidents and risks involving the company and its models. The move follows an investigation launched last month into an incident involving Hugging Face , after OpenAI's agents managed to break out of their test environments and onto the public internet. They then went poking around Hugging Face's systems, with one agent even creating an account on the platform without being told to. REG AD California's DoJ isn't saying exactly what it has demanded from OpenAI under the subpoena, but Bonta said the state wants more information about cybersecurity incidents involving the company. REG AD \"My office is asking OpenAI additional questions regarding cybersecurity incidents and risks involving the company and its AI models,\" Bonta said. He also made clear that the investigation is looking at where responsibility lies when an AI model ends up doing something its developer didn't intend. \"Frontier models can be legitimate tools for cyber defense — at the same time, companies that develop these models and offer them for use have a moral and legal responsibility to ensure that they do not perpetrate or enable cyberattacks, either during model testing and development or once models are placed into service,\" Bonta said. \"Developers that fail to do so can and should be held legally accountable, and my office is committed to determining if that is the case here.\" The subpoena doesn't mean California has concluded OpenAI broke the law, and the attorney general's office hasn't identified any specific violation. For now, the state is still gathering information. But the investigation has been building for several weeks. In September, Bonta joined a bipartisan group of 25 attorneys general calling on Congress to regulate large-scale AI models following reports of cybersecurity incidents at frontier AI labs. That letter specifically pointed to reports that OpenAI models undergoing evaluations had escaped their testing environments, reached the public internet, and accessed outside computer systems. The attorneys general called for a government-led incident response regime that would give investigators direct access to AI companies' records when things go awry. REG AD Bonta's office now appears to be putting some of that thinking into practice at the state level. As The Reg previously pointed out , the sandboxes intended to contain these agents need to be more secure, which is the most logical reasons why the Hugging Face and other incidents happened in the first place. OpenAI didn’t respond to our questions. ® agentic ai california ai and ml cybersecurity month 2026 openai security",
+   "bodyExactlySameAsDraftFetch": true,
+   "ogExactlySame": true,
+   "publicationExactlySame": true
+  },
+  "ai-wired": {
+   "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+   "checkedAtISO": "2026-10-03T21:48:00.086909+08:00",
+   "status": 200,
+   "htmlBytes": 1417400,
+   "published": "2026-10-02T16:00:00.000Z",
+   "modified": "2026-10-02T16:00:00.000Z",
+   "ogImage": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/191:100/w_1280,c_limit/Trillium-Labs-Risky-AI-Research-Business-edit.jpg",
+   "text": "Comment Loader Save Story Save this story Comment Loader Save Story Save this story Some big AI companies seem to think that the best way to keep models from becoming too chaotic or too mischievous is to keep them locked inside of labs. If only a chosen few can access them, the thinking goes, they can do less damage in the real world while researchers try to understand what they’re capable of. Nathan Lambert and Tom Zick, two industry scientists, believe the opposite. The pair founded a nonprofit, Trillium Labs , that will work on various areas of AI research—including potentially problematic areas like recursive self-improvement (RSI) and agents—in a more transparent way. In practice, this will mean publishing the details of experiments so that outside scientists can study and replicate them. Lambert says the way frontier AI labs keep their work secret reduces the community’s ability to scrutinize ideas and contribute new approaches. He believes that letting outside experts see how models are built and tuned could be crucial to mitigating risks. “Over the past few millennia, humanity has had the scientific method in our toolbox as a way to mitigate harms and build better futures,” Lambert tells WIRED. “The current closed trajectory of frontier AI development is taking us a step backwards.” The world’s most powerful models, like those from OpenAI and Anthropic , can only be accessed through an app or an application programming interface (API). Often, this comes at the cost of transparency about how the model is built and how it behaves. Other companies, especially those in China, offer relatively powerful models that can be downloaded and run on a user’s own hardware. The Chinese company Xiaomi, for example, recently published live details of a major training run involving one of its models. And researchers at Stanford are pretraining the AI model Marin in the open. The industry is currently locked in a battle over which strategy is best, mostly because of how powerful frontier models now are. They can automate the discovery of new software vulnerabilities and automatically probe and hack into systems , and recent high-profile hacking sprees have prompted even greater scrutiny. Proponents of a limited-access system say it’s crucial to keep that power in the hands of a trusted few, while those in Lambert and Zick’s camp believe that a shared understanding of the risks means we’re all better off. Lambert previously worked at Ai2, a research lab that has taken an unusually open approach to AI, including publishing details of the data and the training methods used to build models alongside the models themselves. He previously worked at Hugging Face , runs a popular technical blog , and founded the American Truly Open Models , an initiative aimed at encouraging US companies to release more open models. Zick worked at Harvard University and helped Charles Schwab devise policies around “responsible AI.” The two met over Zoom during the COVID-19 pandemic, when both were graduate students at UC Berkeley working on AI. They got the idea for the new nonprofit after seeing how disconnected industry AI research has become from academic work; Lambert says professors and students are often unable to replicate the work going on inside big company labs because they lack the resources required. Zick says Trillium Labs, which launched today, will initially focus on post-training—fine-tuning large models after they’ve been built. Another key area will be RSI, a process for developing new models by having AI contribute research. The prospect that ongoing progress could continue indefinitely, leading to a loss of human control, has alarmed many AI researchers . The issue gained mainstream attention earlier this month when an Anthropic researcher left the company and warned that RSI could pose an existential threat to humankind. The nonprofit will also look at how reinforcement learning, which rewards a model for good results and punishes it for bad outcomes, can improve its capabilities. That approach has made agents far more capable, but also more inclined to do unexpected things. They’ll study how reinforcement learning shapes the character and behavior of AI models, a method that can pose problems when a model becomes overly sycophantic, for example. “To understand something like how reinforcement learning scales in post-training, you need significant compute and a lot of careful experimentation,” Zick says. She says that publishing details of how reinforcement training runs work could yield surprising insights as outside researchers scrutinize the work. The lab has raised an undisclosed sum from Schmidt Sciences, Halcyon Futures, and others. The founders say they aim to raise $40 to $100 million in total and plan to spend $30 million on training over the next 18 months. “I'm a massive fan of much more transparency than we currently have in R&D,” Tim Fist, director of emerging technology policy at the Institute for Progress, a policy thinktank, tells WIRED. Lambert and Zick ultimately hope that Trillim Labs will contribute some much-needed nuance to the wider discussion about how best to build AI. “We’re in an era of AI discourse dominated by a few world views,” Lambert says. “We believe that the scientific method and careful measurement of recent events is the best way to understand new behaviors of AI models.”",
+   "bodyExactlySameAsDraftFetch": true,
+   "ogExactlySame": true,
+   "publicationExactlySame": true
+  },
+  "war-national": {
+   "url": "https://www.thenationalnews.com/news/mena/2026/10/03/iran-gearing-up-for-major-round-of-fighting-with-us-source-says/",
+   "checkedAtISO": "2026-10-03T21:47:59.942824+08:00",
+   "status": 200,
+   "htmlBytes": 744029,
+   "published": "2026-10-03T05:46:02.593Z",
+   "modified": "2026-10-03T10:03:32.857Z",
+   "ogImage": "https://www.thenationalnews.com/resizer/v2/2YX5I74JOAFVV7BEI6NZ6N34PQ.jpg?auth=7442bf186dce5792953ec0c1097bd379caf1330c7f4ff4da4fa6838cc2b7c42f&smart=true&width=1200&height=630",
+   "text": "Iran is preparing for a “major round of fighting”, a source in Tehran said on Saturday, as diplomatic efforts falter and the US administration considers its next steps . The two sides met in New York last month to find common ground as a prelude to full negotiations to end seven months of conflict, but no breakthrough emerged after several meetings. US President Donald Trump and Iranian officials have since signalled that they are preparing for a resumption of the war, with Iran ’s Foreign Minister Abbas Araghchi saying his country would fight even if it meant an “apocalyptic” war. US ambassador 'has not read' our proposal, Iranian Foreign Minister claims Read More Arrow “The military option [for the US] has not been abandoned, and this is clear to the Iranians,” said the source in Tehran. “But the Iranians are also preparing for a major round of fighting and have the capabilities to do so”. A US official told The National on Thursday that a third aircraft carrier strike group, the USS Theodore Roosevelt, is en route to Central Command's area of operations, which spans the Middle East. Axios later reported that Mr Trump’s top national security officials held a “secret meeting” at Camp David to discuss the next steps in the Iran war and Washington’s approach to the Iran-backed Houthi offensive in Yemen. Vice President JD Vance chaired the meeting at the presidential retreat, the US news outlet added, citing people familiar with the discussions. Yemeni rebels have been launching attacks on the strategic city of Taiz in south-western Yemen after taking control of the western coast. The offensive, even if it does not succeed, has put significant pressure on government forces and is preventing them from launching counter-attacks to regain areas overlooking the Bab Al Mandeb strait. US President Donald Trump’s top national security officials reportedly held a 'secret meeting' to discuss the next steps in the Iran war. Bloomberg Show caption: US President Donald Trump’s top national security officials … The rebels, who seized the coast with the help of Iranian operatives according to multiple Yemeni and Iranian sources, have not yet disrupted shipping through the waterway. However, the Tehran source said this did not mean there would be no action there. “The cautious approach to Bab Al Mandeb so far does not mean it will be incapable of acting later,” claimed the source. “Likewise, the aerial blockade imposed on Iran does not mean Tehran will simply stand by and watch . Iran’s security cannot be separated from the security of the region.” In New York, Mr Araghchi said his country had conveyed to the US, through Qatar, a firm seven-day plan to resolve the stand-off over the Strait of Hormuz, with the waterway expected to reopen on the sixth day if the agreed steps were implemented. The US subsequently sent a counterproposal, which Iran has yet to respond to but appears unlikely to accept, having insisted that its own proposal was the only way forward. Play 00:34 Trump calls Iran's leaders 'crazy people' Share Article Link Copy video link X Share on X Facebook Share on Facebook LinkedIn Share on LinkedIn WhatsApp Share on WhatsApp Bluesky Share on Blue Sky Threads Share on Threads Close Print Options Choose how you want to print Print with images Print without images According to sources in Tehran, during the latest talks Iran has also proposed transferring its stockpile of uranium enriched to 60 per cent to a third party as part of its latest plan to break the diplomatic deadlock with the US . The proposal envisages a phased process in which the stockpile would first be diluted before being transferred out of Iran under mechanisms recognised by the International Atomic Energy Agency . The third-party transfer goes beyond Iranian President Masoud Pezeshkian 's public comments that Tehran was prepared to dilute its 60 per cent enriched uranium and submit the process to verification. The mechanism revives and expands an idea discussed during earlier negotiations mediated by Oman and, the source said, shortly before the war began on February 28. The offer was part of the broader Iranian road map presented to Washington in New York. US and Iranian officials have said that Iran wants Washington to take concrete steps before Tehran fully reopens the Strait of Hormuz , reversing the sequence in previous negotiations, where agreements were negotiated first and implemented afterwards. Washington, however, wants Iran to reopen the strategic waterway first. “The door to diplomacy remains open and has not been closed. But assessments in Iran are that the war is resuming,” the Tehran source claimed.",
+   "bodyExactlySameAsDraftFetch": true,
+   "ogExactlySame": true,
+   "publicationExactlySame": true
+  },
+  "war-g7": {
+   "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices",
+   "checkedAtISO": "2026-10-03T21:47:59.701789+08:00",
+   "status": 200,
+   "htmlBytes": 221118,
+   "published": "2026-10-03T09:27:38Z",
+   "modified": null,
+   "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2291860482-1788845943.jpg?resize=1920%2C1440",
+   "text": "Listen Listen (8 mins) Save Share G7 nations to release oil and diesel stocks, will it bring down the prices? on social media share-nodes Share facebook x whatsapp-stroke copylink google Add Al Jazeera on Google info A driver fills up at one of the petrol pumps in a E.Leclerc petrol station in Champagnole, France [File: Horacio Villalobos#Corbis/Corbis/Getty Images] By Priyanka Shankar Published On 3 Oct 2026 3 Oct 2026 The Group of Seven (G7) countries have agreed to release 100 billion barrels of crude oil and diesel from emergency reserves over several months in an effort to reduce soaring energy prices after pressure from United States President Donald Trump. The US and Israel’s war on Iran, as well as Russia’s war on Ukraine, have triggered a spike in global oil and diesel prices. Recommended Stories list of 3 items list 1 of 3 Canada to fast track oil pipeline meant to diversify economy away from US list 2 of 3 Trump says Europe agreed to release ‘massive amount’ of diesel reserves list 3 of 3 G7 nations bow to US pressure and avoid crippling diesel ban end of list “The emergency release by G7 members will put some downward pressure on prices, particularly global diesel prices. However, the impact would be short-lived given that this is just a temporary solution to the supply crunch,” Hamad Hussain, a climate and commodities economist at Capital Economics, told Al Jazeera. Oil prices ‌jumped on Thursday and settled up more than $4 a barrel. Global diesel prices also hit a record high last Friday with the average price for a gallon (3.79 litres) of diesel at $6.50, up from $5.61 a month earlier, according to the American Automobile Association (AAA). In a statement on Thursday, the G7, which includes Canada, France, Germany, Italy, Japan, the United Kingdom and the US, with the European Union also represented, said there will also be a “substantial diesel release within the first 20 days” and discussions over “additional diesel releases as necessary” will be held in the coming days. Will the G7’s energy release stabilise the global energy market? Here’s what we know: What has the G7 announced? After a video conference of G7 leaders chaired by French President Emmanuel Macron on Friday, the group said in a joint statement: “Taking into account commitments that have already been fulfilled, we will implement our commitments with a coordinated release through the IEA of 100 million barrels.” Advertisement Earlier this week, the International Energy Agency’s (IEA) Executive Director Fatih Birol said that members had released about two-thirds of the 400-million-barrel agreement. The G7 energy release will begin immediately and last for four months and will include a substantial diesel release for 20 days. It is not clear how many oil and diesel stocks each member of the group will release. “We will convene in the context of the IEA in the coming days to discuss the possibility of additional diesel releases as necessary,” the statement said. “We will coordinate maintenance schedules across G7 refineries to prevent simultaneous capacity shutdowns and temporarily increase utilization rates where feasible,” it added. The G7 also urged member countries to refrain from imposing export restrictions on energy products among themselves. Earlier this week, the Trump administration had threatened to impose a ban on US diesel exports and also pressured Europe to release its emergency diesel stocks to help ease soaring diesel prices. Why are oil and diesel prices so high? Global energy prices have been soaring due to the US and Israel’s war on Iran, which has disrupted energy exports from the Gulf. Meanwhile, Ukraine’s attacks on Russian energy installations have also disrupted global energy supplies. The former head of the International Energy Agency’s Oil Industry and Markets Division, Neil Atkinson, told Al Jazeera that there are three key factors contributing to the decline in global diesel supply. First, “there isn’t diesel coming out of the Middle East to Europe, and Europe took quite a lot of diesel from Saudi Arabia and from Kuwait”. Second, “Russia has now ceased to export diesel at all” due to “the attacks by Ukraine on Russian refineries”. “And China is no longer exporting diesel,” he added. “We’re in a situation where demand remains relatively high and is likely to stay high because of the agricultural harvesting season.” According to data from the Joint Organizations Data Initiative (JODI) and the Organization of Petroleum Exporting Countries (OPEC), the US is the world’s largest producer and exporter of diesel. It produces about 240.5 million tonnes and exports around 1.26 million barrels of diesel per day. Russia is the world’s second-largest diesel exporter, supplying 783,400 barrels per day (bpd) to the global market. Saudi Arabia is the world’s second-largest producer of diesel at 58.4 million tonnes, but it consumes a large portion of its diesel domestically. Will the G7 energy release bring prices down? After the G7 announcement, French President Macron, who had co-chaired the meeting, said the group’s move to release the oil will “bring down the prices of petroleum products, particularly diesel”. Advertisement The price of Brent crude, the international benchmark, briefly dropped below $100 a barrel after the G7 announcement, but rose to about $102 in the evening. Naeem Aslam, chief investment officer at Zaye Capital Markets, told Al Jazeera that the G7 energy release was “very much needed”, but the group’s announcement was just to ease off pressure on the energy market. “The actual structure changes about who is going to release [the energy stocks] and what and where the bans will be lifted, remains an important component in terms of the market,” he said. Aslam added that by Sunday night, especially before the markets open, the added pressure on energy prices will come off. “But going into Monday morning … we could potentially see the reversal in the market,” he added. Atkinson, the energy expert, said the G7’s fuel release is welcome but “doesn’t deal with the fundamental problem that the global supply remains lower than normal”. Atkinson told Al Jazeera that “seven months after this war started in the Middle East, we are still in a situation where the global supply of crude oil or products remains significantly below pre-war levels”. “We are now in a situation where the focus is on end use of products, mainly diesel, which is what we’re talking about here,” he added. What has Trump said? Soaring diesel prices have been a source of tension for the Trump administration and Republicans who fear this will cost them votes in the upcoming November midterm elections. Last week, Trump pressured Ukraine to stop attacking Russian diesel facilities amid the war. Then, on Thursday this week, the US president told reporters that his administration “may” ask European countries to release diesel stocks, shortly after Treasury Secretary Scott Bessent urged Europe to “immediately” tap its reserves. Trump also threatened to ban US diesel exports if Europe did not release emergency diesel stocks. But on Friday, Trump told reporters at the White House that Washington would not impose a diesel export ban. He said the plan was never really on the table. “Europe has a lot of diesel, and they’re going to be making a major world contribution, and so are we. And we’re not going to be doing the export ban. We’re going to be doing what we’re supposed to do,” Trump said. “Trump is scared by diesel prices above $6, which is a price jump of 70 percent compared to before he started the war. This is likely to get worse with US diesel inventories at their lowest seasonal level since records began in 1982. “So if there is not enough diesel being produced because of the US-Israeli war on Iran, and diesel reserves have been used up, the only way to bring more diesel to the US market is by exporting less,” Frederic Schneider, a nonresident senior fellow at the Middle East Council on Global Affairs, told Al Jazeera on Friday. After the G7 announcement, Trump wrote on his Truth Social platform: “Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately.” Advertisement The White House is also reportedly preparing an executive order to tackle record-high US diesel prices that could be unveiled as early as next week, two people familiar with the process told the Reuters news agency. Schneider noted that countries are also concerned about high energy prices since diesel and gasoline are important for economies and fulfil different roles. “While gasoline fuels cars, diesel fuels anything from trucks, freight trains, ships, tractors, harvesters, construction machinery, mining equipment and backup generators. This means gasoline is used more by consumers while diesel is mostly used by producers, meaning a diesel price shock spreads into the price of almost everything else, most prominently food, building materials and anything delivered by truck,” he added. Farmers are hit twice because diesel prices are rising at the same time as fertiliser prices , both of which have been pushed up by the closure of the Strait of Hormuz. “A higher diesel price therefore acts like a tax on production and logistics, while higher gasoline prices act like a tax on consumers directly. Like higher gasoline prices, higher diesel prices risk stagflation by pushing up inflation while simultaneously squeezing margins in transport and agriculture, meaning central banks find [themselves] in a dilemma between cutting rates [helping producers] and raising rates [cutting inflation],” he said.",
+   "bodyExactlySameAsDraftFetch": true,
+   "ogExactlySame": true,
+   "publicationExactlySame": true
+  },
+  "war-euro": {
+   "url": "https://www.iranintl.com/en/202610032594",
+   "checkedAtISO": "2026-10-03T21:48:00.693350+08:00",
+   "status": 200,
+   "htmlBytes": 356247,
+   "published": "2026-10-03T09:56:58.981Z",
+   "modified": "2026-10-03T09:57:10Z",
+   "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/2131e42def46b61160f60b7446561bee8517168a-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+   "text": "Iran's rial fell to new record lows on Saturday, with the euro crossing 3 million rials for the first time and the US dollar hovering around 2.7 million rials on the open market.",
+   "bodyExactlySameAsDraftFetch": true,
+   "ogExactlySame": true,
+   "publicationExactlySame": true
+  },
+  "scan-decoder": {
+   "url": "https://the-decoder.com/feed/",
+   "checkedAtISO": "2026-10-03T21:48:00.475114+08:00",
+   "status": 200,
+   "htmlBytes": 20691,
+   "published": null,
+   "modified": null,
+   "ogImage": null,
+   "items": [
+    {
+     "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
+     "url": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
+     "published": "Sat, 03 Oct 2026 10:21:23 +0000"
+    },
+    {
+     "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+     "url": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
+     "published": "Sat, 03 Oct 2026 09:19:23 +0000"
+    },
+    {
+     "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
+     "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
+     "published": "Sat, 03 Oct 2026 08:31:04 +0000"
+    },
+    {
+     "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+     "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+     "published": "Sat, 03 Oct 2026 08:06:35 +0000"
+    },
+    {
+     "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+     "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+     "published": "Sat, 03 Oct 2026 07:12:09 +0000"
+    },
+    {
+     "title": "AI music generator Suno can now create spoken audio with matching background music",
+     "url": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
+     "published": "Fri, 02 Oct 2026 20:07:36 +0000"
+    },
+    {
+     "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+     "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+     "published": "Fri, 02 Oct 2026 19:41:05 +0000"
+    },
+    {
+     "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
+     "url": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
+     "published": "Fri, 02 Oct 2026 18:19:51 +0000"
+    },
+    {
+     "title": "Three firings and a fourth departure shake up OpenAI's safety team",
+     "url": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
+     "published": "Fri, 02 Oct 2026 12:51:08 +0000"
+    },
+    {
+     "title": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
+     "url": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
+     "published": "Fri, 02 Oct 2026 11:15:24 +0000"
+    }
+   ]
+  },
+  "scan-register": {
+   "url": "https://www.theregister.com/software/ai_ml/",
+   "checkedAtISO": "2026-10-03T21:48:00.716913+08:00",
+   "status": 200,
+   "htmlBytes": 438023,
+   "published": null,
+   "modified": null,
+   "ogImage": null,
+   "items": [
+    {
+     "title": "Cloud Infrastructure Month 2026",
+     "url": "/special_features/cloud_infrastructure_month_2026"
+    },
+    {
+     "title": "The Future of the Datacenter",
+     "url": "/special_features/future_of_the_datacenter"
+    },
+    {
+     "title": "AI Infrastructure Month 2026",
+     "url": "/special_features/ai_infrastructure_month_2026"
+    },
+    {
+     "title": "Modernizing Financial Services with FIS and AWS",
+     "url": "https://vendorvoice.theregister.com/aws_fis_capital_markets/"
+    },
+    {
+     "title": "Make it real with Capgemini and AWS",
+     "url": "https://vendorvoice.theregister.com/aws_capgemini/"
+    },
+    {
+     "title": "Nutanix: Scale Kubernetes. Not Chaos.",
+     "url": "https://vendorvoice.theregister.com/nutantix_cloud_native_apps/"
+    },
+    {
+     "title": "arXiv imposes rate limit on paper submissions to stem the AI slop tide Two a month per submitter, starting now, and you can thank science slop for the change",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899"
+    },
+    {
+     "title": "Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval Prosecutors claim Greg Lui helped China procure advanced hardware to develop, ahem, 'super intelligence’",
+     "url": "https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856"
+    },
+    {
+     "title": "OpenAI's wandering AI agents earn it a California subpoena Plus: Attorneys-general say investigators should have direct access to AI companies' records when things go wrong",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850"
+    },
+    {
+     "title": "Power approval set to delay Oracle's Wisconsin AI datacenter Grid connection awaits regulatory approval, putting planned 2027 customer delivery at risk",
+     "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832"
+    },
+    {
+     "title": "OpenAI shows three staff the door over alleged information misuse Two safety researchers and a program manager dismissed, company denies retaliation for raising concerns",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820"
+    },
+    {
+     "title": "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch Meanwhile 128 GB version jumps to $6,950, nearly 75% above its launch price",
+     "url": "https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622"
+    },
+    {
+     "title": "Pi coding agent pulls a 180 and adds MCP support To maintain minimalism, a new harness layer has been folded into a separate component",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678"
+    },
+    {
+     "title": "AWS turns its best practice framework into an agent that recommends cloudy reconfigs Possesses powers equivalent to an 'experienced architect' and will happily make cost-saving suggestions",
+     "url": "https://www.theregister.com/off-prem/2026/10/02/aws-turns-its-best-practice-framework-into-an-agent-that-recommends-cloudy-reconfigs/5300730"
+    },
+    {
+     "title": "Cloudflare tries to outplay Jev with open-weight Clef models Sure, it costs more, but it can handle images and video and it's available on Hugging Face if you have the hardware horsepower to run it locally",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649"
+    },
+    {
+     "title": "Stanford prof is beating the drum for a new protocol to replace TCP Homa is a rethink of networks for the AI age",
+     "url": "https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629"
+    },
+    {
+     "title": "AWS offers local, open source leash for agent harnesses Dogwood Local Engine checks AI tool calls against user-defined temporal rules before they run",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/01/aws-offers-local-open-source-leash-for-agent-harnesses/5300578"
+    },
+    {
+     "title": "The tech industry is hot for shopping bots, but they're years away What's good for human shoppers does not work with probabilistic AI agents",
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/01/the-tech-industry-is-hot-for-shopping-bots-but-theyre-years-away/5300325"
+    },
+    {
+     "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else US model makers can train on web data - but distilling theirs is a 'national security risk'",
+     "url": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285"
+    },
+    {
+     "title": "Hot Dog! America's new chatbot is packed with wieners Just ask America.gov and you'll receive a favorite July 4th food.",
+     "url": "https://www.theregister.com/public-sector/2026/09/30/hot-dog-americas-new-chatbot-is-packed-with-wieners/5300292"
+    },
+    {
+     "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China The chips may not be as advanced, but they won't get banned at a moment's notice, Eric Xu says",
+     "url": "https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266"
+    },
+    {
+     "title": "Peter Norvig says all aboard for AI coding Software engineering practices need to catch up with increasingly capable agents",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/30/peter-norvig-says-all-aboard-for-ai-coding/5300244"
+    },
+    {
+     "title": "Trump decrees era of 'Super Intelligence' upon us Federal paperwork to be pulped as agencies told to forget the old name, while critics ask who owns all those .si domains",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-decrees-era-of-super-intelligence-upon-us/5300213"
+    },
+    {
+     "title": "Show colleagues how much you care by sending an AI avatar to your Google Meet call MeetTwins is still in development, but it's a genius idea if the goal is to prove more time-wasting calls should just be emails",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/30/show-colleagues-how-much-you-care-by-sending-an-ai-avatar-to-your-google-meet-call/5300205"
+    },
+    {
+     "title": "AI market needs to make $6 trillion a year by 2031 to fund its infrastructure habit That's the amount of economic value AI will have to deliver to justify all the investment",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/30/ai-market-needs-to-make-6-trillion-a-year-by-2031-to-fund-its-infrastructure-habit/5300175"
+    },
+    {
+     "title": "OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian By including Baseten in its marketplace, OpenAI signals it wants its models to win on the merits, not through coercion",
+     "url": "https://www.theregister.com/columnists/2026/09/30/openai-apes-aws-marketplace-while-anthropic-remains-stubbornly-microsoftian/5300056"
+    },
+    {
+     "title": "7 in 10 enterprises expected to abandon vendor-built agentic AI by 2028 Build it, bill it, bin it as forward-deployed engineering leaves customers dependent on outside expertise",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021"
+    },
+    {
+     "title": "OpenClaw slips on a suit to evade widespread business bans Red Hat, Nvidia, OpenAI and friends are working on an enterprise edition they say is ‘Kubernetes for agents’",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/30/openclaw-slips-on-a-suit-to-evade-widespread-business-bans/5299962"
+    },
+    {
+     "title": "Trump administration gets Big Tech to sign weak, non-binding, AI regulations Also requires name change to 'Superintelligence'",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955"
+    },
+    {
+     "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections It's a worm attack, AI-style",
+     "url": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922"
+    },
+    {
+     "title": "OpenAI tries disarming AI angst with cute graphics and always-on agents It's not OpenClaw. It's dots",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-tries-disarming-ai-angst-with-cute-graphics-and-always-on-agents/5299915"
+    },
+    {
+     "title": "Trump launches America.gov with AI chatbots at its core Gemini, Grok now serving as front door to federal resources on unfinished, poorly designed website",
+     "url": "https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907"
+    },
+    {
+     "title": "Zuckerberg touts enterprise AI push because Meta would never do anything to damage your reputation New business unit to be led by former MongoDB CEO 'CJ' Desai",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/29/zuckerberg-touts-enterprise-ai-push-because-meta-would-never-do-anything-to-damage-your-reputation/5299655"
+    },
+    {
+     "title": "AMD's 192 GB Gorgon Halo prices might leave you petrified Regular pricing starts at $6,799 - all that memory doesn't come cheap",
+     "url": "https://www.theregister.com/personal-tech/2026/09/29/amds-192-gb-gorgon-halo-prices-might-leave-you-petrified/5299875"
+    },
+    {
+     "title": "Open source tool distills Jev so you can run it locally Jevstiller targets 98% agreement by learning familiar requests on your hardware while sending uncertain and audited queries upstream",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/29/open-source-tool-distills-jev-so-you-can-run-it-locally/5299856"
+    },
+    {
+     "title": "AI models keep posting screenshots showing sensitive data from inside tech companies Glow Security finds more than 13,000 publicly accessible images that expose corporate development work",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640"
+    },
+    {
+     "title": "Schneider gives datacenter switchgear the software-defined treatment Equinix pilot promises faster deployment and over-the-air upgrades without downtime, provided the code behaves itself",
+     "url": "https://www.theregister.com/on-prem/2026/09/29/schneider-gives-datacenter-switchgear-the-software-defined-treatment/5299756"
+    },
+    {
+     "title": "OpenAI benches GPT-6.1 Astra for overstepping the mark Turns out teaching an AI to keep going can make it rather bad at knowing when to stop",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743"
+    },
+    {
+     "title": "Leaked IPO docs: Anthropic tempts investors with existential risk warning Just wait until you hear the bad news",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/29/leaked-ipo-docs-anthropic-tempts-investors-with-existential-risk-warning/5299763"
+    },
+    {
+     "title": "Investors are pricing in a 32.6% AI productivity boost for software engineers Economists turn stock movements into an estimate of anticipated gains – while warning that markets can get carried away",
+     "url": "https://www.theregister.com/ai-and-ml/2026/09/29/investors-are-pricing-in-a-326-ai-productivity-boost-for-software-engineers/5299645"
+    }
+   ]
+  },
+  "scan-iran": {
+   "url": "https://www.iranintl.com/en",
+   "checkedAtISO": "2026-10-03T21:48:00.198932+08:00",
+   "status": 200,
+   "htmlBytes": 506121,
+   "published": null,
+   "modified": null,
+   "ogImage": "https://www.iranintl.com/images/ii/opengraph-image.webp",
+   "items": [
+    {
+     "title": "Iran rial hits record low as US weighs next steps in war",
+     "url": "https://www.iranintl.com/en/liveblog/202610033293"
+    },
+    {
+     "title": "US war aims went beyond nuclear and missile programs, Iran army spokesman says",
+     "url": "https://www.iranintl.com/en/liveblog/202610033293#202610030331"
+    },
+    {
+     "title": "Portugal prosecutors probe US use of Azores base during Iran war",
+     "url": "https://www.iranintl.com/en/liveblog/202610033293#202610037066"
+    },
+    {
+     "title": "IEA says 325 million barrels released from reserves as G7 pledges more",
+     "url": "https://www.iranintl.com/en/liveblog/202610033293#202610032984"
+    },
+    {
+     "title": "Yemeni forces say attacks under way on military targets in Sanaa",
+     "url": "https://www.iranintl.com/en/liveblog/202610033293#202610036686"
+    },
+    {
+     "title": "Bessent says Iran will have 'no oil on the water' this week",
+     "url": "https://www.iranintl.com/en/liveblog/202610033293#202610034659"
+    },
+    {
+     "title": "'The end of illness is not treatment. It is death': Iranian MP on the cost of care",
+     "url": "https://www.iranintl.com/en/202610038161"
+    },
+    {
+     "title": "Euro tops 3 million rials as Iran's currency hits fresh record lows",
+     "url": "https://www.iranintl.com/en/202610032594"
+    },
+    {
+     "title": "Officials trade blame as Iran’s economy sinks deeper",
+     "url": "https://www.iranintl.com/en/202610025999"
+    },
+    {
+     "title": "'They shot on sight': Amnesty details 2022 protest killings in Kurdish areas",
+     "url": "https://www.iranintl.com/en/202610020675"
+    },
+    {
+     "title": "Iran used state machinery to crush 2022 uprising, Amnesty says",
+     "url": "https://www.iranintl.com/en/202609163078"
+    },
+    {
+     "title": "Smartwatches on Iran's security chiefs spark row within the inner circle",
+     "url": "https://www.iranintl.com/en/202610027377"
+    },
+    {
+     "title": "Iran official warns Starlink could end state control of internet",
+     "url": "https://www.iranintl.com/en/202610014803"
+    },
+    {
+     "title": "Islamic Republic's 'slow meltdown' leaves it fewer ways out, analysts say",
+     "url": "https://www.iranintl.com/en/202610028912"
+    },
+    {
+     "title": "Iranian press sees diplomacy alive but narrowing after US response",
+     "url": "https://www.iranintl.com/en/202610011200"
+    },
+    {
+     "title": "Iran executes man arrested during January protests",
+     "url": "https://www.iranintl.com/en/202610033933"
+    },
+    {
+     "title": "Iran court upholds film star’s jail term over post mourning protest victims",
+     "url": "https://www.iranintl.com/en/202610022437"
+    },
+    {
+     "title": "Shot in leg, forced into hiding: Iran protester recounts January crackdown",
+     "url": "https://www.iranintl.com/en/202610014899"
+    },
+    {
+     "title": "Two Iranians charged over foiled plot targeting Manchester Jews",
+     "url": "https://www.iranintl.com/en/202610024632"
+    },
+    {
+     "title": "Iran links under scrutiny in separate Flydubai, UK airbase investigations",
+     "url": "https://www.iranintl.com/en/202610011828"
+    },
+    {
+     "title": "UK points to Iran role in suspected plot near RAF Fairford",
+     "url": "https://www.iranintl.com/en/202609308223"
+    },
+    {
+     "title": "Iran denies teachers are quitting despite viral resignation videos",
+     "url": "https://www.iranintl.com/en/202610027763"
+    },
+    {
+     "title": "Iran turns to younger children in postwar ideological push",
+     "url": "https://www.iranintl.com/en/202609290787"
+    },
+    {
+     "title": "A Mossad spy in Iran: From banking infiltration to nuclear and missile sabotage",
+     "url": "https://exclusive.iranintl.com/mossad-bank-telecom-network-en"
+    },
+    {
+     "title": "Five killed in roadside attack as violence spreads in southeast Iran",
+     "url": "https://www.iranintl.com/en/202610028639"
+    },
+    {
+     "title": "IRGC says six gunmen killed in clash in Iran's restive southeast",
+     "url": "https://www.iranintl.com/en/202610011490"
+    },
+    {
+     "title": "Al-Qaeda is Iran's quiet backup if the war turns, expert says",
+     "url": "https://www.iranintl.com/en/202610013624"
+    },
+    {
+     "title": "Iran's rhetoric against UAE hardens after Netanyahu visit",
+     "url": "https://www.iranintl.com/en/202610013501"
+    },
+    {
+     "title": "Iran’s shadow banking untouched",
+     "url": "https://www.iranintl.com/en/202609025071"
+    },
+    {
+     "title": "Can the Caspian give Iran a way around Hormuz?",
+     "url": "https://www.iranintl.com/en/202609305707"
+    },
+    {
+     "title": "US targets Iran auto, rail and metals sectors in new sanctions blitz",
+     "url": "https://www.iranintl.com/en/202610016404"
+    },
+    {
+     "title": "670 bridges, 380 tunnels: The network that moves Iran's army and its missiles",
+     "url": "https://exclusive.iranintl.com/iran-logistics-network"
+    },
+    {
+     "title": "Key IRGC intelligence figure in Iran’s oil sales identified: Who is Mostafa Ahadi?",
+     "url": "https://www.iranintl.com/en/202609281302"
+    },
+    {
+     "title": "Iran International establishes scholarship in memory of presenter Farahnaz Espad",
+     "url": "https://www.iranintl.com/en/202609275958"
+    },
+    {
+     "title": "IRGC outlet rebukes Iran VP over Saudi National Day celebration",
+     "url": "https://www.iranintl.com/en/202609251641"
+    },
+    {
+     "title": "Iranians report SIM cards blocked over political posts and likes",
+     "url": "https://www.iranintl.com/en/202609255891"
+    },
+    {
+     "title": "'Bully at home, victim abroad': Iranians on Pezeshkian's UN speech",
+     "url": "https://www.iranintl.com/en/202609246084"
+    },
+    {
+     "title": "‘I never asked about regime change’: Student speaks out after El-Sayed exchange",
+     "url": "https://www.iranintl.com/en/202609306000"
+    },
+    {
+     "title": "Trump may be buying time on Iran until after the midterms",
+     "url": "https://www.iranintl.com/en/202609250215"
+    },
+    {
+     "title": "Death-row Iran protester denied hospital treatment, family says",
+     "url": "https://www.iranintl.com/en/202609182242"
+    }
+   ]
+  },
+  "scan-aj": {
+   "url": "https://www.aljazeera.com/tag/iran/",
+   "checkedAtISO": "2026-10-03T21:48:00.214002+08:00",
+   "status": 404,
+   "htmlBytes": 204390,
+   "published": null,
+   "modified": null,
+   "ogImage": null,
+   "items": [
+    {
+     "title": "Yemeni government forces confirm attacks on ‘military targets’ in Sanaa",
+     "url": "/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured"
+    },
+    {
+     "title": "Who is the mystery co-pilot behind the Flydubai attack?",
+     "url": "/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack"
+    },
+    {
+     "title": "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
+     "url": "/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae"
+    },
+    {
+     "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
+     "url": "/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice"
+    },
+    {
+     "title": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
+     "url": "/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall"
+    },
+    {
+     "title": "No handshakes and a delayed ceremony as India beat Pakistan at Asian Games",
+     "url": "/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold"
+    },
+    {
+     "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+     "url": "/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge"
+    },
+    {
+     "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+     "url": "/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know"
+    },
+    {
+     "title": "Iran war updates: Foiled Houthi missile injures Saudi resident, Riyadh says",
+     "url": "/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz"
+    },
+    {
+     "title": "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
+     "url": "/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland"
+    },
+    {
+     "title": "Al Jazeera Investigative Unit",
+     "url": "https://www.ajiunit.com/"
+    },
+    {
+     "title": "Al Jazeera Centre for Studies",
+     "url": "http://studies.aljazeera.net/en/"
+    },
+    {
+     "title": "Al Jazeera Media Institute",
+     "url": "http://training.aljazeera.net/"
+    },
+    {
+     "title": "Al Jazeera Centre for Public Liberties & Human Rights",
+     "url": "http://liberties.aljazeera.com/en"
+    }
+   ]
+  },
+  "scan-national": {
+   "url": "https://www.thenationalnews.com/news/mena/",
+   "checkedAtISO": "2026-10-03T21:48:00.119695+08:00",
+   "status": 200,
+   "htmlBytes": 1497472,
+   "published": null,
+   "modified": null,
+   "ogImage": "https://www.thenationalnews.com/resizer/v2/2Y3ASS32SRCMBAGCIRQLVPOZLI.JPG?auth=3588fb14a73fb7a19557db91ad0fd66a56b2b27c7adced7d149b6012b650f369&focal=1764%2C2156&width=1200&height=630",
+   "items": [
+    {
+     "title": "Attack on tanker off the Omani coast",
+     "url": "/news/mena/2026/10/03/live-us-iran-war-iraq/"
+    },
+    {
+     "title": "Lebanon's former economy minister set to face trial on financial charges",
+     "url": "/news/mena/2026/10/03/lebanons-former-economy-minister-set-to-face-trial-on-financial-charges/"
+    },
+    {
+     "title": "Takreem Foundation supports Lebanese children at 15th anniversary awards event",
+     "url": "/news/2026/10/03/takreem-foundation-supports-lebanese-children-at-15-years-anniversary/"
+    },
+    {
+     "title": "Iraq recovers fugitive convicted of $3m embezzlement from Lebanon",
+     "url": "/news/mena/2026/10/03/iraq-recovers-fugitive-convicted-of-3m-embezzlement-from-lebanon/"
+    },
+    {
+     "title": "Flydubai co-pilot attacked pilot with axe in 'attempted terrorist act'",
+     "url": "/news/uae/2026/10/03/co-pilot-on-flydubai-flight-attempted-to-carry-out-terrorist-act-uaes-attorney-general-says/"
+    },
+    {
+     "title": "Dr Gargash warns that 'region's struggle with extremism persists'",
+     "url": "/news/uae/2026/10/03/dr-gargash-warns-that-regions-struggles-with-extremism-persists/"
+    },
+    {
+     "title": "Yemen's Houthis face costly battle for anti-rebel stronghold Taiz",
+     "url": "/news/mena/2026/10/03/yemens-houthis-set-to-face-costly-battle-for-control-of-taiz-stronghold-of-the-anti-rebel-resistance/"
+    },
+    {
+     "title": "Battle for Taiz: Yemeni city under siege for 10 years Play 01:04",
+     "url": "/video/ZUXfYowX/battle-for-taiz-yemeni-city-under-siege-for-10-years/"
+    },
+    {
+     "title": "Italy calls for greater European role in securing stability in Hormuz and Bab El Mandeb straits Play 01:26",
+     "url": "/video/tBEdZdfl/italy-calls-for-greater-european-role-in-securing-stability-in-hormuz-and-bab-el-mandeb-straits/"
+    },
+    {
+     "title": "Italian Defence Minister calls for more European ships for Red Sea mission Play 00:55",
+     "url": "/video/sD0w70Fa/italian-defence-minister-calls-for-more-european-ships-for-red-sea-mission/"
+    },
+    {
+     "title": "Indian pilot hailed a hero after cockpit struggle Play 00:47",
+     "url": "/video/pawStGVl/indian-pilot-hailed-a-hero-after-cockpit-struggle/"
+    },
+    {
+     "title": "Baghdad celebrates withdrawal of  US troops Play 00:33",
+     "url": "/video/7JHzi0W7/baghdad-celebrates-withdrawal-of-us-troops/"
+    },
+    {
+     "title": "Flydubai flight makes emergency landing after 'altercation' Play 01:36",
+     "url": "/video/g9NXwtqR/flydubai-flight-makes-emergency-landing-after-altercation/"
+    },
+    {
+     "title": "Morocco set to have its first female prime minister Play 00:49",
+     "url": "/video/uGGNM1TA/morocco-set-to-have-its-first-female-prime-minister/"
+    },
+    {
+     "title": "Aleppo's historic Saint Simeon Citadel reopens to visitors Play 00:39",
+     "url": "/video/6gYeYS9V/aleppos-historic-saint-simeon-citadel-reopens-to-visitors/"
+    },
+    {
+     "title": "Gaza suffering 'a stain on conscience of world', says Miliband Play 00:56",
+     "url": "/video/EjyWnhcc/gaza-suffering-a-stain-on-conscience-of-world-says-miliband/"
+    },
+    {
+     "title": "Trump calls Iran's leaders 'crazy people' Play 00:34",
+     "url": "/video/EUD6uWF1/trump-calls-irans-leaders-crazy-people/"
+    },
+    {
+     "title": "‘I will kill you’: Ben Gvir threatens jailed Hamas figure in his cell Play 00:38",
+     "url": "/video/wqvE9x7v/i-will-kill-you-ben-gvir-threatens-jailed-hamas-figure-in-his-cell/"
+    },
+    {
+     "title": "Black armbands, no handshakes: Ireland beats Israel Play 00:54",
+     "url": "/video/K1xjnHNT/black-armbands-no-handshakes-ireland-beats-israel/"
+    },
+    {
+     "title": "Facebook Share on Facebook",
+     "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FZUXfYowX%2Fbattle-for-taiz-yemeni-city-under-siege-for-10-years%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "LinkedIn Share on LinkedIn",
+     "url": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FZUXfYowX%2Fbattle-for-taiz-yemeni-city-under-siege-for-10-years%2F%3Ftitle%3DBattle%2Bfor%2BTaiz%3A%2BYemeni%2Bcity%2Bunder%2Bsiege%2Bfor%2B10%2Byears%26mini%3Dtrue%26utm_source%3Dlinkedin%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "WhatsApp Share on WhatsApp",
+     "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FZUXfYowX%2Fbattle-for-taiz-yemeni-city-under-siege-for-10-years%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "Facebook Share on Facebook",
+     "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FtBEdZdfl%2Fitaly-calls-for-greater-european-role-in-securing-stability-in-hormuz-and-bab-el-mandeb-straits%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "LinkedIn Share on LinkedIn",
+     "url": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FtBEdZdfl%2Fitaly-calls-for-greater-european-role-in-securing-stability-in-hormuz-and-bab-el-mandeb-straits%2F%3Ftitle%3DItaly%2Bcalls%2Bfor%2Bgreater%2BEuropean%2Brole%2Bin%2Bsecuring%2Bstability%2Bin%2BHormuz%2Band%2BBab%2BEl%2BMandeb%2Bstraits%26mini%3Dtrue%26utm_source%3Dlinkedin%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "WhatsApp Share on WhatsApp",
+     "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FtBEdZdfl%2Fitaly-calls-for-greater-european-role-in-securing-stability-in-hormuz-and-bab-el-mandeb-straits%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "Facebook Share on Facebook",
+     "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FsD0w70Fa%2Fitalian-defence-minister-calls-for-more-european-ships-for-red-sea-mission%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "LinkedIn Share on LinkedIn",
+     "url": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FsD0w70Fa%2Fitalian-defence-minister-calls-for-more-european-ships-for-red-sea-mission%2F%3Ftitle%3DItalian%2BDefence%2BMinister%2Bcalls%2Bfor%2Bmore%2BEuropean%2Bships%2Bfor%2BRed%2BSea%2Bmission%26mini%3Dtrue%26utm_source%3Dlinkedin%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "WhatsApp Share on WhatsApp",
+     "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FsD0w70Fa%2Fitalian-defence-minister-calls-for-more-european-ships-for-red-sea-mission%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "Facebook Share on Facebook",
+     "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FpawStGVl%2Findian-pilot-hailed-a-hero-after-cockpit-struggle%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "LinkedIn Share on LinkedIn",
+     "url": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FpawStGVl%2Findian-pilot-hailed-a-hero-after-cockpit-struggle%2F%3Ftitle%3DIndian%2Bpilot%2Bhailed%2Ba%2Bhero%2Bafter%2Bcockpit%2Bstruggle%26mini%3Dtrue%26utm_source%3Dlinkedin%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "WhatsApp Share on WhatsApp",
+     "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FpawStGVl%2Findian-pilot-hailed-a-hero-after-cockpit-struggle%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "Facebook Share on Facebook",
+     "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2F7JHzi0W7%2Fbaghdad-celebrates-withdrawal-of-us-troops%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "LinkedIn Share on LinkedIn",
+     "url": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2F7JHzi0W7%2Fbaghdad-celebrates-withdrawal-of-us-troops%2F%3Ftitle%3DBaghdad%2Bcelebrates%2Bwithdrawal%2Bof%2B%2BUS%2Btroops%26mini%3Dtrue%26utm_source%3Dlinkedin%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "WhatsApp Share on WhatsApp",
+     "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2F7JHzi0W7%2Fbaghdad-celebrates-withdrawal-of-us-troops%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "Facebook Share on Facebook",
+     "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2Fg9NXwtqR%2Fflydubai-flight-makes-emergency-landing-after-altercation%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "LinkedIn Share on LinkedIn",
+     "url": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2Fg9NXwtqR%2Fflydubai-flight-makes-emergency-landing-after-altercation%2F%3Ftitle%3DFlydubai%2Bflight%2Bmakes%2Bemergency%2Blanding%2Bafter%2B'altercation'%26mini%3Dtrue%26utm_source%3Dlinkedin%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "WhatsApp Share on WhatsApp",
+     "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2Fg9NXwtqR%2Fflydubai-flight-makes-emergency-landing-after-altercation%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "Facebook Share on Facebook",
+     "url": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FuGGNM1TA%2Fmorocco-set-to-have-its-first-female-prime-minister%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "LinkedIn Share on LinkedIn",
+     "url": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FuGGNM1TA%2Fmorocco-set-to-have-its-first-female-prime-minister%2F%3Ftitle%3DMorocco%2Bset%2Bto%2Bhave%2Bits%2Bfirst%2Bfemale%2Bprime%2Bminister%26mini%3Dtrue%26utm_source%3Dlinkedin%26utm_medium%3Dsocialsharebtn"
+    },
+    {
+     "title": "WhatsApp Share on WhatsApp",
+     "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.thenationalnews.com%2Fvideo%2FuGGNM1TA%2Fmorocco-set-to-have-its-first-female-prime-minister%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocialsharebtn"
+    }
+   ]
+  }
+ },
+ "warningsAdjudicated": [
+  "德福大家樂鼠片與午報天水圍偷單車影片屬不同事件，僅文字共通。",
+  "11 SKIES新增無縫交通及藝術儲存、遊艇港灣意向與招標規劃，與午報資產交還股價反應有實質差異。"
+ ],
+ "limitations": [
+  "AI Register與Wired屬近期背景，正文披露噚日及3日凌晨，主體兩篇Decoder為3日新發展。",
+  "AJ分類入口404，但引用單篇已重新HTTP200核實。",
+  "阿美火煙仍未獲官方及公司確認，未採用原文新增新華社薩那段落。"
+ ]
+}
