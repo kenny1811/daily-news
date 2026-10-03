@@ -1,0 +1,61 @@
+── 自檢報告 2026-10-03（午報，12小時窗 2026-10-02 21:00 起）──
+香港社會=8｜民生=8｜經濟=3｜政治=3｜中國=8｜美國=3｜台灣=3｜美伊戰爭=3
+事件追蹤=82｜AI簡報=330字｜美伊簡報=327字
+總卡數=39｜缺圖=0
+
+⚠ 提提你（唔會 fail，但盡量換返新料）共 8 項：
+  • 疑似同一單事：香港社會[0]「屯門貨車撞交通燈司機送院」⟷ 噚日夜報（2026-10-02）·香港社會[7]「屯門貨櫃車失控司機昏迷」（共通詞：屯門、門貨、被困）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：民生[0]「凌晨黃雨西貢大嶼山防水浸」⟷ 噚日夜報（2026-10-02）·民生[4]「天文台晚上取消黃雨警告」（共通詞：黃雨、分地、地區、區雨、雨勢）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：政治[0]「瑜伽中心結業議員促預繳消費立法」⟷ 噚日夜報（2026-10-02）·香港社會[1]「瑜伽中心結業海關拘董事」（共通詞：瑜伽、伽中、中心、心結、海關）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：政治[2]「大律師公會關注人工智能訴訟影響」⟷ 中國[6]「中國推人工智能教育普及計劃」（共通詞：人工、工智、智能）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：美國[0]「康奈爾性侵案紐約州長倡修法」⟷ 噚日夜報（2026-10-02）·美國[1]「康奈爾性侵案改由州檢方調查」（共通詞：康奈、奈爾、爾性、性侵、侵案、約州）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：美國[1]「田州女死囚昏迷靠呼吸機維生」⟷ 噚日夜報（2026-10-02）·美國[0]「田納西女死囚行刑失敗掀爭議」（共通詞：女死、死囚、行刑、餘下）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：美伊戰爭[1]「伊拉克准伊朗航班重返納傑夫」⟷ 噚日夜報（2026-10-02）·美伊戰爭[0]「伊朗促伊拉克撤除對伊航班限制」（共通詞：伊拉、拉克、航班、制裁）→ 只留最新最全嗰條，另一條換第二單
+  • 今日有 1 張卡好似關「港·竹園南邨棚架吸煙事件」事（香港社會[5]「中環萬宜大廈火警保安受傷」），但事件追蹤冇呢條線索 → 睇下使唔使加返
+
+🖼 驗圖（共 41 條，全部要驗，冇豁免）——**兩步都要做**：
+   ① WebFetch「文章」攞 og:image，同「現用圖」逐字比對（捉抄錯；星島 hkhl 只可以靠呢步）
+   ② WebFetch「現用圖」本身：回 404 ＝ 一定錯（hk01 只可以靠呢步，因為讀 og:image 會隨機讀錯簽名）
+  • 香港社會[0] 文章=https://www.hk01.com/article/60395960  現用圖=https://cdn.hk01.com/di/media/images/dw/20261003/1182961000203161600157209.jpeg/Hejw9QEm3pLZ8ZAeYNMItl2hA-4yvvC_g6Yn94OmJ_c?v=w1280r16_9
+  • 香港社會[1] 文章=https://www.hk01.com/article/60395959  現用圖=https://cdn.hk01.com/di/media/images/dw/20261003/1182964969608581120598612.jpeg/lDa4Y85jT2Sd7_3xtcFDvtul1PdCyo04VJGphnGRqYY?v=w1280r16_9
+  • 香港社會[2] 文章=https://www.hk01.com/article/60395956  現用圖=https://cdn.hk01.com/di/media/images/dw/20261003/1182947171738062848430981.jpeg/MAXEsD_zTSWcS9jETAI1AY0rhMsb_cLHCzeX1zE3l9c?v=w1280r16_9
+  • 香港社會[3] 文章=https://www.hk01.com/article/60395953  現用圖=https://cdn.hk01.com/di/media/images/dw/20261003/1182901955291254784985743.jpeg/ZsPjb08Aj7L9GilDrMKhUFc5iwS7ITgwxMt52sTLedo?v=w1280r16_9
+  • 香港社會[4] 文章=https://www.hk01.com/article/60395936  現用圖=https://cdn.hk01.com/di/media/images/dw/20260917/1177346251436331008791453.jpeg/Nld-Wwj3HYqRcmgF1VvWgyyWK6ANmYskUyjb00Uo29M?v=w1280r16_9
+  • 香港社會[5] 文章=https://www.hk01.com/article/60395933  現用圖=https://cdn.hk01.com/di/media/images/dw/20261002/1182839674910019584624370.jpeg/uKcQz7ZKOX3qRebDXueObqV-rRTixM92CxravAsa2rw?v=w1280r16_9
+  • 香港社會[6] 文章=https://www.hk01.com/article/60395941  現用圖=https://cdn.hk01.com/di/media/images/dw/20261003/1182930136429760512324758.jpeg/SnyaiuDz1teE3kr6Cz_IhgPIoy9O_-cHQ1vsH0Nb7B8
+  • 香港社會[7] 文章=https://www.dimsumdaily.hk/two-south-asian-men-filmed-allegedly-stealing-bicycle-at-grandeur-terrace-in-tin-shui-wai/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/02235953/Grandeur-Terrace-32.webp
+  • 民生[0] 文章=https://www.hk01.com/article/60395950  現用圖=https://cdn.hk01.com/di/media/images/dw/20261003/1182910193172746240348976.jpeg/odlSAa1OVz7zJm_ty4emj4l4rH_Cada6zfJHx_fyR8c?v=w1280r16_9
+  • 民生[1] 文章=https://www.hk01.com/article/60395301  現用圖=https://cdn.hk01.com/di/media/images/dw/20261002/1182778069572653056402183.jpeg/wiJBQDrRGxHMbP-EVpv1Y2sjtHSVdoyUVRRATlUUQE4
+  • 民生[2] 文章=https://www.hk01.com/article/60395935  現用圖=https://cdn.hk01.com/di/media/images/dw/20261002/1182822751233118208436218.jpeg/de4JnU8h2vwLdswfrhweZwic0x96cE11H2t0WB9rdFg?v=w1280r16_9
+  • 民生[3] 文章=https://www.dimsumdaily.hk/st-josephs-anglo-chinese-school-faces-backlash-over-five%e2%80%91minute-recess-policy-requiring-pupils-to-stay-seated/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/02211705/St-Joseph-3-3webp.webp
+  • 民生[4] 文章=https://www.stheadline.com/kindness_stories/3619889/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/0888b7f195ede702bc7f115d1411d6f2/2026-09/7__0.png
+  • 民生[5] 文章=https://www.stheadline.com/ohpama/3605667/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/7a7f3d4cb23ce5cea15d1816e698d5a2/2026-10/A.png
+  • 民生[6] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509728/%E5%8D%81%E4%B8%80%E9%BB%83%E9%87%91%E5%91%A8-%E7%B2%B5%E8%BB%8A%E5%8D%97%E4%B8%8B%E9%A0%90%E7%B4%84%E8%BF%91%E4%B9%8E%E9%A1%8D%E6%BB%BF-%E6%9C%89%E5%85%A7%E5%9C%B0%E5%AE%A2%E9%80%9B  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03041724/20261002_OCT1-1.jpg
+  • 民生[7] 文章=https://www.dimsumdaily.hk/standard-chartered-arts-in-the-park-returns-to-causeway-bay-with-its-largest-edition-to-date/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/02235242/StanChart-343.webp
+  • 經濟[0] 文章=https://thecollectivehk.com/%e5%ae%8f%e7%a6%8f%e8%8b%91%e9%87%8d%e7%bd%ae%e4%b8%89%e6%97%a5%e9%81%b8%e5%94%ae99%e5%80%8b%e5%96%ae%e4%bd%8d%e6%b6%89700%e8%90%ac%e5%85%83%e5%8d%b0%e8%8a%b1%e7%a8%85/  現用圖=https://thecollectivehk.com/wp-content/uploads/2026/10/stamptaxcover.jpeg
+  • 經濟[1] 文章=https://www.dimsumdaily.hk/new-worlds-11-skies-handback-sparks-brief-rally-before-shares-reverse-as-airport-authority-outlines-skytopia-pivot/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/02211059/11-SKIES-210.webp
+  • 經濟[2] 文章=https://www.dimsumdaily.hk/indexes-surge-as-treasury-yields-slip-after-weak-jobs-report-while-oil-falls-and-nike-drops/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/02225232/US-stock-market-2nd-Oct.webp
+  • 政治[0] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509754/%E5%B2%A9%E7%9B%A4%E6%B5%B4%E7%91%9C%E4%BC%BD%E7%B5%90%E6%A5%AD-%E6%B5%B7%E9%97%9C%E6%94%B6381%E5%AE%97%E8%88%89%E5%A0%B1-%E6%B6%89%E6%AC%BE%E5%85%B1407%E8%90%AC-%E6%8B%9861  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/03071658/HOTSTONE-FOLO-261002-2300.jpg
+  • 政治[1] 文章=https://www.stheadline.com/politics/3621849/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/be3d5a1e20e028160b34a2f3ddfea09b/2026-09/L15.jpg
+  • 政治[2] 文章=https://www.hk01.com/article/60395945  現用圖=https://cdn.hk01.com/di/media/images/dw/20261003/1182850132647874560768409.jpeg/cub1gM7AxuHF1Gb1bMgNuD9wbkjW_GTzrIny-qyJ8vo?v=w1280r16_9
+  • 中國[0] 文章=https://www.epochtimes.com/b5/26/10/2/n14861729.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/10/id14861730-194842-700x359.jpg
+  • 中國[1] 文章=https://www.epochtimes.com/b5/26/10/2/n14862368.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/10/id14862369-GettyImages-1241828530-700x359.jpg
+  • 中國[2] 文章=https://www.epochtimes.com/b5/26/10/2/n14862317.htm  現用圖=https://i.epochtimes.com/assets/uploads/2020/09/Department_of_Commerce_Samira-Bouaou-700x359.jpg
+  • 中國[3] 文章=https://www.epochtimes.com/b5/26/10/2/n14862247.htm  現用圖=https://i.epochtimes.com/assets/uploads/2017/02/DJY_FB_DefaultImage2017.jpg
+  • 中國[4] 文章=https://www.epochtimes.com/b5/26/10/2/n14862348.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/08/id14822027-GettyImages-2275389914-700x359.jpg
+  • 中國[5] 文章=https://www.epochtimes.com/b5/26/10/2/n14862263.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/10/id14862266-793af8501d6dd503526b65ddb6a3cca8-700x359.jpg
+  • 中國[6] 文章=https://www.epochtimes.com/b5/26/10/2/n14862284.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/10/id14862286-GettyImages-2292375231-700x359.jpg
+  • 中國[7] 文章=https://www.hk01.com/article/60395942  現用圖=https://cdn.hk01.com/di/media/images/dw/20261003/1182930057090306048047281.jpeg/xWvmfH2axcO9WUgvewEXsehCp1BZM-_4BtDN-AbQzfg
+  • 美國[0] 文章=https://www.channelnewsasia.com/world/cornell-gang-rape-cases-hochul-6428071  現用圖=https://dam.mediacorp.sg/image/upload/s--Gavw4bWU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-02T161033Z_2_LYNXMPEM911DR_RTROPTP_3_USA-CRIME-CORNELL.JPG?itok=1qCCuQri
+  • 美國[1] 文章=https://www.hk01.com/article/60395957  現用圖=https://cdn.hk01.com/di/media/images/dw/20261003/1182951977630306304029678.jpeg/C1FgOH4cuh8og_2Vyxrnun8dEdjTZQc8eoxZO3qMWTs
+  • 美國[2] 文章=https://www.hk01.com/article/60395939  現用圖=https://cdn.hk01.com/di/media/images/dw/20261002/1182836969655242752935417.jpeg/hB5jvJ_4gv7b3GBdxrZSDM8KfCva-954XPktsVz5LbE?v=w1280r16_9
+  • 台灣[0] 文章=https://news.ltn.com.tw/news/society/breakingnews/5593895  現用圖=https://img.ltn.com.tw/Upload/news/600/2026/10/03/5593895_1_1.jpg
+  • 台灣[1] 文章=https://www.ettoday.net/news/20261003/3248132.htm  現用圖=https://cdn2.ettoday.net/images/8950/e8950385.jpg
+  • 台灣[2] 文章=https://www.ettoday.net/news/20261003/3248136.htm  現用圖=https://cdn2.ettoday.net/images/8949/e8949585.jpg
+  • 美伊戰爭[0] 文章=https://www.hk01.com/article/60395927  現用圖=https://cdn.hk01.com/di/media/images/dw/20260617/1143972643569930240461953.jpeg/H8RAi_Ghce8anrv9Tf5CBvvDEqB1JJzkQGTRf0Bk0X8?v=w1280r16_9
+  • 美伊戰爭[1] 文章=https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption  現用圖=https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abaac024b4f-1790618626.jpg?resize=1920%2C1440
+  • 美伊戰爭[2] 文章=https://www.iranintl.com/en/202610024632  現用圖=https://i.iranintl.com/images/rdk9umy0/production/4ac1f3cd7048365d01045947bb123d2d2b6276cf-1080x721.jpg?rect=0,78,1080,567&w=1200&h=630&q=66&fit=max&auto=format
+  • AI 動向簡報插圖 文章=https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/  現用圖=https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800
+  • 美伊戰爭簡報插圖 文章=https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption  現用圖=https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abaac024b4f-1790618626.jpg?resize=1920%2C1440
+
+✅ 全部通過，可以 push。
