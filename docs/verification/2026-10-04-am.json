@@ -1,0 +1,2061 @@
+{
+ "publishedAtHKT": "2026-10-04 08:43:17",
+ "edition": "2026-10-04/am",
+ "previousEdition": "2026-10-03/pm",
+ "groups": {
+  "hks": 8,
+  "hkl": 8,
+  "hke": 3,
+  "hkp": 3,
+  "cn": 8,
+  "us": 3,
+  "tw": 3,
+  "war": 3
+ },
+ "track": {
+  "previousCount": 85,
+  "currentCount": 89,
+  "updates": {
+   "🔥 美伊戰爭（2026）": [
+    "美軍部署與胡塞聲稱",
+    "Iran International 4日凌晨報道萬斯主持戴維營安全會議，美軍航母及兩棲部隊赴中東，部分可能屬輪替，尚無重啟攻擊決定公布；伊朗顧問另向阿聯酋發警告。ETtoday今晨引述胡塞聲稱攻擊阿美設施及沙特空襲薩那二十六次，沙特尚未置評；較上版火煙目擊新增責任聲稱，未當作獨立確證。"
+   ],
+   "港·宏福苑大火獨立調查": [
+    "問責支援組將埋班",
+    "香港01 4日報道，行政問責支援組本月組成，消息指蔡健斌最快5日調任，協助調查及編製報告交特首或司局長。獨立委員會最終報告仍料本月底提交，責任及紀律處理尚未裁決。"
+   ],
+   "港·Hotstone Yoga結業": [
+    "投訴與涉款增加",
+    "有線新聞4日午夜報道截至3日下午，海關六百二十七宗舉報涉及約七百萬元，消委會三百八十七宗投訴涉及逾五百萬元；較上一版三百八十一宗海關舉報有實質增加。男董事涉嫌不當接受付款仍待調查及裁決，退款安排未落實。"
+   ],
+   "港·One Stanley鋼筋調查": [
+    "發展商承諾補救",
+    "香港01 4日凌晨報道建灝承諾配合屋宇署調查，若發現失誤會補救。較上版新增發展商正式回應，並非鋼筋質量已獲確認或工程問題已解決，檢測及責任調查待續。"
+   ],
+   "美·田納西女死囚行刑失敗": [
+    "獄政首長辭職",
+    "香港01 4日報道州長宣布獄政首長辭職；派克接受兩劑毒針後倖存，餘下處決暫停。首長去職屬較上版新增後續，死囚健康狀況、行刑失誤及問責調查仍待跟進。"
+   ]
+  },
+  "newLines": [
+   {
+    "row": [
+     "台·宜蘭員山建材行大火",
+     "傷者搶救及調查待續",
+     "自由時報4日凌晨報道，員山建材行火警後四名受困家人獲救時無生命跡象，已送醫搶救；另兩人逃生。未將OHCA直接等同已宣告死亡，傷亡結果及起火原因待核實。"
+    ],
+    "keys": [
+     "宜蘭.*(?:建材|火警)|員山.*(?:建材|大火)"
+    ]
+   },
+   {
+    "row": [
+     "美·猶他死囚DNA重審案",
+     "保釋後待重審",
+     "大紀元4日報道，關押四十一年的男死囚因DNA排除關鍵物證匹配，9月28日獲保釋，案件預計2027年重審；並非已裁定無罪，重審日期及結果待續。"
+    ],
+    "keys": [
+     "猶他.*(?:死囚|DNA)|死囚.*四十一年"
+    ]
+   },
+   {
+    "row": [
+     "港·Cheap Lab灣仔旗艦結業",
+     "十一月租約到期待續",
+     "Dimsum Daily 3日晚報道，Cheap Lab租金談判失敗，灣仔旗艦擬於十一月中租約屆滿後結業，暫未找到附近替代店址；實際結業及搬遷安排待續。"
+    ],
+    "keys": [
+     "Cheap Lab|家品店.*灣仔|灣仔.*家品店"
+    ]
+   },
+   {
+    "row": [
+     "中·東航空姐被逼下跪事件",
+     "報案及停載待調查",
+     "聯合早報3日晚報道，東航稱已就空姐被乘客逼下跪事件報案、暫停涉事乘客乘搭服務並提供法律援助；新增公司處理措施，警方調查及責任裁定待續。"
+    ],
+    "keys": [
+     "東航.*(?:下跪|停載)|空姐.*下跪"
+    ]
+   }
+  ],
+  "lowfreqAdded": "港·斧山道校運會飲品事件"
+ },
+ "imageAudit": {
+  "checkedAtHKT": "2026-10-04T08:41:57.654797+08:00",
+  "images": [
+   {
+    "group": "hks",
+    "title": "太子車輛誤啟動夾傷車外司機",
+    "url": "https://www.hk01.com/article/60396132",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183306143150116864384927.jpeg/sJohOtiTRmgVpCTGqkeKG_zXWbrkWAKFqiZPKaomTyk?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183306143150116864384927.jpeg/sJohOtiTRmgVpCTGqkeKG_zXWbrkWAKFqiZPKaomTyk?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 97441,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "筆架山豪宅遭爆竊失八十萬",
+    "url": "https://www.hk01.com/article/60396121",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183232221033533440368724.jpeg/lGCWAeZxogEqwIOsV3uq2Ku9CQYUNDP-MXz8Swt8_Es?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183232221033533440368724.jpeg/lGCWAeZxogEqwIOsV3uq2Ku9CQYUNDP-MXz8Swt8_Es?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 166912,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "旺角工人吊冷氣機上簷篷惹憂",
+    "url": "https://www.hk01.com/article/60396114",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183284855987769344286473.jpeg/XNR6LqYXeFGa7NalFwUaR4MYdc-jT2LLtQ99y7UPfcs",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183284855987769344286473.jpeg/XNR6LqYXeFGa7NalFwUaR4MYdc-jT2LLtQ99y7UPfcs",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 175901,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "赤柱豪宅發展商承諾查鋼筋問題",
+    "url": "https://www.hk01.com/article/60396117",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 255242,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "瑜伽結業舉報增至六百廿七宗",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509967/%E5%B2%A9%E7%9B%A4%E6%B5%B4%E7%91%9C%E4%BC%BD%E7%B5%90%E6%A5%AD-%E6%B5%B7%E9%97%9C%E6%8E%A5%E7%8D%B2%E8%88%89%E5%A0%B1%E5%A2%9E%E8%87%B3627%E5%AE%97-%E6%B6%89%E7%B4%84700%E8%90%AC",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04080138/YOGA-CASE-261003-2200.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04080138/YOGA-CASE-261003-2200.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 246496,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hks",
+    "title": "天澤邨休班警員墮樓家屬證死訊",
+    "url": "https://www.dimsumdaily.hk/sister-confirms-off-duty-police-officers-death-after-fall-at-tin-chak-estate-in-tin-shui-wai/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03235731/Tin-Chak-Estate.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03235731/Tin-Chak-Estate.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 68867,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 952,
+    "height": 748
+   },
+   {
+    "group": "hks",
+    "title": "西貢男子綠燈過路遭小巴撞傷",
+    "url": "https://www.dimsumdaily.hk/pedestrian-hit-by-minibus-in-sai-kung-while-crossing-on-green-suffers-fractured-hand/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03225037/Clear-Water-Bay-Road223.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03225037/Clear-Water-Bay-Road223.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 205114,
+    "magicHex": "52494646322103005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 952,
+    "height": 748
+   },
+   {
+    "group": "hks",
+    "title": "黃金周油尖旺多個景點人潮湧",
+    "url": "https://www.hk01.com/article/60396099",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183186124365893632514063.jpeg/CJhsTOA0tyVPU6MmFMMrfnvI2mEkmROJnuMHW57jB1s",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183186124365893632514063.jpeg/CJhsTOA0tyVPU6MmFMMrfnvI2mEkmROJnuMHW57jB1s",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 229631,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "六合彩三注中頭獎各派逾三千萬",
+    "url": "https://www.dimsumdaily.hk/three-tickets-share-mark-six-rollover-jackpot-each-over-hk34-million/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03220859/Mark-Six-21-232.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03220859/Mark-Six-21-232.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 175510,
+    "magicHex": "524946468ead02005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 962,
+    "height": 752
+   },
+   {
+    "group": "hkl",
+    "title": "今日驟雨雷暴稍後氣溫回落",
+    "url": "https://www.hk01.com/article/60396130",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183296650802630656835712.jpeg/vnQsno2P5k46F96le5AtOzUzIQqKUjQJgeakWrvmpFo?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183296650802630656835712.jpeg/vnQsno2P5k46F96le5AtOzUzIQqKUjQJgeakWrvmpFo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 133866,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "啟德醫院家庭醫學明日投入服務",
+    "url": "https://www.hk01.com/article/60396113",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260928/1181351118228557824479825.jpeg/kp_y2rTpD8W8UXxT9XxcPO_sOGIDB4wBbwumTm8Lpk4?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260928/1181351118228557824479825.jpeg/kp_y2rTpD8W8UXxT9XxcPO_sOGIDB4wBbwumTm8Lpk4?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 91146,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "港足擊敗柬埔寨首奪東盟盃",
+    "url": "https://www.hk01.com/article/60396112",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183193633495453696509724.jpeg/EUFazQKiDntfaThbB-lRU7grnzRXrWj3sqGR7LKhkew?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183193633495453696509724.jpeg/EUFazQKiDntfaThbB-lRU7grnzRXrWj3sqGR7LKhkew?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 199240,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "港大逾三百醫科新生穿白袍",
+    "url": "https://www.thestandard.com.hk/news/article/344505",
+    "cardOg": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/2bfe68ff1cc099f8bb63957e7f33ad42/2026-10/EI261003HKU038_0.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/2bfe68ff1cc099f8bb63957e7f33ad42/2026-10/EI261003HKU038_0.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 202937,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1024,
+    "height": 683
+   },
+   {
+    "group": "hkl",
+    "title": "桌球冠軍韋爾遜經優才取得居留",
+    "url": "https://www.stheadline.com/society/3622119/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/139cc793f17040ae54303691063c2345/2026-10/20261003_NEWS_Wilson.png",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/139cc793f17040ae54303691063c2345/2026-10/20261003_NEWS_Wilson.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png; charset=UTF-8",
+    "bytes": 294955,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "港隊單車及壁球亞運代表返港",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509977/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E5%96%AE%E8%BB%8A%E5%8F%8A%E5%A3%81%E7%90%83%E6%B8%AF%E9%9A%8A%E4%BA%9E%E9%81%8B%E5%87%B1%E6%97%8B",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04074457/ARRVIAL-SQASH-261003-2300.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04074457/ARRVIAL-SQASH-261003-2300.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 325998,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "title": "醫生提醒辨識昏厥避免亂急救",
+    "url": "https://www.hk01.com/article/60395879",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182750304014176256098135.jpeg/mPhaOF4MUqa7PCXhg83kXF_SrANqhDOfXh0Jql4dCao?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182750304014176256098135.jpeg/mPhaOF4MUqa7PCXhg83kXF_SrANqhDOfXh0Jql4dCao?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 174547,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hke",
+    "title": "租金談判失敗家品店灣仔旗艦結業",
+    "url": "https://www.dimsumdaily.hk/cheap-labs-wan-chai-flagship-to-close-in-mid-november-after-rent-talks-fail/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03233157/CHEAP-LAB-WAN-CHAI.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03233157/CHEAP-LAB-WAN-CHAI.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 234828,
+    "magicHex": "52494646449503005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 952,
+    "height": 750
+   },
+   {
+    "group": "hke",
+    "title": "星前薈平台戶三百三十五萬沽出",
+    "url": "https://www.dimsumdaily.hk/buyer-acquires-so-kwun-wat-starfront-royale-flat-with-platform-for-hk3-35-million-as-seller-takes-41-loss/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03223856/So-Kwun-Wat-Royale-3.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03223856/So-Kwun-Wat-Royale-3.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 112398,
+    "magicHex": "5249464606b701005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 958,
+    "height": 750
+   },
+   {
+    "group": "hke",
+    "title": "新加坡企業借南寧拓中國市場",
+    "url": "https://www.channelnewsasia.com/east-asia/nanning-business-caexpo-singapore-china-6407501",
+    "cardOg": "https://dam.mediacorp.sg/image/upload/s--qKYsyssj--/c_crop,h_1125,w_2000,x_0,y_183/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/23/lan_nanning_china_caexpo_2.jpg?itok=nGxW8bnm",
+    "articleHTTP": 200,
+    "articleOg": "https://dam.mediacorp.sg/image/upload/s--qKYsyssj--/c_crop,h_1125,w_2000,x_0,y_183/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/23/lan_nanning_china_caexpo_2.jpg?itok=nGxW8bnm",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 187400,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676
+   },
+   {
+    "group": "hkp",
+    "title": "宏福火行政問責支援組本月埋班",
+    "url": "https://www.hk01.com/article/60396119",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183332262561714176582176.jpeg/XoVYLPa9GFErh1qKmcQh2OjhgBzf83cq5GWEpuRlhKY?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183332262561714176582176.jpeg/XoVYLPa9GFErh1qKmcQh2OjhgBzf83cq5GWEpuRlhKY?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 89975,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkp",
+    "title": "外傭最低工資加至五千二百二十元",
+    "url": "https://www.dimsumdaily.hk/authorities-say-rise-is-moderate-after-considering-all-factors-as-foreign-domestic-helpers-minimum-wage-set-at-hk5220%ef%bf%bc/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04001026/FDH-2-232.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04001026/FDH-2-232.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 207778,
+    "magicHex": "524946469a2b03005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 884,
+    "height": 702
+   },
+   {
+    "group": "hkp",
+    "title": "房署撤回公屋鐵閘復原費要求",
+    "url": "https://www.dimsumdaily.hk/housing-department-reverses-demand-for-tenant-to-pay-to-restore-approved-security-gate-after-21-years/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03222745/Sau-Mau-Ping-Estate-34232.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03222745/Sau-Mau-Ping-Estate-34232.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 251974,
+    "magicHex": "524946463ed803005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 948,
+    "height": 748
+   },
+   {
+    "group": "cn",
+    "title": "報告促全面禁向中國售光刻機",
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862820.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2023/01/id13902295-594589-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2023/01/id13902295-594589-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 87026,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "美財長指中國模型蒸餾美國技術",
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862805.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/07/id14815351-GettyImages-2285951563-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/07/id14815351-GettyImages-2285951563-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 173040,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "阿里據報洽西班牙數據中心供電",
+    "url": "https://www.zaobao.com.sg/news/china/story20261004-9780384",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/zaobao/96dc59643997732c871bf12e03d951e3870c59064699a0cebeb465d41340fc58",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/96dc59643997732c871bf12e03d951e3870c59064699a0cebeb465d41340fc58",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 31578,
+    "magicHex": "52494646527b00005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "cn",
+    "title": "耐克大中華區收入連跌九季",
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862749.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/07/id14801823-GettyImages-2209908524-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/07/id14801823-GettyImages-2209908524-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 420155,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "成都租車員工毀車索賠案再曝光",
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862791.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862793-GettyImages-654804002-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862793-GettyImages-654804002-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 148218,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "東航空姐下跪案乘客被停載",
+    "url": "https://www.zaobao.com.sg/news/china/story20261003-9779433",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/zaobao/057282ffdd19b228b7d9199bfed134dba25482e819e802149b7dd1cfbd1332da",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/057282ffdd19b228b7d9199bfed134dba25482e819e802149b7dd1cfbd1332da",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 56832,
+    "magicHex": "52494646f8dd00005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "cn",
+    "title": "殲十模型亮相阿塞拜疆惹猜測",
+    "url": "https://www.zaobao.com.sg/news/china/story20261003-9779392",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/zaobao/60312cc3b927baaf84db62bbbd402680717bf7d1d19d85e37620754f4271b030",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/60312cc3b927baaf84db62bbbd402680717bf7d1d19d85e37620754f4271b030",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 77066,
+    "magicHex": "52494646022d01005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "cn",
+    "title": "長春公園遊客暈倒人潮阻救護",
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862848.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862851-collage-600x359.png",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862851-collage-600x359.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 375588,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 600,
+    "height": 359
+   },
+   {
+    "group": "us",
+    "title": "特朗普稱共和黨勝選派五千美元",
+    "url": "https://www.hk01.com/article/60396128",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183278547603558400042619.png/ptpY99IRr7t1FaaDa4PO-OGC4LG1erLLZG2Bl2RtgZc?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183278547603558400042619.png/ptpY99IRr7t1FaaDa4PO-OGC4LG1erLLZG2Bl2RtgZc?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 94498,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "us",
+    "title": "田州毒針處決失敗獄政首長辭職",
+    "url": "https://www.hk01.com/article/60396131",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183289438323609600621450.jpeg/_t1atnVydQtamkqfku2HqIRwckx3cIcFn-ZC85_mQvM?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183289438323609600621450.jpeg/_t1atnVydQtamkqfku2HqIRwckx3cIcFn-ZC85_mQvM?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 137382,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "us",
+    "title": "猶他死囚關押四十一年獲保釋",
+    "url": "https://www.epochtimes.com/b5/26/10/3/n14862808.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862830-GettyImages-2297070588-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14862830-GettyImages-2297070588-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 229264,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "tw",
+    "title": "宜蘭建材行深夜火警四人無生命跡象",
+    "url": "https://news.ltn.com.tw/news/society/breakingnews/5594723",
+    "cardOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594723_3_1.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594723_3_1.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 69167,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 800,
+    "height": 600
+   },
+   {
+    "group": "tw",
+    "title": "苗栗台六線測速相機改拍方向",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5594759",
+    "cardOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594759_2_1.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594759_2_1.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 118268,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 800,
+    "height": 602
+   },
+   {
+    "group": "tw",
+    "title": "沈伯洋凌晨回應蔣萬安毒品爭議",
+    "url": "https://www.ettoday.net/news/20261004/3248632.htm",
+    "cardOg": "https://cdn2.ettoday.net/images/8950/e8950506.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn2.ettoday.net/images/8950/e8950506.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 144158,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 853
+   },
+   {
+    "group": "war",
+    "title": "美國高層戴維營研議伊朗局勢",
+    "url": "https://www.iranintl.com/en/202610039569",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 1295909,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "war",
+    "title": "伊朗領袖顧問向阿聯酋發警告",
+    "url": "https://www.iranintl.com/en/202610038850",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/db8c678b875e518c77848a2c76890620ee8c973b-800x524.jpg?rect=129,64,620,326&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/db8c678b875e518c77848a2c76890620ee8c973b-800x524.jpg?rect=129,64,620,326&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 28856,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 620,
+    "height": 326
+   },
+   {
+    "group": "war",
+    "title": "胡塞稱以導彈攻擊沙特阿美設施",
+    "url": "https://www.ettoday.net/news/20261004/3248634.htm",
+    "cardOg": "https://cdn2.ettoday.net/images/8919/e8919945.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn2.ettoday.net/images/8919/e8919945.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 249091,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 853
+   },
+   {
+    "group": "ai",
+    "title": "ai",
+    "url": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+    "cardOg": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 122265,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1158,
+    "height": 702
+   },
+   {
+    "group": "warb",
+    "title": "warb",
+    "url": "https://www.iranintl.com/en/202610039569",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 1295909,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 630
+   }
+  ],
+  "failures": [],
+  "repairHistory": [
+   {
+    "url": "https://news.ltn.com.tw/news/society/breakingnews/5594723",
+    "oldOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594723_4_1.jpg",
+    "newOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594723_3_1.jpg"
+   },
+   {
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5594759",
+    "oldOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594759_1_1.jpg",
+    "newOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594759_2_1.jpg"
+   }
+  ]
+ },
+ "editorialReview": {
+  "blockingIssues": [],
+  "warningsReviewed": [
+   {
+    "warning": "赤柱豪宅與上一版同事件",
+    "decision": "保留：凌晨新發展商正式回應與條件補救承諾，並非重抄署方調查。"
+   },
+   {
+    "warning": "阿美設施火煙與上一版同事件",
+    "decision": "保留：深夜胡塞承認攻擊及二十六次空襲聲稱為新增，卡面保留歸屬，不當作已獨立核實。"
+   }
+  ],
+  "corrections": [
+   "房署撤費卡改為毋須復原或付費，刪去不存在的部門安排復原工程。",
+   "倫敦講座正文13日與Oct4metadata矛盾，棄用。",
+   "宜蘭稿按正文首次上稿04:51，非meta誤標的06:09更新。",
+   "斧山道20版無進展轉低頻，保留線索。"
+  ],
+  "limits": [
+   "AI Register正文與metadata相差一小時，兩者均窗內；精確差異留證據。",
+   "美伊簡報半島3日下午來源明示背景，未當作今晨新增傷亡。",
+   "週日民生包含新刊醫生急救專欄及醫科新生白袍禮，均非政府新聞公報。"
+  ]
+ },
+ "sourceEvidence": {
+  "hk": [
+   {
+    "group": "hks",
+    "title": "太子車輛誤啟動夾傷車外司機",
+    "url": "https://www.hk01.com/article/60396132",
+    "articleHttp": 200,
+    "originalTitle": "太子眾酒客上比亞迪　疑搗亂誤啟動駛前　司機站車外捱撞被夾傷腳",
+    "originalDescription": "太子發生車禍。今日（4日）凌晨5時許，警方接報指，一名男子被夾在兩車之間，救護員接報到場，男傷者右膝受輕傷，清醒由救護車送院治理。消息稱，4",
+    "publishedRaw": "2026-10-04T06:56:09+08:00",
+    "updatedRaw": "2026-10-04T07:03:04+08:00",
+    "publishedHKT": "2026-10-04 06:56:09",
+    "updatedHKT": "2026-10-04 07:03:04",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183306143150116864384927.jpeg/sJohOtiTRmgVpCTGqkeKG_zXWbrkWAKFqiZPKaomTyk?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-0.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 97441,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:58.029809+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "筆架山豪宅遭爆竊失八十萬",
+    "url": "https://www.hk01.com/article/60396121",
+    "articleHttp": 200,
+    "originalTitle": "筆架山豪宅BEACON PEAK單位遇竊　28歲男損失$80萬財物",
+    "originalDescription": "九龍筆架山豪宅「BEACON PEAK」發生爆竊案。昨晚（3日）9時許，警方接獲一名28歲梁姓男子報案，發現其位於延坪道9號「BEACON PEAK」住所有被搜掠痕",
+    "publishedRaw": "2026-10-04T01:50:07+08:00",
+    "updatedRaw": "2026-10-04T01:50:10+08:00",
+    "publishedHKT": "2026-10-04 01:50:07",
+    "updatedHKT": "2026-10-04 01:50:10",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183232221033533440368724.jpeg/lGCWAeZxogEqwIOsV3uq2Ku9CQYUNDP-MXz8Swt8_Es?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-1.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 166912,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:58.129533+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "旺角工人吊冷氣機上簷篷惹憂",
+    "url": "https://www.hk01.com/article/60396114",
+    "articleHttp": 200,
+    "originalTitle": "旺角工人吊冷氣機上簷篷　吊吊揈嚇到無人走近　網民批危險｜有片",
+    "originalDescription": "Facebook群組「香港突發事故報料區及討論區」昨日（3日）流傳3段影片，顯示現場是旺角奶路臣街近洗衣街，鬧市人來人往，可見5名工人晚上站在奶路臣",
+    "publishedRaw": "2026-10-04T00:22:28+08:00",
+    "updatedRaw": "2026-10-04T05:16:30+08:00",
+    "publishedHKT": "2026-10-04 00:22:28",
+    "updatedHKT": "2026-10-04 05:16:30",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183284855987769344286473.jpeg/XNR6LqYXeFGa7NalFwUaR4MYdc-jT2LLtQ99y7UPfcs",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-2.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 175901,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:58.129771+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "赤柱豪宅發展商承諾查鋼筋問題",
+    "url": "https://www.hk01.com/article/60396117",
+    "articleHttp": 200,
+    "originalTitle": "ONE STANLEY缺鋼筋　發展商建灝：配合屋宇署調查　若失誤會補救",
+    "originalDescription": "由建灝地產的赤柱豪宅「ONE STANLEY」被揭發鋼筋數量與獲批圖則不符，屋宇署介入並鑿開混凝土檢測，發現地面低層一條橫樑保護層沒有按圖則配置鋼絲",
+    "publishedRaw": "2026-10-04T00:48:20+08:00",
+    "updatedRaw": "2026-10-04T00:57:44+08:00",
+    "publishedHKT": "2026-10-04 00:48:20",
+    "updatedHKT": "2026-10-04 00:57:44",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183107077808066560137540.jpeg/GhqZvpPFrqSm2OHu7pB1R_aCuAyY1i53yI1VesiNVXo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-3.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 255242,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:58.154936+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "瑜伽結業舉報增至六百廿七宗",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509967/%E5%B2%A9%E7%9B%A4%E6%B5%B4%E7%91%9C%E4%BC%BD%E7%B5%90%E6%A5%AD-%E6%B5%B7%E9%97%9C%E6%8E%A5%E7%8D%B2%E8%88%89%E5%A0%B1%E5%A2%9E%E8%87%B3627%E5%AE%97-%E6%B6%89%E7%B4%84700%E8%90%AC",
+    "articleHttp": 200,
+    "originalTitle": "岩盤浴瑜伽結業｜海關收627宗舉報　涉款約700萬 - 有線寬頻 i-CABLE",
+    "originalDescription": "【有線新聞】岩盤浴瑜伽結業，海關收到627宗舉報，消委會就接獲387宗投訴。 截至下午5時，消委會收到的投訴增",
+    "publishedRaw": "2026-10-03T16:02:00+00:00",
+    "updatedRaw": "2026-10-03T16:22:21+00:00",
+    "publishedHKT": "2026-10-04 00:02:00",
+    "updatedHKT": "2026-10-04 00:22:21",
+    "originalOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04080138/YOGA-CASE-261003-2200.jpg",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-4.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 246496,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1920,
+       1080
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:58.215684+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "天澤邨休班警員墮樓家屬證死訊",
+    "url": "https://www.dimsumdaily.hk/sister-confirms-off-duty-police-officers-death-after-fall-at-tin-chak-estate-in-tin-shui-wai/",
+    "articleHttp": 200,
+    "originalTitle": "Sister confirms off-duty police officer’s death after fall at Tin Chak Estate in Tin Shui Wai",
+    "originalDescription": "A 32-year-old off-duty officer died after falling from Chak Yun House at Tin Chak Estate, Tin Shui Wai; his sister announced the death on social media and invited friends to arrange funeral attendance.",
+    "publishedRaw": "2026-10-03T16:00:09+00:00",
+    "updatedRaw": "2026-10-03T16:00:14+00:00",
+    "publishedHKT": "2026-10-04 00:00:09",
+    "updatedHKT": "2026-10-04 00:00:14",
+    "originalOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03235731/Tin-Chak-Estate.jpg",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-5.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 68867,
+     "magic": "ffd8ffe000104a464946000101010060",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       952,
+       748
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:57.936566+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "西貢男子綠燈過路遭小巴撞傷",
+    "url": "https://www.dimsumdaily.hk/pedestrian-hit-by-minibus-in-sai-kung-while-crossing-on-green-suffers-fractured-hand/",
+    "articleHttp": 200,
+    "originalTitle": "Pedestrian hit by minibus in Sai Kung while crossing on green suffers fractured hand",
+    "originalDescription": "A 31‑year‑old man surnamed Cheng was struck by a minibus on Clear Water Bay Road near Sheung Yeung Village in Sai Kung at 11.50am, sustaining a fractured hand and shoulder and back injuries; police are interviewing a 67‑year‑old driver surnamed Leung.",
+    "publishedRaw": "2026-10-03T14:51:45+00:00",
+    "updatedRaw": "2026-10-03T14:51:50+00:00",
+    "publishedHKT": "2026-10-03 22:51:45",
+    "updatedHKT": "2026-10-03 22:51:50",
+    "originalOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03225037/Clear-Water-Bay-Road223.webp",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-6.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/webp",
+     "bytes": 205114,
+     "magic": "52494646322103005745425056503858",
+     "pillow": {
+      "format": "WEBP",
+      "size": [
+       952,
+       748
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:58.087545+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "黃金周油尖旺多個景點人潮湧",
+    "url": "https://www.hk01.com/article/60396099",
+    "articleHttp": 200,
+    "originalTitle": "國慶黃金周．圖輯｜油尖旺逼爆　舊油麻地警署內地客「舉槍」打卡",
+    "originalDescription": "正值十一黃金周，首兩日已有51.1萬人次內地旅客訪港，多個景點人山人海。其中，二級歷史建築舊油麻地警署，被內地社交媒體小紅書譽為「TVB經典取景",
+    "publishedRaw": "2026-10-03T21:51:01+08:00",
+    "updatedRaw": "2026-10-03T22:44:11+08:00",
+    "publishedHKT": "2026-10-03 21:51:01",
+    "updatedHKT": "2026-10-03 22:44:11",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183186124365893632514063.jpeg/CJhsTOA0tyVPU6MmFMMrfnvI2mEkmROJnuMHW57jB1s",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-7.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 229631,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:58.142825+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "今日驟雨雷暴稍後氣溫回落",
+    "url": "https://www.hk01.com/article/60396130",
+    "articleHttp": 200,
+    "originalTitle": "天氣｜今日有驟雨雷暴　未來兩三日早上稍涼　料最低氣溫降至24度",
+    "originalDescription": "天文台指出，今日（4日）大致多雲，有幾陣驟雨及雷暴，部分地區驟雨較多，早上短暫時間有陽光，日間最高氣溫約31度，最高紫外線指數大約是5，強度",
+    "publishedRaw": "2026-10-04T06:06:39+08:00",
+    "updatedRaw": "2026-10-04T06:06:43+08:00",
+    "publishedHKT": "2026-10-04 06:06:39",
+    "updatedHKT": "2026-10-04 06:06:43",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183296650802630656835712.jpeg/vnQsno2P5k46F96le5AtOzUzIQqKUjQJgeakWrvmpFo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-0.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 133866,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:59.478505+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "啟德醫院家庭醫學明日投入服務",
+    "url": "https://www.hk01.com/article/60396113",
+    "articleHttp": 200,
+    "originalTitle": "啟德醫院｜家庭醫學綜合中心10.5投入服務　周日起可用HA Go預約",
+    "originalDescription": "啟德醫院10月5日起分階段投入服務，其中位於「專科門診大樓」一樓的家庭醫學綜合中心將於同日投入服務，開院初期預計每日將提供約250個家庭醫學診",
+    "publishedRaw": "2026-10-03T23:26:49+08:00",
+    "updatedRaw": "2026-10-03T23:27:24+08:00",
+    "publishedHKT": "2026-10-03 23:26:49",
+    "updatedHKT": "2026-10-03 23:27:24",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20260928/1181351118228557824479825.jpeg/kp_y2rTpD8W8UXxT9XxcPO_sOGIDB4wBbwumTm8Lpk4?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-1.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 91146,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:59.686147+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "港足擊敗柬埔寨首奪東盟盃",
+    "url": "https://www.hk01.com/article/60396112",
+    "articleHttp": 200,
+    "originalTitle": "FIFA東盟盃｜港隊首奪冠　羅淑佩大讚攻守兼備　展現拼搏精神",
+    "originalDescription": "【東盟盃/香港對柬埔寨】FIFA東盟盃（第二級別）周六（3日）在啟德主場館上演決賽，香港隊憑上下半場各入一球，以2比0擊敗柬埔寨奪冠。文化體育及",
+    "publishedRaw": "2026-10-03T23:14:21+08:00",
+    "updatedRaw": "2026-10-04T00:50:32+08:00",
+    "publishedHKT": "2026-10-03 23:14:21",
+    "updatedHKT": "2026-10-04 00:50:32",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183193633495453696509724.jpeg/EUFazQKiDntfaThbB-lRU7grnzRXrWj3sqGR7LKhkew?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-2.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 199240,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:37:59.948384+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "六合彩三注中頭獎各派逾三千萬",
+    "url": "https://www.dimsumdaily.hk/three-tickets-share-mark-six-rollover-jackpot-each-over-hk34-million/",
+    "articleHttp": 200,
+    "originalTitle": "Three tickets share Mark Six rollover jackpot, each over HK$34 million",
+    "originalDescription": "Three winning tickets share the Mark Six top prize on 3rd October 2026, with second and third prizes also awarded; the next draw is set for 6th October 2026 at 9.00pm with an estimated HK$8 million jackpot.",
+    "publishedRaw": "2026-10-03T14:05:27+00:00",
+    "updatedRaw": "2026-10-03T14:09:33+00:00",
+    "publishedHKT": "2026-10-03 22:05:27",
+    "updatedHKT": "2026-10-03 22:09:33",
+    "originalOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03220859/Mark-Six-21-232.webp",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-3.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/webp",
+     "bytes": 175510,
+     "magic": "524946468ead02005745425056503858",
+     "pillow": {
+      "format": "WEBP",
+      "size": [
+       962,
+       752
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:38:00.028720+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "港大逾三百醫科新生穿白袍",
+    "url": "https://www.thestandard.com.hk/news/article/344505",
+    "articleHttp": 200,
+    "originalTitle": "Over 330 medical freshmen don white coats at University of Hong Kong ceremony",
+    "originalDescription": "The LKS Faculty of Medicine at the University of Hong Kong (HKU Medicine) held its annual White Coat Ceremony on Saturday, where professors personally draped the symbolic white coats over the shoulders of first-year medical students.",
+    "publishedRaw": "2026-10-03T21:06:26.000+0800",
+    "updatedRaw": "2026-10-03T21:06:26.000+0800",
+    "publishedHKT": "2026-10-03 21:06:26",
+    "updatedHKT": "2026-10-03 21:06:26",
+    "originalOg": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/2bfe68ff1cc099f8bb63957e7f33ad42/2026-10/EI261003HKU038_0.jpg",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-4.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 202937,
+     "magic": "ffd8ffe000104a464946000101010060",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1024,
+       683
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:38:00.123055+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "桌球冠軍韋爾遜經優才取得居留",
+    "url": "https://www.stheadline.com/society/3622119/",
+    "articleHttp": 200,
+    "originalTitle": "加蘭韋爾遜透過優才計劃來港 再有世界冠軍桌球手成為香港人",
+    "originalDescription": "再有國際知名桌球手成為香港人，繼奧蘇利雲、卓林普、羅拔臣及占美韋德後，曾贏得2024年世界桌球錦標賽冠軍、來自英國的加蘭韋爾遜（Kyren Wilson）同樣通過優秀人才入境計劃成為香港人。他在社交平台表示，對於能透過「優才」計劃取得香港居留權感到欣喜若狂，又指「香港是我最喜歡的地方之一，這些年來，我在這裏留下了許多美好的回憶，也期待有更充實的未來」。他又表示特別感謝入境處處長郭俊峯，助他實現了這",
+    "publishedRaw": "2026-10-04T07:00:04+0800",
+    "updatedRaw": "2026-10-04T07:00:04+0800",
+    "publishedHKT": "2026-10-04 07:00:04",
+    "updatedHKT": "2026-10-04 07:00:04",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/139cc793f17040ae54303691063c2345/2026-10/20261003_NEWS_Wilson.png",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-5.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/png; charset=UTF-8",
+     "bytes": 294955,
+     "magic": "89504e470d0a1a0a0000000d49484452",
+     "pillow": {
+      "format": "PNG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:38:00.210300+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "港隊單車及壁球亞運代表返港",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509977/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E5%96%AE%E8%BB%8A%E5%8F%8A%E5%A3%81%E7%90%83%E6%B8%AF%E9%9A%8A%E4%BA%9E%E9%81%8B%E5%87%B1%E6%97%8B",
+    "articleHttp": 200,
+    "originalTitle": "名古屋亞運｜單車、壁球港隊凱旋 - 有線寬頻 i-CABLE",
+    "originalDescription": "【有線新聞】亞運取得佳績，單車及壁球港隊凱旋。 李嘉兒在壁球混雙夥拍鄧銘漮擊敗隊友、歷史性奪金，之後跟何子樂及",
+    "publishedRaw": "2026-10-03T15:45:21+00:00",
+    "updatedRaw": "2026-10-03T16:24:09+00:00",
+    "publishedHKT": "2026-10-03 23:45:21",
+    "updatedHKT": "2026-10-04 00:24:09",
+    "originalOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04074457/ARRVIAL-SQASH-261003-2300.jpg",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-6.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 325998,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1920,
+       1080
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:38:00.206252+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "醫生提醒辨識昏厥避免亂急救",
+    "url": "https://www.hk01.com/article/60395879",
+    "articleHttp": 200,
+    "originalTitle": "醫善同行｜認識昏厥警號　切勿胡亂急救",
+    "originalDescription": "醫善同行｜蔡振興醫生網上近日流傳一段車Cam片段，一名的士司機載客期間突然失去知覺，車輛一度失控。片中乘客發現司機沒有反應後，有人拍打他的臉",
+    "publishedRaw": "2026-10-04T08:00:10+08:00",
+    "updatedRaw": "2026-10-04T08:00:10+08:00",
+    "publishedHKT": "2026-10-04 08:00:10",
+    "updatedHKT": "2026-10-04 08:00:10",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182750304014176256098135.jpeg/mPhaOF4MUqa7PCXhg83kXF_SrANqhDOfXh0Jql4dCao?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-7.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 174547,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-04T00:38:00.067847+00:00"
+   }
+  ],
+  "root": [
+   {
+    "key": "cheap",
+    "url": "https://www.dimsumdaily.hk/cheap-labs-wan-chai-flagship-to-close-in-mid-november-after-rent-talks-fail/",
+    "articleHTTP": 200,
+    "title": "Cheap Lab’s Wan Chai flagship to close in mid November after rent talks fail",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03233157/CHEAP-LAB-WAN-CHAI.webp",
+    "publishedRaw": "2026-10-03T15:33:27+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T15:33:27+00:00",
+     "dateModified": "2026-10-03T15:33:33+00:00"
+    },
+    "textExtract": "Cheap Lab’s Wan Chai flagship to close in mid November after rent talks fail News Breaking news Finance Local Nation Opinions Property World Lifestyle Art Events Fashion Food Hiking Home & Living Movies & Drama Travel Life Hacks tricks Tech Artificial Intelligence Automotive Gadget Phone Entertainment movies TV show Sports CRYPTO/NFT Crypto News NFT News Sign in Welcome! Log into your account your username your password Forgot your password? Create an account Terms and conditions Sign up Welcome! Register for an account your email your username A password will be e-mailed to you. Terms and conditions Password recovery Recover your password your email Search Dimsum Daily News All Breaking news Finance Local Nation Opinions Property World Local Cheap Lab’s Wan Chai flagship to close in mid November after… Nation China Eastern Airlines files police report and suspends service to passenger… World Defence lawyer portrays grandmother as devoted carer as Dublin park murder… Local Pedestrian hit by minibus in Sai Kung while crossing on green… Lifestyle All Art Events Fashion Food Hiking Home & Living Movies & Drama Travel Events Standard Chartered Arts in the Park returns to Causeway Bay with… Food NeNe Chicken closes all Hong Kong outlets as Korean fried chicken… Food Five Guys shuts Kwun Tong apm branch as fourth closure in… Food Food blogger says tag removed after critical Instagram review of Trattoria… Life Hacks All tricks Life Hacks Cabin crew shares seven tips for cheaper air tickets Life Hacks Five lightbulb switches to elevate home lighting this autumn Life Hacks Flight attendant shares four tips for free upgrades Life Hacks Neurologist shares 10-second hand test that may help flag dementia Tech All Artificial Intelligence Automotive Gadget Phone Artificial Intelligenc",
+    "imageHTTP": 200,
+    "imageContentType": "image/webp",
+    "imageBytes": 234828,
+    "imageMagic": "52494646449503005745425056503858",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "WEBP",
+     "width": 952,
+     "height": 750
+    }
+   },
+   {
+    "key": "property",
+    "url": "https://www.dimsumdaily.hk/buyer-acquires-so-kwun-wat-starfront-royale-flat-with-platform-for-hk3-35-million-as-seller-takes-41-loss/",
+    "articleHTTP": 200,
+    "title": "Buyer acquires So Kwun Wat Starfront Royale flat with platform for HK$3.35 million as seller takes 41% loss",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03223856/So-Kwun-Wat-Royale-3.webp",
+    "publishedRaw": "2026-10-03T14:40:49+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T14:40:49+00:00",
+     "dateModified": "2026-10-03T14:41:36+00:00"
+    },
+    "textExtract": "Buyer acquires So Kwun Wat Starfront Royale flat with platform for HK$3.35 million as seller takes 41% loss News Breaking news Finance Local Nation Opinions Property World Lifestyle Art Events Fashion Food Hiking Home & Living Movies & Drama Travel Life Hacks tricks Tech Artificial Intelligence Automotive Gadget Phone Entertainment movies TV show Sports CRYPTO/NFT Crypto News NFT News Sign in Welcome! Log into your account your username your password Forgot your password? Create an account Terms and conditions Sign up Welcome! Register for an account your email your username A password will be e-mailed to you. Terms and conditions Password recovery Recover your password your email Search Dimsum Daily News All Breaking news Finance Local Nation Opinions Property World Property Buyer acquires So Kwun Wat Starfront Royale flat with platform for… Nation Unemployed mainland man arrested on re‑entry to Macao over Apple store… Local Housing department reverses demand for tenant to pay to restore approved… Local Six arrested over cross‑border burglary ring tied to 25 break‑ins, HK$3.69… Lifestyle All Art Events Fashion Food Hiking Home & Living Movies & Drama Travel Events Standard Chartered Arts in the Park returns to Causeway Bay with… Food NeNe Chicken closes all Hong Kong outlets as Korean fried chicken… Food Five Guys shuts Kwun Tong apm branch as fourth closure in… Food Food blogger says tag removed after critical Instagram review of Trattoria… Life Hacks All tricks Life Hacks Cabin crew shares seven tips for cheaper air tickets Life Hacks Five lightbulb switches to elevate home lighting this autumn Life Hacks Flight attendant shares four tips for free upgrades Life Hacks Neurologist shares 10-second hand test that may help flag dementia Tech All Artificial Intelligence A",
+    "imageHTTP": 200,
+    "imageContentType": "image/webp",
+    "imageBytes": 112398,
+    "imageMagic": "5249464606b701005745425056503858",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "WEBP",
+     "width": 958,
+     "height": 750
+    }
+   },
+   {
+    "key": "wage",
+    "url": "https://www.dimsumdaily.hk/authorities-say-rise-is-moderate-after-considering-all-factors-as-foreign-domestic-helpers-minimum-wage-set-at-hk5220%ef%bf%bc/",
+    "articleHTTP": 200,
+    "title": "Authorities say rise is moderate after considering all factors as foreign domestic helpers’ minimum wage set at HK$5,220",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04001026/FDH-2-232.webp",
+    "publishedRaw": "2026-10-03T16:13:09+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T16:13:09+00:00",
+     "dateModified": "2026-10-03T16:13:14+00:00"
+    },
+    "textExtract": "Authorities say rise is moderate after considering all factors as foreign domestic helpers’ minimum wage set at HK$5,220 News Breaking news Finance Local Nation Opinions Property World Lifestyle Art Events Fashion Food Hiking Home & Living Movies & Drama Travel Life Hacks tricks Tech Artificial Intelligence Automotive Gadget Phone Entertainment movies TV show Sports CRYPTO/NFT Crypto News NFT News Sign in Welcome! Log into your account your username your password Forgot your password? Create an account Terms and conditions Sign up Welcome! Register for an account your email your username A password will be e-mailed to you. Terms and conditions Password recovery Recover your password your email Search Dimsum Daily News All Breaking news Finance Local Nation Opinions Property World Local Authorities say rise is moderate after considering all factors as foreign… World Car ploughs into Newcastle crowd injuring ten Local Woman rescued off Yu On Street in Tai Po regains consciousness… Local Sister confirms off-duty police officer’s death after fall at Tin Chak… Lifestyle All Art Events Fashion Food Hiking Home & Living Movies & Drama Travel Events Standard Chartered Arts in the Park returns to Causeway Bay with… Food NeNe Chicken closes all Hong Kong outlets as Korean fried chicken… Food Five Guys shuts Kwun Tong apm branch as fourth closure in… Food Food blogger says tag removed after critical Instagram review of Trattoria… Life Hacks All tricks Life Hacks Cabin crew shares seven tips for cheaper air tickets Life Hacks Five lightbulb switches to elevate home lighting this autumn Life Hacks Flight attendant shares four tips for free upgrades Life Hacks Neurologist shares 10-second hand test that may help flag dementia Tech All Artificial Intelligence Automotive Gadget Phone A",
+    "imageHTTP": 200,
+    "imageContentType": "image/webp",
+    "imageBytes": 207778,
+    "imageMagic": "524946469a2b03005745425056503858",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "WEBP",
+     "width": 884,
+     "height": 702
+    }
+   },
+   {
+    "key": "gate",
+    "url": "https://www.dimsumdaily.hk/housing-department-reverses-demand-for-tenant-to-pay-to-restore-approved-security-gate-after-21-years/",
+    "articleHTTP": 200,
+    "title": "Housing department reverses demand for tenant to pay to restore approved security gate after 21 years",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/03222745/Sau-Mau-Ping-Estate-34232.webp",
+    "publishedRaw": "2026-10-03T14:33:57+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-03T14:33:57+00:00",
+     "dateModified": "2026-10-03T14:34:03+00:00"
+    },
+    "textExtract": "Housing department reverses demand for tenant to pay to restore approved security gate after 21 years News Breaking news Finance Local Nation Opinions Property World Lifestyle Art Events Fashion Food Hiking Home & Living Movies & Drama Travel Life Hacks tricks Tech Artificial Intelligence Automotive Gadget Phone Entertainment movies TV show Sports CRYPTO/NFT Crypto News NFT News Sign in Welcome! Log into your account your username your password Forgot your password? Create an account Terms and conditions Sign up Welcome! Register for an account your email your username A password will be e-mailed to you. Terms and conditions Password recovery Recover your password your email Search Dimsum Daily News All Breaking news Finance Local Nation Opinions Property World Local Housing department reverses demand for tenant to pay to restore approved… Local Six arrested over cross‑border burglary ring tied to 25 break‑ins, HK$3.69… Breaking news Three tickets share Mark Six rollover jackpot, each over HK$34 million Breaking news Buildings Department probes ONE STANLEY steel-bar shortfall Lifestyle All Art Events Fashion Food Hiking Home & Living Movies & Drama Travel Events Standard Chartered Arts in the Park returns to Causeway Bay with… Food NeNe Chicken closes all Hong Kong outlets as Korean fried chicken… Food Five Guys shuts Kwun Tong apm branch as fourth closure in… Food Food blogger says tag removed after critical Instagram review of Trattoria… Life Hacks All tricks Life Hacks Cabin crew shares seven tips for cheaper air tickets Life Hacks Five lightbulb switches to elevate home lighting this autumn Life Hacks Flight attendant shares four tips for free upgrades Life Hacks Neurologist shares 10-second hand test that may help flag dementia Tech All Artificial Intelligence Auto",
+    "imageHTTP": 200,
+    "imageContentType": "image/webp",
+    "imageBytes": 251974,
+    "imageMagic": "524946463ed803005745425056503858",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "WEBP",
+     "width": 948,
+     "height": 748
+    }
+   },
+   {
+    "key": "fire",
+    "url": "https://www.hk01.com/article/60396119",
+    "articleHTTP": 200,
+    "title": "宏福火行政問責支援組本月埋班　協助調查寫報告交特首｜政圈風聲",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261004/1183332262561714176582176.jpeg/XoVYLPa9GFErh1qKmcQh2OjhgBzf83cq5GWEpuRlhKY?v=w1280r16_9",
+    "publishedRaw": "2026-10-04T08:00:17+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-04T08:00:17+08:00",
+     "dateModified": "2026-10-04T08:24:53+08:00"
+    },
+    "textExtract": "宏福火行政問責支援組本月埋班 協助調查寫報告交特首｜政圈風聲 港聞 政情 宏福火行政問責支援組本月埋班 協助調查寫報告交特首｜政圈風聲 撰文： 潘耀昇 出版： 2026-10-04 08:00 更新： 2026-10-04 08:24 在Google 追蹤《香港01》 港聞 政情 宏福火行政問責支援組本月埋班 協助調查寫報告交特首｜政圈風聲 撰文： 潘耀昇 出版： 2026-10-04 08:00 更新： 2026-10-04 08:24 在Google 追蹤《香港01》 大埔宏福苑火災成立的獨立委員會，本月底將向行政長官李家超提交報告，釐清事實及責任。《香港01》上月獨家報道，保安局前副秘書長莫君虞、體育專員蔡健斌兩名資深政務官，已被部署專責為行政問責做前期工夫。據了解，委員會最快本月中下旬向特首交報告，可能是十月第三、四星期。 《香港01》綜合官場最新消息，莫蔡兩人將成為公務員敘用委員會轄下調查小組的「支援人員」，這一組人將協助調查及寫報告交特首或司局長跟進，除了有首長級政務官，亦有非公務員條款聘用的政府僱員組成，直至完成調查解散。若獨立委員會的調查結果指名某人要負責，便可直接進入紀律程序。宏福火行政問責支援組本月「齊腳」，離開保安局的莫君虞已「落水」，消息指蔡健斌明日（5日）調到新崗位。如《香港01》上月報道由文體旅局首席助理秘書長莊敏婷接任體育專員。 宏福苑（鄧倩螢攝） 宏福苑點名四個部門 工作缺失且涉推卸責任 造成168人死亡的大埔宏福苑五級火災， 經過歷時五個月、合共30場的獨立委員會聽證會調查，大致點出工作有缺失，且涉互相推卸責任的部門，包括房屋局獨立審查組（ICU）、勞工處、消防處及屋宇署。其中，勞工處多次收到吸煙投訴，有宏業職員陪同下巡查16次未發現工人吸煙，勞工處及消防處均稱不屬其職權範圍。 綜合宏福苑獨立委員會3月19日首場聽證會內容，四個被點名部門房屋局獨立審查組（ICU）、勞工處、消防處及屋宇署的缺失。（《香港01》AI製圖） 房屋局ICU曾到場監察棚網阻燃測試，並提前一日通知顧問公司巡查，但承建商燃燒棚網10秒後有人吹熄撲滅，仍批准過關；消防處多次批准消防系栓及喉轆系統延長停用致系統停用數月；屋宇署更改內部指引要隨機抽查工地但無通知ICU，致ICU未有實地巡查後樓梯被改動的窗口。 宏福苑聽證會｜被點名四部門一文整合 看棚網、吸煙問題責任誰屬 2025年9月17日，行政長官李家超發表新一份《施政報告》，提出設立「部門首長責任制」，加強公務員責任制度。（梁鵬威攝） 失職官員料納入部門首長責任制新紀律程序 根據部門首長責任制，當部門出現嚴重問題，涉及廣泛或重複性的系統問題，或有迹象顯示問題可能涉及部門首長的角色時，會由公務員敍用委員會領導的調查小組展開第二級調查。據了解，宏福苑火災涉嫌失職的官員將納入新的紀律程序。 今年六月，公務員事務局局長楊何蓓茵被議員問到，若宏福苑火災獨立委員會發覺有公務員需要負責，當局會直接進入紀律程序，還是要走一次公務員敍用委員會的調查機制。她當時回應說，視乎獨立委員會報告結果是否已去到個人階段，因紀律機制是針對個人，先要看部門內誰有責任，再者責任去到哪裏。 2026年8月9日，行政長官李家超出席施政報告尾場地區諮詢會，同樣收集香港五年規劃意見。會後見記者。（鄧倩螢攝） 宏福火行政問責支援組本月埋班 協助調查寫報告交特首 根據《調查規例》，第二級調查下公務員敍用委員會將組成調查小組，授權一組「支援人員」協助調查和編製報告。調查報告會提交予啟動第二級調查的行政長官或司局長以考慮跟進行動。「支援人員」由政府僱員組成，可以包括公務員以及按非公務員聘用條款聘用的政府僱員提供支援。 宏福火「行政問責」超前部署 擬派資深政務官坐鎮專責｜政圈風聲 《香港01》上月獨家報道，保安局前副秘書長莫君虞、體育專員蔡健斌兩名資深政務官，已被部署專責為行政問責做前期工夫。綜合官場消息，兩人將成為公務員敘用委員會轄下調查小組的一組「支援人員」。 官場預料兩人將協助調查及寫報告，識別受查人及其責任，交特首或司局長考慮跟進行動，最終問責決定權交上級決定。若獨立委員會的調查結果指名某人要負責，便可直接進入紀律程序。有政府中人表示第二級調查完結後會交代結果，包括公務員犯錯的地方，以及要負責的人員。 莫君虞已「落水」 蔡健斌",
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 89975,
+    "imageMagic": "ffd8ffe000104a464946000102010048",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   {
+    "key": "nanning",
+    "url": "https://www.channelnewsasia.com/east-asia/nanning-business-caexpo-singapore-china-6407501",
+    "articleHTTP": 200,
+    "title": "From ‘red ocean’ to ‘blue ocean’: Why Singaporean firms are exploring Nanning to enter China’s market",
+    "ogImage": "https://dam.mediacorp.sg/image/upload/s--qKYsyssj--/c_crop,h_1125,w_2000,x_0,y_183/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/23/lan_nanning_china_caexpo_2.jpg?itok=nGxW8bnm",
+    "publishedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-04T06:00:00+08:00",
+     "dateModified": "2026-10-04T06:00:00+08:00"
+    },
+    "textExtract": "From ‘red ocean’ to ‘blue ocean’: Why Singaporean firms are exploring Nanning to enter China’s market - CNA Skip to main content Sign In Sign In Account My Feed Edition Menu Edition: Singapore Indonesia Asia World CNAR Search menu Search Edition: Singapore Indonesia Asia World CNA Insider Lifestyle Luxury News Id 1822271 Type landing_page Top Stories Id 5193846 Type landing_page Latest News Id 1822271 Type landing_page Asia Id 1821901 Type landing_page East Asia Id 4310561 Type landing_page Singapore Id 1821876 Type landing_page World Id 1821886 Type landing_page Commentary Id 1821896 Type landing_page CNA Explains Id 3384986 Type landing_page Sustainability Id 1881506 Type landing_page Business Id 1821906 Type landing_page Sport Id 1821911 Type landing_page Singapore Parliament Id 1822221 Type landing_page Interactives Id 1331736 Type landing_page Watch Id 1431321 Type landing_page Live TV Id 1431321 Type landing_page News Reports Documentaries & Shows TV Schedule Id 1822266 Type landing_page Listen Id 5197731 Type landing_page CNA938 Live Id 5197731 Type landing_page Podcasts Radio Schedule Id 2005266 Type landing_page Insider Id 5191361 Type landing_page Big Read Id 4634231 Type landing_page Up Close Id 4648841 Type landing_page In Pixels Id 4791376 Type landing_page Ground Up Id 4628706 Type landing_page Voices Id 4635741 Type landing_page Adulting Id 4635751 Type landing_page Mental Health Matters Id 4635731 Type landing_page Insider Spotlight Id 6418016 Type landing_page Lifestyle Type external Entertainment Type external Women Type external Wellness Type external Living Type external Style & Beauty Type external Dining Type external Travel Type external Branded Content Id 2204221 Type landing_page Business Blueprint Id 1924496 Type landing_page Health Matters Id ",
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 187400,
+    "imageMagic": "ffd8ffe000104a464946000101000001",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 676
+    }
+   }
+  ],
+  "world": {
+   "checkedAtHKT": "2026-10-04T08:38:26.048329+08:00",
+   "articles": [
+    {
+     "id": "ep14862820",
+     "url": "https://www.epochtimes.com/b5/26/10/3/n14862820.htm",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-03T21:38:15.000Z",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2023/01/id13902295-594589-700x359.jpg",
+     "description": "中共一直在投資巨資發展高端芯片設計和生產，但缺乏尖端光刻設備令中共野心受挫。9月底，美國前出口管制官員撰寫的一份最新報告顯示，近年來，中國半導體工廠囤積了價值數十億美元的數百台浸沒式光刻機（DUV）；這些前官員敦促美國政府及其盟全面封禁出口此類設備給中企。",
+     "title": "報告：中共囤積ASML光刻機 美應全面禁出口",
+     "publishedHKT": "2026-10-04T05:38:15+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 87026,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "cn",
+     "cardPublishedHKT": "2026-10-04T05:38:15+08:00",
+     "modifiedRaw": "2026-10-03T21:43:37.000Z",
+     "modifiedHKT": "2026-10-04T05:43:37+08:00",
+     "dimensions": [
+      700,
+      359
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://i.epochtimes.com/assets/uploads/2023/01/id13902295-594589-700x359.jpg",
+     "imageVerified": true
+    },
+    {
+     "id": "ep14862805",
+     "url": "https://www.epochtimes.com/b5/26/10/3/n14862805.htm",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-03T21:25:56.000Z",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2026/07/id14815351-GettyImages-2285951563-700x359.jpg",
+     "description": "根據美國財政部長貝森特的披露，中國的AI模型竊取了美國AI模型的技術，結果卻出現了令中共尷尬的局面：被視為中國最強大的AI模型Kimi有時竟然自稱是美國AI模型Claude；更出乎意料的是，它還把中共軍方的武器計劃拱手送給了Claude的開發商，反倒給美國「幫了個大忙」。",
+     "title": "美財長：Kimi自詡Claude 洩漏中共武器計劃",
+     "publishedHKT": "2026-10-04T05:25:56+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 173040,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "cn",
+     "cardPublishedHKT": "2026-10-04T05:25:56+08:00",
+     "modifiedRaw": "2026-10-03T21:38:18.000Z",
+     "modifiedHKT": "2026-10-04T05:38:18+08:00",
+     "dimensions": [
+      700,
+      359
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://i.epochtimes.com/assets/uploads/2026/07/id14815351-GettyImages-2285951563-700x359.jpg",
+     "imageVerified": true
+    },
+    {
+     "id": "zb9780384",
+     "url": "https://www.zaobao.com.sg/news/china/story20261004-9780384",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T07:19:06+08:00",
+     "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/96dc59643997732c871bf12e03d951e3870c59064699a0cebeb465d41340fc58",
+     "description": "知情人士透露，阿里巴巴集团已与西班牙清洁能源生产商Solaria Energía y Medio Ambiente SA进行洽谈，后者可能为阿里巴巴在西班牙的一座数据中心供电。",
+     "title": "阿里巴巴与Solaria据悉洽谈西班牙数据中心供电事宜",
+     "publishedHKT": "2026-10-04T07:19:06+08:00",
+     "imageStatus": "200",
+     "contentType": "image/webp",
+     "bytes": 31578,
+     "magic": "52494646527b000057454250",
+     "ogMatch": true,
+     "group": "cn",
+     "cardPublishedHKT": "2026-10-04T07:19:06+08:00",
+     "modifiedRaw": "2026-10-04T07:19:09+08:00",
+     "modifiedHKT": "2026-10-04T07:19:09+08:00",
+     "dimensions": [
+      1023,
+      682
+     ],
+     "decodedFormat": "WEBP",
+     "ogImageFromOriginal": "https://cassette.sphdigital.com.sg/image/zaobao/96dc59643997732c871bf12e03d951e3870c59064699a0cebeb465d41340fc58",
+     "imageVerified": true
+    },
+    {
+     "id": "ep14862749",
+     "url": "https://www.epochtimes.com/b5/26/10/3/n14862749.htm",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-03T16:47:59.000Z",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2026/07/id14801823-GettyImages-2209908524-700x359.jpg",
+     "description": "運動服飾巨頭耐克10月1日公布的財報顯示，大中華區收入連續9個季度下滑，最新一季同比減少22%。截至10月2日，公司股價今年已下跌約47%。耐克同時宣布進一步裁員和區域重組。",
+     "title": "耐克大中華區收入九連跌 股價年內跌近半",
+     "publishedHKT": "2026-10-04T00:47:59+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 420155,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "cn",
+     "cardPublishedHKT": "2026-10-04T00:47:59+08:00",
+     "modifiedRaw": "2026-10-03T16:47:59.000Z",
+     "modifiedHKT": "2026-10-04T00:47:59+08:00",
+     "dimensions": [
+      700,
+      359
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://i.epochtimes.com/assets/uploads/2026/07/id14801823-GettyImages-2209908524-700x359.jpg",
+     "imageVerified": true
+    },
+    {
+     "id": "ep14862791",
+     "url": "https://www.epochtimes.com/b5/26/10/3/n14862791.htm",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-03T19:38:24.000Z",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14862793-GettyImages-654804002-700x359.jpg",
+     "description": "大陸「十一」假期，一宗租車公司員工暗中毀車索賠案再次引發關注。四川成都四名租車公司員工在網上以低價攬客，再利用GPS追蹤租客車輛，趁無人時砸壞擋風玻璃，或在還車時偷偷製造劃痕，藉機索取維修費、剋扣押金。",
+     "title": "網上低價攬客 大陸租車公司員工暗中毀車索賠",
+     "publishedHKT": "2026-10-04T03:38:24+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 148218,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "cn",
+     "cardPublishedHKT": "2026-10-04T03:38:24+08:00",
+     "modifiedRaw": "2026-10-03T19:38:24.000Z",
+     "modifiedHKT": "2026-10-04T03:38:24+08:00",
+     "dimensions": [
+      700,
+      359
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://i.epochtimes.com/assets/uploads/2026/10/id14862793-GettyImages-654804002-700x359.jpg",
+     "imageVerified": true
+    },
+    {
+     "id": "zb9779433",
+     "url": "https://www.zaobao.com.sg/news/china/story20261003-9779433",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-03T22:17:09+08:00",
+     "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/057282ffdd19b228b7d9199bfed134dba25482e819e802149b7dd1cfbd1332da",
+     "description": "（上海综合讯）中国东方航空二度回应“空姐下跪道歉”事件，称已就涉事乘客严重侵害公司员工人格尊严等行为向公安机关报案，并暂停对这名乘客提供承运服务。",
+     "title": "东航就“空姐下跪”事件报案 暂停涉事乘客乘机",
+     "publishedHKT": "2026-10-03T22:17:09+08:00",
+     "imageStatus": "200",
+     "contentType": "image/webp",
+     "bytes": 56832,
+     "magic": "52494646f8dd000057454250",
+     "ogMatch": true,
+     "group": "cn",
+     "cardPublishedHKT": "2026-10-03T22:17:09+08:00",
+     "modifiedRaw": "2026-10-03T22:17:11+08:00",
+     "modifiedHKT": "2026-10-03T22:17:11+08:00",
+     "dimensions": [
+      1023,
+      682
+     ],
+     "decodedFormat": "WEBP",
+     "ogImageFromOriginal": "https://cassette.sphdigital.com.sg/image/zaobao/057282ffdd19b228b7d9199bfed134dba25482e819e802149b7dd1cfbd1332da",
+     "imageVerified": true
+    },
+    {
+     "id": "zb9779392",
+     "url": "https://www.zaobao.com.sg/news/china/story20261003-9779392",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-03T21:15:47+08:00",
+     "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/60312cc3b927baaf84db62bbbd402680717bf7d1d19d85e37620754f4271b030",
+     "description": "（北京／吉隆坡综合讯）中国歼-10CE战斗机全尺寸模型亮相阿塞拜疆国际防务展，机身涂有该国国旗及军方编号，引发外界猜测阿塞拜疆采购这款战机，但目前尚无消息证实双方已签署采购协议。",
+     "title": "中国歼-10CE模型亮相阿塞拜疆防务展引发采购猜测",
+     "publishedHKT": "2026-10-03T21:15:47+08:00",
+     "imageStatus": "200",
+     "contentType": "image/webp",
+     "bytes": 77066,
+     "magic": "52494646022d010057454250",
+     "ogMatch": true,
+     "group": "cn",
+     "cardPublishedHKT": "2026-10-03T21:15:47+08:00",
+     "modifiedRaw": "2026-10-03T21:15:50+08:00",
+     "modifiedHKT": "2026-10-03T21:15:50+08:00",
+     "dimensions": [
+      1023,
+      682
+     ],
+     "decodedFormat": "WEBP",
+     "ogImageFromOriginal": "https://cassette.sphdigital.com.sg/image/zaobao/60312cc3b927baaf84db62bbbd402680717bf7d1d19d85e37620754f4271b030",
+     "imageVerified": true
+    },
+    {
+     "id": "ep14862848",
+     "url": "https://www.epochtimes.com/b5/26/10/3/n14862848.htm",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T00:11:07.000Z",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14862851-collage-600x359.png",
+     "description": "十一長假期間，吉林長春動植物公園的網紅「雪餅猴」正在台上演出時，發現有遊客暈倒，立即暫停互動，化身現場指揮員引導救護車救人，獲網民點贊。",
+     "title": "遊客暈倒人潮擁堵 長春公園「雪餅猴」變指揮員",
+     "publishedHKT": "2026-10-04T08:11:07+08:00",
+     "imageStatus": "200",
+     "contentType": "image/png",
+     "bytes": 375588,
+     "magic": "89504e470d0a1a0a0000000d",
+     "ogMatch": true,
+     "group": "cn",
+     "cardPublishedHKT": "2026-10-04T08:11:07+08:00",
+     "modifiedRaw": "2026-10-04T00:11:07.000Z",
+     "modifiedHKT": "2026-10-04T08:11:07+08:00",
+     "dimensions": [
+      600,
+      359
+     ],
+     "decodedFormat": "PNG",
+     "ogImageFromOriginal": "https://i.epochtimes.com/assets/uploads/2026/10/id14862851-collage-600x359.png",
+     "imageVerified": true
+    },
+    {
+     "id": "hk60396128",
+     "url": "https://www.hk01.com/article/60396128",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T04:55:19+08:00",
+     "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261004/1183278547603558400042619.png/ptpY99IRr7t1FaaDa4PO-OGC4LG1erLLZG2Bl2RtgZc?v=w1280r16_9",
+     "description": "美國將於11月3日舉行中期選舉，總統特朗普（Donald Trump，又譯川普）10月3日重提早前做出的承諾，假如共和黨勝出眾議院和參議院的中期選舉，他將",
+     "title": "特朗普：共和黨勝選成人派5000美元　民主黨勝選重回大蕭條｜有片",
+     "publishedHKT": "2026-10-04T04:55:19+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 94498,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "us",
+     "cardPublishedHKT": "2026-10-04T04:55:19+08:00",
+     "modifiedRaw": "2026-10-04T05:04:43+08:00",
+     "modifiedHKT": "2026-10-04T05:04:43+08:00",
+     "dimensions": [
+      1280,
+      720
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://cdn.hk01.com/di/media/images/dw/20261004/1183278547603558400042619.png/ptpY99IRr7t1FaaDa4PO-OGC4LG1erLLZG2Bl2RtgZc?v=w1280r16_9",
+     "imageVerified": true
+    },
+    {
+     "id": "hk60396131",
+     "url": "https://www.hk01.com/article/60396131",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T05:55:47+08:00",
+     "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261004/1183289438323609600621450.jpeg/_t1atnVydQtamkqfku2HqIRwckx3cIcFn-ZC85_mQvM?v=w1280r16_9",
+     "description": "美國田納西州（Tennessee）一名女死囚派克（Christa Pike）9月30日被執行死刑，惟她在接受兩劑毒針注射後仍然倖存。田納西州長李爾10月3日宣布，該",
+     "title": "美國女死囚打毒針處決失敗　州監獄長辭職被指曾4次督導死刑失敗",
+     "publishedHKT": "2026-10-04T05:55:47+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 137382,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "us",
+     "cardPublishedHKT": "2026-10-04T05:55:47+08:00",
+     "modifiedRaw": "2026-10-04T06:03:32+08:00",
+     "modifiedHKT": "2026-10-04T06:03:32+08:00",
+     "dimensions": [
+      1280,
+      720
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://cdn.hk01.com/di/media/images/dw/20261004/1183289438323609600621450.jpeg/_t1atnVydQtamkqfku2HqIRwckx3cIcFn-ZC85_mQvM?v=w1280r16_9",
+     "imageVerified": true
+    },
+    {
+     "id": "ep14862808",
+     "url": "https://www.epochtimes.com/b5/26/10/3/n14862808.htm",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-03T23:41:06.000Z",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14862830-GettyImages-2297070588-700x359.jpg",
+     "description": "美國猶他州一名男死刑犯在被關押41年後，因最新DNA分析排除其與關鍵物證的匹配，於9月28日獲准保釋出獄。該案因警方調查不當行爲及證人翻供爭議，預計將於2027年重新審理。",
+     "title": "猶他州71歲死囚服刑41年後 DNA不符獲保釋",
+     "publishedHKT": "2026-10-04T07:41:06+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 229264,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "us",
+     "cardPublishedHKT": "2026-10-04T07:41:06+08:00",
+     "modifiedRaw": "2026-10-03T23:41:06.000Z",
+     "modifiedHKT": "2026-10-04T07:41:06+08:00",
+     "dimensions": [
+      700,
+      359
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://i.epochtimes.com/assets/uploads/2026/10/id14862830-GettyImages-2297070588-700x359.jpg",
+     "imageVerified": true
+    },
+    {
+     "id": "lt5594723",
+     "url": "https://news.ltn.com.tw/news/society/breakingnews/5594723",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T06:09:40+08:00",
+     "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594723_4_1.jpg",
+     "description": "首次上稿 10-04 04:51更新時間 10-04 06:09宜蘭縣員山鄉一家老字號五金建材行昨晚10點多發生大火，游姓屋主從3樓驚險逃出，屋主母親在2樓後陽台獲救，但老父親、妻子及一對子女共4人受困火場，消防人員歷經3小時搜救，今天（4日）凌晨1點36分起陸續抬出游父、妻子及一雙兒女，4人均已無生命跡象（OHCA），由救護車送醫搶救。",
+     "title": "宜蘭員山建材行暗夜惡火 一家6口4人OHCA - 社會 - 自由時報電子報",
+     "publishedHKT": "2026-10-04T06:09:40+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 58085,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "publishedCorrection": "Visible first posted 10-04 04:51; meta datePublished is update time 06:09:40.",
+     "group": "tw",
+     "cardPublishedHKT": "2026-10-04T04:51:00+08:00",
+     "modifiedRaw": "2026-10-04T06:09:40+08:00",
+     "modifiedHKT": "2026-10-04T06:09:40+08:00",
+     "dimensions": [
+      800,
+      600
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594723_4_1.jpg",
+     "imageVerified": true
+    },
+    {
+     "id": "lt5594759",
+     "url": "https://news.ltn.com.tw/news/life/breakingnews/5594759",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T08:15:22+08:00",
+     "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594759_1_1.jpg",
+     "description": "苗栗市台6線經國路14.5公里處、新東大橋附近的固定式測速照相桿，近日完成照相機組更新回歸，並「掉頭」了。苗栗縣警察局表示，該設備完成驗收後，將先宣導3個月，再恢復執法，該路段限速70公里，請用路人遵守速限。苗栗市台6線經國路14.5公里處的固定式測速照相桿，上個月被發現桿頭上的照相機組遭拆除，引發用路人議論。",
+     "title": "駕駛快看！測速照相「掉頭」 苗栗台6線將改抓東往西 - 生活 - 自由時報電子報",
+     "publishedHKT": "2026-10-04T08:15:22+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 101835,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "tw",
+     "cardPublishedHKT": "2026-10-04T08:15:22+08:00",
+     "modifiedRaw": "2026-10-04T08:15:22+08:00",
+     "modifiedHKT": "2026-10-04T08:15:22+08:00",
+     "dimensions": [
+      800,
+      592
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://img.ltn.com.tw/Upload/news/600/2026/10/04/5594759_1_1.jpg",
+     "imageVerified": true
+    },
+    {
+     "id": "et3248632",
+     "url": "https://www.ettoday.net/news/20261004/3248632.htm",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T07:43:00+08:00",
+     "ogImage": "https://cdn2.ettoday.net/images/8950/e8950506.jpg",
+     "description": "民進黨台北市長參選人沈伯洋日前在師大夜市討論毒品政策，引發藍綠反毒政策攻防。台北市長蔣萬安周六晚間發文，稱沈「不要拿美沙冬計畫遮掩」，短短9小時破30萬則留言。對此沈伯洋凌晨也在臉書發聲回應。",
+     "title": "快訊／沈伯洋凌晨回應蔣萬安：這才是台北市民想看到的選舉 | ETtoday政治新聞 | ETtoday新聞雲",
+     "publishedHKT": "2026-10-04T07:43:00+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 144158,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "tw",
+     "cardPublishedHKT": "2026-10-04T07:43:00+08:00",
+     "modifiedRaw": "2026-10-04T07:45:03+08:00",
+     "modifiedHKT": "2026-10-04T07:45:03+08:00",
+     "dimensions": [
+      1280,
+      853
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://cdn2.ettoday.net/images/8950/e8950506.jpg",
+     "imageVerified": true
+    },
+    {
+     "id": "ii202610039569",
+     "url": "https://www.iranintl.com/en/202610039569",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-03T21:04:29.927Z",
+     "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
+     "description": "An unannounced meeting of President Donald Trump’s senior national security team at Camp David, as another aircraft carrier and thousands more US troops move toward the Middle East, has raised the prospect of another major operation against Iran.",
+     "title": "Security meeting, military buildup: US weighs next move on Iran?",
+     "publishedHKT": "2026-10-04T05:04:29.927000+08:00",
+     "imageStatus": "200",
+     "contentType": "image/png",
+     "bytes": 1295909,
+     "magic": "89504e470d0a1a0a0000000d",
+     "ogMatch": true,
+     "group": "war",
+     "cardPublishedHKT": "2026-10-04T05:04:29+08:00",
+     "modifiedRaw": "2026-10-03T21:05:37Z",
+     "modifiedHKT": "2026-10-04T05:05:37+08:00",
+     "dimensions": [
+      1200,
+      630
+     ],
+     "decodedFormat": "PNG",
+     "ogImageFromOriginal": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
+     "imageVerified": true
+    },
+    {
+     "id": "ii202610038850",
+     "url": "https://www.iranintl.com/en/202610038850",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-03T16:00:01.792Z",
+     "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/db8c678b875e518c77848a2c76890620ee8c973b-800x524.jpg?rect=129,64,620,326&w=1200&h=630&q=66&fit=max&auto=format",
+     "description": "A senior adviser to Iran’s supreme leader issued a pointed warning to the United Arab Emirates on Saturday, saying “imported security has an expiration date” as tensions between Tehran and Abu Dhabi continue to rise.",
+     "title": "Khamenei adviser warns UAE as tensions with Tehran escalate",
+     "publishedHKT": "2026-10-04T00:00:01.792000+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 28856,
+     "magic": "ffd8ffdb0043000b07080a08",
+     "ogMatch": true,
+     "group": "war",
+     "cardPublishedHKT": "2026-10-04T00:00:01+08:00",
+     "modifiedRaw": "2026-10-03T16:02:14Z",
+     "modifiedHKT": "2026-10-04T00:02:14+08:00",
+     "dimensions": [
+      620,
+      326
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://i.iranintl.com/images/rdk9umy0/production/db8c678b875e518c77848a2c76890620ee8c973b-800x524.jpg?rect=129,64,620,326&w=1200&h=630&q=66&fit=max&auto=format",
+     "imageVerified": true
+    },
+    {
+     "id": "et3248634",
+     "url": "https://www.ettoday.net/news/20261004/3248634.htm",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T07:57:00+08:00",
+     "ogImage": "https://cdn2.ettoday.net/images/8919/e8919945.jpg",
+     "description": "葉門胡塞武裝3日宣稱，以彈道飛彈及無人機攻擊沙烏地阿拉伯首都利雅德附近一座沙烏地阿美石油公司設施。法新社記者在當地目擊設施冒出火焰與濃煙；胡塞武裝同時指控，沙烏地戰機對葉門首都沙那發動26次空襲。",
+     "title": "胡塞武裝稱攻擊阿美石油設施　報復沙烏地空襲葉門 | ETtoday國際新聞 | ETtoday新聞雲",
+     "publishedHKT": "2026-10-04T07:57:00+08:00",
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 249091,
+     "magic": "ffd8ffe000104a4649460001",
+     "ogMatch": true,
+     "group": "war",
+     "cardPublishedHKT": "2026-10-04T07:57:00+08:00",
+     "modifiedRaw": "2026-10-04T07:57:35+08:00",
+     "modifiedHKT": "2026-10-04T07:57:35+08:00",
+     "dimensions": [
+      1280,
+      853
+     ],
+     "decodedFormat": "JPEG",
+     "ogImageFromOriginal": "https://cdn2.ettoday.net/images/8919/e8919945.jpg",
+     "imageVerified": true
+    }
+   ],
+   "notes": [
+    "中國組五篇大紀元及三篇聯合早報；未採用皇崗口岸政府宣傳專頁文章及朝鮮官媒導彈稿。",
+    "長春卡是人潮阻救護及現場疏導事件，並非表演者娛樂或KOL消息。",
+    "租車案屬新發表的案件披露，不聲稱四人今日才判刑。",
+    "殲十模型卡依早報引述獨立防務網站質疑，只稱未證实採購；沒有採用官媒稱已售武器的推論。",
+    "貝森特對Kimi的說法保留明確美方指控，不視作獨立確證。",
+    "胡塞卡較上版阿美設施附近火煙新增深夜承認使用導彈及無人機攻擊、薩那廿六次空襲說法；沙特未置評，相關聲稱均歸屬胡塞。",
+    "宜蘭火警文章meta及JSON-LD誤把更新時間當發放時間，採正文首次上稿04:51，保留更新06:09:40。四人無生命跡象不直接寫已宣告死亡。"
+   ]
+  },
+  "briefs": {
+   "checkedAtHKT": "2026-10-04T08:37:30.559052+08:00",
+   "windowStartExclusiveHKT": "2026-10-03T21:00:00+08:00",
+   "windowEndExclusiveHKT": "2026-10-04T09:30:00+08:00",
+   "incidentHackLawsuitRegulationSearch": {
+    "query": "AI October 3 2026 incident hack lawsuit regulation",
+    "findings": [
+     "Axios Hugging Face lawsuit Sep29",
+     "Ars Hugging Face lawsuit Sep30",
+     "Register current feed HFS exploit article Oct3",
+     "TechCrunch resignation includes Hugging Face breach and nonbinding safety pledge"
+    ],
+    "performedThisRun": true
+   },
+   "briefTimePolicy": "AI四篇及戰事主體兩篇在今版時間窗；半島也門3日下午稿為明示背景，沒有當作當日新傷亡。",
+   "briefs": {
+    "ai": {
+     "textLengthCharacters": 378,
+     "sources": [
+      {
+       "label": "TechCrunch — OpenAI 安全報告負責人辭職",
+       "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+       "httpStatus": 200,
+       "htmlBytes": 237444,
+       "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ | TechCrunch",
+       "ogImageFromArticle": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+       "publicationTimeRaw": "2026-10-03T16:30:01+00:00",
+       "publicationTimeHKT": "2026-10-04T00:30:01+08:00",
+       "inAMCardWindow": true,
+       "role": "current overnight development",
+       "notInPreviousEdition": true,
+       "bodyRead": true,
+       "savedHtml": "ai-safety.html"
+      },
+      {
+       "label": "The Register — Mythos 找出的 HFS 漏洞已被利用",
+       "url": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+       "httpStatus": 200,
+       "htmlBytes": 169576,
+       "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+       "ogImageFromArticle": "https://image.theregister.com/1684441.jpg?imageId=1684441&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+       "publicationTimeRaw": "2026-10-03T15:27:00.000Z",
+       "publicationTimeHKT": "2026-10-03T23:27:00+08:00",
+       "inAMCardWindow": true,
+       "role": "current overnight development",
+       "notInPreviousEdition": true,
+       "bodyRead": true,
+       "savedHtml": "ai-bug.html",
+       "dateNote": "Article visible time reads16:27UTC while JSON-LD datePublished15:27Z; evidence retains authoritative raw metadata. Both are within current AM window, and brief does not cite exact clock."
+      },
+      {
+       "label": "The Decoder — Muse Gadgets 開放自製 AI 裝置",
+       "url": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+       "httpStatus": 200,
+       "htmlBytes": 117928,
+       "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+       "ogImageFromArticle": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
+       "publicationTimeRaw": "2026-10-03T14:28:51+00:00",
+       "publicationTimeHKT": "2026-10-03T22:28:51+08:00",
+       "inAMCardWindow": true,
+       "role": "current overnight development",
+       "notInPreviousEdition": true,
+       "bodyRead": true,
+       "savedHtml": "ai-muse.html"
+      },
+      {
+       "label": "The Decoder — Altman 警告勿把人類判斷交予 AI",
+       "url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+       "httpStatus": 200,
+       "htmlBytes": 118173,
+       "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+       "ogImageFromArticle": "https://the-decoder.com/wp-content/uploads/2026/10/holy_openai.png",
+       "publicationTimeRaw": "2026-10-03T18:56:30+00:00",
+       "publicationTimeHKT": "2026-10-04T02:56:30+08:00",
+       "inAMCardWindow": true,
+       "role": "current overnight development",
+       "notInPreviousEdition": true,
+       "bodyRead": true,
+       "savedHtml": "ai-openai.html"
+      }
+     ],
+     "image": {
+      "url": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
+      "sourceUrl": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+      "exactOgMatch": true,
+      "httpStatus": 200,
+      "contentType": "image/jpeg",
+      "bytes": 122265,
+      "magicHex": "ffd8ffe000104a464946000101000001",
+      "decoded": true,
+      "imageFormat": "JPEG",
+      "dimensions": [
+       1158,
+       702
+      ],
+      "sha256": "474bc57f4dc3625c1cf6ff6edb9e0026df786c01630c0edd46ebd10d1e14e8cc"
+     }
+    },
+    "warb": {
+     "textLengthCharacters": 305,
+     "sources": [
+      {
+       "label": "Iran International — 戴維營會議與中東增兵",
+       "url": "https://www.iranintl.com/en/202610039569",
+       "httpStatus": 200,
+       "htmlBytes": 355041,
+       "title": "Security meeting, military buildup: US weighs next move on Iran?",
+       "ogImageFromArticle": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
+       "publicationTimeRaw": "2026-10-03T21:04:29.927Z",
+       "publicationTimeHKT": "2026-10-04T05:04:29.927000+08:00",
+       "inAMCardWindow": true,
+       "role": "current overnight development",
+       "notInPreviousEdition": true,
+       "bodyRead": true,
+       "savedHtml": "war-security.html"
+      },
+      {
+       "label": "Iran International — 伊朗顧問警告阿聯酋",
+       "url": "https://www.iranintl.com/en/202610038850",
+       "httpStatus": 200,
+       "htmlBytes": 358135,
+       "title": "Khamenei adviser warns UAE as tensions with Tehran escalate",
+       "ogImageFromArticle": "https://i.iranintl.com/images/rdk9umy0/production/db8c678b875e518c77848a2c76890620ee8c973b-800x524.jpg?rect=129,64,620,326&w=1200&h=630&q=66&fit=max&auto=format",
+       "publicationTimeRaw": "2026-10-03T16:00:01.792Z",
+       "publicationTimeHKT": "2026-10-04T00:00:01.792000+08:00",
+       "inAMCardWindow": true,
+       "role": "current overnight development",
+       "notInPreviousEdition": true,
+       "bodyRead": true,
+       "savedHtml": "war-uae.html"
+      },
+      {
+       "label": "半島電視台 — 也門政府軍報告密集打擊胡塞武裝",
+       "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says",
+       "httpStatus": 200,
+       "htmlBytes": 201084,
+       "title": "Yemen’s army says targets Houthis in hundreds of strikes, killing 700",
+       "ogImageFromArticle": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abea14411aa-1790878020.jpg?resize=1200%2C675",
+       "publicationTimeRaw": "2026-10-03T08:36:17Z",
+       "publicationTimeHKT": "2026-10-03T16:36:17+08:00",
+       "inAMCardWindow": false,
+       "role": "recent background",
+       "notInPreviousEdition": true,
+       "bodyRead": true,
+       "savedHtml": "war-yemen.html"
+      }
+     ],
+     "image": {
+      "url": "https://i.iranintl.com/images/rdk9umy0/production/e4413efce88aa5d40cc26ddc31469445562dd916-2484x1518.png?rect=269,285,2061,1082&w=1200&h=630&q=66&fit=max&auto=format",
+      "sourceUrl": "https://www.iranintl.com/en/202610039569",
+      "exactOgMatch": true,
+      "httpStatus": 200,
+      "contentType": "image/png",
+      "bytes": 1295909,
+      "magicHex": "89504e470d0a1a0a0000000d49484452",
+      "decoded": true,
+      "imageFormat": "PNG",
+      "dimensions": [
+       1200,
+       630
+      ],
+      "sha256": "196364698321ee370c53d007329da8a1ea8253b690c35807e01ca2c39abc3027"
+     }
+    }
+   }
+  }
+ },
+ "schedule": {
+  "amStart": "08:30",
+  "pmDraft": "20:30",
+  "pmRefresh": "21:45",
+  "sync": "15:00",
+  "changed": false
+ }
+}
