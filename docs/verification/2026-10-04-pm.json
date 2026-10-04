@@ -1,0 +1,1809 @@
+{
+ "date": "2026-10-04",
+ "edition": "pm",
+ "finalizedAt": "2026-10-04T13:51:34.522Z",
+ "lastSourceCheckedAt": "2026-10-04T21:51:18.580911+08:00",
+ "selfcheckExit": 0,
+ "amPreserved": true,
+ "images": {
+  "checkedAtHKT": "2026-10-04T21:51:18.580911+08:00",
+  "images": [
+   {
+    "group": "hks",
+    "title": "六旬婦墮虛幣騙局失二千萬",
+    "url": "https://www.hk01.com/article/60396149",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183393452356800512210634.jpeg/JU4XM04LMrabwgNHkq5BlhGuW1IBzRmp5LMjreSzI60",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183393452356800512210634.jpeg/JU4XM04LMrabwgNHkq5BlhGuW1IBzRmp5LMjreSzI60",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 310970,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "瑜伽結業舉報增至六百九十四宗",
+    "url": "https://www.hk01.com/article/60396271",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261001/1182384426068217856028391.jpeg/WWiFPhbCWybSTeQJkQjdf_RHjK_Ws0fISs_6FlzP-hY?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261001/1182384426068217856028391.jpeg/WWiFPhbCWybSTeQJkQjdf_RHjK_Ws0fISs_6FlzP-hY?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 157675,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "葉維晉專業失當除牌十八個月",
+    "url": "https://www.hk01.com/article/60396268",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183476878275514368129075.jpeg/32rWpTwCj3ItRv9yz6fYhG2pvN0ndH2KmvKtU7zyrVM?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183476878275514368129075.jpeg/32rWpTwCj3ItRv9yz6fYhG2pvN0ndH2KmvKtU7zyrVM?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 90209,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "東涌翔東路三車相撞兩人受傷",
+    "url": "https://www.hk01.com/article/60396241",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183460262942871552175396.jpeg/BiLLHXZJ2QecC1cQ88wNztqoS3Ddv1-ALT8qTS0_Kk0?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183460262942871552175396.jpeg/BiLLHXZJ2QecC1cQ88wNztqoS3Ddv1-ALT8qTS0_Kk0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 294387,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "鑽石山女子疑揮刀劈閘機",
+    "url": "https://www.hk01.com/article/60396294",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183524730880135168625917.jpeg/jldBlfV-kbWKj4ZUXDuqJhsSi6guhTEbMQPTMzED0zM",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183524730880135168625917.jpeg/jldBlfV-kbWKj4ZUXDuqJhsSi6guhTEbMQPTMzED0zM",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 174867,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "港航飛沖繩客機起落架故障折返",
+    "url": "https://www.hk01.com/article/60396157",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260523/1134674251211870208496832.jpeg/796wzF3oHEvNA3yHZmvS6YmPV4nWqMbF1rlsmda5bJk?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260523/1134674251211870208496832.jpeg/796wzF3oHEvNA3yHZmvS6YmPV4nWqMbF1rlsmda5bJk?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 215928,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "上水菜檔失竊案拘捕四十七歲男",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510042/%E4%B8%8A%E6%B0%B4%E8%8F%9C%E6%AA%94%E9%81%87%E7%AB%8A-%E5%A4%B1%E6%89%8B%E6%A9%9F-1500%E8%B2%A8%E7%89%A9-%E8%AD%A6%E6%8B%9847%E6%AD%B2%E7%94%B7",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04212928/theft.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04212928/theft.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 289836,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hks",
+    "title": "茶果嶺榮華冰室營業六十四年結業",
+    "url": "https://www.hk01.com/article/60396201",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183454221081513984842507.jpeg/GIsMTKnaD4ygzvPw26X2cqdPSS-pZDcHOILnPDiC5zw",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183454221081513984842507.jpeg/GIsMTKnaD4ygzvPw26X2cqdPSS-pZDcHOILnPDiC5zw",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 248781,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "冷鋒帶來雷暴香港發黃色暴雨警告",
+    "url": "https://www.dimsumdaily.hk/amber-rainstorm-warning-issued-as-cold-front-brings-squally-thunderstorms-overnight/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04202742/Rain-2.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04202742/Rain-2.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 336376,
+    "magicHex": "52494646f02105005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1098,
+    "height": 884
+   },
+   {
+    "group": "hkl",
+    "title": "啟德醫院首階段設三百五十街症額",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510124/%E5%95%9F%E5%BE%B7%E9%86%AB%E9%99%A2-%E5%91%A8%E4%B8%80%E9%A6%96%E9%9A%8E%E6%AE%B5%E5%95%9F%E7%94%A8-%E8%A8%AD350%E5%80%8B%E8%A1%97%E7%97%87%E5%90%8D%E9%A1%8D-%E5%B0%87",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05030055/HOSPITAL-TOUR_1537_261004_DMNG-27_frame_14905.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05030055/HOSPITAL-TOUR_1537_261004_DMNG-27_frame_14905.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 399392,
+    "magicHex": "ffd8ffe000104a46494600010102001c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "title": "中環海濱活動空間首階段重開",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510091/%E4%B8%AD%E7%92%B0%E6%B5%B7%E6%BF%B1%E6%B4%BB%E5%8B%95%E7%A9%BA%E9%96%93%E9%A6%96%E9%9A%8E%E6%AE%B5%E9%96%8B%E6%94%BE-%E8%A8%AD%E7%B7%A9%E8%B7%91%E5%BE%91-%E7%A7%BB%E5%8B%95%E6%B2%99",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05003918/CENTRAL-REOPEN-261004-1600_frame_606.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05003918/CENTRAL-REOPEN-261004-1600_frame_606.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 272825,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "title": "香港單車節百公里賽道首經繞道",
+    "url": "https://www.hk01.com/article/60396235",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183450482241179648651437.jpeg/boivd-BYQD5ZqBxFp3Ur7gQxxsHY8kwrH9uAJx_bgCc?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183450482241179648651437.jpeg/boivd-BYQD5ZqBxFp3Ur7gQxxsHY8kwrH9uAJx_bgCc?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 180645,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "港隊亞運十一金五十四獎牌創新高",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510111/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%B8%AF%E9%9A%8A%E5%A5%AA11%E9%87%91-%E5%85%B154%E7%8D%8E%E7%89%8C-%E5%9C%8B%E5%AE%B6%E9%9A%8A169%E9%87%91%E6%88%90%E5%A4%A7",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05023659/AGCLOSING_1555_261004_N_GD1-.01_frame_120991.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05023659/AGCLOSING_1555_261004_N_GD1-.01_frame_120991.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 425349,
+    "magicHex": "ffd8ffe000104a46494600010102001c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "title": "移植透析運動會本月十六日開鑼",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510060/%E7%A7%BB%E6%A4%8D%E5%8F%8A%E9%80%8F%E6%9E%90%E4%BA%BA%E5%A3%AB%E9%81%8B%E5%8B%95%E6%9C%8310-16%E9%96%8B%E9%91%BC-%E5%8F%83%E8%B3%BD%E8%80%85%E6%B8%9B%E5%B0%91-%E4%B8%BB%E8%BE%A6",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04205827/ORGAN-DONATE-261004-1200_frame_486.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04205827/ORGAN-DONATE-261004-1200_frame_486.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 274249,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkl",
+    "title": "黃金周回港高峰港珠澳大橋繁忙",
+    "url": "https://www.hk01.com/article/60396247",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183461722782961664287439.jpeg/40z3Y4axODe6ZKmx3kK2nyrZNFklYe3dYwJwtGMCcLQ?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183461722782961664287439.jpeg/40z3Y4axODe6ZKmx3kK2nyrZNFklYe3dYwJwtGMCcLQ?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 28422,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 420,
+    "height": 236
+   },
+   {
+    "group": "hkl",
+    "title": "新界東北堆填區擴建全面啟用",
+    "url": "https://www.hk01.com/article/60396296",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20240102/818917922167590912062541.jpeg/EPHZFTCBuu2ZbDiRHazqLDvbNVBB-OibfARPEXwETxE?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20240102/818917922167590912062541.jpeg/EPHZFTCBuu2ZbDiRHazqLDvbNVBB-OibfARPEXwETxE?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 190273,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hke",
+    "title": "積金易明起可一站查帳戶結餘",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510031/%E7%A9%8D%E9%87%91%E6%98%93%E6%98%8E%E8%B5%B7%E6%8E%A8-%E5%BC%B7%E7%A9%8D%E9%87%91%E5%B8%B3%E6%88%B6%E8%B3%87%E6%96%99%E6%9F%A5%E8%A9%A2%E6%9C%8D%E5%8B%99",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04183305/MPF-ENQUIRY-261004-1200_frame_1039.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04183305/MPF-ENQUIRY-261004-1200_frame_1039.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 157386,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hke",
+    "title": "港投稱逾三十家企業擬香港上市",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510029/%E6%B8%AF%E6%8A%95%E5%85%AC%E5%8F%B8%E6%8A%95%E8%B3%87%E9%80%BE200%E4%BC%81%E6%A5%AD-30%E5%A4%9A%E9%96%93%E6%93%AC%E8%B5%B4%E6%B8%AF%E4%B8%8A%E5%B8%82-%E9%99%B3%E5%AE%B6%E9%BD%8A",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04183144/vlcsnap-2026-10-04-10h31m38s958.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04183144/vlcsnap-2026-10-04-10h31m38s958.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 429333,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hke",
+    "title": "長沙灣半業權單位五十萬起拍",
+    "url": "https://www.dimsumdaily.hk/former-partner-key-as-cheung-sha-wan-half%e2%80%91title-flat-auctions-at-hk500000/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04133800/Hong-Fai-Building.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04133800/Hong-Fai-Building.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 225142,
+    "magicHex": "524946466e6f03005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 944,
+    "height": 754
+   },
+   {
+    "group": "hkp",
+    "title": "范徐麗泰倡檢討立法會九十議席",
+    "url": "https://www.hk01.com/article/60396181",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183420374172307456582096.jpeg/WUT8xTVaYYRjpumeWbshfSfezwSd8uTP9_sdvPf7Hbw",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183420374172307456582096.jpeg/WUT8xTVaYYRjpumeWbshfSfezwSd8uTP9_sdvPf7Hbw",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 172821,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkp",
+    "title": "外籍家居照顧員明年下半年試行",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510056/%E5%A4%96%E7%B1%8D%E5%AE%B6%E5%B1%85%E7%85%A7%E9%A1%A7%E5%93%A1-%E5%AD%AB%E7%8E%89%E8%8F%A1%E6%96%99%E6%98%8E%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%A9%A6%E8%A1%8C-%E5%88%9D%E6%9C%9F",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04204041/vlcsnap-2026-10-04-12h40m31s445.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04204041/vlcsnap-2026-10-04-12h40m31s445.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 259346,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hkp",
+    "title": "新皇崗體驗人士憂洗手間不足",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510121/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%80%BE1500%E4%BA%BA%E5%8F%83%E5%8A%A0%E7%A4%BE%E5%8D%80%E9%AB%94%E9%A9%97%E6%97%A5-%E8%AE%9Awifi%E6%9A%A2%E9%A0%86%E6%83%9F%E6%B4%97",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05024249/BORDER-VISIT-261004-1815_frame_2925.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05024249/BORDER-VISIT-261004-1815_frame_2925.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 621335,
+    "magicHex": "ffd8ffe000104a46494600010102001c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "cn",
+    "title": "羅湖皇室假期員工示威追薪",
+    "url": "https://www.hk01.com/article/60396184",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183440418776289280124789.jpeg/FTVPowyH_aN42zZPCat3X3R8TVwrGtf_4b5EIeG-RCE",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183440418776289280124789.jpeg/FTVPowyH_aN42zZPCat3X3R8TVwrGtf_4b5EIeG-RCE",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 221411,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "cn",
+    "title": "南京女員工討薪遭老闆踢踹",
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14862983.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863014-5c2cd1387dbb6538cc8ebe7f12044db8-700x359.png",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863014-5c2cd1387dbb6538cc8ebe7f12044db8-700x359.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 120769,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "勞工權益自媒體人小五傳被拘",
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14862956.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14861495-876406-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14861495-876406-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 133142,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "網安企指中國黑客假冒AI專家",
+    "url": "https://www.hk01.com/article/60396153",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20250616/1011181289488781312913027.jpeg/yROFJq1kbN6KwfH7HQCMb0EE1iYP9gTFnb_0IZ2_9CE?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20250616/1011181289488781312913027.jpeg/yROFJq1kbN6KwfH7HQCMb0EE1iYP9gTFnb_0IZ2_9CE?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 179971,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "title": "冷空氣南下廣州預料跌破廿度",
+    "url": "https://www.hk01.com/article/60396237",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20210625/485123474579918848648135.jpeg/aU9kQIFCsO395EbURjiBOpTp-gespfl1LVqHMS1ahzE?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20210625/485123474579918848648135.jpeg/aU9kQIFCsO395EbURjiBOpTp-gespfl1LVqHMS1ahzE?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 34216,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 440,
+    "height": 248
+   },
+   {
+    "group": "cn",
+    "title": "貴陽幼童十樓墮下獲簷篷緩衝",
+    "url": "https://www.hk01.com/article/60396238",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183453733153935360384912.png/5MUoFIRDuPXX4Gf1ejSHrikMgF7_L-lpw-KYlcPimJU?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183453733153935360384912.png/5MUoFIRDuPXX4Gf1ejSHrikMgF7_L-lpw-KYlcPimJU?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 34177,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 720,
+    "height": 405
+   },
+   {
+    "group": "cn",
+    "title": "貴州二十四道拐景區改免門票",
+    "url": "https://www.zaobao.com.sg/news/china/story20261004-9782377",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/zaobao/0d73a662df843ceb8c73ac8b7930d80e296577335a1bc69845ac8a91c1e6eb28",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/0d73a662df843ceb8c73ac8b7930d80e296577335a1bc69845ac8a91c1e6eb28",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 285128,
+    "magicHex": "52494646c05904005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "cn",
+    "title": "泰山山火出動直升機吊桶滅火",
+    "url": "https://www.hk01.com/article/60396293",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183511634404970496384961.png/2yfiIULn3Tsx-h1v2Xu8oTgC8Ej2fA6t7YRcZu2EXGY?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183511634404970496384961.png/2yfiIULn3Tsx-h1v2Xu8oTgC8Ej2fA6t7YRcZu2EXGY?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 70825,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "us",
+    "title": "康奈爾校長支持獨立查性侵案",
+    "url": "https://www.hk01.com/article/60396233",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260923/1179496992204656640162730.jpeg/NrAuUg6dAD-qNuOqX1OblPaUNedBF86ZmCrStpgq0rY?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260923/1179496992204656640162730.jpeg/NrAuUg6dAD-qNuOqX1OblPaUNedBF86ZmCrStpgq0rY?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 90888,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 394
+   },
+   {
+    "group": "us",
+    "title": "特朗普籲致電議員推永久夏令時",
+    "url": "https://www.hk01.com/article/60396257",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1182992660315508736105497.jpeg/CZUm2yY1SVXQcfW4XcwQnAKYJyWvxMB--GrslPhq7JQ?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1182992660315508736105497.jpeg/CZUm2yY1SVXQcfW4XcwQnAKYJyWvxMB--GrslPhq7JQ?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 129341,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "us",
+    "title": "美防長稱駐歐美軍或調西半球",
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14863025.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/09/id14860464-GettyImages-2263868844-1-700x359.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/09/id14860464-GettyImages-2263868844-1-700x359.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 153880,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "tw",
+    "title": "台中火雞肉飯店八食客不適",
+    "url": "https://www.ettoday.net/news/20261004/3248984.htm",
+    "cardOg": "https://cdn2.ettoday.net/images/8953/e8953417.png",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn2.ettoday.net/images/8953/e8953417.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 714702,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 964,
+    "height": 572
+   },
+   {
+    "group": "tw",
+    "title": "台中毒駕受傷田徑學生完成手術",
+    "url": "https://www.ettoday.net/news/20261004/3248946.htm",
+    "cardOg": "https://cdn2.ettoday.net/images/8953/e8953264.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn2.ettoday.net/images/8953/e8953264.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 76975,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1148,
+    "height": 890
+   },
+   {
+    "group": "tw",
+    "title": "蔡英文賴清德同台挺沈伯洋",
+    "url": "https://udn.com/news/story/124652/9794178",
+    "cardOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/04/35389072.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "articleHTTP": 200,
+    "articleOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/04/35389072.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 417973,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 853
+   },
+   {
+    "group": "war",
+    "title": "特朗普稱即將決定對伊朗下一步",
+    "url": "https://www.iranintl.com/en/202610048164",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/13097fed5897a6fbae3278dc191aa4affd6b4a03-5000x3333.jpg?rect=0,355,5000,2625&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/13097fed5897a6fbae3278dc191aa4affd6b4a03-5000x3333.jpg?rect=0,355,5000,2625&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 56587,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "war",
+    "title": "伊朗里亞爾兌美元再創新低",
+    "url": "https://www.iranintl.com/en/202610044269",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/17a8603b3a17d07e60fe0aaf5b98a7e8b0298891-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/17a8603b3a17d07e60fe0aaf5b98a7e8b0298891-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 68476,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "war",
+    "title": "伊朗外長否認聯大代表遭驅逐",
+    "url": "https://www.hk01.com/article/60396288",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260514/1131661510515363840329708.jpeg/VAiRxwzrx2tQ51ukFbpWBphZzqTzG8hkIxBvwyMQb8M?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260514/1131661510515363840329708.jpeg/VAiRxwzrx2tQ51ukFbpWBphZzqTzG8hkIxBvwyMQb8M?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 135947,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "ai",
+    "title": "ai",
+    "url": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
+    "cardOg": "https://the-decoder.com/wp-content/uploads/2026/09/aleph_alpha_china_benchmark-1200x670.png",
+    "articleHTTP": 200,
+    "articleOg": "https://the-decoder.com/wp-content/uploads/2026/09/aleph_alpha_china_benchmark-1200x670.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 1491931,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 670
+   },
+   {
+    "group": "warb",
+    "title": "warb",
+    "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions",
+    "cardOg": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a83dd487a-1787026760.jpg?resize=1920%2C1440",
+    "articleHTTP": 200,
+    "articleOg": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a83dd487a-1787026760.jpg?resize=1920%2C1440",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 382171,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1440
+   }
+  ],
+  "failures": []
+ },
+ "root": [
+  {
+   "group": "hke",
+   "index": 0,
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510031/%E7%A9%8D%E9%87%91%E6%98%93%E6%98%8E%E8%B5%B7%E6%8E%A8-%E5%BC%B7%E7%A9%8D%E9%87%91%E5%B8%B3%E6%88%B6%E8%B3%87%E6%96%99%E6%9F%A5%E8%A9%A2%E6%9C%8D%E5%8B%99",
+   "http": 200,
+   "title": "積金易明起推「強積金帳戶資料查詢服務」 - 有線寬頻 i-CABLE",
+   "og": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04183305/MPF-ENQUIRY-261004-1200_frame_1039.jpeg",
+   "published": "2026-10-04T02:33:24+00:00",
+   "modified": "2026-10-04T04:31:33+00:00",
+   "checkedAt": "2026-10-04T21:47:23.574719+08:00"
+  },
+  {
+   "group": "hke",
+   "index": 1,
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510029/%E6%B8%AF%E6%8A%95%E5%85%AC%E5%8F%B8%E6%8A%95%E8%B3%87%E9%80%BE200%E4%BC%81%E6%A5%AD-30%E5%A4%9A%E9%96%93%E6%93%AC%E8%B5%B4%E6%B8%AF%E4%B8%8A%E5%B8%82-%E9%99%B3%E5%AE%B6%E9%BD%8A",
+   "http": 200,
+   "title": "港投公司投資逾200企業　30多間擬赴港上市　陳家齊：帶動國際資本跟投 - 有線寬頻 i-CABLE",
+   "og": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04183144/vlcsnap-2026-10-04-10h31m38s958.jpg",
+   "published": "2026-10-04T02:33:17+00:00",
+   "modified": "2026-10-04T02:33:27+00:00",
+   "checkedAt": "2026-10-04T21:47:23.220896+08:00"
+  },
+  {
+   "group": "hke",
+   "index": 2,
+   "url": "https://www.dimsumdaily.hk/former-partner-key-as-cheung-sha-wan-half%e2%80%91title-flat-auctions-at-hk500000/",
+   "http": 200,
+   "title": "Former partner key as Cheung Sha Wan half‑title flat auctions at HK$500,000",
+   "og": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04133800/Hong-Fai-Building.webp",
+   "published": "2026-10-04T05:38:47+00:00",
+   "modified": "2026-10-04T05:38:52+00:00",
+   "checkedAt": "2026-10-04T21:47:23.143543+08:00"
+  },
+  {
+   "group": "hkp",
+   "index": 0,
+   "url": "https://www.hk01.com/article/60396181",
+   "http": 200,
+   "title": "立法會前主席范徐麗泰：90席用很多公帑需檢討　回應李家超連任否",
+   "og": "https://cdn.hk01.com/di/media/images/dw/20261004/1183420374172307456582096.jpeg/WUT8xTVaYYRjpumeWbshfSfezwSd8uTP9_sdvPf7Hbw",
+   "published": "2026-10-04T12:54:10+08:00",
+   "modified": "2026-10-04T14:15:01+08:00",
+   "checkedAt": "2026-10-04T21:47:22.993344+08:00"
+  },
+  {
+   "group": "hkp",
+   "index": 1,
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510056/%E5%A4%96%E7%B1%8D%E5%AE%B6%E5%B1%85%E7%85%A7%E9%A1%A7%E5%93%A1-%E5%AD%AB%E7%8E%89%E8%8F%A1%E6%96%99%E6%98%8E%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%A9%A6%E8%A1%8C-%E5%88%9D%E6%9C%9F",
+   "http": 200,
+   "title": "外籍家居照顧員｜孫玉菡料明年下半年試行　初期限數百人、委任機構赴當地監管課程 - 有線寬頻 i-CABLE",
+   "og": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04204041/vlcsnap-2026-10-04-12h40m31s445.jpg",
+   "published": "2026-10-04T04:41:00+00:00",
+   "modified": "2026-10-04T04:41:13+00:00",
+   "checkedAt": "2026-10-04T21:47:23.314039+08:00"
+  },
+  {
+   "group": "hkp",
+   "index": 2,
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510121/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%80%BE1500%E4%BA%BA%E5%8F%83%E5%8A%A0%E7%A4%BE%E5%8D%80%E9%AB%94%E9%A9%97%E6%97%A5-%E8%AE%9Awifi%E6%9A%A2%E9%A0%86%E6%83%9F%E6%B4%97",
+   "http": 200,
+   "title": "新皇崗口岸｜逾1,500人參加社區體驗日　讚WiFi暢順惟洗手間不足　區議員冀增巴士線 - 有線寬頻 i-CABLE",
+   "og": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05024249/BORDER-VISIT-261004-1815_frame_2925.jpg",
+   "published": "2026-10-04T10:43:05+00:00",
+   "modified": "2026-10-04T11:19:21+00:00",
+   "checkedAt": "2026-10-04T21:47:23.220428+08:00"
+  }
+ ],
+ "hk": [
+  {
+   "url": "https://www.hk01.com/article/60396149",
+   "http": 200,
+   "title": "60歲婦誤信專家墮虛擬貨幣投資騙局　交保證金證清白　被呃2150萬",
+   "description": "一名60歲婦人誤信自稱「投資專家」的騙徒，在一個虛擬網站投資加密貨幣，期間多次轉帳金錢以證明其帳戶沒被用作洗黑錢，結果損失約2,150萬港元，警",
+   "publishedRaw": "2026-10-04T10:31:19+08:00",
+   "modifiedRaw": "2026-10-04T14:16:59+08:00",
+   "oldMetadata": [
+    "2026-10-04 10:31",
+    "2026-10-04 14:16",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183393452356800512210634.jpeg/JU4XM04LMrabwgNHkq5BlhGuW1IBzRmp5LMjreSzI60"
+   ],
+   "newMetadata": [
+    "2026-10-04 10:31",
+    "2026-10-04 14:16",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183393452356800512210634.jpeg/JU4XM04LMrabwgNHkq5BlhGuW1IBzRmp5LMjreSzI60"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hks0.txt",
+   "checkedAt": "2026-10-04T21:47:37.176341+08:00"
+  },
+  {
+   "url": "https://www.hk01.com/article/60396271",
+   "http": 200,
+   "title": "Hotstone Yoga結業｜截至今午6時　海關接694宗舉報　涉款780萬元",
+   "description": "主打岩盤浴瑜伽的Hotstone Yoga日前突然全線結業，不少顧客反映上月仍被推銷課程。香港海關回覆指，截至今日（4日）下午6時，共接獲694宗有關該瑜",
+   "publishedRaw": "2026-10-04T18:01:11+08:00",
+   "modifiedRaw": "2026-10-04T18:58:45+08:00",
+   "oldMetadata": [
+    "2026-10-04 18:01",
+    "2026-10-04 18:58",
+    "https://cdn.hk01.com/di/media/images/dw/20261001/1182384426068217856028391.jpeg/WWiFPhbCWybSTeQJkQjdf_RHjK_Ws0fISs_6FlzP-hY?v=w1280r16_9"
+   ],
+   "newMetadata": [
+    "2026-10-04 18:01",
+    "2026-10-04 18:58",
+    "https://cdn.hk01.com/di/media/images/dw/20261001/1182384426068217856028391.jpeg/WWiFPhbCWybSTeQJkQjdf_RHjK_Ws0fISs_6FlzP-hY?v=w1280r16_9"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hks1.txt",
+   "checkedAt": "2026-10-04T21:47:37.416121+08:00"
+  },
+  {
+   "url": "https://www.hk01.com/article/60396268",
+   "http": 200,
+   "title": "泌尿科名醫葉維晉涉不當開藥裁定專業失當　除牌18個月不獲緩刑",
+   "description": "泌尿外科專科醫生葉維晉涉不當向一名患末期肺癌的內地男子開藥一案，自今年6月起經過四次審訊，醫委會今日（4日）終於裁定他專業失當，判他從醫委",
+   "publishedRaw": "2026-10-04T18:47:22+08:00",
+   "modifiedRaw": "2026-10-04T20:53:28+08:00",
+   "oldMetadata": [
+    "2026-10-04 18:47",
+    "2026-10-04 18:47",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183476878275514368129075.jpeg/32rWpTwCj3ItRv9yz6fYhG2pvN0ndH2KmvKtU7zyrVM?v=w1280r16_9"
+   ],
+   "newMetadata": [
+    "2026-10-04 18:47",
+    "2026-10-04 20:53",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183476878275514368129075.jpeg/32rWpTwCj3ItRv9yz6fYhG2pvN0ndH2KmvKtU7zyrVM?v=w1280r16_9"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hks2.txt",
+   "checkedAt": "2026-10-04T21:47:37.422080+08:00"
+  },
+  {
+   "url": "https://www.hk01.com/article/60396241",
+   "http": 200,
+   "title": "東涌翔東路3車相撞釀2傷　貨Van的士迎頭猛撼　來回線一度全封",
+   "description": "東涌發生交通意外。今日（4日）下午3時37分，有3車於翔東路近欣澳海水抽水站附近相撞，包括客貨車、的士及私家車；其他駕駛人士途經報警。據報的士",
+   "publishedRaw": "2026-10-04T16:54:00+08:00",
+   "modifiedRaw": "2026-10-04T19:36:02+08:00",
+   "oldMetadata": [
+    "2026-10-04 16:54",
+    "2026-10-04 19:36",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183460262942871552175396.jpeg/BiLLHXZJ2QecC1cQ88wNztqoS3Ddv1-ALT8qTS0_Kk0?v=w1280r16_9"
+   ],
+   "newMetadata": [
+    "2026-10-04 16:54",
+    "2026-10-04 19:36",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183460262942871552175396.jpeg/BiLLHXZJ2QecC1cQ88wNztqoS3Ddv1-ALT8qTS0_Kk0?v=w1280r16_9"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hks3.txt",
+   "checkedAt": "2026-10-04T21:47:37.172735+08:00"
+  },
+  {
+   "url": "https://www.hk01.com/article/60396175",
+   "http": 200,
+   "title": "荃灣城門水塘女子行山遭馬騮咬傷　手流血送院",
+   "description": "今日（4日）上午11時16分，警方接報，指一名30餘歲女子在荃灣城門水塘近菠蘿壩行山期間，遭野生馬騮咬傷手部流血。救援人員接報到場，將女事主送往",
+   "publishedRaw": "2026-10-04T12:29:35+08:00",
+   "modifiedRaw": "2026-10-04T12:29:37+08:00",
+   "oldMetadata": [
+    "2026-10-04 12:29",
+    "2026-10-04 12:29",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183391497966325760673281.jpeg/9-6K3Ll2Ylu-0jFD3kIOIXRwOHn2FHGuRP5rUET-a1A?v=w1280r16_9"
+   ],
+   "newMetadata": [
+    "2026-10-04 12:29",
+    "2026-10-04 12:29",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183391497966325760673281.jpeg/9-6K3Ll2Ylu-0jFD3kIOIXRwOHn2FHGuRP5rUET-a1A?v=w1280r16_9"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hks4.txt",
+   "checkedAt": "2026-10-04T21:47:37.421051+08:00"
+  },
+  {
+   "url": "https://www.hk01.com/article/60396157",
+   "http": 200,
+   "title": "港航HX676飛沖繩客機起落架未能收起　起飛不足一小時折返香港",
+   "description": "今日（4日）上午9時34分，警方接報，指香港航空一架原定飛往沖繩那霸的HX676 客機，今早約9時15分由香港機場起飛後，懷疑起落架未能收起需要緊急折",
+   "publishedRaw": "2026-10-04T10:54:47+08:00",
+   "modifiedRaw": "2026-10-04T14:53:15+08:00",
+   "oldMetadata": [
+    "2026-10-04 10:54",
+    "2026-10-04 14:53",
+    "https://cdn.hk01.com/di/media/images/dw/20260523/1134674251211870208496832.jpeg/796wzF3oHEvNA3yHZmvS6YmPV4nWqMbF1rlsmda5bJk?v=w1280r16_9"
+   ],
+   "newMetadata": [
+    "2026-10-04 10:54",
+    "2026-10-04 14:53",
+    "https://cdn.hk01.com/di/media/images/dw/20260523/1134674251211870208496832.jpeg/796wzF3oHEvNA3yHZmvS6YmPV4nWqMbF1rlsmda5bJk?v=w1280r16_9"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hks5.txt",
+   "checkedAt": "2026-10-04T21:47:37.366383+08:00"
+  },
+  {
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510042/%E4%B8%8A%E6%B0%B4%E8%8F%9C%E6%AA%94%E9%81%87%E7%AB%8A-%E5%A4%B1%E6%89%8B%E6%A9%9F-1500%E8%B2%A8%E7%89%A9-%E8%AD%A6%E6%8B%9847%E6%AD%B2%E7%94%B7",
+   "http": 200,
+   "title": "上水菜檔遇竊　失手機、$1500貨物　警拘47歲男 - 有線寬頻 i-CABLE",
+   "description": "【有線新聞】上水菜檔遇竊案，警方拘捕一名47歲男子。 網上片段看到賊人翻開菜檔發泡膠箱搜掠，將一些果菜放入袋。",
+   "publishedRaw": "2026-10-04T03:37:20+00:00",
+   "modifiedRaw": "2026-10-04T05:35:34+00:00",
+   "oldMetadata": [
+    "2026-10-04 11:37",
+    "2026-10-04 13:35",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04212928/theft.jpg"
+   ],
+   "newMetadata": [
+    "2026-10-04 11:37",
+    "2026-10-04 13:35",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04212928/theft.jpg"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hks6.txt",
+   "checkedAt": "2026-10-04T21:47:37.385143+08:00"
+  },
+  {
+   "url": "https://www.hk01.com/article/60396201",
+   "http": 200,
+   "title": "茶果嶺村將清拆｜64年榮華冰室結業　食客排長龍　老闆難捨街坊情",
+   "description": "逾300年歷史的茶果嶺村將清拆興建公屋，政府已陸續收地，村內居民紛紛遷出，店舖陸續結業，當中包括陪伴幾代街坊成長、屹立逾60年的榮華冰室，今日",
+   "publishedRaw": "2026-10-04T15:24:41+08:00",
+   "modifiedRaw": "2026-10-04T20:10:23+08:00",
+   "oldMetadata": [
+    "2026-10-04 15:24",
+    "2026-10-04 20:10",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183454221081513984842507.jpeg/GIsMTKnaD4ygzvPw26X2cqdPSS-pZDcHOILnPDiC5zw"
+   ],
+   "newMetadata": [
+    "2026-10-04 15:24",
+    "2026-10-04 20:10",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183454221081513984842507.jpeg/GIsMTKnaD4ygzvPw26X2cqdPSS-pZDcHOILnPDiC5zw"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hks7.txt",
+   "checkedAt": "2026-10-04T21:47:37.363678+08:00"
+  },
+  {
+   "url": "https://www.dimsumdaily.hk/amber-rainstorm-warning-issued-as-cold-front-brings-squally-thunderstorms-overnight/",
+   "http": 200,
+   "title": "Amber Rainstorm warning issued as cold front brings squally thunderstorms overnight - Dimsum Daily",
+   "description": "4th October 2026 – (Hong Kong) The Hong Kong Observatory issued a Special Announcement on the Amber Rainstorm Warning Signal at 8.20pm, advising that heavy rain has fallen or is expected to fall generally over the territory at rates exceeding 30 millimetres an hour and is likely to continue. Members of the public were urged […]",
+   "publishedRaw": "2026-10-04T12:28:20+00:00",
+   "modifiedRaw": "2026-10-04T12:28:26+00:00",
+   "oldMetadata": [
+    "2026-10-04 20:28",
+    "2026-10-04 20:28",
+    "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04202742/Rain-2.webp"
+   ],
+   "newMetadata": [
+    "2026-10-04 20:28",
+    "2026-10-04 20:28",
+    "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04202742/Rain-2.webp"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hkl0.txt",
+   "checkedAt": "2026-10-04T21:47:37.376454+08:00"
+  },
+  {
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510124/%E5%95%9F%E5%BE%B7%E9%86%AB%E9%99%A2-%E5%91%A8%E4%B8%80%E9%A6%96%E9%9A%8E%E6%AE%B5%E5%95%9F%E7%94%A8-%E8%A8%AD350%E5%80%8B%E8%A1%97%E7%97%87%E5%90%8D%E9%A1%8D-%E5%B0%87",
+   "http": 200,
+   "title": "啟德醫院｜周一首階段啟用　設350個街症名額、將逐步增加　料2028年全面承接QE服務 - 有線寬頻 i-CABLE",
+   "description": "【有線新聞】啟德醫院周一首階段投入服務，率先開放家庭醫學綜合中心以及專職醫療服務，提供350個街症名額，接收部",
+   "publishedRaw": "2026-10-04T11:01:18+00:00",
+   "modifiedRaw": "2026-10-04T11:18:50+00:00",
+   "oldMetadata": [
+    "2026-10-04 19:01",
+    "2026-10-04 19:18",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05030055/HOSPITAL-TOUR_1537_261004_DMNG-27_frame_14905.jpg"
+   ],
+   "newMetadata": [
+    "2026-10-04 19:01",
+    "2026-10-04 19:18",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05030055/HOSPITAL-TOUR_1537_261004_DMNG-27_frame_14905.jpg"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hkl1.txt",
+   "checkedAt": "2026-10-04T21:47:37.425156+08:00"
+  },
+  {
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510091/%E4%B8%AD%E7%92%B0%E6%B5%B7%E6%BF%B1%E6%B4%BB%E5%8B%95%E7%A9%BA%E9%96%93%E9%A6%96%E9%9A%8E%E6%AE%B5%E9%96%8B%E6%94%BE-%E8%A8%AD%E7%B7%A9%E8%B7%91%E5%BE%91-%E7%A7%BB%E5%8B%95%E6%B2%99",
+   "http": 200,
+   "title": "中環海濱活動空間首階段開放　設緩跑徑、移動沙發　台灣旅客大讚：吹吹風很舒服 - 有線寬頻 i-CABLE",
+   "description": "【有線新聞】中環海濱活動空間首階段開放予公眾，設有戶外休憩空間及緩跑徑等，本月將開放直至16日，預計明年中完成",
+   "publishedRaw": "2026-10-04T08:41:52+00:00",
+   "modifiedRaw": "2026-10-04T08:48:36+00:00",
+   "oldMetadata": [
+    "2026-10-04 16:41",
+    "2026-10-04 16:48",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05003918/CENTRAL-REOPEN-261004-1600_frame_606.jpeg"
+   ],
+   "newMetadata": [
+    "2026-10-04 16:41",
+    "2026-10-04 16:48",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05003918/CENTRAL-REOPEN-261004-1600_frame_606.jpeg"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hkl2.txt",
+   "checkedAt": "2026-10-04T21:47:38.165826+08:00"
+  },
+  {
+   "url": "https://www.hk01.com/article/60396235",
+   "http": 200,
+   "title": "單車節｜UCI 1.1級公路賽睽違3年回歸　百公里賽道首經中九龍繞道",
+   "description": "旅發局「新鴻基地產香港單車節」將於下周日（11日）舉行，當中睽違三年的「國際單車聯盟（UCI）1.1級公路賽」將再度回歸。今屆賽事採用全新100公里",
+   "publishedRaw": "2026-10-04T16:19:11+08:00",
+   "modifiedRaw": "2026-10-04T16:19:35+08:00",
+   "oldMetadata": [
+    "2026-10-04 16:19",
+    "2026-10-04 16:19",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183450482241179648651437.jpeg/boivd-BYQD5ZqBxFp3Ur7gQxxsHY8kwrH9uAJx_bgCc?v=w1280r16_9"
+   ],
+   "newMetadata": [
+    "2026-10-04 16:19",
+    "2026-10-04 16:19",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183450482241179648651437.jpeg/boivd-BYQD5ZqBxFp3Ur7gQxxsHY8kwrH9uAJx_bgCc?v=w1280r16_9"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hkl3.txt",
+   "checkedAt": "2026-10-04T21:47:38.278532+08:00"
+  },
+  {
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510111/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E9%81%8B-%E6%B8%AF%E9%9A%8A%E5%A5%AA11%E9%87%91-%E5%85%B154%E7%8D%8E%E7%89%8C-%E5%9C%8B%E5%AE%B6%E9%9A%8A169%E9%87%91%E6%88%90%E5%A4%A7",
+   "http": 200,
+   "title": "名古屋亞運｜港隊奪11金、共54獎牌　國家隊169金成大贏家　下屆交棒卡塔爾多哈 - 有線寬頻 i-CABLE",
+   "description": "【有線新聞】為期16天的名古屋亞運閉幕，以「同一個亞洲」為主題，七人欖球的李卡度擔任港隊持旗手，下屆由卡塔爾多",
+   "publishedRaw": "2026-10-04T09:59:15+00:00",
+   "modifiedRaw": "2026-10-04T13:36:53+00:00",
+   "oldMetadata": [
+    "2026-10-04 17:59",
+    "2026-10-04 19:16",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05023659/AGCLOSING_1555_261004_N_GD1-.01_frame_120991.jpg"
+   ],
+   "newMetadata": [
+    "2026-10-04 17:59",
+    "2026-10-04 21:36",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05023659/AGCLOSING_1555_261004_N_GD1-.01_frame_120991.jpg"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hkl4.txt",
+   "checkedAt": "2026-10-04T21:47:38.540978+08:00"
+  },
+  {
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510060/%E7%A7%BB%E6%A4%8D%E5%8F%8A%E9%80%8F%E6%9E%90%E4%BA%BA%E5%A3%AB%E9%81%8B%E5%8B%95%E6%9C%8310-16%E9%96%8B%E9%91%BC-%E5%8F%83%E8%B3%BD%E8%80%85%E6%B8%9B%E5%B0%91-%E4%B8%BB%E8%BE%A6",
+   "http": 200,
+   "title": "移植及透析人士運動會10.16開鑼　參賽者減少　主辦方：捐贈率低缺「新人」 - 有線寬頻 i-CABLE",
+   "description": "【有線新聞】第六屆移植及透析人士運動會本月16至19日舉行，主辦單位指今屆參與人數減少，與近年器官捐贈減少有關",
+   "publishedRaw": "2026-10-04T05:00:29+00:00",
+   "modifiedRaw": "2026-10-04T08:33:37+00:00",
+   "oldMetadata": [
+    "2026-10-04 13:00",
+    "2026-10-04 16:33",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04205827/ORGAN-DONATE-261004-1200_frame_486.jpeg"
+   ],
+   "newMetadata": [
+    "2026-10-04 13:00",
+    "2026-10-04 16:33",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04205827/ORGAN-DONATE-261004-1200_frame_486.jpeg"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hkl5.txt",
+   "checkedAt": "2026-10-04T21:47:38.579711+08:00"
+  },
+  {
+   "url": "https://www.hk01.com/article/60396247",
+   "http": 200,
+   "title": "十一黃金周｜今料58.6萬人入境　運輸署：港珠澳大橋回港非常繁忙",
+   "description": "一連七日的內地「十一黃金周」自上周四（1日）開始。入境處早前預計，今日（4日）為入境高峰期，入境人次約58.6萬。運輸署表示，港珠澳大橋珠海口",
+   "publishedRaw": "2026-10-04T16:59:50+08:00",
+   "modifiedRaw": "2026-10-04T17:00:29+08:00",
+   "oldMetadata": [
+    "2026-10-04 16:59",
+    "2026-10-04 17:00",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183461722782961664287439.jpeg/40z3Y4axODe6ZKmx3kK2nyrZNFklYe3dYwJwtGMCcLQ?v=w1280r16_9"
+   ],
+   "newMetadata": [
+    "2026-10-04 16:59",
+    "2026-10-04 17:00",
+    "https://cdn.hk01.com/di/media/images/dw/20261004/1183461722782961664287439.jpeg/40z3Y4axODe6ZKmx3kK2nyrZNFklYe3dYwJwtGMCcLQ?v=w1280r16_9"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hkl6.txt",
+   "checkedAt": "2026-10-04T21:47:38.680060+08:00"
+  },
+  {
+   "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/509999/%E6%BC%81%E8%AD%B7%E7%BD%B211%E6%9C%88%E6%8E%A88%E7%94%9F%E6%85%8B%E6%97%85%E9%81%8A%E5%9C%98-300%E5%8C%85%E6%92%88%E6%B5%B7%E9%AE%AE-%E5%8D%B3%E9%87%A3%E5%8D%B3%E9%A3%9F",
+   "http": 200,
+   "title": "漁護署11月推8生態旅遊團　$300包撈海鮮、即釣即食　冀推廣休閒漁業吸客 - 有線寬頻 i-CABLE",
+   "description": "【有線新聞】政府近年力推鄉郊旅遊，漁護署11月起推出生態旅遊體驗導賞團，希望可以帶動休閒漁業等第一產業多元化發",
+   "publishedRaw": "2026-10-04T01:11:49+00:00",
+   "modifiedRaw": "2026-10-04T01:32:40+00:00",
+   "oldMetadata": [
+    "2026-10-04 09:11",
+    "2026-10-04 09:32",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04173130/vlcsnap-2026-10-04-09h31m04s256.jpg"
+   ],
+   "newMetadata": [
+    "2026-10-04 09:11",
+    "2026-10-04 09:32",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/04173130/vlcsnap-2026-10-04-09h31m04s256.jpg"
+   ],
+   "ogMatch": true,
+   "textFile": "refresh-hk-hkl7.txt",
+   "checkedAt": "2026-10-04T21:47:38.577616+08:00"
+  }
+ ],
+ "world": {
+  "articles": [
+   {
+    "group": "cn",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396184",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:34.221798+08:00",
+    "dates": [
+     [
+      "dateModified",
+      "2026-10-04T16:32:26+08:00"
+     ],
+     [
+      "datePublished",
+      "2026-10-04T13:14:33+08:00"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T13:14:33+08:00"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T16:32:26+08:00"
+     ]
+    ],
+    "og": "https://cdn.hk01.com/di/media/images/dw/20261004/1183440418776289280124789.jpeg/FTVPowyH_aN42zZPCat3X3R8TVwrGtf_4b5EIeG-RCE",
+    "ogMatches": true,
+    "textFile": "refresh-world-cn-0.txt",
+    "title": "港人揼骨聖地羅湖｢皇室假期｣疑執笠　400員工被拖糧國慶罷工討薪"
+   },
+   {
+    "group": "cn",
+    "index": 1,
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14862983.htm",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:34.354898+08:00",
+    "dates": [
+     [
+      "datePublished",
+      "2026-10-04T08:59:07.000Z"
+     ],
+     [
+      "dateModified",
+      "2026-10-04T09:09:19.000Z"
+     ]
+    ],
+    "og": "https://i.epochtimes.com/assets/uploads/2026/10/id14863014-5c2cd1387dbb6538cc8ebe7f12044db8-700x359.png",
+    "ogMatches": true,
+    "textFile": "refresh-world-cn-1.txt",
+    "title": "南京一公司破產 女員工上門討薪遭老闆踢踹 | 大紀元"
+   },
+   {
+    "group": "cn",
+    "index": 2,
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14862956.htm",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:34.324053+08:00",
+    "dates": [
+     [
+      "datePublished",
+      "2026-10-04T04:48:33.000Z"
+     ],
+     [
+      "dateModified",
+      "2026-10-04T04:48:33.000Z"
+     ]
+    ],
+    "og": "https://i.epochtimes.com/assets/uploads/2026/10/id14861495-876406-700x359.jpg",
+    "ogMatches": true,
+    "textFile": "refresh-world-cn-2.txt",
+    "title": "中國長期關注勞工權益的自媒體人傳被拘留 | 大紀元"
+   },
+   {
+    "group": "cn",
+    "index": 3,
+    "url": "https://www.hk01.com/article/60396153",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:34.234100+08:00",
+    "dates": [
+     [
+      "dateModified",
+      "2026-10-04T11:17:02+08:00"
+     ],
+     [
+      "datePublished",
+      "2026-10-04T11:16:08+08:00"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T11:16:08+08:00"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T11:17:02+08:00"
+     ]
+    ],
+    "og": "https://cdn.hk01.com/di/media/images/dw/20250616/1011181289488781312913027.jpeg/yROFJq1kbN6KwfH7HQCMb0EE1iYP9gTFnb_0IZ2_9CE?v=w1280r16_9",
+    "ogMatches": true,
+    "textFile": "refresh-world-cn-3.txt",
+    "title": "美網安企指中國黑客組織冒充美AI專家寄郵件　試圖竊取密碼資料"
+   },
+   {
+    "group": "cn",
+    "index": 4,
+    "url": "https://www.hk01.com/article/60396237",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:34.196263+08:00",
+    "dates": [
+     [
+      "dateModified",
+      "2026-10-04T16:39:03+08:00"
+     ],
+     [
+      "datePublished",
+      "2026-10-04T16:39:03+08:00"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T16:39:03+08:00"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T16:39:03+08:00"
+     ]
+    ],
+    "og": "https://cdn.hk01.com/di/media/images/dw/20210625/485123474579918848648135.jpeg/aU9kQIFCsO395EbURjiBOpTp-gespfl1LVqHMS1ahzE?v=w1280r16_9",
+    "ogMatches": true,
+    "textFile": "refresh-world-cn-4.txt",
+    "title": "冷空氣南下影響中東部多地　廣州深圳明顯降溫　最低將跌破20℃"
+   },
+   {
+    "group": "cn",
+    "index": 5,
+    "url": "https://www.hk01.com/article/60396238",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:34.073341+08:00",
+    "dates": [
+     [
+      "dateModified",
+      "2026-10-04T19:00:47+08:00"
+     ],
+     [
+      "datePublished",
+      "2026-10-04T19:00:47+08:00"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T19:00:47+08:00"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T19:00:47+08:00"
+     ]
+    ],
+    "og": "https://cdn.hk01.com/di/media/images/dw/20261004/1183453733153935360384912.png/5MUoFIRDuPXX4Gf1ejSHrikMgF7_L-lpw-KYlcPimJU?v=w1280r16_9",
+    "ogMatches": true,
+    "textFile": "refresh-world-cn-5.txt",
+    "title": "貴州3歲童10樓墮下　獲救朝路人笑求抱抱　簷篷起緩衝作用僅擦傷"
+   },
+   {
+    "group": "cn",
+    "index": 6,
+    "url": "https://www.zaobao.com.sg/news/china/story20261004-9782377",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:34.169467+08:00",
+    "dates": [
+     [
+      "datePublished",
+      "2026-10-04T17:41:31+08:00"
+     ],
+     [
+      "dateModified",
+      "2026-10-04T17:41:33+08:00"
+     ]
+    ],
+    "og": "https://cassette.sphdigital.com.sg/image/zaobao/0d73a662df843ceb8c73ac8b7930d80e296577335a1bc69845ac8a91c1e6eb28",
+    "ogMatches": true,
+    "textFile": "refresh-world-cn-6.txt",
+    "title": "贵州再通报抗战公路收费：始终免费开放 社会车辆禁止驶入 | 联合早报"
+   },
+   {
+    "group": "cn",
+    "index": 7,
+    "url": "https://www.zaobao.com.sg/news/china/story20261004-9781080",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:34.150537+08:00",
+    "dates": [
+     [
+      "datePublished",
+      "2026-10-04T11:56:30+08:00"
+     ],
+     [
+      "dateModified",
+      "2026-10-04T11:56:32+08:00"
+     ]
+    ],
+    "og": "https://cassette.sphdigital.com.sg/image/zaobao/9b27257e5424efc4c6f29912f47ee5cb15fa103e4c0718cd9626ff3cc58b34a0",
+    "ogMatches": true,
+    "textFile": "refresh-world-cn-7.txt",
+    "title": "中国国庆假期中段机票价格跳水 部分航线低至五折 | 联合早报"
+   },
+   {
+    "group": "us",
+    "index": 0,
+    "url": "https://www.hk01.com/article/60396233",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:35.363475+08:00",
+    "dates": [
+     [
+      "dateModified",
+      "2026-10-04T16:35:36+08:00"
+     ],
+     [
+      "datePublished",
+      "2026-10-04T16:08:50+08:00"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T16:08:50+08:00"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T16:35:36+08:00"
+     ]
+    ],
+    "og": "https://cdn.hk01.com/di/media/images/dw/20260923/1179496992204656640162730.jpeg/NrAuUg6dAD-qNuOqX1OblPaUNedBF86ZmCrStpgq0rY?v=w1280r16_9",
+    "ogMatches": true,
+    "textFile": "refresh-world-us-0.txt",
+    "title": "康奈爾兄弟會性侵｜校長發聲支持獨立調查　有評論員籲起底女事主"
+   },
+   {
+    "group": "us",
+    "index": 1,
+    "url": "https://www.hk01.com/article/60396257",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:35.494819+08:00",
+    "dates": [
+     [
+      "dateModified",
+      "2026-10-04T17:39:46+08:00"
+     ],
+     [
+      "datePublished",
+      "2026-10-04T17:34:09+08:00"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T17:34:09+08:00"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T17:39:46+08:00"
+     ]
+    ],
+    "og": "https://cdn.hk01.com/di/media/images/dw/20261003/1182992660315508736105497.jpeg/CZUm2yY1SVXQcfW4XcwQnAKYJyWvxMB--GrslPhq7JQ?v=w1280r16_9",
+    "ogMatches": true,
+    "textFile": "refresh-world-us-1.txt",
+    "title": "爭取國會通過永久夏令時　特朗普公開議員電話　籲民眾致電施壓"
+   },
+   {
+    "group": "us",
+    "index": 2,
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14863025.htm",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:35.338824+08:00",
+    "dates": [
+     [
+      "datePublished",
+      "2026-10-04T09:54:41.000Z"
+     ],
+     [
+      "dateModified",
+      "2026-10-04T10:03:13.000Z"
+     ]
+    ],
+    "og": "https://i.epochtimes.com/assets/uploads/2026/09/id14860464-GettyImages-2263868844-1-700x359.jpeg",
+    "ogMatches": true,
+    "textFile": "refresh-world-us-2.txt",
+    "title": "美防長：部分駐歐美軍可能被調往西半球 | 大紀元"
+   },
+   {
+    "group": "tw",
+    "index": 0,
+    "url": "https://www.ettoday.net/news/20261004/3248984.htm",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:35.815126+08:00",
+    "dates": [
+     [
+      "article:published_time",
+      "2026-10-04T20:00:00+08:00"
+     ]
+    ],
+    "og": "https://cdn2.ettoday.net/images/8953/e8953417.png",
+    "ogMatches": true,
+    "textFile": "refresh-world-tw-0.txt",
+    "title": "台中火雞肉飯名店爆食安風波！3歲女童吐到住院　8人身體不適 | ETtoday社會新聞 | ETtoday新聞雲"
+   },
+   {
+    "group": "tw",
+    "index": 1,
+    "url": "https://www.ettoday.net/news/20261004/3248946.htm",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:35.901205+08:00",
+    "dates": [
+     [
+      "article:published_time",
+      "2026-10-04T17:58:00+08:00"
+     ]
+    ],
+    "og": "https://cdn2.ettoday.net/images/8953/e8953264.jpg",
+    "ogMatches": true,
+    "textFile": "refresh-world-tw-1.txt",
+    "title": "田徑好手遭毒駕撞飛「顱骨凹陷」！母心疼：術前兒喊不會放棄 | ETtoday社會新聞 | ETtoday新聞雲"
+   },
+   {
+    "group": "tw",
+    "index": 2,
+    "url": "https://udn.com/news/story/124652/9794178",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:35.843476+08:00",
+    "dates": [
+     [
+      "datePublished",
+      "2026-10-04T19:07:45+08:00"
+     ],
+     [
+      "dateModified",
+      "2026-10-04T21:10:53+08:00"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T21:10:53+08:00"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T19:07:45+08:00"
+     ]
+    ],
+    "og": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/04/35389072.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "ogMatches": true,
+    "textFile": "refresh-world-tw-2.txt",
+    "title": "影／ 蔡英文、賴總統同台牽手力挺沈伯洋 競總稱成立大會狂吸12萬人 | 縣市長議員選戰 | 要聞 | 聯合新聞網"
+   },
+   {
+    "group": "war",
+    "index": 0,
+    "url": "https://www.iranintl.com/en/202610048164",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:36.522996+08:00",
+    "dates": [
+     [
+      "datePublished",
+      "2026-10-04T02:59:00.000Z"
+     ],
+     [
+      "dateModified",
+      "2026-10-04T03:01:10Z"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T02:59:00.000Z"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T03:01:10Z"
+     ]
+    ],
+    "og": "https://i.iranintl.com/images/rdk9umy0/production/13097fed5897a6fbae3278dc191aa4affd6b4a03-5000x3333.jpg?rect=0,355,5000,2625&w=1200&h=630&q=66&fit=max&auto=format",
+    "ogMatches": true,
+    "textFile": "refresh-world-war-0.txt",
+    "title": "Trump weighs Iran decision with ‘all options’ on the table | Iran International"
+   },
+   {
+    "group": "war",
+    "index": 1,
+    "url": "https://www.iranintl.com/en/202610044269",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:36.434531+08:00",
+    "dates": [
+     [
+      "datePublished",
+      "2026-10-04T09:52:33.976Z"
+     ],
+     [
+      "dateModified",
+      "2026-10-04T09:58:36Z"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T09:52:33.976Z"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T09:58:36Z"
+     ]
+    ],
+    "og": "https://i.iranintl.com/images/rdk9umy0/production/17a8603b3a17d07e60fe0aaf5b98a7e8b0298891-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "ogMatches": true,
+    "textFile": "refresh-world-war-1.txt",
+    "title": "Iranian currency hits another record low under US economic pressure | Iran International"
+   },
+   {
+    "group": "war",
+    "index": 2,
+    "url": "https://www.hk01.com/article/60396288",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:36.308058+08:00",
+    "dates": [
+     [
+      "dateModified",
+      "2026-10-04T21:45:43+08:00"
+     ],
+     [
+      "datePublished",
+      "2026-10-04T20:12:34+08:00"
+     ],
+     [
+      "article:published_time",
+      "2026-10-04T20:12:34+08:00"
+     ],
+     [
+      "article:modified_time",
+      "2026-10-04T21:45:43+08:00"
+     ]
+    ],
+    "og": "https://cdn.hk01.com/di/media/images/dw/20260514/1131661510515363840329708.jpeg/VAiRxwzrx2tQ51ukFbpWBphZzqTzG8hkIxBvwyMQb8M?v=w1280r16_9",
+    "ogMatches": true,
+    "textFile": "refresh-world-war-2.txt",
+    "title": "兩名伊朗聯大代表據報因逾期逗留被「趕出」美國　阿拉格齊否認"
+   }
+  ],
+  "feedScans": [
+   {
+    "name": "hk01-cn",
+    "url": "https://web-data.api.hk01.com/v2/feed/zone/5?offset=0&limit=40",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:37.646696+08:00"
+   },
+   {
+    "name": "hk01-us",
+    "url": "https://web-data.api.hk01.com/v2/feed/zone/4?offset=0&limit=40",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:37.645795+08:00"
+   },
+   {
+    "name": "iranintl",
+    "url": "https://www.iranintl.com/en",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:37.535111+08:00"
+   },
+   {
+    "name": "zaobao",
+    "url": "https://www.zaobao.com.sg/realtime/china",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:37.668088+08:00"
+   },
+   {
+    "name": "ettoday",
+    "url": "https://www.ettoday.net/news/news-list-2026-10-04-0.htm",
+    "status": 200,
+    "checkedAt": "2026-10-04T21:47:37.792045+08:00"
+   }
+  ],
+  "lastSourceCheckedAt": "2026-10-04T21:50:13.919803+08:00",
+  "addedArticle": {
+   "url": "https://www.hk01.com/article/60396293",
+   "articleStatus": 200,
+   "published": "2026-10-04T20:38:47+08:00",
+   "modified": "2026-10-04T20:38:47+08:00",
+   "og": "https://cdn.hk01.com/di/media/images/dw/20261004/1183511634404970496384961.png/2yfiIULn3Tsx-h1v2Xu8oTgC8Ej2fA6t7YRcZu2EXGY?v=w1280r16_9",
+   "ogExactMatch": true,
+   "imageStatus": 200,
+   "imageContentType": "image/jpeg",
+   "imageBytes": 70825,
+   "imageMagic": "ffd8ffe000104a4649460001",
+   "pillowFormat": "JPEG",
+   "dimensions": [
+    1280,
+    720
+   ],
+   "checkedAt": "2026-10-04T21:50:13.919803+08:00",
+   "review": "香港01正文引述景區及居民；不將居民基本控制說法當完全撲滅。替換較低影響機票價減半，維持cn8及多來源。"
+  },
+  "review": {
+   "existingCards": "17篇原文逐篇重讀；未見推翻卡面事實的更正。美方與伊方聯大代表離境說法保持分別歸因。",
+   "modifiedTimesUpdated": [
+    "UDN沈伯洋21:10:53",
+    "HK01伊朗代表21:45:43"
+   ],
+   "feedDecision": "HK01cn/us、Zaobao、ETtoday、IranIntl增量掃描；新泰山山火採納，其餘無重大超越原卡的新消息。",
+   "trackSuggestion": "美伊現有進展保留；山火首次單篇暫不新增長期線索。"
+  }
+ },
+ "briefs": {
+  "sources": [
+   {
+    "group": "ai",
+    "label": "The Decoder — 月球基礎模型整合十七年觀測",
+    "url": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+    "httpStatus": 200,
+    "ogImage": "https://the-decoder.com/wp-content/uploads/2026/10/nasa-ibm-research-moon-crater-ice-nano-banana-pro.jpg",
+    "published": "2026-10-04T10:10:12+00:00",
+    "modified": "2026-10-04T12:42:48+00:00",
+    "checkedAt": "2026-10-04T21:47:28.498239+08:00",
+    "body": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science Jonathan Kemper View the LinkedIn Profile of Jonathan Kemper Oct 4, 2026 Nano Banana Pro prompted by THE DECODER Ask about this article… Search The NASA-IBM Lunar Foundation Model makes decades of lunar observation data usable for machine learning. It's especially strong at predicting ice deposits at the poles and detecting craters. \"NASA has spent decades building an extraordinary scientific record of the Moon, but collecting data is only part of the job,\" says Kevin Murphy, NASA's chief science data officer. The data also has to be easier for scientists to use, he adds. NASA and IBM Research, working with several academic institutions, have now released the NASA-IBM Lunar Foundation Model. The two organizations describe it as one of the first open-source foundation models for lunar science. Unlike task-specific algorithms, a foundation model is pretrained on large volumes of unlabeled data and can then be adapted to specific tasks with just a few labeled examples. The team sees this as the main benefit for lunar research, where observation data is plentiful but labels are scarce. Ad Nearly 2 million tile bundles from 17 years of observation The team trained the model from scratch using SomBench, which they say is the largest co-registered multimodal lunar corpus to date. It contains nearly 2 million tile bundles across 11 modalities and two spatial scales. About 1 million high-resolution images come from the Narrow Angle Camera (NAC) at roughly 1 meter per pixel, while just under 964,000 multispectral images come from the Wide Angle Camera at 100 meters per pixel. Ad The bulk of the data comes from 17 years of observations by the Lunar Reconnaissance Orbiter (LRO). According to NASA, its data volume exceeds that of all other NASA planetary missions combined. Data from the GRAIL mission (gravity field), Lunar Prospector (hydrogen), and JAXA's Kaguya/SELENE probe (mineralogy) rounded out the collection. In total, the dataset brings together more than 30 spatially aligned data layers from nine instruments and four missions. To prevent leakage between training, validation, and test data, the corpus is split geographically by map zones rather than randomly distributing individual tiles. Ad The model gets lighting conditions as input instead of guessing them The model is based on TerraMind , a multimodal Earth observation model, but the researchers trained it from scratch instead of fine-tuning it. For each tile, the model receives the imaging geometry as explicit context, including illumination angles, sun position, and tile extent. On the Moon, lighting geometry shapes how the surface looks far more than the surface's actual properties do. Rather than forcing the model to correct for this from raw pixels, the team simply feeds it that information. The model breaks lunar images, elevation data, and imaging geometry into tokens and learns their relationships by predicting masked portions. | Image: NASA / IBM The model also learns from high-resolution and coarse imagery together in a single training run, capturing both fine details and large-scale context. A technique called FlexiViT lets the same trained model adapt to tasks with different image patch sizes without retraining. Ad Ice prediction is where the model pulls ahead most The team tested the model on crater detection at 100-meter and 1-meter scales and on predicting polar ice deposits. It also had to segment Irregular Mare Patches (IMPs), young volcanic features that challenge established timelines of lunar cooling. Across all tasks, the pretrained model matched or beat both common baselines and an architecturally identical control model with random initialization, according to the technical report . Ad The NASA-IBM foundation model closely reproduces the fine-grained patterns in reference maps of potential ice distribution at the lunar poles. | Image: NASA / IBM The biggest gains showed up in ice deposit prediction. Permanently shadowed polar regions stay cold enough to preserve water ice for billions of years and are considered a potential resource for water, oxygen, and rocket fuel. The model cut prediction error by up to 22 percent compared to the best baseline, SwinV2-B, according to IBM. In these crater detection examples, the NASA-IBM model and the ImageNet-pretrained SwinV2-B perform similarly. All models do worse on high-resolution NAC images. | Image: NASA / IBM For coarse-scale crater detection, the model beat SwinV2-B by nearly 19 percent, according to IBM. That number comes from training with only half the data, suggesting the model needs fewer labeled examples to perform well. Part of the edge comes from how the model handles data Even the randomly initialized control model beat five of seven baselines on ice prediction without any lunar pretraining. According to the researchers, part of the advantage comes from how the model handles different data types. It assigns each data layer its own processing path, while baseline models treat all inputs as stacked channels. When segmenting Irregular Mare Patches, the NASA-IBM model picks up areas in the second example that both baseline models miss. | Image: NASA / IBM On meter-scale crater detection and IMP segmentation, the model roughly ties the strongest baselines, with differences falling within the variance between training runs. IBM claims a 3 percent lead over SwinV2-B on IMPs, but the results look more comparable than clearly better. According to the researchers, LoRA, a lighter fine-tuning method that trains only a fraction of the parameters, kept pace with full fine-tuning across the board and did better on crater detection. Full fine-tuning only wins on the two smallest tasks. Useful for analysis, but no substitute for physical measurements Juan Bernabé-Moreno, director of IBM Research Europe, said the model connects observations across instruments and reveals patterns that are difficult to spot in isolation. The model isn't suited for absolute geodetic positioning, the research shows. In generation tests, latitude and longitude were off by dozens of degrees in some cases, and elevation structures could appear with shifted absolute height values even when their shapes were reconstructed correctly. The authors see it as a reusable foundation for downstream tasks, not a replacement for physical measurement instruments. Controlled experiments isolating the contribution of each innovation are still pending, and some test datasets are small. Part of a growing model family The model is publicly available on Hugging Face , the code is on GitHub , and it's integrated into the open-source toolkit TerraTorch. The team also released the ML-ready pretraining datasets and benchmark collections. The model is part of the NASA-IBM \"AI for Science\" collaboration. Both organizations have been working on foundation models under a Space Act Agreement since early 2022. In August 2023, they released the first Prithvi model on Hugging Face , trained on Landsat and Sentinel-2 imagery of the entire contiguous US and adapted for flood and wildfire mapping. IBM had announced Prithvi as part of its Watsonx platform . IBM developed TerraMind, the lunar model's base, in 2025 with ESA and Forschungszentrum Jülich for Earth observation. Google Deepmind is pursuing a related approach with AlphaEarth Foundations , compressing optical satellite imagery, radar, lidar scans, and climate simulations into compact embeddings of Earth's surface. AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now Source: NASA | IBM Research | Paper"
+   },
+   {
+    "group": "ai",
+    "label": "The Decoder — 中國模型敏感題目測試",
+    "url": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
+    "httpStatus": 200,
+    "ogImage": "https://the-decoder.com/wp-content/uploads/2026/09/aleph_alpha_china_benchmark-1200x670.png",
+    "published": "2026-10-04T08:47:52+00:00",
+    "modified": "2026-10-04T12:18:32+00:00",
+    "checkedAt": "2026-10-04T21:47:28.512395+08:00",
+    "body": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics Manuel Uth Oct 4, 2026 Nano Banana Pro prompted by THE DECODER Ask about this article… Search Chinese AI models frequently toe the party line when asked politically sensitive questions, according to a study by Aleph Alpha. The company markets itself alongside Cohere as a provider of \"sovereign AI\" for governments, giving it a commercial interest in distinguishing its models from Chinese competitors. In a benchmark Aleph Alpha developed , the company tested models from Alibaba (Qwen), DeepSeek, and Moonshot AI (Kimi). The test covered 967 hand-picked taboo topics like Tiananmen, Taiwan, and Xinjiang. The company's own AI scoring system rated only 17 to 41 percent of responses as balanced. The rest repeated state doctrine, deflected, or refused to answer . Ad The findings line up with China's AI regulations, which require \" socialist core values \" in public-facing models. They also match recurring anecdotal reports and earlier audits. Ad On politically sensitive topics like Tiananmen, Taiwan, and Xinjiang, most Chinese models tend to follow the party line. DeepSeek V4 Pro instead refuses two-thirds of questions. Western comparison models Claude Sonnet 5 and Mistral Small give balanced answers 70 percent and 92 percent of the time, respectively. | Image: Aleph Alpha Pro-China bias shows up even in unrelated answers The pro-China slant can also appear in answers to questions that don't mention China. When asked about censorship in the United States, Qwen 3.6 starts with a seemingly balanced answer. It then closes with a defense of China's stance on global internet governance. \"Many countries, including China, also manage information to ensure social stability and national security,\" the response reads. On general questions that aren't explicitly political, the Chinese models mostly give balanced answers. The pro-China bias largely fades but remains visible to a lesser extent in models like Qwen 3.6 and DeepSeek V4 Pro. | Image: Aleph Alpha An earlier study by the Central European Institute of Asian Studies (CEIAS) also found this spillover effect. When terms like human rights, opposition, or surveillance came up, the models often responded with standard Beijing talking points. These included the \"principle of non-interference in internal affairs\" and a \"community with a shared future for mankind.\" Ad Distilled Chinese training data can carry CCP values into other models Aleph Alpha also takes aim at a direct competitor. Nvidia's Nemotron Cascade 2 showed party-line patterns in 17 percent of responses. Aleph Alpha attributes this to roughly 3,500 of its 9.3 million training examples, which were generated using DeepSeek and Qwen. When asked to draft a speech supporting recognition of Taiwan, the model refused and instead produced a patriotic response defending Beijing's One-China principle. Nvidia is increasingly pushing its own models into the government and enterprise market, where Aleph Alpha and Cohere also want to compete. Aleph Alpha also used data generated by Chinese models when training its Kolibri model. Ad Language models generally carry cultural and political values because their training data overrepresents certain viewpoints or can be shaped through deliberate data selection. Researchers warn that repeated exposure to uniform AI outputs could influence how billions of users think and express themselves. Ad There are also political efforts to shape AI models along ideological lines in the United States. Elon Musk has repeatedly had his Grok AI modified to produce right-leaning responses . Studies nevertheless suggest that models tend to lean left, possibly because their answers draw more heavily on scientific evidence. For the EU, that leaves a choice between two foreign value systems unless European models can compete on performance and win broader adoption. AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now Source: Aleph Alpha / Benchmark"
+   },
+   {
+    "group": "ai",
+    "label": "TechCrunch — 法官裁定無令車牌查詢違憲",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "httpStatus": 200,
+    "ogImage": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+    "published": "2026-10-03T19:33:15+00:00",
+    "modified": "2026-10-03T19:33:20+00:00",
+    "checkedAt": "2026-10-04T21:47:28.040228+08:00",
+    "body": "A federal judge ruled this week that a Tulsa, Oklahoma sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock Safety to search for her license plate without a warrant. As reported by 404 Media , this ruling does not create a binding precedent, but it is one of the first times that a federal judge has ruled that a Flock search is unconstitutional. In this case, Judge Sara Hill said the deputy should have obtained a warrant before searching the Flock database for the woman’s license plate, as he had “no apparent reason” for the search “other than the fact that [the woman’s vehicle] had a California license plate.” The deputy then used the woman’s travel history in Flock as part of the justification for searching her car, where he allegedly discovered 91 pounds of meth. But Judge Hill wrote that all evidence obtained after the Flock search “must be suppressed as the fruit of a poisonous tree.” Judge Hill also took broader aim at warrantless searches of the Flock database, writing that tracking people’s location — even when they’re in public places — becomes “constitutionally problematic when law enforcement can indiscriminately and passively catalog your whereabouts over an extended period of time and then use that information for any purpose whenever convenient.” “This is a type of indiscriminate mass surveillance,” Hill wrote. “It is not targeted on a single individual, as in [ Carpenter v. United States , a Supreme Court case focused on how government agencies access location data from cell phones ]. It is a tool that collects information about all vehicles that pass by any network-connected camera at all times, and it serves up the information to law enforcement on demand.” Hill joins a growing chorus of Flock critics from across the political spectrum. Numerous local and state governments, including Florida and Texas , have said they will stop using the technology. And on Friday, Senator Bernie Sanders — a Democrat from Vermont — introduced the Block Flock Act , which would bar federal agencies from using automated license plate readers such as Flock. Flock CEO Garretty Langley — who we’ll be interviewing on-stage at TechCrunch Disrupt — has called for a “compromise” between privacy and safety and offered an apology to women who have been stalked by law enforcement officers using the Flock system. And with all those cancellations, Flock has also reportedly offered voluntary employee buyouts as a way to shrink its workforce. Topics flock safety , Government & Policy , Security When you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence. Anthony Ha Anthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com . View Bio October 13 – 15 San Francisco Get 50% off a second pass The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem. BOOK NOW Most Popular Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground Tim Fernholz World’s first enhanced geothermal power plant completed in just 23 months Tim De Chant Google releases Gemini 4 Argon, called its most powerful model yet Lucas Ropek The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next Dominic-Madori Davis OpenAI launches Dots, its bubbly agentic avatar Lucas Ropek AMD will acquire Fei-Fei Li’s World Labs for $8.2B Tim Fernholz Viral AI agent Instinct raises $1B Series C at a $10B valuation Sarah Perez"
+   },
+   {
+    "group": "ai",
+    "label": "The Register — 加州調查 OpenAI 網絡事故傳票",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+    "httpStatus": 200,
+    "ogImage": null,
+    "published": null,
+    "modified": null,
+    "checkedAt": "2026-10-04T21:47:28.247541+08:00",
+    "body": "Are we human?",
+    "browserFallback": {
+     "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+     "bodyRead": true,
+     "method": "web open live page",
+     "checkedAt": "2026-10-04T13:48:10.772Z",
+     "articleSummary": "加州調查傳票要求OpenAI交代網絡保安事故；仍搜集資料，沒有指認具體违法。原文visible Published 2 Oct15:34UTC，与draftJSON-LD14:34UTC不同，保留日期背景不作時間窗卡。"
+    },
+    "bodyReadThroughFallback": true
+   },
+   {
+    "group": "warb",
+    "label": "半島電視台 — 伊朗堅持海峽重開條件",
+    "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions",
+    "httpStatus": 200,
+    "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a83dd487a-1787026760.jpg?resize=1920%2C1440",
+    "published": null,
+    "modified": null,
+    "checkedAt": "2026-10-04T21:47:28.120116+08:00",
+    "body": "Listen Listen (3 mins) Save Share Iran says Hormuz to remain closed until US meets conditions on social media share-nodes Share facebook x whatsapp-stroke copylink google Add Al Jazeera on Google info Ships are anchored in the Strait of Hormuz off the coast of Bandar Abbas, Iran, due to the ongoing maritime blockade [File: Ali Saeedi/Getty Images] By Al Jazeera Staff Published On 4 Oct 2026 4 Oct 2026 The Strait of Hormuz is going to remain closed until the United States accepts Tehran’s seven-day plan to reopen the waterway, Iran’s top negotiator and parliament speaker has said. Iranian state-linked news agency Nournews, quoting ⁠Mohammad Bagher Ghalibaf, reported on Sunday that Washington made “some proposals through a mediator” days after the US replied ⁠to Iran’s diplomatic proposal. Recommended Stories list of 4 items list 1 of 4 Iraq grants Iranian airlines 40 daily Najaf flights after US exemption list 2 of 4 Two Iranians charged over alleged plot targeting Jewish community in UK list 3 of 4 Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack list 4 of 4 Somalia won’t accept Israeli presence ‘under any circumstances’: President end of list The US should know “that the era of wasting time and dictating unilateral demands is over”, Ghalibaf said, adding Iran’s position remains “clear and definite”. He emphasised that “the Strait of Hormuz will not open until our seven conditions based on the Islamabad memorandum are met”, and that Iran is “present on the military battlefield and will confront them with new surprises”. He added that Iran was neither “excited” nor “intimidated” by the latest US proposals and would “both fight and negotiate”. US President Donald Trump ruled out an Iranian proposal to reopen the Strait of Hormuz last week, hours after Iran put forward a roadmap to reopening the strait, through which one-fifth of global oil and natural gas is shipped during peacetime. Last month, Trump threatened to “annihilate” Iran in his speech on the floor of the United Nations General Assembly (UNGA). On Sunday, Iranian Foreign ⁠Minister Abbas Araghchi also said Iran is “serious about finding diplomatic solutions just as we are serious about defending ourselves”. Speaking to foreign ambassadors and diplomats in Tehran, Araghchi said Iran had clearly explained ⁠its conditions for reopening the strait and ⁠that Tehran hoped Washington would choose diplomacy and accept its proposal. Advertisement However, Araghchi warned that if the US takes military action again, Iran is “more prepared than before and will take whatever action is necessary to defend ourselves”. Iranian Ministry of Foreign Affairs spokesman Esmaeil Baghaei added that Tehran used the UNGA platform last month to provide world leaders with its position on ending the US-Israel war on Iran. He said the US has continued to focus on nuclear talks , while reopening the strait has been Iran’s main goal. “We are at this stage mainly focusing on the strait, and our principal concern is to reach a solution and to have peace and stability restored within this waterway,” Baghaei said. The Strait of Hormuz has been largely blocked and disrupted for more than seven months, since the US and Israel launched strikes on Iran on February 28, driving one of the worst maritime shipping disruptions in decades. About one-fifth of global oil and natural gas is shipped through the Strait of Hormuz during peacetime, as the US-Israel war on Iran has created several trade chokepoints [File: Al Jazeera]"
+   },
+   {
+    "group": "warb",
+    "label": "The National — 伊拉克運出二百萬桶原油",
+    "url": "https://www.thenationalnews.com/business/energy/2026/10/04/iraq-transports-its-oil-past-hormuz-for-first-time-in-decades-as-war-with-iran-chokes-exports/",
+    "httpStatus": 200,
+    "ogImage": "https://www.thenationalnews.com/resizer/v2/B6SKQHWZMRCMYOJ3GVN55SKBFY.jpg?auth=fc2a745717a36f1e6202076c3095f746b6a1fab0e57735c178e394add2c801fc&smart=true&width=1200&height=630",
+    "published": null,
+    "modified": "2026-10-04T10:17:39.264Z",
+    "checkedAt": "2026-10-04T21:47:28.584961+08:00",
+    "body": "Iraq 's state oil company has moved its own crude beyond the Strait of Hormuz for the first time in decades as the US-Iran war threatens the country's primary export route. The Iraqi Oil Tankers Company shipped two million barrels of crude through the waterway on a very large crude carrier, director general Ali Qais was quoted as saying by state media. The move was aimed to shift part of Iraq's oil exports from the existing free-on-board Basra port model to transit the strait and take advantage of better sale and pricing opportunities, he added. Quds Force commander sees long-term Iranian proxy role in Iraq after US drawdown Read More Arrow The company is now in talks to buy specialised crude tankers “as soon as possible and to compete with regional peers”, Mr Qais said. Since the Iran war broke out in February, Iraq has been facing one of its most serious economic and security situations. Iraq recovers fugitive convicted of $3m embezzlement from Lebanon Read More Arrow Opec's second-largest producer depends on oil for at least 90 per cent of its revenue. Most of its exports – about 3.3 million barrels a day before the war – crossed the Strait of Hormuz after leaving its southern Basra terminals. The strait has been effectively closed by Iran since the conflict broke out, with shipping disrupted by missile and drone attacks, insurance surges and naval confrontations. Iraq has been caught in the middle of the war, with pro-Tehran armed groups having launched drones towards Gulf states from Iraqi territory, prompting countries in the region to hold Baghdad responsible. Meanwhile, ships crossing Iraqi waters near the strait have been at increased risk, forcing Baghdad to offer discounted rates on services at Basra Port and causing buyers to demand delivery outside the waterway. The government has been struggling to revive alternative routes – including a proposal to reopen the Iraq-Turkey pipeline through Ceyhan and another to move crude to Syria by land – but these solutions would only cover a fraction of Iraqi exports. Iraq has been able to move three million barrels of oil a day since the beginning of September, Oil Minister Bassim Khudair said last month. “The government plans to increase export capacity to five million barrels a day after the completion of the strategic pipelines extending to Fishkhabour and Baniyas, in addition to the export terminals in the Strait of Hormuz,” he said. The latest shipment indicates that Iraq has adopted the strategy of moving oil past the Strait of Hormuz to guarantee delivery and secure better prices, rather than leaving buyers to shoulder the war risk premium. The tanker company, once a major fleet operator in the 1980s, has been trying to rebuild itself after successive wars and rounds of sanctions. Buying its own VLCCs would provide Baghdad with more control over its main source of income."
+   },
+   {
+    "group": "warb",
+    "label": "半島電視台 — 胡塞稱襲利雅得能源設施",
+    "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies",
+    "httpStatus": 200,
+    "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac1b72c7627-1791080236.jpg?resize=1920%2C1440",
+    "published": null,
+    "modified": null,
+    "checkedAt": "2026-10-04T21:47:28.054279+08:00",
+    "body": "Listen Listen (2 mins) Save Share Houthis claim strike on Aramco site as Yemen fighting intensifies on social media share-nodes Share facebook x whatsapp-stroke copylink google Add Al Jazeera on Google info Flames are seen at a facility belonging to Saudi oil giant Aramco, south of Riyadh, on October 3, 2026 [AFP] By Al Jazeera Staff Published On 4 Oct 2026 4 Oct 2026 | Updated: 8 hours ago Updated: 8 hours ago Yemen’s Houthis have said they attacked an Aramco facility in the Saudi capital, Riyadh, as fighting between the Iran-aligned group and Yemen’s Saudi-backed internationally recognised government intensifies. In a statement posted on X on Saturday, Houthi military spokesman Yahya Saree said the group had carried out a “military operation with ballistic missiles and drones” that targeted Aramco in Riyadh. Recommended Stories list of 3 items list 1 of 3 Are Houthis using new modified cruise missiles in Yemen’s war? list 2 of 3 Yemen’s war disrupts roads and ports, deepening humanitarian crisis list 3 of 3 Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS end of list He claimed the strikes were “precise and direct” and “led to fires breaking out” at the site. A large plume of smoke and fire was seen rising near an Aramco facility in Riyadh on Saturday. Later on Saturday, Turki al-Maliki, spokesman for the Saudi-led coalition supporting Yemen’s government, said in remarks carried by Saudi media that the Houthi claims of targeting Riyadh were “misleading”. Early on Sunday, the Saudi-led coalition said its armed forces carried out 97 “precise targeting operations” against Houthi reinforcements on the Tor al-Baha front and the Taiz axis, using warplanes, drones, artillery, missiles and snipers. Colonel Majed Abdullah al-Nazili, the spokesman for Yemen’s government forces, said the attacks targeted “at least 260 Houthi fighters and destroyed or disabled 44 military vehicles”. Late last month, the Houthis said they had attacked Aramco facilities in Yanbu, a Red Sea port on Saudi Arabia’s west coast. Saudi Arabia said at the time it intercepted six ballistic missiles fired towards Taif and Yanbu and reported no damage to Aramco sites. Earlier this week, the Saudi-led coalition said the Houthis attacked a power station in the Muslim holy city of Medina on Tuesday. Advertisement The fighting has intensified since a fragile 2022 truce collapsed in July. In mid-September, the Houthis seized the port city of Mocha and strategic islands in the Bab al-Mandeb strait, a vital route for global oil shipments, before anti-Houthi forces stabilised front lines. Hundreds of thousands of people have been displaced since fighting restarted. Yemen has been at war since the Houthis seized Sanaa in 2014, forcing the Yemeni government to retreat to Aden."
+   }
+  ],
+  "lastSourceCheckedAt": "2026-10-04T13:48:10.772Z",
+  "review": {
+   "allSevenBodiesRead": true,
+   "sourceQuotas": {
+    "ai": {
+     "sources": 4,
+     "media": 3
+    },
+    "warb": {
+     "sources": 3,
+     "media": 2
+    }
+   },
+   "liveOgMatchesSelectedImages": {
+    "ai": true,
+    "warb": true
+   },
+   "freshSearch": [
+    "AI October 4 2026 incident hack lawsuit regulation latest",
+    "Hormuz October 4 2026 Iran conditions latest"
+   ],
+   "newMaterialRequiresReplacement": false,
+   "changes": [
+    "明示Flock近期背景",
+    "明示調查未認定違法"
+   ],
+   "warNarrative": "七條件單方立場、個別油輪不代表全通航、胡塞與沙特說法有分歧均保持"
+  },
+  "recordCreatedAt": "2026-10-04T13:48:42.817Z",
+  "sourceCheckClockNote": "最後web原文完成後讀取本機21:48:10.772HKT；紀錄生成時間另列。"
+ },
+ "draftHandoff": {
+  "date": "2026-10-04",
+  "status": "draft-ready-not-published",
+  "checkedAt": "2026-10-04T12:43:21.798Z",
+  "counts": {
+   "hks": 8,
+   "hkl": 8,
+   "hke": 3,
+   "hkp": 3,
+   "cn": 8,
+   "us": 3,
+   "tw": 3,
+   "war": 3
+  },
+  "trackCount": 94,
+  "previousTracks": 89,
+  "preservedPreviousTracks": true,
+  "selfcheckExit": 0,
+  "imagesChecked": 41,
+  "imageFailures": 0,
+  "formalFilesUnchanged": {
+   "data/2026-10-04.json": true,
+   "data/index.json": true,
+   "tools/track_keys.json": true,
+   "tools/lowfreq.json": true,
+   "tools/retired.json": true,
+   "index.html": true,
+   "AGENTS.md": true,
+   "CLAUDE.md": true,
+   "tools/rules.json": true,
+   "tools/selfcheck.js": true,
+   "settings.json": true
+  },
+  "refreshTimeHKT": "2026-10-04 21:45",
+  "targetFinalTimeHKT": "2026-10-04 21:55",
+  "candidate": "scratch/pm-20261004/candidate.json",
+  "evidenceDirectory": "scratch/pm-20261004",
+  "pendingTrackKeyAdditions": {
+   "港·葉維晉專業失當除牌案": [
+    "葉維晉"
+   ],
+   "港·外籍家居照顧員試行計劃": [
+    "外籍.*照顧員|家居照顧員"
+   ],
+   "港·啟德醫院分階段啟用": [
+    "啟德醫院"
+   ],
+   "港·長沙灣半業權拍賣": [
+    "長沙灣.*半業權|半業權.*長沙灣"
+   ],
+   "美·康奈爾性侵案獨立審查": [
+    "康奈爾|Cornell"
+   ]
+  },
+  "pendingLowfreqAdditions": [
+   {
+    "name": "港·威爾斯醫院誤派餐事故",
+    "date": "2026-10-04",
+    "until": "2026-12-04",
+    "reason": "連續20版無新進展，依門檻轉低頻；保留原線索及已知後續，兩個月後覆核。"
+   },
+   {
+    "name": "港·粉嶺高球場用地爭議",
+    "date": "2026-10-04",
+    "until": "2026-12-04",
+    "reason": "連續20版無新進展，依門檻轉低頻；保留原線索及已知後續，兩個月後覆核。"
+   }
+  ],
+  "instructions": [
+   "Before finalize, back up the current track keys and lowfreq files and merge only pending additions; never replace formal tools files with full staged copies. Draft already includes these tracks and low-frequency statuses.",
+   "At 21:45 refresh original articles and incremental developments, recheck images and source times, update _updated and set lastSourceCheckedAt to the actual last source check time. Draft image audit is not final-refresh evidence.",
+   "Preserve AM and unrelated modifications. On successful finalize append PM to the daily brief and commit only edition files and necessary tracking changes. No formal files were written or committed during drafting."
+  ],
+  "adjudicatedWarnings": [
+   "Hotstone Yoga reports increased from 627 / HK$7 million in AM to 694 / HK$7.8 million: substantive new figures.",
+   "Kai Tak Hospital clinics 350 places and next-day arrangements expand the AM initial 250-place coverage: substantive new details."
+  ],
+  "briefSourceTiming": "AI NASA/IBM and Aleph Alpha are current developments; Flock and California subpoena are explicitly identified as recent background. War brief sources are today within PM window."
+ }
+}
