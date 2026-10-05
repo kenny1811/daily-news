@@ -1,0 +1,2004 @@
+{
+ "publishedAtHKT": "2026-10-05 08:44:18",
+ "edition": "2026-10-05/am",
+ "previousEdition": "2026-10-04/pm",
+ "groups": {
+  "hks": 8,
+  "hkl": 8,
+  "hke": 3,
+  "hkp": 3,
+  "cn": 8,
+  "us": 3,
+  "tw": 3,
+  "war": 3
+ },
+ "track": {
+  "previousCount": 94,
+  "currentCount": 97,
+  "updates": {
+   "🔥 美伊戰爭（2026）": [
+    "撤機及方案審視",
+    "今晨半島及The National報道美方確認英國費爾福德基地轟炸機全數返美，仍可由本土執行全球任務，未代表停戰；Iran International報道伊朗石油部長以私人理由辭職，伊方仍審查美方對七日方案的回應，官員對再談判意見有分歧，未達新協議。也門政府宣布反攻胡塞控制地區，屬作戰宣示，未等同已收復。"
+   ],
+   "港·施政報告2026": [
+    "規劃評估及安老倡議",
+    "星島5日新刊專訪引述謝小華稱以每年施政報告檢視五年規劃進度，第三方評估未定案；香港01刊黃國專欄倡完善跨境安老監護及福利安排，屬議員倡議，未成已實施新政策。"
+   ],
+   "港·熱帶氣旋動向": [
+    "西北太平洋系統預測",
+    "ETtoday 5日引述氣象專家預料小熊最快今日生成，另有彩雲及可能跨越換日線的NOLO，西北太平洋或同時三颱活動；預測對台灣暫無威脅，不等同三颱已全部生成，亦未據此推斷香港影響。"
+   ]
+  },
+  "newLines": [
+   {
+    "row": [
+     "港·鑽石山持刀指嚇案",
+     "五旬女子被捕",
+     "香港01 5日報道警方在慈正邨破門拘捕五旬女子，涉嫌在鑽石山站持刀指嚇職員企圖行劫；較噚晚尋人新增拘捕及涉嫌罪行，未有罪成裁決。"
+    ],
+    "keys": [
+     "鑽石山.*(?:持刀|指嚇)|慈正邨.*(?:持刀|拘捕)"
+    ]
+   },
+   {
+    "row": [
+     "港·簡樸房規管安置爭議",
+     "團體公布住戶調查",
+     "香港01 5日報道團體調查指三成半受訪劏房住戶住所未達簡樸房標準，憂明年執法造成迫遷，倡先安排替代住所；屬調查及倡議，並非已落實安置安排。"
+    ],
+    "keys": [
+     "簡樸房|劏房.*(?:達標|迫遷)"
+    ]
+   },
+   {
+    "row": [
+     "美·喬州街區聚會槍擊",
+     "兩死三十五傷",
+     "大紀元5日報道美國喬治亞州街區聚會發生槍擊，兩人死亡、三十五人受傷；警方未交代拘捕情況，動機及調查待續。"
+    ],
+    "keys": [
+     "(?:喬州|喬治亞|喬治亞州|Georgia).*(?:槍擊|聚會)"
+    ]
+   }
+  ],
+  "lowfreqAdded": "港·猴痘個案再現"
+ },
+ "imageAudit": {
+  "checkedAtHKT": "2026-10-05T08:39:39.129283+08:00",
+  "images": [
+   {
+    "group": "hks",
+    "title": "鑽石山持刀指嚇案拘捕五旬婦",
+    "url": "https://www.hk01.com/article/60396343",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183672936381288448307925.jpeg/U9k4ffl8GlEwasNRr-kIquHUFGMwL9lAUV_bRHtf20Q?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183672936381288448307925.jpeg/U9k4ffl8GlEwasNRr-kIquHUFGMwL9lAUV_bRHtf20Q?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 183936,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "荃錦交匯處貨車翻側兩司機傷",
+    "url": "https://www.hk01.com/article/60396344",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183677716386287616524169.png/mb44wmhPuU9ec5KaDsdr6v0e3ic_ZrQqk7goIpO4KCI?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183677716386287616524169.png/mb44wmhPuU9ec5KaDsdr6v0e3ic_ZrQqk7goIpO4KCI?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 54892,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 547,
+    "height": 308
+   },
+   {
+    "group": "hks",
+    "title": "大嶼山八十萬元珠寶失竊拘女傭",
+    "url": "https://www.hk01.com/article/60396334",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20250816/1033371865025875968594123.jpeg/Hoch80NnvWUNy3TYmpmDp1UbmZ06Q0R-fcuxrX3Lsa0?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20250816/1033371865025875968594123.jpeg/Hoch80NnvWUNy3TYmpmDp1UbmZ06Q0R-fcuxrX3Lsa0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 154627,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "油麻地巴士疑吸毒男乘客被捕",
+    "url": "https://www.hk01.com/article/60396318",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1182983433530380288735692.jpeg/6gqDFq9IX054z0zonHA39cByAnKvdzPdMnzMrDJ8zKw?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1182983433530380288735692.jpeg/6gqDFq9IX054z0zonHA39cByAnKvdzPdMnzMrDJ8zKw?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 158911,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "粉嶺暉明邨火警二百人疏散",
+    "url": "https://www.hk01.com/article/60396308",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183550869602308096542830.jpeg/bUWQD1Cf6m__T87LUjQUVTF6a_YMyo9lg0coloNHKJY?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183550869602308096542830.jpeg/bUWQD1Cf6m__T87LUjQUVTF6a_YMyo9lg0coloNHKJY?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 115145,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1168,
+    "height": 657
+   },
+   {
+    "group": "hks",
+    "title": "師長防罪攻略提醒網戀勒索風險",
+    "url": "https://www.stheadline.com/edu-insights/3622366/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/aa47effd0dc902c765afe6e60d5a62eb/2026-10/179112005198500.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/aa47effd0dc902c765afe6e60d5a62eb/2026-10/179112005198500.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 751047,
+    "magicHex": "ffd8ffe1001845786966000049492a00",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "僱主稱外傭失聯後收到追債信",
+    "url": "https://www.dimsumdaily.hk/employers-warn-of-organised-borrowing-by-absent-foreign-domestic-helpers-as-debts-linked-to-hk-addresses-emerge/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04211009/Sandy-343.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04211009/Sandy-343.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 73230,
+    "magicHex": "52494646061e01005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 948,
+    "height": 750
+   },
+   {
+    "group": "hks",
+    "title": "防騙專訪回顧假公安索卡資料案",
+    "url": "https://www.stheadline.com/breaking-news/3622298/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/27628160b687b4c0911ed3720aa37b5f/2026-10/PC.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/27628160b687b4c0911ed3720aa37b5f/2026-10/PC.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 721402,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "東北季候風抵港今早降溫兩度",
+    "url": "https://www.hk01.com/article/60396335",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183657707903651840027356.jpeg/aUJkMYqSx95hn8DiizXJuRrRxo5wSPNrywcNDssHDQ4?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183657707903651840027356.jpeg/aUJkMYqSx95hn8DiizXJuRrRxo5wSPNrywcNDssHDQ4?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 132692,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "調查指三成半劏房戶住所未達標",
+    "url": "https://www.hk01.com/article/60396042",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183078698165735424067519.jpeg/_Dju5C73Qe48W-RQ7kR9oHk8aUYmmkKRL1yzHgVcsx4?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183078698165735424067519.jpeg/_Dju5C73Qe48W-RQ7kR9oHk8aUYmmkKRL1yzHgVcsx4?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 280971,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "港大創新節將展逾百科研項目",
+    "url": "https://www.hk01.com/article/60395668",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182745042326917120240718.jpeg/X-7NSIPDRkyhFXJRaWrj28jhbdfGjHi2DHJ59gxyefY",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182745042326917120240718.jpeg/X-7NSIPDRkyhFXJRaWrj28jhbdfGjHi2DHJ59gxyefY",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 192226,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "中大學生亞運奪牌兼刷新游泳紀錄",
+    "url": "https://www.hk01.com/article/60396328",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183585863876481024972158.jpeg/hNEra_bHYTZvoT1E3LcdNbY9TxgQkuV9XmOFhV5jhYU?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183585863876481024972158.jpeg/hNEra_bHYTZvoT1E3LcdNbY9TxgQkuV9XmOFhV5jhYU?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 126202,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1170,
+    "height": 658
+   },
+   {
+    "group": "hkl",
+    "title": "恒大研究揭鏡頭演說眼神接觸難",
+    "url": "https://www.stheadline.com/edu-insights/3622377/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/fdebde270095f7f4b531340bb9123c38/2026-10/Photo_1-169.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/fdebde270095f7f4b531340bb9123c38/2026-10/Photo_1-169.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 219269,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676
+   },
+   {
+    "group": "hkl",
+    "title": "城大天台花園記錄十八種蝴蝶",
+    "url": "https://www.stheadline.com/edu-insights/3622376/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/43734a12f40380f70b9cabb90e8714cf/2026-10/997cd93e-7c89-4702-a581-63c18453bd62-169.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/43734a12f40380f70b9cabb90e8714cf/2026-10/997cd93e-7c89-4702-a581-63c18453bd62-169.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 205180,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "機場二號客運樓設萬聖節裝置",
+    "url": "https://www.stheadline.com/society/3622334/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/a543982547fe6dbc6bd7cf2410a3d99c/2026-10/WhatsApp_Image_2026-10-04_at_9_52_49_PM.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/a543982547fe6dbc6bd7cf2410a3d99c/2026-10/WhatsApp_Image_2026-10-04_at_9_52_49_PM.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 300885,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "周日截至九時入境五十七萬六千人次",
+    "url": "https://www.hk01.com/article/60396311",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183562279078072320910234.jpeg/nisgC8EmdA5X3zzPv_txzg9kfkhXoN0t9ynI8PcpyPA?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183562279078072320910234.jpeg/nisgC8EmdA5X3zzPv_txzg9kfkhXoN0t9ynI8PcpyPA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 180013,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hke",
+    "title": "經一分析出口增長與就業落差",
+    "url": "https://www.edigest.hk/%e6%9c%80%e6%96%b0%e8%b2%a1%e7%b6%93%e6%b6%88%e6%81%af/%e9%a6%99%e6%b8%afgdp%e5%a2%9e%e9%95%b7%e5%a4%b1%e6%a5%ad%e7%8e%87-2043694/",
+    "cardOg": "https://images.edigest.hk/wp-content/uploads/2026/05/ed-social-share_19873850955e4e5ab66fb9a_27499425069f836787b3ab.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://images.edigest.hk/wp-content/uploads/2026/05/ed-social-share_19873850955e4e5ab66fb9a_27499425069f836787b3ab.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 97227,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "hke",
+    "title": "青衣銀主盤報三百七十萬起拍",
+    "url": "https://www.edigest.hk/%e6%9c%80%e6%96%b0%e8%b2%a1%e7%b6%93%e6%b6%88%e6%81%af/%e9%8a%80%e4%b8%bb%e7%9b%a4-3-2043692/",
+    "cardOg": "https://images.edigest.hk/wp-content/uploads/2026/05/ed-social-share_19873850955e4e5ab66fb9a_27499425069f836787b3ab.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://images.edigest.hk/wp-content/uploads/2026/05/ed-social-share_19873850955e4e5ab66fb9a_27499425069f836787b3ab.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 97227,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "hke",
+    "title": "沙特下調十一月售亞洲原油價",
+    "url": "https://www.straitstimes.com/business/economy/saudi-arabia-unexpectedly-cuts-oil-prices-to-asia",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/straitstimes/277ce8f75155e027c3eeceb60dafa045bc04903037ee59c9d47996e65e342cb5",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/straitstimes/277ce8f75155e027c3eeceb60dafa045bc04903037ee59c9d47996e65e342cb5",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 54080,
+    "magicHex": "5249464638d300005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1140,
+    "height": 760
+   },
+   {
+    "group": "hkp",
+    "title": "香港01指陳健波大熱接醫管局",
+    "url": "https://www.hk01.com/article/60396196",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183452881131409408581473.jpeg/sVlC8ZNVOPuSpRgBDHUKklbjxf7bPK5joIb7CaCG-wk",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183452881131409408581473.jpeg/sVlC8ZNVOPuSpRgBDHUKklbjxf7bPK5joIb7CaCG-wk",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 120314,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkp",
+    "title": "黃國倡完善跨境安老醫療配套",
+    "url": "https://www.hk01.com/article/60395920",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260916/1176926931187142656520796.jpeg/lFv20Fhu5BoQkhiZxyigDS7l3h4Pw4j42psQ0tqbENI?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260916/1176926931187142656520796.jpeg/lFv20Fhu5BoQkhiZxyigDS7l3h4Pw4j42psQ0tqbENI?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 253637,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkp",
+    "title": "謝小華稱五年規劃毋須頻繁變動",
+    "url": "https://www.stheadline.com/politics/3622314/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/987b04df74029af5990a8cba48d6ace3/2026-10/179110887556359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/987b04df74029af5990a8cba48d6ace3/2026-10/179110887556359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 801537,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "cn",
+    "title": "菲指中國軍機海警干擾巡邏",
+    "url": "https://www.zaobao.com.sg/news/china/story20261004-9783380",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/zaobao/51523d834df40f187929100bbdc87960d9f4b9837f083bb24ea72c4b0db95941",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/51523d834df40f187929100bbdc87960d9f4b9837f083bb24ea72c4b0db95941",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 121122,
+    "magicHex": "524946461ad901005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "cn",
+    "title": "英媒稱英國研向中國電動車徵稅",
+    "url": "https://www.zaobao.com.sg/news/china/story20261005-9784008",
+    "cardOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "articleHTTP": 200,
+    "articleOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 16651,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 909,
+    "height": 500
+   },
+   {
+    "group": "cn",
+    "title": "中國銀行機構四年減少近四分一",
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14863206.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2023/04/id13975132-17_000_1876YO-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2023/04/id13975132-17_000_1876YO-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 37702,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "中國光伏股第三季近八成下跌",
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14863255.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/04/id14742541-GettyImages-2236825381-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/04/id14742541-GettyImages-2236825381-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 263945,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "湖北女子連免費網絡被扣保費",
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14863234.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863235-GettyImages-2294141625-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863235-GettyImages-2294141625-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 372437,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "長隆遊客摘綠化竹筍餵大熊貓",
+    "url": "https://www.hk01.com/article/60396259",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183473130430009344451980.png/gV3n7Y4HrneVNwsZ2eJQtKFJe4gXNzM2Lz9YbS8_WG0?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183473130430009344451980.png/gV3n7Y4HrneVNwsZ2eJQtKFJe4gXNzM2Lz9YbS8_WG0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 169456,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "title": "中國男足亞運摘銅返京獲歡迎",
+    "url": "https://www.hk01.com/article/60396298",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183536934643830784913428.png/I9IhuJzAnHGrF8LKA3AEtoVypzCe6TnZuDumcLg7pnA?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183536934643830784913428.png/I9IhuJzAnHGrF8LKA3AEtoVypzCe6TnZuDumcLg7pnA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 75253,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 870,
+    "height": 489
+   },
+   {
+    "group": "cn",
+    "title": "景德鎮古陶瓷資料庫引入AI拼對",
+    "url": "https://www.ettoday.net/news/20261005/3249026.htm",
+    "cardOg": "https://cdn2.ettoday.net/images/8953/e8953540.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn2.ettoday.net/images/8953/e8953540.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 110313,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "us",
+    "title": "美國喬州街區聚會槍擊兩死卅五傷",
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14863247.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2025/09/id14597840-EpochImages-4568043479-xl-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2025/09/id14597840-EpochImages-4568043479-xl-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 252377,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "us",
+    "title": "特朗普成立超級智能特別工作組",
+    "url": "https://www.hk01.com/article/60396342",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183665352110772224597421.jpeg/_j-VJAlT2RmFSjVNYhVOL0uN3scRmaAsOAfIvDgHyLw?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183665352110772224597421.jpeg/_j-VJAlT2RmFSjVNYhVOL0uN3scRmaAsOAfIvDgHyLw?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 198357,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "us",
+    "title": "特朗普提名科爾任人質事務特使",
+    "url": "https://www.epochtimes.com/b5/26/10/4/n14863195.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863240-EpochImages-6419039416-xl-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863240-EpochImages-6419039416-xl-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 86317,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "tw",
+    "title": "台南後壁廠房深夜大火無人傷亡",
+    "url": "https://www.ettoday.net/news/20261005/3249084.htm",
+    "cardOg": "https://cdn2.ettoday.net/images/8953/e8953598.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn2.ettoday.net/images/8953/e8953598.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 82358,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1236,
+    "height": 929
+   },
+   {
+    "group": "tw",
+    "title": "小熊颱風料生成三颱暫不威脅台灣",
+    "url": "https://www.ettoday.net/news/20261005/3249066.htm",
+    "cardOg": "https://cdn2.ettoday.net/images/8953/e8953621.gif",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn2.ettoday.net/images/8953/e8953621.gif",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/gif",
+    "bytes": 6236026,
+    "magicHex": "474946383961cd02bc02f63f00121212",
+    "decoded": true,
+    "format": "GIF",
+    "width": 717,
+    "height": 700
+   },
+   {
+    "group": "tw",
+    "title": "新竹新豐住宅火警五人獲救送院",
+    "url": "https://udn.com/news/story/7320/9794743",
+    "cardOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/05/35389939.jpg&M=1&s=Y&x=0&y=317&sw=1107&sh=738&exp=3600",
+    "articleHTTP": 200,
+    "articleOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/05/35389939.jpg&M=1&s=Y&x=0&y=317&sw=1107&sh=738&exp=3600",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 193617,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1107,
+    "height": 738
+   },
+   {
+    "group": "war",
+    "title": "伊朗石油部長以私人理由辭職",
+    "url": "https://www.iranintl.com/en/202610045597",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/e2d8be916ed2500b61a748a2c04ab2de9695d20b-720x495.avif?rect=0,59,720,378&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/e2d8be916ed2500b61a748a2c04ab2de9695d20b-720x495.avif?rect=0,59,720,378&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 35517,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 720,
+    "height": 378
+   },
+   {
+    "group": "war",
+    "title": "伊朗審查美方對七日方案回應",
+    "url": "https://www.iranintl.com/en/202610047470",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/b70945c76655abfa0e4d91fbab3efff2201a0961-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/b70945c76655abfa0e4d91fbab3efff2201a0961-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 27739,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 800,
+    "height": 420
+   },
+   {
+    "group": "war",
+    "title": "也門政府宣布反攻胡塞控制地區",
+    "url": "https://www.hk01.com/article/60396324",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183572717429854208906713.jpeg/kIZFTeXe1hz0VcdUlcC-RDKB6_V01qoc44U40OOFONA?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183572717429854208906713.jpeg/kIZFTeXe1hz0VcdUlcC-RDKB6_V01qoc44U40OOFONA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 110921,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "ai",
+    "title": "ai",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "cardOg": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+    "articleHTTP": 200,
+    "articleOg": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 181306,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 863
+   },
+   {
+    "group": "warb",
+    "title": "warb",
+    "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
+    "cardOg": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1920%2C1440",
+    "articleHTTP": 200,
+    "articleOg": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1920%2C1440",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 152820,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1440
+   }
+  ],
+  "failures": []
+ },
+ "editorialReview": {
+  "blockingIssues": [],
+  "adjudicatedWarnings": [
+   "鑽石山由搜索新增拘捕及涉嫌企圖行劫，實質新進展。",
+   "荃錦交匯處與東涌翔東路是不同地點及車禍。",
+   "劏房替代住所倡議與港航替代航班無關。",
+   "港大創新節與移植透析運動會為不同活動。",
+   "青衣明翹匯完整業權銀主盤與長沙灣半業權拍賣不同單位。",
+   "台南後壁廠火與泰山山火不同地區。"
+  ],
+  "limitations": [
+   "經一兩篇新刊分析回顧既有季度數據，卡面明示；銀主盤價是起拍非成交。原og為媒體通用圖，逐字保留。",
+   "醫管局主席人選為香港01消息人士說法，未正式任命；黃國政策屬專欄倡議。",
+   "防騙專訪回顧九月個案、師長攻略改編案例，未當作新刑案。",
+   "台灣小熊及三颱仍屬預測；摘要已移除正文未載的季風描述。"
+  ],
+  "rootImagesVisualChecked": true,
+  "lowfreqAdded": "港·猴痘個案再現"
+ },
+ "sourceEvidence": {
+  "hk": [
+   {
+    "group": "hks",
+    "title": "鑽石山持刀指嚇案拘捕五旬婦",
+    "url": "https://www.hk01.com/article/60396343",
+    "articleHttp": 200,
+    "originalTitle": "鑽石山女子持刀指嚇港鐵職員索八達通卡、紙鈔　行劫不果回家被捕",
+    "originalDescription": "昨日（4日）傍晚一名女子在港鐵鑽石山站客務中心以刀指嚇職員及敲玻璃，要求職員交出八達通卡及100元港幣紙鈔。警方接報到場翻查閉路電視追查女子",
+    "publishedRaw": "2026-10-05T07:10:36+08:00",
+    "updatedRaw": "2026-10-05T08:22:23+08:00",
+    "publishedHKT": "2026-10-05 07:10:36",
+    "updatedHKT": "2026-10-05 08:22:23",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183672936381288448307925.jpeg/U9k4ffl8GlEwasNRr-kIquHUFGMwL9lAUV_bRHtf20Q?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-0.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 183936,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:20.283294+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "荃錦交匯處貨車翻側兩司機傷",
+    "url": "https://www.hk01.com/article/60396344",
+    "articleHttp": 200,
+    "originalTitle": "荃錦交匯處2車相撞　貨車翻側　部份行車線封閉",
+    "originalDescription": "今（5日）早上6時許，一輛16噸中型貨車及一輛私家車駛至荃錦交匯處時相撞，期間貨車失控翻側，司機因車門損毀一度被困。警方及救護車接報到場，貨",
+    "publishedRaw": "2026-10-05T07:29:25+08:00",
+    "updatedRaw": "2026-10-05T08:21:37+08:00",
+    "publishedHKT": "2026-10-05 07:29:25",
+    "updatedHKT": "2026-10-05 08:21:37",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183677716386287616524169.png/mb44wmhPuU9ec5KaDsdr6v0e3ic_ZrQqk7goIpO4KCI?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-1.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 54892,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       547,
+       308
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:20.198777+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "大嶼山八十萬元珠寶失竊拘女傭",
+    "url": "https://www.hk01.com/article/60396334",
+    "articleHttp": 200,
+    "originalTitle": "大嶼山印度夫婦家中值80萬珠寶被偷　警拘女傭涉盜竊",
+    "originalDescription": "昨（4日）晚上近10時，警方接獲大嶼山北健東路2號一單位男住戶報案，指發現家中一批珠寶不見了，懷疑被人盜去。警員接報到場，相信單位內一對印度",
+    "publishedRaw": "2026-10-05T03:07:10+08:00",
+    "updatedRaw": "2026-10-05T03:09:23+08:00",
+    "publishedHKT": "2026-10-05 03:07:10",
+    "updatedHKT": "2026-10-05 03:09:23",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20250816/1033371865025875968594123.jpeg/Hoch80NnvWUNy3TYmpmDp1UbmZ06Q0R-fcuxrX3Lsa0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-2.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 154627,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:20.261884+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "油麻地巴士疑吸毒男乘客被捕",
+    "url": "https://www.hk01.com/article/60396318",
+    "articleHttp": 200,
+    "originalTitle": "油麻地36歲男巴士上被舉報吸毒　警到場檢依托咪酯煙彈及煙槍",
+    "originalDescription": "昨（4日）晚上近10時，警方接獲油麻地彌敦道及加士居道交界對開一名九巴司機報案，指其駕駛巴士至上址時，接獲乘客舉報，指發現另一名男乘客在巴士",
+    "publishedRaw": "2026-10-05T00:03:04+08:00",
+    "updatedRaw": "2026-10-05T00:20:40+08:00",
+    "publishedHKT": "2026-10-05 00:03:04",
+    "updatedHKT": "2026-10-05 00:20:40",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1182983433530380288735692.jpeg/6gqDFq9IX054z0zonHA39cByAnKvdzPdMnzMrDJ8zKw?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-3.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 158911,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:20.316910+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "粉嶺暉明邨火警二百人疏散",
+    "url": "https://www.hk01.com/article/60396308",
+    "articleHttp": 200,
+    "originalTitle": "粉嶺暉明邨單位疑有床褥起火　消防開喉救熄　約200人自行疏散",
+    "originalDescription": "粉嶺發生火警。今日（4日）晚上10時16分，警方接獲報案，指暉明邨昇暉樓一單位起火冒煙。消防接報到場，動用一條喉及一隊煙帽隊灌救，迅速將火救熄",
+    "publishedRaw": "2026-10-04T22:58:15+08:00",
+    "updatedRaw": "2026-10-04T22:58:23+08:00",
+    "publishedHKT": "2026-10-04 22:58:15",
+    "updatedHKT": "2026-10-04 22:58:23",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183550869602308096542830.jpeg/bUWQD1Cf6m__T87LUjQUVTF6a_YMyo9lg0coloNHKJY?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-4.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 115145,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1168,
+       657
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:20.293723+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "師長防罪攻略提醒網戀勒索風險",
+    "url": "https://www.stheadline.com/edu-insights/3622366/",
+    "articleHttp": 200,
+    "originalTitle": "網戀變噩夢 12歲女遭誘騙發生性行為兼勒索  警方推《師長攻略》守護青少年成長",
+    "originalDescription": "12歲少女發生網戀卻墮入性識誘陷阱，更慘遭勒索金錢！案件揭示了在數碼環境成長的青少年所面臨之危機。警方推出《師長攻略．青少年陷阱解密》，聚焦4類罪行主題，包括「網上性誘識」，為老師及家長提供深入且全面的防罪建議，引導青少年辨識風險。《師長攻略》提到一宗由真實案例改編的個案，有女學生與成年男網友見面即被誘使發生性行為，更遭要脅公開私密片段，涉案男子最終被判刑5年。社工建議青少年切勿在網絡世界傳送私密",
+    "publishedRaw": "2026-10-05T08:00:45+0800",
+    "updatedRaw": "2026-10-05T08:00:45+0800",
+    "publishedHKT": "2026-10-05 08:00:45",
+    "updatedHKT": "2026-10-05 08:00:45",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/aa47effd0dc902c765afe6e60d5a62eb/2026-10/179112005198500.jpg",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-5.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 751047,
+     "magic": "ffd8ffe1001845786966000049492a00",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:20.564320+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "僱主稱外傭失聯後收到追債信",
+    "url": "https://www.dimsumdaily.hk/employers-warn-of-organised-borrowing-by-absent-foreign-domestic-helpers-as-debts-linked-to-hk-addresses-emerge/",
+    "articleHttp": 200,
+    "originalTitle": "Employers warn of organised borrowing by absent domestic helpers as debts linked to hong kong addresses emerge",
+    "originalDescription": "A Hong Kong employer reported her helper absconded and was later pursued by lenders, while an industry group led by Chrystie Lam says “organised” borrowing cases are rising and urges tighter controls on loans to holders of WX‑prefix identity cards.",
+    "publishedRaw": "2026-10-04T13:11:09+00:00",
+    "updatedRaw": "2026-10-04T13:15:59+00:00",
+    "publishedHKT": "2026-10-04 21:11:09",
+    "updatedHKT": "2026-10-04 21:15:59",
+    "originalOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/04211009/Sandy-343.webp",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-6.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/webp",
+     "bytes": 73230,
+     "magic": "52494646061e01005745425056503858",
+     "pillow": {
+      "format": "WEBP",
+      "size": [
+       948,
+       750
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:20.335315+00:00"
+   },
+   {
+    "group": "hks",
+    "title": "防騙專訪回顧假公安索卡資料案",
+    "url": "https://www.stheadline.com/breaking-news/3622298/",
+    "articleHttp": 200,
+    "originalTitle": "智慧警政系列｜中年婦誤信「北京公安」交信用卡資料 警成功阻截教裝防騙視伏App",
+    "originalDescription": "警方新界北總區衝鋒隊人員早前成功阻止一宗「假冒官員騙案」，一名中年婦人誤信騙徒交出信用卡資料，其後與騙徒溝通時感到不安，決定報警求助。衝鋒隊人員迅速到場介入處理，成功保障事主財產，更向事主介紹並安裝「防騙視伏App」手機應用程式，方便事主日後使用。警方提醒市民多加善用「防騙視伏器」及「防騙視伏App」查證可疑電話、銀行帳戶或網站，避免墮入騙案陷阱。 記者 麥鍵瀧 案件發生於今年9月初，一名中年婦人",
+    "publishedRaw": "2026-10-05T08:00:44+0800",
+    "updatedRaw": "2026-10-05T08:00:44+0800",
+    "publishedHKT": "2026-10-05 08:00:44",
+    "updatedHKT": "2026-10-05 08:00:44",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/27628160b687b4c0911ed3720aa37b5f/2026-10/PC.jpg",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hks-7.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 721402,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:20.570688+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "調查指三成半劏房戶住所未達標",
+    "url": "https://www.hk01.com/article/60396042",
+    "articleHttp": 200,
+    "originalTitle": "簡樸房｜條例生效半年逾三成劏房未達標　團體憂2027年現迫遷潮",
+    "originalDescription": "《簡樸房條例》自今年3月1日起生效，當局採「先登記、後認證、再執法」方式逐步規管本港分間單位，然而，條例生效半年間，基層住屋困境未見改善，",
+    "publishedRaw": "2026-10-05T07:00:41+08:00",
+    "updatedRaw": "2026-10-05T07:00:41+08:00",
+    "publishedHKT": "2026-10-05 07:00:41",
+    "updatedHKT": "2026-10-05 07:00:41",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261003/1183078698165735424067519.jpeg/_Dju5C73Qe48W-RQ7kR9oHk8aUYmmkKRL1yzHgVcsx4?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-0.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 280971,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:22.525453+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "東北季候風抵港今早降溫兩度",
+    "url": "https://www.hk01.com/article/60396335",
+    "articleHttp": 200,
+    "originalTitle": "天氣｜今日早晚稍涼最低25度　初時有一兩陣驟雨　明日最低23度",
+    "originalDescription": "與冷鋒相關的東北季候風正影響廣東沿岸地區。天文台指出，本港今早（10月5日）大部份地區氣溫較昨日低兩度左右。此外，驟雨正影響該區及南海北部。",
+    "publishedRaw": "2026-10-05T06:10:00+08:00",
+    "updatedRaw": "2026-10-05T06:10:17+08:00",
+    "publishedHKT": "2026-10-05 06:10:00",
+    "updatedHKT": "2026-10-05 06:10:17",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183657707903651840027356.jpeg/aUJkMYqSx95hn8DiizXJuRrRxo5wSPNrywcNDssHDQ4?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-1.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 132692,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:22.339905+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "港大創新節將展逾百科研項目",
+    "url": "https://www.hk01.com/article/60395668",
+    "articleHttp": 200,
+    "originalTitle": "港大新任副校岑浩璋倡產學研早期對接　推動創科成果轉化落地",
+    "originalDescription": "科研成果如何由實驗室走進市場，一直是香港推動創新科技發展的重要課題。香港大學正透過「RISE」框架，整合研究、創新、策略協作及創業支援四個環",
+    "publishedRaw": "2026-10-05T00:00:16+08:00",
+    "updatedRaw": "2026-10-05T00:00:16+08:00",
+    "publishedHKT": "2026-10-05 00:00:16",
+    "updatedHKT": "2026-10-05 00:00:16",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261002/1182745042326917120240718.jpeg/X-7NSIPDRkyhFXJRaWrj28jhbdfGjHi2DHJ59gxyefY",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-2.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 192226,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:22.487790+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "中大學生亞運奪牌兼刷新游泳紀錄",
+    "url": "https://www.hk01.com/article/60396328",
+    "articleHttp": 200,
+    "originalTitle": "亞運會2026︱中大33人學生代表團出征　奪6面獎牌兼刷新香港紀錄",
+    "originalDescription": "香港中文大學33名學生組成的代表團在2026年愛知·名古屋亞運會上表現卓越，5位學生在帆船、壁球、空手道及劍擊等項目勇奪多面獎牌，並有一位學生在",
+    "publishedRaw": "2026-10-05T01:24:03+08:00",
+    "updatedRaw": "2026-10-05T01:24:08+08:00",
+    "publishedHKT": "2026-10-05 01:24:03",
+    "updatedHKT": "2026-10-05 01:24:08",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183585863876481024972158.jpeg/hNEra_bHYTZvoT1E3LcdNbY9TxgQkuV9XmOFhV5jhYU?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-3.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 126202,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1170,
+       658
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:22.382060+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "恒大研究揭鏡頭演說眼神接觸難",
+    "url": "https://www.stheadline.com/edu-insights/3622377/",
+    "articleHttp": 200,
+    "originalTitle": "恒大研究：鏡頭前演說 85%學生指眼神接觸最難",
+    "originalDescription": "現代年輕人運用智能手機、社交媒體及影音平台大多駕輕就熟，但通過鏡頭進行具說服力的演說仍有難度。恒生大學一項研究發現，學生普遍對操作數碼設備感到自信，但未必能直接轉化為鏡頭前的表達能力，超過7成半受訪學生更認為眼神接觸和肢體表達存在挑戰。負責研究的恒生大學英文系助理教授黃澤萍建議教師為學生提供更多練習機會，而非單純將面對面演說的要求直接套用到數碼環境。 認知層面焦慮最明顯 黃澤萍與研究團隊早前進行研",
+    "publishedRaw": "2026-10-05T08:00:00+0800",
+    "updatedRaw": "2026-10-05T08:00:00+0800",
+    "publishedHKT": "2026-10-05 08:00:00",
+    "updatedHKT": "2026-10-05 08:00:00",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/fdebde270095f7f4b531340bb9123c38/2026-10/Photo_1-169.jpg",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-4.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 219269,
+     "magic": "ffd8ffe000104a464946000101010060",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       676
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:22.491132+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "城大天台花園記錄十八種蝴蝶",
+    "url": "https://www.stheadline.com/edu-insights/3622376/",
+    "articleHttp": 200,
+    "originalTitle": "城大天台花園蝴蝶18種 發現罕見柑橘鳳蝶",
+    "originalDescription": "城市大學為位於李達三葉耀珍學術樓天台的「生物多樣性花園」引入本地植物物種，冀提升花園生態價值，並委託嘉道理農場暨植物園展開為期一年的蝴蝶生態監測調查。大學引述調查數據顯示，天台花園在過去一年內累積記錄到18種蝴蝶，包括被漁護署列為「不常見」的柑橘鳳蝶，為校園未來的綠化與生態升級提供重要的參考依據；大學亦將進行改善工程，加強天台棲息地的生態功能。 為校園生態升級提供依據 「生物多樣性花園」既是社區種",
+    "publishedRaw": "2026-10-05T07:45:00+0800",
+    "updatedRaw": "2026-10-05T07:45:00+0800",
+    "publishedHKT": "2026-10-05 07:45:00",
+    "updatedHKT": "2026-10-05 07:45:00",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/43734a12f40380f70b9cabb90e8714cf/2026-10/997cd93e-7c89-4702-a581-63c18453bd62-169.jpg",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-5.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 205180,
+     "magic": "ffd8ffe000104a464946000101010060",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:22.516935+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "機場二號客運樓設萬聖節裝置",
+    "url": "https://www.stheadline.com/society/3622334/",
+    "articleHttp": 200,
+    "originalTitle": "萬聖節｜機場各處設主題「打卡」裝置  融入本地元素  創作團隊盼豐富旅客體驗、增添亮點",
+    "originalDescription": "為迎接國慶黃金周及萬聖節旅遊旺季，香港國際機場近日與潮流原創IP（Original Intellectual Property原創智慧財產）展開聯乘合作，於機場二號客運大樓各處設置多組大型主題「打卡」裝置與裝飾。香港機場管理局機場服務總監楊達榮期望，是次節慶聯乘佈置能豐富旅客的出行體驗，鞏固香港作為多元國際旅遊之都的吸引力。創作團隊亦盼望聯乘裝置能成為旅客抵港後首個「打卡」熱點，讓大眾帶着歡樂氣氛",
+    "publishedRaw": "2026-10-05T07:15:00+0800",
+    "updatedRaw": "2026-10-05T07:15:00+0800",
+    "publishedHKT": "2026-10-05 07:15:00",
+    "updatedHKT": "2026-10-05 07:15:00",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/a543982547fe6dbc6bd7cf2410a3d99c/2026-10/WhatsApp_Image_2026-10-04_at_9_52_49_PM.jpeg",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-6.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 300885,
+     "magic": "ffd8ffe000104a464946000101000001",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:22.873597+00:00"
+   },
+   {
+    "group": "hkl",
+    "title": "周日截至九時入境五十七萬人次",
+    "url": "https://www.hk01.com/article/60396311",
+    "articleHttp": 200,
+    "originalTitle": "十一黃金周｜截至今晚9時57.6萬人次入境　內地客佔19.8萬人次",
+    "originalDescription": "一連七日的內地「十一黃金周」自上周四（1日）開始。入境處早前預計，周日為入境高峰期。踏入黃金周第四日（10月4日），入境處回覆指，截至今晚9時",
+    "publishedRaw": "2026-10-04T23:45:13+08:00",
+    "updatedRaw": "2026-10-05T00:02:23+08:00",
+    "publishedHKT": "2026-10-04 23:45:13",
+    "updatedHKT": "2026-10-05 00:02:23",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183562279078072320910234.jpeg/nisgC8EmdA5X3zzPv_txzg9kfkhXoN0t9ynI8PcpyPA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "bodyFile": "hk-article-hkl-7.txt",
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 180013,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-05T00:38:22.729379+00:00"
+   }
+  ],
+  "root": [
+   {
+    "key": "gdp",
+    "url": "https://www.edigest.hk/%e6%9c%80%e6%96%b0%e8%b2%a1%e7%b6%93%e6%b6%88%e6%81%af/%e9%a6%99%e6%b8%afgdp%e5%a2%9e%e9%95%b7%e5%a4%b1%e6%a5%ad%e7%8e%87-2043694/",
+    "articleHTTP": 200,
+    "title": "【增長與失業脫節】上半年GDP升5.1%創近五年最強－失業率卻升至3.8%－李家超稱難評估走勢",
+    "ogImage": "https://images.edigest.hk/wp-content/uploads/2026/05/ed-social-share_19873850955e4e5ab66fb9a_27499425069f836787b3ab.jpg",
+    "publishedRaw": "2026-10-05T06:52:36+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-05T06:52:36+00:00",
+     "dateModified": "2026-10-05T06:52:36+00:00"
+    },
+    "textExtract": "【增長與失業脫節】上半年GDP升5.1%創近五年最強－失業率卻升至3.8%－李家超稱難評估走勢 熱門搜尋 定期存款 活期存款 Nvidia 比特幣 人工智能 美股 登入 我的訂閱 登出 經一 x《華爾街日報》 熱門搜尋 定期存款 活期存款 Nvidia 比特幣 人工智能 美股 即時財經 專題 投資 港股 美股 外匯 債券 基金觀點 虛擬投資 投資熱話 樓市 大市消息 二手成交 資助房屋 新盤 裝修設計 按揭 樓市熱話 理財 定期存款 保險 儲蓄 強積金 數字銀行 借貸 稅務 信用卡 理財熱話 商業 市場動態 品牌故事 中小企 創業指南 營商資源庫 ESG 大灣區 經一品牌大獎2026 經一活動 科技 人工智能 大數據 區塊鏈 雲端 職場 職場技能 職場資訊 職場熱話 生活 品味生活 生活消閒 時事 政府政策 社會熱話 移民資訊 即時新聞 專欄 訂閱專區 加入我們 施政報告2026 日圓 Pokemon卡 美股科技股 AI 最新財經資訊 登入 / 註冊 我的訂閱 登出 經一 x《華爾街日報》 熱門搜尋 定期存款 活期存款 Nvidia 比特幣 人工智能 美股 即時財經 專題 投資 港股 美股 外匯 債券 基金觀點 虛擬投資 投資熱話 樓市 大市消息 二手成交 資助房屋 新盤 裝修設計 按揭 樓市熱話 理財 定期存款 保險 儲蓄 強積金 數字銀行 借貸 稅務 信用卡 理財熱話 商業 市場動態 品牌故事 中小企 創業指南 營商資源庫 ESG 大灣區 經一品牌大獎2026 經一活動 科技 人工智能 大數據 區塊鏈 雲端 職場 職場技能 職場資訊 職場熱話 生活 品味生活 生活消閒 時事 政府政策 社會熱話 移民資訊 即時新聞 專欄 訂閱專區 加入我們 施政報告2026 日圓 Pokemon卡 美股科技股 AI 最新財經資訊 即時財經 專題 投資 港股 美股 外匯 債券 基金觀點 虛擬投資 投資熱話 樓市 大市消息 二手成交 資助房屋 新盤 裝修設計 按揭 樓市熱話 理財 定期存款 保險 儲蓄 強積金 數字銀行 借貸 稅務 信用卡 理財熱話 商業 市場動態 品牌故事 中小企 創業指南 營商資源庫 ESG 大灣區 經一品牌大獎2026 經一活動 科技 人工智能 大數據 區塊鏈 雲端 職場 職場技能 職場資訊 職場熱話 生活 品味生活 生活消閒 時事 政府政策 社會熱話 移民資訊 即時新聞 專欄 訂閱專區 加入我們 熱門搜尋 定期存款 活期存款 Nvidia 比特幣 人工智能 美股 登入 我的訂閱 登出 經一 x《華爾街日報》 【增長與失業脫節】上半年GDP升5.1%創近五年最強－失業率卻升至3.8%－李家超稱難評估走勢 經一編輯部 最新財經消息 Oct 5 2026 在Google 追蹤《經濟一週》 分享至 最新財經資訊 廣告 經濟增長跑贏預期，為何打工仔反而愈來愈驚手停口停？ 香港今年上半年本地生產總值（GDP）按年實質增長5.1%，是近五年最強勁的上半年表現，但最新失業率卻連續攀升至3.8%，創一年多高位。行政長官李家超在今年九月中公布首份《五年規劃》及《施政報告》期間，被問及如何評估未來五年經濟及就業前景時表示，GDP增長應貼近世界趨勢，而失業率涉及眾多突發因素，難以預測五年後的數字，若政府隨便發放訊息並非最好做法。這番言論雖屬九月中旬的場合發言，但其背後反映的「增長與就業脫節」現象,在十月初最新一輪官方數據公布後,變得更具體可見。 閱讀全文 【官方數據】上半年增5.1% 創近五年最強 政府上調全年預測 政府統計處公開資料顯示，香港第二季GDP按年實質增長4.3%，較首季的5.9%明顯放緩，按季比較更錄得0.6%跌幅，是2022年第三季以來首次出現季度收縮。不過將首兩季合併計算，上半年整體增長達5.1%，是近五年最強勁的上半年表現，主要受惠於貨物出口大幅飆升——第二季商品出口按年升28.8%，較首季23.8%進一步加快，電子產品需求尤其強勁。特區政府因應上半年數據表現,已將全年經濟增長預測由原先區間上調至3.5%至4.5%，意味下半年即使增長放緩，全年仍有望錄得近五年最佳表現之一。 【外貿撐大市】8月出口勁升53% AI產品成主要引擎 公開資料顯示,香港對外貿易表現持續亮麗,8月份商品整體出口貨值按年上升53%,進口貨值則升60%,升幅遠超",
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 97227,
+    "imageMagic": "ffd8ffe000104a464946000101000001",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 630
+    }
+   },
+   {
+    "key": "repossession",
+    "url": "https://www.edigest.hk/%e6%9c%80%e6%96%b0%e8%b2%a1%e7%b6%93%e6%b6%88%e6%81%af/%e9%8a%80%e4%b8%bb%e7%9b%a4-3-2043692/",
+    "articleHTTP": 200,
+    "title": "【銀主盤止跌回升】青衣一房「4球」蝕三成找拍賣－全港存量止跌重上200個－中價盤急增近八成",
+    "ogImage": "https://images.edigest.hk/wp-content/uploads/2026/05/ed-social-share_19873850955e4e5ab66fb9a_27499425069f836787b3ab.jpg",
+    "publishedRaw": "2026-10-05T06:52:32+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-05T06:52:32+00:00",
+     "dateModified": "2026-10-05T06:52:32+00:00"
+    },
+    "textExtract": "【銀主盤止跌回升】青衣一房「4球」蝕三成找拍賣－全港存量止跌重上200個－中價盤急增近八成 熱門搜尋 定期存款 活期存款 Nvidia 比特幣 人工智能 美股 登入 我的訂閱 登出 經一 x《華爾街日報》 熱門搜尋 定期存款 活期存款 Nvidia 比特幣 人工智能 美股 即時財經 專題 投資 港股 美股 外匯 債券 基金觀點 虛擬投資 投資熱話 樓市 大市消息 二手成交 資助房屋 新盤 裝修設計 按揭 樓市熱話 理財 定期存款 保險 儲蓄 強積金 數字銀行 借貸 稅務 信用卡 理財熱話 商業 市場動態 品牌故事 中小企 創業指南 營商資源庫 ESG 大灣區 經一品牌大獎2026 經一活動 科技 人工智能 大數據 區塊鏈 雲端 職場 職場技能 職場資訊 職場熱話 生活 品味生活 生活消閒 時事 政府政策 社會熱話 移民資訊 即時新聞 專欄 訂閱專區 加入我們 施政報告2026 日圓 Pokemon卡 美股科技股 AI 最新財經資訊 登入 / 註冊 我的訂閱 登出 經一 x《華爾街日報》 熱門搜尋 定期存款 活期存款 Nvidia 比特幣 人工智能 美股 即時財經 專題 投資 港股 美股 外匯 債券 基金觀點 虛擬投資 投資熱話 樓市 大市消息 二手成交 資助房屋 新盤 裝修設計 按揭 樓市熱話 理財 定期存款 保險 儲蓄 強積金 數字銀行 借貸 稅務 信用卡 理財熱話 商業 市場動態 品牌故事 中小企 創業指南 營商資源庫 ESG 大灣區 經一品牌大獎2026 經一活動 科技 人工智能 大數據 區塊鏈 雲端 職場 職場技能 職場資訊 職場熱話 生活 品味生活 生活消閒 時事 政府政策 社會熱話 移民資訊 即時新聞 專欄 訂閱專區 加入我們 施政報告2026 日圓 Pokemon卡 美股科技股 AI 最新財經資訊 即時財經 專題 投資 港股 美股 外匯 債券 基金觀點 虛擬投資 投資熱話 樓市 大市消息 二手成交 資助房屋 新盤 裝修設計 按揭 樓市熱話 理財 定期存款 保險 儲蓄 強積金 數字銀行 借貸 稅務 信用卡 理財熱話 商業 市場動態 品牌故事 中小企 創業指南 營商資源庫 ESG 大灣區 經一品牌大獎2026 經一活動 科技 人工智能 大數據 區塊鏈 雲端 職場 職場技能 職場資訊 職場熱話 生活 品味生活 生活消閒 時事 政府政策 社會熱話 移民資訊 即時新聞 專欄 訂閱專區 加入我們 熱門搜尋 定期存款 活期存款 Nvidia 比特幣 人工智能 美股 登入 我的訂閱 登出 經一 x《華爾街日報》 【銀主盤止跌回升】青衣一房「4球」蝕三成找拍賣－全港存量止跌重上200個－中價盤急增近八成 經一編輯部 最新財經消息 Oct 5 2026 在Google 追蹤《經濟一週》 分享至 最新財經資訊 廣告 一個實用面積僅三百方呎的一房單位，掛牌價竟低見三百七十萬元，比原業主七年前買入價還要低近三成，這是銀主盤還是陷阱？ 青衣新盤明翹匯一個低層一房單位，近日因銀主盤拍賣消息在社交平台熱傳，單位實用面積約三百零五方呎，銀行估值約四百五十五萬元，拍賣底價卻僅三百七十萬元，折讓近一成九。公開資料顯示，原業主於二〇一九年底以逾五百零八萬元買入，持貨約七年後最終因供款出問題被銀主接管，賬面蝕讓逾一百三十八萬元，即約二成七。類似個案近月在青衣、屯門、元朗一帶陸續出現，背後反映的是全港銀主盤存量在經歷三季連跌後，於今年第二季重新掉頭回升的市況轉折。 閱讀全文 【由跌轉升】存量三季插三成七後 一季內彈升近七成 公開資料顯示，全港住宅銀主盤存量曾於二〇二五年六月錄得三百個的階段性高峰，隨後連跌三季，到今年三月底一度跌至一百八十八個，按季減少近一成七，較高峰期大跌約三成七，創近十一個季度新低，有物業代理機構研究部門形容「銀主盤高峰期已過」。然而市況僅維持一季便再度逆轉——今年六月底最新統計顯示，全港住宅銀主盤存量回升至二百零一個，按季增加約一成三，結束連續三季下跌，重返二百個水平之上，當中私人住宅銀主盤增至一百四十五個，公營房屋亦增至五十六個。有分析指，銀行正趁樓市交投回暖加快出貨，部分銀主盤因而重新掛牌應市。 【中價盤急增】五百萬至一千萬存量暴升近八成 九龍新界最受壓 值得留意的是，這波回升並非平均分佈，而是集中在中價物業。據統計，樓價介乎五百萬至一千",
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 97227,
+    "imageMagic": "ffd8ffe000104a464946000101000001",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 630
+    }
+   },
+   {
+    "key": "oil",
+    "url": "https://www.straitstimes.com/business/economy/saudi-arabia-unexpectedly-cuts-oil-prices-to-asia",
+    "articleHTTP": 200,
+    "title": "Saudi Arabia unexpectedly cuts oil prices to Asia",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/277ce8f75155e027c3eeceb60dafa045bc04903037ee59c9d47996e65e342cb5",
+    "publishedRaw": "2026-10-05T00:15:00.000Z",
+    "jsonLdTime": {
+     "datePublished": "2026-10-05T08:15:00+08:00",
+     "dateModified": "2026-10-05T08:15:00+08:00"
+    },
+    "textExtract": "Saudi Arabia cuts oil prices for Asia in November | The Straits Times Log in / sign up for free Menu Choose edition Singapore International Search singapore asia world opinion life business sport Visual Podcasts STClassifieds Paid press releases Advertise with us FAQs Contact us Saudi Arabia unexpectedly cuts oil prices to Asia Sign up now: Get ST's newsletters delivered to your inbox The largest Middle Eastern crude exporter set the November Arab Light crude oil official selling price to Asia at US$5 a barrel below the average of Oman and Dubai prices, down US$3 from the previous month. PHOTO: REUTERS Published Oct 05, 2026, 08:15 AM Updated Oct 05, 2026, 08:15 AM Set as preferred source Saudi Arabia has unexpectedly cut November crude oil prices for Asia while it raised those for north-west Europe and the Mediterranean regions, a pricing document showed on Oct 5. The largest Middle Eastern crude exporter set the November Arab Light crude oil official selling price to Asia at US$5 a barrel below the average of Oman and Dubai prices, down US$3 from the previous month. The discount for November is the widest since June 2020, Reuters data showed. This was against expectations of a US$3 a barrel hike for its November OSP in a Reuters survey in line with gains seen in the Middle Eastern benchmarks. State oil company Saudi Aramco made deeper cuts of US$5 a barrel for the November OSPs of heavier grades – Arab Medium and Arab Heavy – sold to Asia. Aramco has been looking at offering discounts for oil loaded off Oman to compensate buyers for record freight rates, people familiar with the matter said last week, as it sought to protect its market share after the regional conflict hit exports. Separately, Saudi Aramco raised the November OSPs for north-west Europe by US$3 a barre",
+    "imageHTTP": 200,
+    "imageContentType": "image/webp",
+    "imageBytes": 54080,
+    "imageMagic": "5249464638d300005745425056503820",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "WEBP",
+     "width": 1140,
+     "height": 760
+    }
+   },
+   {
+    "key": "chen",
+    "url": "https://www.hk01.com/article/60396196",
+    "articleHTTP": 200,
+    "title": "陳健波大熱接任醫管局主席　護士難搵工成「燙手山芋」｜政圈風聲",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261004/1183452881131409408581473.jpeg/sVlC8ZNVOPuSpRgBDHUKklbjxf7bPK5joIb7CaCG-wk",
+    "publishedRaw": "2026-10-05T07:00:00+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-05T07:00:00+08:00",
+     "dateModified": "2026-10-05T07:00:00+08:00"
+    },
+    "textExtract": "陳健波大熱接任醫管局主席 護士難搵工成「燙手山芋」｜政圈風聲 港聞 政情 陳健波大熱接任醫管局主席 護士難搵工成「燙手山芋」｜政圈風聲 撰文： 潘耀昇 出版： 2026-10-05 07:00 更新： 2026-10-05 07:00 在Google 追蹤《香港01》 港聞 政情 陳健波大熱接任醫管局主席 護士難搵工成「燙手山芋」｜政圈風聲 撰文： 潘耀昇 出版： 2026-10-05 07:00 更新： 2026-10-05 07:00 在Google 追蹤《香港01》 醫管局主席范鴻齡打破法定組織非官方成員「六年任期」的慣例，任期已達第七年，將於下月底屆滿。《香港01》獲悉，78歲的范鴻齡將退下火線。至於接任人政圈傳出兩個人選，都是宏福苑火災獨立委員會的委員，一人是74歲的港鐵前主席、醫管局非官方成員歐陽伯權，另一人是72歲的保險界「老行尊」、行政會議成員陳健波。有知情人士透露，身兼中大醫院董事的陳健波是接任醫管局主席的大熱，目前呼聲較高，預料完成宏福苑任務後拍板有人選定案。 護士畢業生搵工困境討論升溫，相信是下任醫管局主席的「燙手山芋」。醫衞局局長盧寵茂多次解畫引用2025年數據說明有99%註冊護士獲聘，不過醫管局披露2026年首輪招聘暫得73.33%畢業生獲聘為護士，意味競爭更大。行會成員張宇人其後撐輸入護士時「火上加油」指控訴苦護士是「工會扮人打電話」。聽聞，事後獲一名政府中人讚揚他講真話釐清誤解。 醫院管理局主席范鴻齡。（梁鵬威攝） 范鴻齡打破「六年任期」慣例 第七年出任醫管局主席 范鴻齡2019年12月1日起獲委任為醫管局主席，原本任期2年。他其後獲續任三次，分別在2021年、2023年、2026年。去年委任范鴻齡時表明只有一年任期，即下月30日結束。話雖如此，范鴻齡已打破法定組織非官方成員「六年任期」的慣例，四度獲委任為醫管局主席，任期已第七年。 范鴻齡(彭紹殷攝） 范鴻齡上月「賣關子」避談留任否 上月，范鴻齡出席醫管局大會後被記者問到會否再留任，還是已有繼任人選。當時，他表示主席是重要任命，要由行政長官作決定，「賣關子」叫大家等待政府公布。離開時，特意向現場記者揮手說「bye bye」。 醫管局主席范鴻齡及行政總裁李夏茵。（林子慰攝） 醫管局主席范鴻齡料下月卸任 陳健波大熱接任主席 《香港01》獲悉，78歲的范鴻齡將退下火線。至於接任人政圈傳出兩個人選，都是宏福苑火災獨立委員會的委員，一人是港鐵前主席、醫管局非官方成員歐陽伯權，另一人是保險界「老行尊」、行政會議成員陳健波。 當中，歐陽伯權去年接替林順潮，出任希瑪醫療董事會主席。有政界中人形容可能要解決「踩兩邊」公私營醫療潛在利益衝突問題。有知情人士透露，身兼中大醫院董事的陳健波是接任醫管局主席的大熱，預料完成宏福苑任務後拍板有人選定案。 陳健波近日在社交平台拍片談公私營醫療合作。 醫管局目標減專科新症輪候 陳健波近日拍片倡公私營合作 新一份施政報告提出，醫管局目標未來五年內將指定專科，包括耳鼻喉科、眼科、婦科、內科、骨科、精神科及外科門診穩定新症輪候時間縮短一半，下年度先將指定專科輪候時間縮短10%。 陳健波在忙碌的委員會工作中，不忘拍片關注公立醫院人手短缺及縮短求診輪候時間的問題。他昨日（4日）在社交平台上載《波哥時事台》影片，表示公立醫院長期面對人手短缺問題，公私營合作做得更好，才可以應對人口老化的社會。 公立醫院長期面對人手短缺，公私營合作做得更好，先至可以應對人口老化。我期望香港私家醫院能夠提供更合理、市民能負擔得起嘅收費，真正成為公立醫院以外嘅選擇。 陳健波 他以中大醫院為例，每天接收的急症室個案超過200宗，對比一年前大約100宗，增加一倍，證明推動改革成效，一方面協助公院分擔專科門診新症及日間手術；另一方面，套餐收費透明，費用有預算，令市民有更多選擇。他形容只要更多人去私立醫院求診，公立醫院就不用輪候這麼久。他期望私家醫院能夠提供更合理、市民能負擔得起的收費，真正成為公立醫院以外的選擇。 目前，公立醫院有約30,000名全職護士，絕大部分屬本地培訓護士，當中只有不足1%屬非本地培訓護士。（醫院管理局提供） 護士搵工難｜醫管局今年首輪僅聘七成畢業生較往年少 非99%獲聘 護士搵工難｜范婉雯：「搶飯碗」缺支持 難以個別經歷斷人力狀况 護士搵工難｜畢業生：公",
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 120314,
+    "imageMagic": "ffd8ffe000104a464946000102010048",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 675
+    }
+   },
+   {
+    "key": "huang",
+    "url": "https://www.hk01.com/article/60395920",
+    "articleHTTP": 200,
+    "title": "立法會議員．黃國｜踐行五年規劃灣區融合　完善跨境安老醫療",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260916/1176926931187142656520796.jpeg/lFv20Fhu5BoQkhiZxyigDS7l3h4Pw4j42psQ0tqbENI?v=w1280r16_9",
+    "publishedRaw": "2026-10-05T07:00:13+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-05T07:00:13+08:00",
+     "dateModified": "2026-10-05T07:00:13+08:00"
+    },
+    "textExtract": "立法會議員．黃國｜踐行五年規劃灣區融合 完善跨境安老醫療 觀點 01論壇 立法會議員．黃國｜踐行五年規劃灣區融合 完善跨境安老醫療 撰文： 01論壇 出版： 2026-10-05 07:00 更新： 2026-10-05 07:00 在Google 追蹤《香港01》 觀點 01論壇 立法會議員．黃國｜踐行五年規劃灣區融合 完善跨境安老醫療 撰文： 01論壇 出版： 2026-10-05 07:00 更新： 2026-10-05 07:00 在Google 追蹤《香港01》 來稿作者：黃國議員 特區政府早前公布香港第一個五年規劃和2026年《施政報告》，兩者一脈相承，以發展經濟、改善民生為核心，對接國家發展大局，貫徹「有為政府結合高效市場」的施政方向，加快推進大灣區規則和機制對接，開啟香港高質量發展新階段。 在國家「十五五」規劃開局之年，香港首次編制五年規劃，是對國家戰略部署的回應，並將深化落實《粵港澳大灣區發展規劃綱要》，加速大灣區融合發展。《綱要》在指導思想中特別提到「解放思想、大膽探索」，期望特區政府未來更加主動作為，以香港第一個五年規劃為契機，促成更多便民利民措施出台，為大灣區民眾增添更多獲得感、幸福感、安全感。 立法會議員、工聯會理事長黃國。（廖雁雄攝） 跨境安老、跨境醫療現已成為很多港人的選擇。現時參加「廣東院舍照顧服務計劃」的院舍共有29家，入住的港人長者約1,400人，較三年前增長九倍，足見需求龐大。近期我的工作團隊實地走訪了參與計劃的院舍，入住的港人長者對院舍服務和居住環境的滿意度高，然而，透過調研亦看到，有不少機制短板尚待解決。 首先是監護人問題，成為很多長者北上安老的攔路虎。院舍一般要求長者有監護人，處理緊急醫療決定及身後善後。縱然法律不要求監護人必須具備血緣關係，但疏堂親戚或朋友大多顧慮承擔責任而不願出任，不少長者因而卡在這一關，需要有系統性方案去應對。建議政府資助本港非政府組織在廣東設立服務中心，在內地相關部門支持、社會福利署監督之下，為有需要港人長者提供監護支援，並設立專項基金處理緊急醫療墊付、身後兜底。 其次，入住評估缺乏人文考量。有九旬獨居長者因尚能自理，未達計分標準，因而無法入住院舍；相反，另一名獨居長者因曾跌倒受傷，「證明」自理能力較差，反而符合入住資格。獨居帶來的安全風險，在現有評估體系未被充分納入，制度雖依規執行，但人文關懷尚待加強。 政府亦要持續擴充「廣東院舍照顧服務計劃」的資助宿位供應。現時大灣區九市內合共有 29 間院舍參與計劃，當中深圳7間院舍中有5間宿位緊張，珠海市唯一一間更表明停止接受新申請，可見有供不應求情況，有意北上安老的長者即使符合資格，亦苦於心儀院舍沒有宿位而無法如願。建議一方面積極招攬更多合資格的優質內地院舍加入計劃，另外，針對需求最殷切的深圳等城市加大宿位投放，朝着五年內大灣區九市總宿位不少於3,000個的目標邁進，回應港人長者的實際入住需求。 優化跨境安老，福利政策必須跟上。不少早年已經定居廣東、福建的香港長者，雖與香港維持緊密聯繫，只因長年留居內地，離港日數超出規限，便不符合「廣東計劃」及「福建計劃」的申領門檻（計劃要求緊接申請日期前的一年，離港不可超過90天）。去年便有多名退休公務員特意回港向筆者反映，在政府部門服務近40年，退休後60多歲便開始定居內地，每年仍就領取的長俸在港交稅，足證「與香港有密切聯繫」。然而，由於超出離港日數規定，無法即時領取「廣東計劃」下的生果金，除非先回港生活275天，對此感到為難，亦有失望、氣結。 事實上，這些長者要回港居住一段時間，現實上存在極大困難，例如家人未必歡迎回港同住，又或年齡較大，不獲業主出租單位。跨境福利金政策既要守好門口，亦要因應新時代、新發展與時俱進，最低限度要因應到大灣區安老作出調整。建議政府彈性審視這一類定居內地長者的離港紀錄，避免僵化執行條文，讓他們可以享受應得的福利。 稅務制度要跟上跨境安老的社會趨勢。現行《稅務條例》之下，納稅人申領「供養父母及祖父母免稅額」，以及申報「長者住宿照顧開支扣除」，均要求受供養的長者必須在香港本地居住或入住本港院舍。促請政府全面檢視條例，研究把大灣區內地九市納入為供養免稅額及住宿照顧開支扣除的適用範圍，做到一視同仁。 跨境醫療方面，《施政報告》提出研究將「長者醫療券大灣區試點計劃」服務",
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 253637,
+    "imageMagic": "ffd8ffe000104a464946000102010048",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   {
+    "key": "tse",
+    "url": "https://www.stheadline.com/politics/3622314/",
+    "articleHTTP": 200,
+    "title": "專訪｜指五年規劃內容不應頻繁變動  謝小華：大方向正確毋需大改  暫未考慮連任問題",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/987b04df74029af5990a8cba48d6ace3/2026-10/179110887556359.jpg",
+    "publishedRaw": "2026-10-05T07:00:00+0800",
+    "jsonLdTime": {
+     "datePublished": "2026-10-05T07:00:00+0800",
+     "dateModified": "2026-10-05T07:00:00+0800"
+    },
+    "textExtract": "專訪｜指五年規劃內容不應頻繁變動 謝小華：大方向正確毋需大改 暫未考慮連任問題 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 專欄 馬經 TV 繁 简 港聞 社會 政情 突發 社論 時事熱話 娛樂 即時娛樂 影視圈 星級大搜查 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 大灣區 國際 即時國際 環球拆局 趣聞熱話 星島申訴王 放蛇直擊 區區申訴 提防騙子 申訴熱話 人人申訴 財經 投資理財 宏觀經濟 商業創科 股市 ESG 區塊鏈 地產 樓市動向 新盤速遞 筍盤推介 海外置業 家居裝修 生活 飲食 好去處 旅遊 時尚購物 生活百科 Art Can 汽車 Luxe Style 健康 食用安全 保健養生 減肥運動 醫生教室 健康PRO 教育 教育透視 學界精英 升學解碼 智創新校園 非凡教養學 Oh!爸媽 體育 即時體育 足球世界 籃球天地 波盤王 專家點睇 專欄 專欄 保險C語 馬經 馬圈快訊 名家專欄 晨操動態 TV 時事台 娛樂台 產經台 生活台 直播Live 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 專欄 馬經 TV 旗下品牌 星島電子報 星島學生報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 贏跑網 星島頭條 資訊生活服務平台 一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 無障礙網頁 Copyright © 2026 SingTao Ltd.All rights reserved. 主頁 港聞 政情 專訪｜指五年規劃內容不應頻繁變動 謝小華：大方向正確毋需大改 暫未考慮連任問題 政情 更新時間：07:00 2026-10-05 HKT 發佈時間：07:00 2026-10-05 HKT 字體大小 特區政府上月推出《香港第一個五年規劃》，當中提到「強化五年規劃實施保障機制」。政制及內地事務局局長謝小華接受《星島》專訪表示，政府會持續監測、管控風險及評估進度，每年施政報告是最適合做小總結的好時機，檢視過去一年哪些做得好、哪些要加快，若大方向正確，不需要大改，強調「一個地方的發展規劃不應頻繁變動，否則市場、投資者等就會失去信心。」另外，現屆政府任期尚餘不足一年，被問到會否考慮爭取連任，謝小華直言「呢個唔係我目前雷達範圍內要考慮的事。」 政制及內地事務局局長謝小華接受《星島》專訪。何健勇攝 引用朱熹名言指規劃為香港提供方向 本港首份《五年規劃》由今年3月底新上任的謝小華親自主責統籌編制，最終收到超過17,000份意見，逾8成意見來自市民或個別人士。謝小華相信，社會有一個共同願望，就是希望香港變得更好，強調《五年規劃》會以民為本，令香港成為更宜業宜居的地方，提升市民幸福感與獲得感。她引用南宋理學家朱熹名言「書不記，熟讀可記；惟有志不立，直是無著力處」，希望五年規劃能為香港未來提供方向和策略。 謝續指，團隊以人工智能梳理大多經指定網頁提交的意見，有市民建議發展本地足球，認為不應該只邀請歐洲球隊訪港，笑言「南美波都好好睇。」；有長者用舊月曆紙、通勝紙背面寫信，希望改善生活及居住環境。另有已移民多年的港人來信，仍對香港充滿關懷，希望下一代更好，強調這些意見反映社會凝聚共識，令她十分感動。 謝小華強調，一個地方的發展規劃不應頻繁變動，否則市場、投資者等就會失去信心。何健勇攝 強調制定量化指標需深思熟慮 對於澳門「三五」規劃中提到探索在中期評估和總結評估中引入第三方評估。謝小華稱第三方評估的概念源自「十五五」規劃的輔導讀本，認為澳門只是「探索」，香港暫時未有定案，但許多市民、媒體、民間團體、專業組織等密切關注五年規劃，某程度上已發揮第三方評估作用。 今次「五年規劃」列出22項主要指標，當中只有5項屬於約束性，問及為何不把GDP增長等納入約束性指標。謝小華強調，政府制定量化指標時需要深思熟慮，「你定得太死，有人就話我哋計劃經濟，你唔定，啲",
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg; charset=UTF-8",
+    "imageBytes": 801537,
+    "imageMagic": "ffd8ffe000104a464946000102010048",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 675
+    }
+   }
+  ],
+  "world": {
+   "cn": [
+    {
+     "id": "zb9783380",
+     "url": "https://www.zaobao.com.sg/news/china/story20261004-9783380",
+     "source": "聯合早報",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T22:35:13+08:00",
+     "publishedHKT": "2026-10-04 22:35:13",
+     "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/51523d834df40f187929100bbdc87960d9f4b9837f083bb24ea72c4b0db95941",
+     "originalOgImage": "https://cassette.sphdigital.com.sg/image/zaobao/51523d834df40f187929100bbdc87960d9f4b9837f083bb24ea72c4b0db95941",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/webp",
+     "bytes": 121122,
+     "magic": "524946461ad9010057454250",
+     "pillowFormat": "WEBP",
+     "dimensions": [
+      1023,
+      682
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "菲律宾指中方在南中国海两争议海域骚扰菲政府飞机及船只"
+    },
+    {
+     "id": "zb9784008",
+     "url": "https://www.zaobao.com.sg/news/china/story20261005-9784008",
+     "source": "聯合早報",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-05T08:25:29+08:00",
+     "publishedHKT": "2026-10-05 08:25:29",
+     "ogImage": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+     "originalOgImage": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/png",
+     "bytes": 16651,
+     "magic": "89504e470d0a1a0a0000000d",
+     "pillowFormat": "PNG",
+     "dimensions": [
+      909,
+      500
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "英媒：英国考虑对中国进口电动车加征关税"
+    },
+    {
+     "id": "ep14863206",
+     "url": "https://www.epochtimes.com/b5/26/10/4/n14863206.htm",
+     "source": "大紀元",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T22:47:36.000Z",
+     "publishedHKT": "2026-10-05 06:47:36",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2023/04/id13975132-17_000_1876YO-700x359.jpg",
+     "originalOgImage": "https://i.epochtimes.com/assets/uploads/2023/04/id13975132-17_000_1876YO-700x359.jpg",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 37702,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      700,
+      359
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "經濟放緩 中國近四分之一銀行被關閉"
+    },
+    {
+     "id": "ep14863255",
+     "url": "https://www.epochtimes.com/b5/26/10/4/n14863255.htm",
+     "source": "大紀元",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T23:19:40.000Z",
+     "publishedHKT": "2026-10-05 07:19:40",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2026/04/id14742541-GettyImages-2236825381-700x359.jpg",
+     "originalOgImage": "https://i.epochtimes.com/assets/uploads/2026/04/id14742541-GettyImages-2236825381-700x359.jpg",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 263945,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      700,
+      359
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "大陸78%光伏企業股價下跌 光伏指數跌14.87%"
+    },
+    {
+     "id": "ep14863234",
+     "url": "https://www.epochtimes.com/b5/26/10/4/n14863234.htm",
+     "source": "大紀元",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T19:39:57.000Z",
+     "publishedHKT": "2026-10-05 03:39:57",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14863235-GettyImages-2294141625-700x359.jpg",
+     "originalOgImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14863235-GettyImages-2294141625-700x359.jpg",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 372437,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      700,
+      359
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "大陸女子通過免費Wi-Fi點紅包 反被扣850元"
+    },
+    {
+     "id": "hk60396259",
+     "url": "https://www.hk01.com/article/60396259",
+     "source": "香港01",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T21:00:14+08:00",
+     "publishedHKT": "2026-10-04 21:00:14",
+     "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261004/1183473130430009344451980.png/gV3n7Y4HrneVNwsZ2eJQtKFJe4gXNzM2Lz9YbS8_WG0?v=w1280r16_9",
+     "originalOgImage": "https://cdn.hk01.com/di/media/images/dw/20261004/1183473130430009344451980.png/gV3n7Y4HrneVNwsZ2eJQtKFJe4gXNzM2Lz9YbS8_WG0?v=w1280r16_9",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 169456,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      1280,
+      720
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": 43,
+     "sourceTitle": "女遊客摘綠化帶竹筍餵大熊貓妹豬　廣州長隆證未食用已消毒展區"
+    },
+    {
+     "id": "hk60396298",
+     "url": "https://www.hk01.com/article/60396298",
+     "source": "香港01",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T22:04:41+08:00",
+     "publishedHKT": "2026-10-04 22:04:41",
+     "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261004/1183536934643830784913428.png/I9IhuJzAnHGrF8LKA3AEtoVypzCe6TnZuDumcLg7pnA?v=w1280r16_9",
+     "originalOgImage": "https://cdn.hk01.com/di/media/images/dw/20261004/1183536934643830784913428.png/I9IhuJzAnHGrF8LKA3AEtoVypzCe6TnZuDumcLg7pnA?v=w1280r16_9",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 75253,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      870,
+      489
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": 43,
+     "sourceTitle": "國足U23亞運摘銅凱旋抵京　獲「英雄式」歡迎　張玉寧李昊受追捧"
+    },
+    {
+     "id": "et3249026",
+     "url": "https://www.ettoday.net/news/20261005/3249026.htm",
+     "source": "ETtoday",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-05T05:10:00+08:00",
+     "publishedHKT": "2026-10-05 05:10:00",
+     "ogImage": "https://cdn2.ettoday.net/images/8953/e8953540.jpg",
+     "originalOgImage": "https://cdn2.ettoday.net/images/8953/e8953540.jpg",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 110313,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      1280,
+      720
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "景德鎮封神4／解密2千萬碎瓷DNA　首創「古陶瓷基因庫」AI立體拼對 | ETtoday大陸新聞 | ETtoday新聞雲"
+    }
+   ],
+   "us": [
+    {
+     "id": "ep14863247",
+     "url": "https://www.epochtimes.com/b5/26/10/4/n14863247.htm",
+     "source": "大紀元",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T22:44:16.000Z",
+     "publishedHKT": "2026-10-05 06:44:16",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2025/09/id14597840-EpochImages-4568043479-xl-700x359.jpg",
+     "originalOgImage": "https://i.epochtimes.com/assets/uploads/2025/09/id14597840-EpochImages-4568043479-xl-700x359.jpg",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 252377,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      700,
+      359
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "美喬州街區聚會發生槍擊事件 造成2死35傷"
+    },
+    {
+     "id": "hk60396342",
+     "url": "https://www.hk01.com/article/60396342",
+     "source": "香港01",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-05T07:50:13+08:00",
+     "publishedHKT": "2026-10-05 07:50:13",
+     "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261005/1183665352110772224597421.jpeg/_j-VJAlT2RmFSjVNYhVOL0uN3scRmaAsOAfIvDgHyLw?v=w1280r16_9",
+     "originalOgImage": "https://cdn.hk01.com/di/media/images/dw/20261005/1183665352110772224597421.jpeg/_j-VJAlT2RmFSjVNYhVOL0uN3scRmaAsOAfIvDgHyLw?v=w1280r16_9",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 198357,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      1280,
+      720
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": 43,
+     "sourceTitle": "特朗普成立「超級智能特別工作組」　確保美國維持全球領先地位"
+    },
+    {
+     "id": "ep14863195",
+     "url": "https://www.epochtimes.com/b5/26/10/4/n14863195.htm",
+     "source": "大紀元",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T18:55:47.000Z",
+     "publishedHKT": "2026-10-05 02:55:47",
+     "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14863240-EpochImages-6419039416-xl-700x359.jpg",
+     "originalOgImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14863240-EpochImages-6419039416-xl-700x359.jpg",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 86317,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      700,
+      359
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "川普提名科爾擔任總統人質事務特使"
+    }
+   ],
+   "tw": [
+    {
+     "id": "et3249084",
+     "url": "https://www.ettoday.net/news/20261005/3249084.htm",
+     "source": "ETtoday",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-05T08:19:00+08:00",
+     "publishedHKT": "2026-10-05 08:19:00",
+     "ogImage": "https://cdn2.ettoday.net/images/8953/e8953598.jpg",
+     "originalOgImage": "https://cdn2.ettoday.net/images/8953/e8953598.jpg",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 82358,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      1236,
+      929
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "台南廠房深夜大火「燒到變形」　出動近百人灌救 | ETtoday社會新聞 | ETtoday新聞雲"
+    },
+    {
+     "id": "et3249066",
+     "url": "https://www.ettoday.net/news/20261005/3249066.htm",
+     "source": "ETtoday",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-05T06:46:00+08:00",
+     "publishedHKT": "2026-10-05 06:46:00",
+     "ogImage": "https://cdn2.ettoday.net/images/8953/e8953621.gif",
+     "originalOgImage": "https://cdn2.ettoday.net/images/8953/e8953621.gif",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/gif",
+     "bytes": 6236026,
+     "magic": "474946383961cd02bc02f63f",
+     "pillowFormat": "GIF",
+     "dimensions": [
+      717,
+      700
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "「小熊」最快今生成　將3颱共舞對台無威脅 | ETtoday生活新聞 | ETtoday新聞雲"
+    },
+    {
+     "id": "ud9794743",
+     "url": "https://udn.com/news/story/7320/9794743",
+     "source": "聯合新聞網",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-05T07:47:58+08:00",
+     "publishedHKT": "2026-10-05 07:47:58",
+     "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/05/35389939.jpg&M=1&s=Y&x=0&y=317&sw=1107&sh=738&exp=3600",
+     "originalOgImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/05/35389939.jpg&M=1&s=Y&x=0&y=317&sw=1107&sh=738&exp=3600",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 193617,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      1107,
+      738
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "新豐深夜住宅火警！廚房起火釀5人受困 消防急架雙節梯救出 | 聯合新聞網"
+    }
+   ],
+   "war": [
+    {
+     "id": "ii202610045597",
+     "url": "https://www.iranintl.com/en/202610045597",
+     "source": "Iran International",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T17:06:57.988Z",
+     "publishedHKT": "2026-10-05 01:06:57",
+     "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/e2d8be916ed2500b61a748a2c04ab2de9695d20b-720x495.avif?rect=0,59,720,378&w=1200&h=630&q=66&fit=max&auto=format",
+     "originalOgImage": "https://i.iranintl.com/images/rdk9umy0/production/e2d8be916ed2500b61a748a2c04ab2de9695d20b-720x495.avif?rect=0,59,720,378&w=1200&h=630&q=66&fit=max&auto=format",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 35517,
+     "magic": "ffd8ffdb0043000b07080a08",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      720,
+      378
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "Iran oil minister resigns for 'personal reasons'"
+    },
+    {
+     "id": "ii202610047470",
+     "url": "https://www.iranintl.com/en/202610047470",
+     "source": "Iran International",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-04T13:22:34.916Z",
+     "publishedHKT": "2026-10-04 21:22:34",
+     "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/b70945c76655abfa0e4d91fbab3efff2201a0961-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+     "originalOgImage": "https://i.iranintl.com/images/rdk9umy0/production/b70945c76655abfa0e4d91fbab3efff2201a0961-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 27739,
+     "magic": "ffd8ffdb0043000b07080a08",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      800,
+      420
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": null,
+     "sourceTitle": "Iran reviews US response to seven-day proposal as officials debate next steps"
+    },
+    {
+     "id": "hk60396324",
+     "url": "https://www.hk01.com/article/60396324",
+     "source": "香港01",
+     "articleStatus": "200",
+     "publishedRaw": "2026-10-05T02:15:02+08:00",
+     "publishedHKT": "2026-10-05 02:15:02",
+     "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261005/1183572717429854208906713.jpeg/kIZFTeXe1hz0VcdUlcC-RDKB6_V01qoc44U40OOFONA?v=w1280r16_9",
+     "originalOgImage": "https://cdn.hk01.com/di/media/images/dw/20261005/1183572717429854208906713.jpeg/kIZFTeXe1hz0VcdUlcC-RDKB6_V01qoc44U40OOFONA?v=w1280r16_9",
+     "ogExactMatch": true,
+     "imageStatus": "200",
+     "contentType": "image/jpeg",
+     "bytes": 110921,
+     "magic": "ffd8ffe000104a4649460001",
+     "pillowFormat": "JPEG",
+     "dimensions": [
+      1280,
+      720
+     ],
+     "pillowDecoded": true,
+     "valid": true,
+     "hk01SignatureLength": 43,
+     "sourceTitle": "也門政府宣布啟動大規模軍事行動　以收復胡塞武裝近期控制地區"
+    }
+   ]
+  },
+  "briefs": {
+   "articles": {
+    "ai1": {
+     "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+     "finalUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+     "http": 200,
+     "title": "Google froze its open source bug bounty program due to a 'significant rise' in AI submissions | TechCrunch",
+     "og": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+     "published": "2026-10-04T20:31:07+00:00",
+     "modified": "2026-10-04T20:31:13+00:00",
+     "ld": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"NewsArticle\",\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/#article\",\"isPartOf\":{\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\"},\"author\":[{\"@id\":\"https://techcrunch.com/#/schema/person/image/9ed1fcf83c52b9a9d441a2d8b8457d10\"}],\"headline\":\"Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions\",\"datePublished\":\"2026-10-04T20:31:07+00:00\",\"dateModified\":\"2026-10-04T20:31:13+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\"},\"wordCount\":173,\"publisher\":{\"@id\":\"https://techcrunch.com/#organization\"},\"image\":{\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/#primaryimage\"},\"thumbnailUrl\":\"https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg\",\"articleSection\":[\"AI\",\"Security\"],\"inLanguage\":\"en-US\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\"#speakable-summary\"]},\"copyrightYear\":\"2026\",\"copyrightHolder\":{\"@id\":\"https://techcrunch.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\",\"url\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\",\"name\":\"Google froze its open source bug bounty program due to a 'significant rise' in AI submissions | TechCrunch\",\"isPartOf\":{\"@id\":\"https://techcrunch.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/#primaryimage\"},\"image\":{\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/#primaryimage\"},\"thumbnailUrl\":\"https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg\",\"datePublished\":\"2026-10-04T20:31:07+00:00\",\"dateModified\":\"2026-10-04T20:31:13+00:00\",\"description\":\"AI slop seems to be overwhelming bug bounty programs.\",\"breadcrumb\":{\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/#primaryimage\",\"url\":\"https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg\",\"contentUrl\":\"https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg\",\"width\":1577,\"height\":1134,\"caption\":\"Pattern of retro tin toy robots with clocks and displays painted on yellow background. Concept of vintage, old, nostalgia, toy and android.\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://techcrunch.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://techcrunch.com/#website\",\"url\":\"https://techcrunch.com/\",\"name\":\"TechCrunch\",\"description\":\"Startup and Technology News\",\"publisher\":{\"@id\":\"https://techcrunch.com/#organization\"},\"alternateName\":\"TC\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://techcrunch.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://techcrunch.com/#organization\",\"name\":\"TechCrunch\",\"alternateName\":\"TC\",\"url\":\"https://techcrunch.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/#/schema/logo/image/\",\"url\":\"https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200\",\"contentUrl\":\"https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200\",\"width\":1200,\"height\":1200,\"caption\":\"TechCrunch\"},\"image\":{\"@id\":\"https://techcrunch.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/techcrunch\",\"https://x.com/TechCrunch\",\"https://mstdn.social/@TechCrunch\",\"https://bsky.app/profile/techcrunch.com\",\"https://www.threads.net/@techcrunch\"]},{\"@type\":\"Person\",\"@id\":\"https://techcrunch.com/#/schema/person/image/9ed1fcf83c52b9a9d441a2d8b8457d10\",\"name\":\"Anthony Ha\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/#/schema/person/image/825c7f6de543306fd57e865cd78f3875\",\"url\":\"https://secure.gravatar.com/avatar/213d511460b4d497d3ab322f9148369351bb9181280554d6d611c3e13f498b21?s=96&d=identicon&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/213d511460b4d497d3ab322f9148369351bb9181280554d6d611c3e13f498b21?s=96&d=identicon&r=g\",\"caption\":\"Anthony Ha\"},\"description\":\"Anthony Ha is TechCrunch's weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\",\"url\":\"https://techcrunch.com/author/anthony-ha/\"}]}"
+     ],
+     "publishedHkt": "2026-10-05 04:31:07.000 HKT"
+    },
+    "ai2": {
+     "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+     "finalUrl": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+     "http": 200,
+     "title": "Trump unveils his new Super Intelligence Force | TechCrunch",
+     "og": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+     "published": "2026-10-04T15:15:10+00:00",
+     "modified": "2026-10-04T20:11:31+00:00",
+     "ld": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"NewsArticle\",\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/#article\",\"isPartOf\":{\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/\"},\"author\":[{\"@id\":\"https://techcrunch.com/#/schema/person/image/9ed1fcf83c52b9a9d441a2d8b8457d10\"}],\"headline\":\"Trump unveils his new Super Intelligence Force\",\"datePublished\":\"2026-10-04T15:15:10+00:00\",\"dateModified\":\"2026-10-04T20:11:31+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/\"},\"wordCount\":353,\"publisher\":{\"@id\":\"https://techcrunch.com/#organization\"},\"image\":{\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/#primaryimage\"},\"thumbnailUrl\":\"https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg\",\"keywords\":[\"Donald Trump\"],\"articleSection\":[\"AI\",\"Government &amp; Policy\"],\"inLanguage\":\"en-US\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\"#speakable-summary\"]},\"copyrightYear\":\"2026\",\"copyrightHolder\":{\"@id\":\"https://techcrunch.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/\",\"url\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/\",\"name\":\"Trump unveils his new Super Intelligence Force | TechCrunch\",\"isPartOf\":{\"@id\":\"https://techcrunch.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/#primaryimage\"},\"image\":{\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/#primaryimage\"},\"thumbnailUrl\":\"https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg\",\"datePublished\":\"2026-10-04T15:15:10+00:00\",\"dateModified\":\"2026-10-04T20:11:31+00:00\",\"description\":\"This new task force is Trump's latest response to the debate over AI safety.\",\"breadcrumb\":{\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/#primaryimage\",\"url\":\"https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg\",\"contentUrl\":\"https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg\",\"width\":1024,\"height\":683,\"caption\":\"WASHINGTON, DC - SEPTEMBER 29: U.S. President Donald Trump makes a statement while he is seated with (L-R) CEO of Meta Platforms Mark Zuckerberg, Nvidia CEO Jensen Huang, Tesla, SpaceX and X CEO Elon Musk, and Google CEO Sundar Pichai during a meeting with AI executives in the East Room of the White House on September 29, 2026 in Washington, DC. The meeting comes as some have called for a slowdown in AI development amid rising safety concerns. (Photo by Kevin Dietsch/Getty Images)\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://techcrunch.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Trump unveils his new Super Intelligence Force\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://techcrunch.com/#website\",\"url\":\"https://techcrunch.com/\",\"name\":\"TechCrunch\",\"description\":\"Startup and Technology News\",\"publisher\":{\"@id\":\"https://techcrunch.com/#organization\"},\"alternateName\":\"TC\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://techcrunch.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://techcrunch.com/#organization\",\"name\":\"TechCrunch\",\"alternateName\":\"TC\",\"url\":\"https://techcrunch.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/#/schema/logo/image/\",\"url\":\"https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200\",\"contentUrl\":\"https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200\",\"width\":1200,\"height\":1200,\"caption\":\"TechCrunch\"},\"image\":{\"@id\":\"https://techcrunch.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/techcrunch\",\"https://x.com/TechCrunch\",\"https://mstdn.social/@TechCrunch\",\"https://bsky.app/profile/techcrunch.com\",\"https://www.threads.net/@techcrunch\"]},{\"@type\":\"Person\",\"@id\":\"https://techcrunch.com/#/schema/person/image/9ed1fcf83c52b9a9d441a2d8b8457d10\",\"name\":\"Anthony Ha\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/#/schema/person/image/825c7f6de543306fd57e865cd78f3875\",\"url\":\"https://secure.gravatar.com/avatar/213d511460b4d497d3ab322f9148369351bb9181280554d6d611c3e13f498b21?s=96&d=identicon&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/213d511460b4d497d3ab322f9148369351bb9181280554d6d611c3e13f498b21?s=96&d=identicon&r=g\",\"caption\":\"Anthony Ha\"},\"description\":\"Anthony Ha is TechCrunch's weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City. You can contact or verify outreach from Anthony by emailing anthony.ha@techcrunch.com.\",\"url\":\"https://techcrunch.com/author/anthony-ha/\"}]}"
+     ],
+     "publishedHkt": "2026-10-04 23:15:10.000 HKT"
+    },
+    "ai3": {
+     "url": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
+     "finalUrl": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
+     "http": 200,
+     "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
+     "og": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_neural_network-2-1200x670.png",
+     "published": "2026-10-04T17:41:58+00:00",
+     "modified": "2026-10-04T17:42:30+00:00",
+     "ld": [
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"NewsArticle\",\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/#article\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/\"},\"author\":{\"name\":\"Matthias Bastian\",\"@id\":\"https://the-decoder.com/#/schema/person/f5278ecf79b4566467d86133ece0857c\"},\"headline\":\"Trump launches \\\"Super Intelligence Force\\\" that has nothing to do with actual superintelligence\",\"datePublished\":\"2026-10-04T17:41:58+00:00\",\"dateModified\":\"2026-10-04T17:42:30+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/\"},\"wordCount\":177,\"commentCount\":0,\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"image\":{\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/03/us_flag_neural_network-2.png\",\"keywords\":[\"USA\"],\"articleSection\":[\"AI in practice\",\"Artificial Intelligence\",\"Short News\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/#respond\"]}],\"copyrightYear\":\"2026\",\"copyrightHolder\":{\"@id\":\"https://the-decoder.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/\",\"url\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/\",\"name\":\"Trump launches \\\"Super Intelligence Force\\\" that has nothing to do with actual superintelligence\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/#primaryimage\"},\"image\":{\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/03/us_flag_neural_network-2.png\",\"datePublished\":\"2026-10-04T17:41:58+00:00\",\"dateModified\":\"2026-10-04T17:42:30+00:00\",\"description\":\"Donald Trump has established a \\\"Super Intelligence Force.\\\" \\\"Superintelligence\\\" is his term for artificial intelligence. The unit is led by Director of National Intelligence Jay Clayton and other government officials, coordinates with AI companies, critical infrastructure operators, and interest groups. The group reports directly to the president.\",\"breadcrumb\":{\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/#primaryimage\",\"url\":\"https://the-decoder.com/wp-content/uploads/2026/03/us_flag_neural_network-2.png\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2026/03/us_flag_neural_network-2.png\",\"width\":1376,\"height\":768,\"caption\":\"A conservative coalition wants Trump to mandate AI safety testing A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship. Signatories include Amy Kremer, chair of Humans First and longtime Tea Party activist; Stephen K. Bannon, Trump's former chief strategist and host of the right-wing War Room podcast; Brendan Steinhauser from the AI-critical Alliance for Secure AI; and Jason Van Beek from the Future of Life Institute, which has pushed for AI regulation for years. The list also features Michael Toscano from the conservative Institute for Family Studies, Ryan Girdusky from the right-wing 1776 Project PAC, and psychologist Geoffrey Miller from the University of New Mexico. Dozens of pastors and regional activists from the MAGA orbit round out the group. The coalition compares AI risks to nuclear technology The group warns that powerful AI systems could pose threats to cybersecurity, critical infrastructure, financial systems, election integrity, biosecurity, and the military. AI is already being used for sophisticated cyberattacks, targeted disinformation, and automated fraud, they argue. The next generation of models carries risks on a different scale entirely. Private companies shouldn't be allowed to deploy such technology without government review, the letter states. Some firms have openly discussed selling their most capable systems to countries with different values. The companies can't be trusted to police themselves. The authors draw parallels to existing controls on nuclear material and aviation certification. Powerful AI models that could help design bioweapons or break into critical infrastructure deserve the same level of scrutiny, they argue.\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https://the-decoder.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Trump launches \\\"Super Intelligence Force\\\" that has nothing to do with actual superintelligence\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://the-decoder.com/#website\",\"url\":\"https://the-decoder.com/\",\"name\":\"The Decoder\",\"description\":\"AI, Menschen, Wirtschaft\",\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://the-decoder.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://the-decoder.com/#organization\",\"name\":\"THE-DECODER.com\",\"url\":\"https://the-decoder.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/logo/image/\",\"url\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"width\":600,\"height\":180,\"caption\":\"THE-DECODER.com\"},\"image\":{\"@id\":\"https://the-decoder.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/TheDecoderDE/\",\"https://x.com/TheDecoderEN\",\"https://www.reddit.com/r/TheDecoder/\",\"https://discord.gg/8VKkHAacn8\",\"https://www.linkedin.com/company/the-decoder-en/\"]},{\"@type\":\"Person\",\"@id\":\"https://the-decoder.com/#/schema/person/f5278ecf79b4566467d86133ece0857c\",\"name\":\"Matthias Bastian\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/person/image/\",\"url\":\"/resources/images/avatar_matthias_bastian.jpg\",\"contentUrl\":\"/resources/images/avatar_matthias_bastian.jpg\",\"caption\":\"Matthias Bastian\"},\"description\":\"Matthias is the co-founder and publisher of THE DECODER, exploring how AI is fundamentally changing the relationship between humans and computers.\",\"sameAs\":[\"https://www.linkedin.com/in/matthias-bastian-128b71b1/\"],\"url\":\"https://the-decoder.com/author/matthias-bastian/\"}]}"
+     ],
+     "publishedHkt": "2026-10-05 01:41:58.000 HKT"
+    },
+    "ai4": {
+     "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
+     "finalUrl": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
+     "http": 200,
+     "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+     "og": "https://i.guim.co.uk/img/media/34037c70168080edcdfe41a93dfbb4139efd2e83/626_0_6259_5010/master/6259.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f6b61d71a593c4e09617a59f5294c02",
+     "published": "2026-10-03T05:39:22.000Z",
+     "modified": "2026-10-03T05:40:38.000Z",
+     "ld": [
+      "\n                    \t\t\t[{\"@type\":\"NewsArticle\",\"@context\":\"https://schema.org\",\"@id\":\"https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day\",\"publisher\":{\"@type\":\"Organization\",\"@context\":\"https://schema.org\",\"@id\":\"https://www.theguardian.com#publisher\",\"name\":\"The Guardian\",\"url\":\"https://www.theguardian.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://uploads.guim.co.uk/2018/01/31/TheGuardian_AMP.png\",\"width\":190,\"height\":60},\"sameAs\":[\"https://www.facebook.com/theguardian\",\"https://twitter.com/guardian\",\"https://www.youtube.com/user/TheGuardian\"]},\"isAccessibleForFree\":true,\"isPartOf\":{\"@type\":[\"CreativeWork\",\"Product\"],\"name\":\"The Guardian\",\"productID\":\"theguardian.com:basic\"},\"image\":[\"https://i.guim.co.uk/img/media/34037c70168080edcdfe41a93dfbb4139efd2e83/626_0_6259_5010/master/6259.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f6b61d71a593c4e09617a59f5294c02\",\"https://i.guim.co.uk/img/media/34037c70168080edcdfe41a93dfbb4139efd2e83/626_0_6259_5010/master/6259.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7d118cebf3c557138530b347386643fd\",\"https://i.guim.co.uk/img/media/34037c70168080edcdfe41a93dfbb4139efd2e83/626_0_6259_5010/master/6259.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=150ef5137a0a9732720b3171f2c9fa3f\",\"https://i.guim.co.uk/img/media/34037c70168080edcdfe41a93dfbb4139efd2e83/626_0_6259_5010/master/6259.jpg?width=1200&quality=85&auto=format&fit=max&s=f5b760510e5734d517c554eae4591bf0\"],\"author\":[{\"@type\":\"Person\",\"name\":\"Josh Taylor\",\"sameAs\":\"https://www.theguardian.com/profile/josh-taylor\"}],\"datePublished\":\"2026-10-03T05:39:22.000Z\",\"headline\":\"OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day\",\"dateModified\":\"2026-10-03T05:40:38.000Z\",\"mainEntityOfPage\":\"https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day\"},{\"@type\":\"WebPage\",\"@context\":\"https://schema.org\",\"@id\":\"https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day\",\"potentialAction\":{\"@type\":\"ViewAction\",\"target\":\"android-app://com.guardian/https/www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day\"}}]\n                \t\t\t"
+     ],
+     "publishedHkt": "2026-10-03 13:39:22.000 HKT"
+    },
+    "war1": {
+     "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
+     "finalUrl": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
+     "http": 200,
+     "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+     "og": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1920%2C1440",
+     "published": null,
+     "modified": null,
+     "ld": [
+      "{\"@type\":\"NewsMediaOrganization\",\"@id\":\"https://www.aljazeera.com#Organization\",\"foundingDate\":\"2006-11-15\",\"name\":\"Al Jazeera\",\"url\":\"https://www.aljazeera.com\",\"logo\":\"https://www.aljazeera.com/images/logo_aje.png\",\"sameAs\":[\"https://www.facebook.com/aljazeera\",\"https://twitter.com/ajenglish\",\"https://www.youtube.com/aljazeeraenglish\",\"https://www.instagram.com/aljazeeraenglish/?hl=en\",\"https://bsky.app/profile/aljazeera.com\",\"https://www.tiktok.com/@aljazeeraenglish\"],\"parentOrganization\":{\"@type\":\"Organization\",\"name\":\"Al Jazeera Media Network\",\"alternateName\":\"شبكة الجزيرة الإعلامية\"},\"@context\":\"https://schema.org\"}",
+      "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"mainEntityOfPage\":\"https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears\",\"headline\":\"US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears\",\"description\":\"The abrupt redeployment to the US comes after several ‘terrorism-related’ arrests were made outside RAF Fairford.\",\"author\":{\"@type\":\"Person\",\"name\":\"Al Jazeera Staff\",\"url\":\"https://www.aljazeera.com/author/al_jazeera_staff_150119130629458\"},\"publisher\":{\"@id\":\"https://www.aljazeera.com#Organization\"},\"image\":[{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1920%2C1440\",\"height\":1440,\"width\":1920},{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1920%2C1080\",\"height\":1080,\"width\":1920},{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1800%2C1800\",\"height\":1800,\"width\":1800},{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1200%2C630\",\"height\":630,\"width\":1200}],\"datePublished\":\"2026-10-04T22:23:30Z\",\"dateModified\":\"2026-10-04T22:32:48Z\"}",
+      "{\"@context\":\"https://schema.org/\",\"@type\":\"WebPage\",\"name\":\"US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".article-header\"]},\"url\":\"https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears\"}",
+      "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"News\",\"item\":\"https://www.aljazeera.com/news/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Military\",\"item\":\"https://www.aljazeera.com/tag/military/\"}]}"
+     ],
+     "publishedHkt": "2026-10-05 06:23:30.000 HKT"
+    },
+    "war2": {
+     "url": "https://www.thenationalnews.com/news/us/2026/10/04/all-us-bombers-depart-raf-fairford-amid-security-fears/",
+     "finalUrl": "https://www.thenationalnews.com/news/us/2026/10/04/all-us-bombers-depart-raf-fairford-amid-security-fears/",
+     "http": 200,
+     "title": "All US bombers depart RAF Fairford amid security fears | The National",
+     "og": "https://www.thenationalnews.com/resizer/v2/X3K442TD5UH2SZOGEAMMYK2YQU.jpg?auth=a1a98d19077e3910e1e28a7567f4e67a6688edf3a77c8c4187eeb6ce1f64e3f4&smart=true&width=1200&height=630",
+     "published": null,
+     "modified": "2026-10-04T21:02:51.727Z",
+     "ld": [
+      "{\"@context\":\"http://schema.org\",\"@type\":\"Organization\",\"name\":\"The National\",\"url\":\"https://www.thenationalnews.com\",\"sameAs\":[\"https://www.facebook.com/TheNationalNews/\",\"https://x.com/TheNationalNews/\",\"https://www.linkedin.com/company/thenationalnews/\",\"https://www.instagram.com/TheNationalNews.com/\",\"https://www.youtube.com/TheNationalNewspaper/\"],\"logo\":{\"@context\":\"http://schema.org\",\"@type\":\"ImageObject\",\"url\":\"https://www.thenationalnews.com/pf/resources/images/logo.png?d=1161\",\"width\":200,\"height\":132}}",
+      "{\"@context\":\"http://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"All US bombers depart RAF Fairford amid security fears\",\"description\":\"B-1B heavy bombers had used Cotswolds airbase as launch point for runs against Iran\",\"image\":[{\"@type\":\"ImageObject\",\"url\":\"https://www.thenationalnews.com/resizer/v2/X3K442TD5UH2SZOGEAMMYK2YQU.jpg?auth=a1a98d19077e3910e1e28a7567f4e67a6688edf3a77c8c4187eeb6ce1f64e3f4&smart=true&width=800&height=450\",\"width\":800,\"height\":450},{\"@type\":\"ImageObject\",\"url\":\"https://www.thenationalnews.com/resizer/v2/RHFXU7HLJLY3WO4ZLQ5DGFQCZA.jpg?auth=bdf1445f9325cc3dbfdf6da36a12aae6af7b26042b5e1e5bb985df47a2ffa58f&smart=true&width=800&height=450\",\"width\":800,\"height\":450}],\"thumbnailUrl\":\"https://www.thenationalnews.com/resizer/v2/X3K442TD5UH2SZOGEAMMYK2YQU.jpg?auth=a1a98d19077e3910e1e28a7567f4e67a6688edf3a77c8c4187eeb6ce1f64e3f4&smart=true&width=400&height=225\",\"dateCreated\":\"2026-10-04T20:30:28.987Z\",\"datePublished\":\"2026-10-04T21:02:51.549Z\",\"dateModified\":\"2026-10-04T21:02:51.727Z\",\"author\":[{\"@context\":\"http://schema.org\",\"@type\":\"Person\",\"name\":\"Thomas Watkins\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://www.thenationalnews.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Fthenational%2F036680fe-c644-4c0c-a001-310bfe1ed5d8.png?smart=true&auth=2384fa588377933389931ec3931702712c6d6cec05a6f2a6f33032b237631cf6&width=200&height=200\",\"width\":200,\"height\":200},\"url\":\"https://www.thenationalnews.com/topics/Author/thomas-watkins/\"}],\"articleBody\":\"All of the American bombers that had been stationed at RAF Fairford in England have been sent back to the US, the Pentagon announced on Sunday, a week after five men were arrested outside the base.  The US military had been using the base in Gloucestershire as a launchpad for <a href=\\\"https://www.thenationalnews.com/news/mena/2026/03/03/us-air-force-to-quadruple-its-bomber-strike-power-to-hit-iran/\\\" target=\\\"_blank\\\" rel=\\\"noreferrer\\\" title=\\\"https://www.thenationalnews.com/news/mena/2026/03/03/us-air-force-to-quadruple-its-bomber-strike-power-to-hit-iran/\\\">B-1B heavy bombers</a> during the war with <a href=\\\"https://www.thenationalnews.com/tags/iran\\\" target=\\\"_blank\\\" rel=\\\"\\\" title=\\\"https://www.thenationalnews.com/tags/iran\\\">Iran</a>. Five British men were <a href=\\\"https://www.thenationalnews.com/news/uk/2026/09/27/us-airbase-at-raf-fairford-on-high-alert-as-uk-police-find-explosives/\\\" target=\\\"_blank\\\" rel=\\\"\\\" title=\\\"https://www.thenationalnews.com/news/uk/2026/09/27/us-airbase-at-raf-fairford-on-high-alert-as-uk-police-find-explosives/\\\">arrested</a> on suspicion of preparation of a terrorist act and explosives offences after they were seen by a member of the public near RAF Fairford in the early hours of September 27.  \\\"While operational security precluded us from confirming the movement of our assets and forces in real time, we can acknowledge now that all US bombers that were deployed to RAF Fairford have re-deployed to their home stations in the United States,\\\" a Defence Department official said in a statement. The official added that the crews who operate America’s bomber force, including B-1s, B-2s and B-52s, remain \\\"ready to deliver precision global strike capabilities – including through operations that launch and recover from the continental United States – anywhere, any time.\\\" On Wednesday, UK Prime Minister Andy Burnham suggested that there were \\\"strong indications\\\" Iran may have been behind last week's incident. The five men arrested near the perimeter of the base have since been released on bail. British police said a sixth man, an Iranian UK dual citizen, had been arrested in central London on Thursday in connection with the suspected plot to attack the US airbase in the Cotswolds.\",\"publisher\":{\"@context\":\"http://schema.org\",\"@type\":\"Organization\",\"name\":\"The National\",\"url\":\"https://www.thenationalnews.com\",\"sameAs\":[\"https://www.facebook.com/TheNationalNews/\",\"https://x.com/TheNationalNews/\",\"https://www.linkedin.com/company/thenationalnews/\",\"https://www.instagram.com/TheNationalNews.com/\",\"https://www.youtube.com/TheNationalNewspaper/\"],\"logo\":{\"@context\":\"http://schema.org\",\"@type\":\"ImageObject\",\"url\":\"https://www.thenationalnews.com/pf/resources/images/logo.png?d=1161\",\"width\":200,\"height\":132}},\"articleSection\":\"US\",\"keywords\":[\"story\",\"standard\",\"Iran\",\"Iran war\",\"UK\",\"US Bureau\"],\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.thenationalnews.com/news/us/2026/10/04/all-us-bombers-depart-raf-fairford-amid-security-fears/\"},\"video\":[]}",
+      "{\"@context\":\"http://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":{\"@type\":\"Thing\",\"@id\":\"https://www.thenationalnews.com/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"News\",\"item\":{\"@type\":\"Thing\",\"@id\":\"https://www.thenationalnews.com/news/\",\"name\":\"News\"}},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"US\",\"item\":{\"@type\":\"Thing\",\"@id\":\"https://www.thenationalnews.com/news/us/\",\"name\":\"US\"}}]}"
+     ],
+     "publishedHkt": "2026-10-05 05:02:51.549 HKT"
+    },
+    "war3": {
+     "url": "https://www.iranintl.com/en/202610047470",
+     "finalUrl": "https://www.iranintl.com/en/202610047470",
+     "http": 200,
+     "title": "Iran reviews US response to seven-day proposal as officials debate next steps",
+     "og": "https://i.iranintl.com/images/rdk9umy0/production/b70945c76655abfa0e4d91fbab3efff2201a0961-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+     "published": "2026-10-04T13:22:34.916Z",
+     "modified": "2026-10-04T13:58:38Z",
+     "ld": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Iran reviews US response to seven-day proposal as officials debate next steps\",\"description\":\"Iran is reviewing Washington’s response to a seven-day proposal sent through intermediaries, a senior foreign ministry official said on Sunday, as other officials offered differing assessments of whether further negotiations with the United States were needed.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.iranintl.com/en/202610047470\"},\"datePublished\":\"2026-10-04T13:22:34.916Z\",\"dateModified\":\"2026-10-04T13:58:38Z\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Iran International\",\"url\":\"https://www.iranintl.com/en\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.iranintl.com/en/logo.png\"}},\"image\":\"https://i.iranintl.com/images/rdk9umy0/production/b70945c76655abfa0e4d91fbab3efff2201a0961-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=58&fit=max&auto=format\",\"articleSection\":\"Iran Nuclear\",\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"common.home\",\"item\":\"https://www.iranintl.com/en\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Iran Nuclear\",\"item\":\"https://www.iranintl.com/en/category/iran-nuclear\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Iran reviews US response to seven-day proposal as officials debate next steps\"}]},\"inLanguage\":\"en-US\"}"
+     ],
+     "publishedHkt": "2026-10-04 21:22:34.916 HKT"
+    },
+    "war4": {
+     "url": "https://www.iranintl.com/en/202610045597",
+     "finalUrl": "https://www.iranintl.com/en/202610045597",
+     "http": 200,
+     "title": "Iran oil minister resigns for 'personal reasons'",
+     "og": "https://i.iranintl.com/images/rdk9umy0/production/e2d8be916ed2500b61a748a2c04ab2de9695d20b-720x495.avif?rect=0,59,720,378&w=1200&h=630&q=66&fit=max&auto=format",
+     "published": "2026-10-04T17:06:57.988Z",
+     "modified": "2026-10-04T22:54:43Z",
+     "ld": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Iran oil minister resigns for 'personal reasons'\",\"description\":\"Iran’s Oil Minister Mohsen Paknejad has resigned for personal reasons, with Hamid Bovard, chief executive of the state-owned National Iranian Oil Company, appointed acting oil minister, state media reported on Sunday.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.iranintl.com/en/202610045597\"},\"datePublished\":\"2026-10-04T17:06:57.988Z\",\"dateModified\":\"2026-10-04T22:54:43Z\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Iran International\",\"url\":\"https://www.iranintl.com/en\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.iranintl.com/en/logo.png\"}},\"image\":\"https://i.iranintl.com/images/rdk9umy0/production/e2d8be916ed2500b61a748a2c04ab2de9695d20b-720x495.avif?rect=0,59,720,378&w=1200&h=630&q=58&fit=max&auto=format\",\"inLanguage\":\"en-US\"}"
+     ]
+    }
+   },
+   "images": [
+    {
+     "brief": "ai",
+     "article": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+     "articleHttp": 200,
+     "originalOg": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+     "candidate": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+     "equal": true,
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 181306,
+     "magic": "ffd8ffe000104a464946000101000001",
+     "format": "JPEG",
+     "dimensions": [
+      1200,
+      863
+     ],
+     "file": "scratch\\am-20261005\\brief-image-ai.jpg",
+     "checkedAt": "2026-10-05T08:36:33.546106+08:00",
+     "visual": {
+      "passed": true,
+      "description": "原文配圖：黃色背景玩具機械人圖案，非事故現場照片"
+     }
+    },
+    {
+     "brief": "warb",
+     "article": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears",
+     "articleHttp": 200,
+     "originalOg": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1920%2C1440",
+     "candidate": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac2d18a455a3-1791152522.jpg?resize=1920%2C1440",
+     "equal": true,
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 152820,
+     "magic": "ffd8ffe000104a464946000101000001",
+     "format": "JPEG",
+     "dimensions": [
+      1920,
+      1440
+     ],
+     "file": "scratch\\am-20261005\\brief-image-warb.jpg",
+     "checkedAt": "2026-10-05T08:36:35.967965+08:00",
+     "visual": {
+      "passed": true,
+      "description": "原文配圖：基地地面停泊 B-1 轟炸機，與撤回題材一致"
+     }
+    }
+   ],
+   "background": {
+    "ai4": "2026-10-03 recent background explicitly labelled"
+   },
+   "newVsPrevious": "All 7 selected source URLs differ from previous edition. New topics: bug-bounty pause and SIF; war bomber redeployment and seven-day response.",
+   "incidentSearch": [
+    "incident",
+    "hack",
+    "lawsuit",
+    "regulation"
+   ],
+   "excluded": [
+    "Previous brief NASA/IBM lunar model, Aleph Alpha benchmark, Flock court ruling, California subpoena; previous Hormuz seven conditions, Iraqi oil shipment, Houthi claims not copied."
+   ],
+   "counts": {
+    "ai": {
+     "sources": 4,
+     "characters": 338
+    },
+    "warb": {
+     "sources": 3,
+     "characters": 319
+    }
+   }
+  }
+ },
+ "schedule": {
+  "amStart": "08:30",
+  "pmDraft": "20:30",
+  "pmRefresh": "21:45",
+  "sync": "15:00",
+  "changed": false
+ }
+}
