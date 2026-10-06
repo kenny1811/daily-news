@@ -1,0 +1,2160 @@
+{
+ "publishedAtHKT": "2026-10-06 08:46:32",
+ "edition": "2026-10-06/am",
+ "previousEdition": "2026-10-05/pm",
+ "groups": {
+  "hks": 8,
+  "hkl": 8,
+  "hke": 3,
+  "hkp": 3,
+  "cn": 8,
+  "us": 3,
+  "tw": 3,
+  "war": 3
+ },
+ "track": {
+  "previousCount": 106,
+  "currentCount": 109,
+  "updates": {
+   "港·啟德醫院分階段啟用": [
+    "服務調整",
+    "香港01 5日22:50指X光暫需轉院，院方稱短期推同院檢查；有線6日08:43引運署稱復康穿梭服務已延伸至啟德及兒童醫院，平日14來回班次免預約，會按需求調整。未交代延伸實施日期或承諾延後尾班。10月26日新增專科門診的既定節點繼續跟進。"
+   ],
+   "🔥 美伊戰爭（2026）": [
+    "衝突升級",
+    "Iran International及半島新報兩日內第三油輪遇襲，施襲者未確認；伊朗擬提名Ketabchi掌國防部仍待信任票；也門政府軍稱奪Mocha，胡塞否認部分戰果。沙特、土耳其及巴基斯坦啟動共同防務承諾，未證實商定部隊已抵達。"
+   ],
+   "港·簡樸房規管安置爭議": [
+    "議員追問租金負擔",
+    "集誌5日23:25報道議員關注起始租金未設限制、合規成本轉嫁住戶；何永賢以簡約公屋等供應回應，稱持續觀察租金。未證實所有受迫遷住戶均獲安置。"
+   ]
+  },
+  "newLines": [
+   {
+    "row": [
+     "港·北角蝦仁禁用獸藥",
+     "回收跟進",
+     "香港01 5日21:56報道，北角去腸白蝦仁樣本含呋喃唑酮代謝物；受影響批次停售、下架及回收，調查繼續。"
+    ],
+    "keys": [
+     "北角蝦仁",
+     "呋喃唑酮",
+     "去腸白蝦仁"
+    ]
+   },
+   {
+    "row": [
+     "中·重慶盜礦七人溺亡案",
+     "調查中",
+     "10-06：警方指封閉礦洞漲水七人溺亡，拘二十一人涉盜礦，案件仍在調查。"
+    ],
+    "keys": [
+     "重慶廢礦洞",
+     "重慶.*盜礦",
+     "酉陽.*盜礦"
+    ]
+   },
+   {
+    "row": [
+     "美·孫雯涉中共代理案",
+     "審前程序",
+     "10-06：法官要求十四天內釐清孫雯健康及提審安排，明年一月十八日重審能否維持待定。"
+    ],
+    "keys": [
+     "孫雯",
+     "Linda Sun"
+    ]
+   }
+  ],
+  "lowfreqAdded": [],
+  "retired": []
+ },
+ "selfcheck": {
+  "stage": 0,
+  "formal": 0
+ },
+ "images": {
+  "checkedAtHKT": "2026-10-06T08:45:18.000398+08:00",
+  "images": [
+   {
+    "group": "hks",
+    "title": "西九龍反非法勞工行動拘十九人",
+    "url": "https://www.hk01.com/article/60396654",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1183969537603670016472569.jpeg/zO8ssFal3K9jWF_DI_y0AfLOF8m2mA1bsCh86rAofOo?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1183969537603670016472569.jpeg/zO8ssFal3K9jWF_DI_y0AfLOF8m2mA1bsCh86rAofOo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 210815,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "屯門公路四車相撞三人受傷",
+    "url": "https://www.hk01.com/article/60396653",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1183967175262605312623814.jpeg/tMe-LLuPFWlO8t4-nqDHc-e7npzfg30c1VkJrdVZCa0?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1183967175262605312623814.jpeg/tMe-LLuPFWlO8t4-nqDHc-e7npzfg30c1VkJrdVZCa0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 76026,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 889,
+    "height": 500
+   },
+   {
+    "group": "hks",
+    "title": "西九龍四的士司機涉違例被控",
+    "url": "https://www.hk01.com/article/60396644",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1183930956579344384658923.jpeg/433_0w9Vj9b3dvhk8SpzbGMICO-DScnJyGewfMhnsHw?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1183930956579344384658923.jpeg/433_0w9Vj9b3dvhk8SpzbGMICO-DScnJyGewfMhnsHw?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 197724,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "旅客疑禁飛區航拍煙花被跟進",
+    "url": "https://www.hk01.com/article/60396638",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183904990859628544430962.jpeg/Qfu9o4P0GK3xxr798AuvMAg4Zaq48X4CVdkGPVXZBj0?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183904990859628544430962.jpeg/Qfu9o4P0GK3xxr798AuvMAg4Zaq48X4CVdkGPVXZBj0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 38502,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 649,
+    "height": 365
+   },
+   {
+    "group": "hks",
+    "title": "彩雲邨男住戶昏迷被揭發不治",
+    "url": "https://www.hk01.com/article/60396633",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183903360156176384098724.png/Za2XYmMXO-i-8iWttj1WdHUncl9dCNNNiZx4qYmceKk?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183903360156176384098724.png/Za2XYmMXO-i-8iWttj1WdHUncl9dCNNNiZx4qYmceKk?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 164858,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 958,
+    "height": 539
+   },
+   {
+    "group": "hks",
+    "title": "青衣疑墮海報案查明無人墮海",
+    "url": "https://www.stheadline.com/breaking-news/3622785/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/ul/sthl_square/c1e47f5d0f3e332fb390684ceb240d37/2026-10/WhatsApp_Image_2026-10-05_at_21_51_04_0.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/ul/sthl_square/c1e47f5d0f3e332fb390684ceb240d37/2026-10/WhatsApp_Image_2026-10-05_at_21_51_04_0.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 151253,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "消防承辦商操守約章擬月中推出",
+    "url": "https://www.stheadline.com/society/3622703/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/9b1d9ac887b787a95248f3dd45c54eac/2026-10/20261005_news_FV2.png",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/9b1d9ac887b787a95248f3dd45c54eac/2026-10/20261005_news_FV2.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png; charset=UTF-8",
+    "bytes": 262149,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "荃灣地盤爆炸聲涉燈具電線故障",
+    "url": "https://www.hk01.com/article/60396636",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183905056563400704872104.jpeg/o4oUfy9R2f-_7lG3gkbehvobRPRDYaXGoS069aEtOvU?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183905056563400704872104.jpeg/o4oUfy9R2f-_7lG3gkbehvobRPRDYaXGoS069aEtOvU?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 222983,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "啟德醫院照X光暫須轉往他院",
+    "url": "https://www.hk01.com/article/60396619",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183465679614382080284935.jpeg/2U1qGa3E-daJgoS_SvckNptmkqw2s9j5ZNFkwGTRZMA?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183465679614382080284935.jpeg/2U1qGa3E-daJgoS_SvckNptmkqw2s9j5ZNFkwGTRZMA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 235092,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "北角蝦仁驗出禁用獸藥停售",
+    "url": "https://www.hk01.com/article/60396622",
+    "cardOg": "https://cdn.hk01.com/di/media/images/3411973/org/29843fadf084ae91442b9eacf4a81485.jpg/juP1S-7MfQPnEVcpI9K8ELDj3Olqg1C2Cedv9Qnnb_U?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/3411973/org/29843fadf084ae91442b9eacf4a81485.jpg/juP1S-7MfQPnEVcpI9K8ELDj3Olqg1C2Cedv9Qnnb_U?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 37814,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "今日早上稍涼日間最高二十九度",
+    "url": "https://www.hk01.com/article/60396648",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184020224257691648801259.jpeg/mDdzdwABKE-OWsXrBIZs2wNHTGWY4wAwjSeIUI0niFA?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184020224257691648801259.jpeg/mDdzdwABKE-OWsXrBIZs2wNHTGWY4wAwjSeIUI0niFA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 276258,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "太安樓男廁擬全面翻新約一月",
+    "url": "https://www.dimsumdaily.hk/tai-on-building-mens-toilet-in-sai-wan-ho-to-undergo-month%e2%80%91long-overhaul-after-years-of-horror%e2%80%91story-complaints/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/05221340/Tai-On-toilet.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/05221340/Tai-On-toilet.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 136826,
+    "magicHex": "52494646721602005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 958,
+    "height": 752
+   },
+   {
+    "group": "hkl",
+    "title": "港大二十四課程收生分數全升",
+    "url": "https://www.stheadline.com/edu-insights/3622788/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/ae1c2f2e9a9c7fcc6d631ebb221aabe2/2026-10/NA260831HKU12-169.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/ae1c2f2e9a9c7fcc6d631ebb221aabe2/2026-10/NA260831HKU12-169.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 233165,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "嶺大首設精英班錄十四名學生",
+    "url": "https://www.stheadline.com/edu-insights/3622625/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/8dc7668553a6f370df496e56e588ef72/2026-10/20261006__.png",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/8dc7668553a6f370df496e56e588ef72/2026-10/20261006__.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png; charset=UTF-8",
+    "bytes": 276651,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "開放式新盤消防年檢開支惹關注",
+    "url": "https://www.stheadline.com/renovation/3622693/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/4cb0bef9a119c93a0d306324ef3166f0/2026-10/179119034542874.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/4cb0bef9a119c93a0d306324ef3166f0/2026-10/179119034542874.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 592109,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "七欖港隊金銅牌健兒返港凱旋",
+    "url": "https://www.stheadline.com/society/3622804/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/7877e2be4388636fbd2f753143a26370/2026-10/833780331_10175605312960603_1567773992650736122_n.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/7877e2be4388636fbd2f753143a26370/2026-10/833780331_10175605312960603_1567773992650736122_n.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 235291,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676
+   },
+   {
+    "group": "hke",
+    "title": "納指創新高油價回落債息上升",
+    "url": "https://www.channelnewsasia.com/business/nasdaq-hits-record-dollar-and-treasury-yields-climb-oil-prices-ease-6432001",
+    "cardOg": "https://dam.mediacorp.sg/image/upload/s--RQXbQdRi--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-05T153616Z_1_LYNXMPEM941EJ_RTROPTP_3_USA-STOCKS.JPG?itok=gByLAix3",
+    "articleHTTP": 200,
+    "articleOg": "https://dam.mediacorp.sg/image/upload/s--RQXbQdRi--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-05T153616Z_1_LYNXMPEM941EJ_RTROPTP_3_USA-STOCKS.JPG?itok=gByLAix3",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 89657,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676
+   },
+   {
+    "group": "hke",
+    "title": "DayOne提交美國上市申請",
+    "url": "https://www.channelnewsasia.com/business/dayone-data-centers-files-us-ipo-6434451",
+    "cardOg": "https://dam.mediacorp.sg/image/upload/s--cShbgOWd--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-05T204104Z_2_LYNXMPEM941TP_RTROPTP_3_YESWAY-IPO.JPG?itok=-w55-mZy",
+    "articleHTTP": 200,
+    "articleOg": "https://dam.mediacorp.sg/image/upload/s--cShbgOWd--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-05T204104Z_2_LYNXMPEM941TP_RTROPTP_3_YESWAY-IPO.JPG?itok=-w55-mZy",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 47013,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676
+   },
+   {
+    "group": "hke",
+    "title": "新加坡近半新私銀戶一個月開妥",
+    "url": "https://www.straitstimes.com/business/half-of-new-accounts-at-private-banks-in-singapore-industry-group-opened-in-a-month-abs",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/straitstimes/72efdeb0ce3ebff0709a409b60a5f088084455d447795228a3d2c6aa77c5044d",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/straitstimes/72efdeb0ce3ebff0709a409b60a5f088084455d447795228a3d2c6aa77c5044d",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 135098,
+    "magicHex": "52494646b20f02005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1140,
+    "height": 760
+   },
+   {
+    "group": "hkp",
+    "title": "北都法例委員獲提醒利益申報",
+    "url": "https://www.hk01.com/article/60396085",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183912631405121536832096.jpeg/XseD_iZpN2MW_EZuodpLZxaRCmBfVikYo7hqZKO4amQ",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183912631405121536832096.jpeg/XseD_iZpN2MW_EZuodpLZxaRCmBfVikYo7hqZKO4amQ",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 193729,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkp",
+    "title": "議員憂簡樸房成本轉嫁租客",
+    "url": "https://thecollectivehk.com/%e7%b0%a1%e6%a8%b8%e6%88%bf%e6%a2%9d%e4%be%8b%e8%ad%b0%e5%93%a1%e6%86%82%e7%a7%9f%e9%87%91%e6%9a%b4%e6%bc%b2%e5%a2%9e%e5%9f%ba%e5%b1%a4%e8%b2%a0%e6%93%94%e4%bd%95%e6%b0%b8%e8%b3%a2%e6%9c%89%e5%be%97/",
+    "cardOg": "https://thecollectivehk.com/wp-content/uploads/2026/10/cover.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://thecollectivehk.com/wp-content/uploads/2026/10/cover.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 272463,
+    "magicHex": "ffd8ffe000104a46494600010100015e",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 629
+   },
+   {
+    "group": "hkp",
+    "title": "運署稱復康巴士已延伸至啟德",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510519/%E5%95%9F%E5%BE%B7%E9%86%AB%E9%99%A2-%E9%81%8B%E8%BC%B8%E7%BD%B2-%E5%B7%B2%E5%BB%B6%E9%95%B7%E5%BE%A9%E5%BA%B7%E5%B7%B4%E5%A3%AB%E6%9C%8D%E5%8B%99-%E5%AF%86%E5%88%87%E7%95%99",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/06164233/vlcsnap-2026-10-06-08h42m28s550.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/06164233/vlcsnap-2026-10-06-08h42m28s550.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 500273,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "cn",
+    "title": "重慶廢礦洞漲水七人溺斃",
+    "url": "https://www.hk01.com/article/60396643",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183920846469599232538790.jpeg/IFVnoKR4XplqEdxTC7BzpiJ-4S9Qfk1HT05FO09ORTs?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183920846469599232538790.jpeg/IFVnoKR4XplqEdxTC7BzpiJ-4S9Qfk1HT05FO09ORTs?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 71241,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1024,
+    "height": 576
+   },
+   {
+    "group": "cn",
+    "title": "報告指中美AI模型差距收窄",
+    "url": "https://www.hk01.com/article/60396635",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260626/1147128626525769728326514.jpeg/MhSroyelTggQRxR74SprUJ-mnyFd4KSvdZqXFHWalxQ?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260626/1147128626525769728326514.jpeg/MhSroyelTggQRxR74SprUJ-mnyFd4KSvdZqXFHWalxQ?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 78407,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1024,
+    "height": 576
+   },
+   {
+    "group": "cn",
+    "title": "調查指在華日企數量創新低",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863953.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2017/02/DJY_FB_DefaultImage2017.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2017/02/DJY_FB_DefaultImage2017.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 31681,
+    "magicHex": "ffd8ffe1001845786966000049492a00",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 476,
+    "height": 249
+   },
+   {
+    "group": "cn",
+    "title": "法德倡歐盟加強貿易防禦",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863864.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2025/10/id14621753-EpochImages-2980951255-xl-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2025/10/id14621753-EpochImages-2980951255-xl-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 70161,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "內地求職困境討論登上熱搜",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863763.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2023/07/id14030504-GettyImages-56040882-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2023/07/id14030504-GettyImages-56040882-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 58112,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "報道指中國縮減對伊朗貿易",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863906.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863907-GettyImages-2298092198-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863907-GettyImages-2298092198-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 259554,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "恆大威尼斯部分放盤低至十六萬",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863672.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863775-MixCollage-05-Oct-2026-01-40-PM-6049-600x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14863775-MixCollage-05-Oct-2026-01-40-PM-6049-600x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 135265,
+    "magicHex": "ffd8ffe000104a464946000101000048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 600,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "貴州村超簽約設馬來西亞賽區",
+    "url": "https://www.zaobao.com.sg/news/china/story20261006-9789544",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/zaobao/9448343f7ca822c409758ed8d153c647a2b97e9293f1a391cd67de60b3d0737e",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/9448343f7ca822c409758ed8d153c647a2b97e9293f1a391cd67de60b3d0737e",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 108464,
+    "magicHex": "52494646a8a701005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "us",
+    "title": "孫雯案法官限期釐清健康狀況",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863999.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2025/12/id14660634-188173-1-700x359.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2025/12/id14660634-188173-1-700x359.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 354480,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "us",
+    "title": "佛州校車翻側兩死多人受傷",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14864003.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2025/10/id14622609-186888-700x359.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2025/10/id14622609-186888-700x359.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 307004,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "us",
+    "title": "美國前眾院議長Hastert逝世",
+    "url": "https://www.hk01.com/article/60396629",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183896236839669760586142.jpeg/fciFCQk7JG_n_7cI-3FYjXSCVdsx3vDuO4u1LjuLtS4?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183896236839669760586142.jpeg/fciFCQk7JG_n_7cI-3FYjXSCVdsx3vDuO4u1LjuLtS4?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 42296,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "tw",
+    "title": "台鐵貨列故障影響早上通勤",
+    "url": "https://udn.com/news/story/7266/9796942",
+    "cardOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/06/35393225.jpg&M=1&s=Y&x=0&y=0&sw=1201&sh=801&exp=3600",
+    "articleHTTP": 200,
+    "articleOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/06/35393225.jpg&M=1&s=Y&x=0&y=0&sw=1201&sh=801&exp=3600",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 192779,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1201,
+    "height": 801
+   },
+   {
+    "group": "tw",
+    "title": "日月潭今年捕魚虎逾四萬尾",
+    "url": "https://udn.com/news/story/7470/9796878",
+    "cardOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/06/35393140.png&M=1&s=Y&x=0&y=0&sw=1248&sh=832&exp=3600",
+    "articleHTTP": 200,
+    "articleOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/06/35393140.png&M=1&s=Y&x=0&y=0&sw=1248&sh=832&exp=3600",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 57530,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1248,
+    "height": 832
+   },
+   {
+    "group": "tw",
+    "title": "美方拒評專家長駐台國防部報道",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863947.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/04/id14734704-GettyImages-2258197679-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/04/id14734704-GettyImages-2258197679-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 212887,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "war",
+    "title": "霍爾木茲附近兩日三油輪遇襲",
+    "url": "https://www.iranintl.com/en/202610050957",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/b58c8d4c3e0406413aa700148d5b50dfd794dc93-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/b58c8d4c3e0406413aa700148d5b50dfd794dc93-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 39409,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "war",
+    "title": "伊朗提名導彈業老將掌國防部",
+    "url": "https://www.iranintl.com/en/202610059428",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/0fd64abd2c59fd3574b4746418533b27bcab8bd8-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/0fd64abd2c59fd3574b4746418533b27bcab8bd8-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 90202,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "war",
+    "title": "也門政府軍稱收復摩卡港城",
+    "url": "https://www.hk01.com/article/60396645",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184004752694841344917362.jpeg/BFkc43LQpClBvJRmi69em8CNgRwOZXT2lW_yoJVv8qA?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184004752694841344917362.jpeg/BFkc43LQpClBvJRmi69em8CNgRwOZXT2lW_yoJVv8qA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 97523,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "ai",
+    "title": "ai",
+    "url": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
+    "cardOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2-1200x675.png",
+    "articleHTTP": 200,
+    "articleOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2-1200x675.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 1660584,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "warb",
+    "title": "warb",
+    "url": "https://www.iranintl.com/en/202610050957",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/b58c8d4c3e0406413aa700148d5b50dfd794dc93-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/b58c8d4c3e0406413aa700148d5b50dfd794dc93-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 39409,
+    "magicHex": "ffd8ffdb0043000b07080a08070b0a09",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   }
+  ],
+  "failures": []
+ },
+ "sources": {
+  "hk": [
+   {
+    "group": "hks",
+    "title": "西九龍反非法勞工行動拘十九人",
+    "url": "https://www.hk01.com/article/60396654",
+    "articleHttp": 200,
+    "originalTitle": "警西九龍反非法勞工　突擊搜查食肆、按摩店及大廈　共拘19人",
+    "publishedRaw": "2026-10-06T06:09:50+08:00",
+    "updatedRaw": "2026-10-06T06:09:56+08:00",
+    "publishedHKT": "2026-10-06 06:09:50",
+    "updatedHKT": "2026-10-06 06:09:56",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1183969537603670016472569.jpeg/zO8ssFal3K9jWF_DI_y0AfLOF8m2mA1bsCh86rAofOo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 210815,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:22.973200+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hks",
+    "title": "屯門公路四車相撞三人受傷",
+    "url": "https://www.hk01.com/article/60396653",
+    "articleHttp": 200,
+    "originalTitle": "屯門公路4車相撞3人受傷　一度封閉部分行車線",
+    "publishedRaw": "2026-10-06T02:50:15+08:00",
+    "updatedRaw": "2026-10-06T08:17:41+08:00",
+    "publishedHKT": "2026-10-06 02:50:15",
+    "updatedHKT": "2026-10-06 08:17:41",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1183967175262605312623814.jpeg/tMe-LLuPFWlO8t4-nqDHc-e7npzfg30c1VkJrdVZCa0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 76026,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       889,
+       500
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:22.834980+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hks",
+    "title": "西九龍四的士司機涉違例被控",
+    "url": "https://www.hk01.com/article/60396644",
+    "articleHttp": 200,
+    "originalTitle": "警西九龍打擊的士違例發告票　4人涉拒載、冚旗載客及裝多部手機",
+    "publishedRaw": "2026-10-06T00:47:19+08:00",
+    "updatedRaw": "2026-10-06T08:22:02+08:00",
+    "publishedHKT": "2026-10-06 00:47:19",
+    "updatedHKT": "2026-10-06 08:22:02",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1183930956579344384658923.jpeg/433_0w9Vj9b3dvhk8SpzbGMICO-DScnJyGewfMhnsHw?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 197724,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:23.031170+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hks",
+    "title": "旅客疑禁飛區航拍煙花被跟進",
+    "url": "https://www.hk01.com/article/60396638",
+    "articleHttp": 200,
+    "originalTitle": "旅客疑禁飛區放無人機拍國慶煙花　民航處：正按既定程序跟進",
+    "publishedRaw": "2026-10-05T22:49:28+08:00",
+    "updatedRaw": "2026-10-05T23:12:10+08:00",
+    "publishedHKT": "2026-10-05 22:49:28",
+    "updatedHKT": "2026-10-05 23:12:10",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183904990859628544430962.jpeg/Qfu9o4P0GK3xxr798AuvMAg4Zaq48X4CVdkGPVXZBj0?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 38502,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       649,
+       365
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:22.796262+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hks",
+    "title": "彩雲邨男子疑燒炭送院不治",
+    "url": "https://www.hk01.com/article/60396633",
+    "articleHttp": 200,
+    "originalTitle": "珍惜生命｜黃大仙彩雲邨男子疑燒炭輕生　家人揭發惜太遲",
+    "publishedRaw": "2026-10-05T22:17:45+08:00",
+    "updatedRaw": "2026-10-05T22:17:50+08:00",
+    "publishedHKT": "2026-10-05 22:17:45",
+    "updatedHKT": "2026-10-05 22:17:50",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183903360156176384098724.png/Za2XYmMXO-i-8iWttj1WdHUncl9dCNNNiZx4qYmceKk?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 164858,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       958,
+       539
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:22.955350+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hks",
+    "title": "青衣疑墮海報案查明無人墮海",
+    "url": "https://www.stheadline.com/breaking-news/3622785/",
+    "articleHttp": 200,
+    "originalTitle": "青衣碼頭一度誤傳有人墮海 驚動水警消防趕至搜索",
+    "publishedRaw": "2026-10-05T22:01:45+0800",
+    "updatedRaw": "2026-10-05T22:14:50+0800",
+    "publishedHKT": "2026-10-05 22:01:45",
+    "updatedHKT": "2026-10-05 22:14:50",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/ul/sthl_square/c1e47f5d0f3e332fb390684ceb240d37/2026-10/WhatsApp_Image_2026-10-05_at_21_51_04_0.jpeg",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 151253,
+     "magic": "ffd8ffe000104a464946000101010060",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:22.941346+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hks",
+    "title": "消防承辦商操守約章擬月中推出",
+    "url": "https://www.stheadline.com/society/3622703/",
+    "articleHttp": 200,
+    "originalTitle": "消防處推出《註冊消防裝置承辦商操守約章》 全面提升消防安全 為業界提供清晰務實指引 加強良好作業方式",
+    "publishedRaw": "2026-10-06T07:00:33+0800",
+    "updatedRaw": "2026-10-06T07:00:33+0800",
+    "publishedHKT": "2026-10-06 07:00:33",
+    "updatedHKT": "2026-10-06 07:00:33",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/9b1d9ac887b787a95248f3dd45c54eac/2026-10/20261005_news_FV2.png",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/png; charset=UTF-8",
+     "bytes": 262149,
+     "magic": "89504e470d0a1a0a0000000d49484452",
+     "pillow": {
+      "format": "PNG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:22.930781+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hks",
+    "title": "荃灣地盤爆炸聲涉燈具電線故障",
+    "url": "https://www.hk01.com/article/60396636",
+    "articleHttp": 200,
+    "originalTitle": "荃灣地盤連日傳爆炸聲　土拓署：黃波燈電線故障　已完成搶修",
+    "publishedRaw": "2026-10-05T22:44:05+08:00",
+    "updatedRaw": "2026-10-05T22:44:16+08:00",
+    "publishedHKT": "2026-10-05 22:44:05",
+    "updatedHKT": "2026-10-05 22:44:16",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261005/1183905056563400704872104.jpeg/o4oUfy9R2f-_7lG3gkbehvobRPRDYaXGoS069aEtOvU?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 222983,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:22.985643+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hkl",
+    "title": "啟德醫院照X光暫須轉往他院",
+    "url": "https://www.hk01.com/article/60396619",
+    "articleHttp": 200,
+    "originalTitle": "啟德醫院「街症」照X光暫須往他院　院方：短期內推同院檢查安排",
+    "publishedRaw": "2026-10-05T22:50:40+08:00",
+    "updatedRaw": "2026-10-05T23:22:08+08:00",
+    "publishedHKT": "2026-10-05 22:50:40",
+    "updatedHKT": "2026-10-05 23:22:08",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261004/1183465679614382080284935.jpeg/2U1qGa3E-daJgoS_SvckNptmkqw2s9j5ZNFkwGTRZMA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 235092,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:24.545005+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hkl",
+    "title": "北角蝦仁驗出禁用獸藥停售",
+    "url": "https://www.hk01.com/article/60396622",
+    "articleHttp": 200,
+    "originalTitle": "北角糧食店去腸白蝦仁驗出禁用獸藥　食安中心指令停售及下架",
+    "publishedRaw": "2026-10-05T21:56:07+08:00",
+    "updatedRaw": "2026-10-05T21:56:11+08:00",
+    "publishedHKT": "2026-10-05 21:56:07",
+    "updatedHKT": "2026-10-05 21:56:11",
+    "originalOg": "https://cdn.hk01.com/di/media/images/3411973/org/29843fadf084ae91442b9eacf4a81485.jpg/juP1S-7MfQPnEVcpI9K8ELDj3Olqg1C2Cedv9Qnnb_U?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 37814,
+     "magic": "ffd8ffe000104a464946000101010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:24.502539+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hkl",
+    "title": "今日早上稍涼日間最高二十九度",
+    "url": "https://www.hk01.com/article/60396648",
+    "articleHttp": 200,
+    "originalTitle": "天氣｜今日大致多雲乾燥　早上稍涼各區普遍約23度　日間最高29度",
+    "publishedRaw": "2026-10-06T06:10:56+08:00",
+    "updatedRaw": "2026-10-06T06:10:59+08:00",
+    "publishedHKT": "2026-10-06 06:10:56",
+    "updatedHKT": "2026-10-06 06:10:59",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184020224257691648801259.jpeg/mDdzdwABKE-OWsXrBIZs2wNHTGWY4wAwjSeIUI0niFA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 276258,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:25.151247+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hkl",
+    "title": "太安樓男廁擬全面翻新約一月",
+    "url": "https://www.dimsumdaily.hk/tai-on-building-mens-toilet-in-sai-wan-ho-to-undergo-month%e2%80%91long-overhaul-after-years-of-horror%e2%80%91story-complaints/",
+    "articleHttp": 200,
+    "originalTitle": "Tai On Building men’s toilet in Sai Wan Ho to undergo month‑long overhaul after years of horror‑story complaints",
+    "publishedRaw": "2026-10-05T14:16:46+00:00",
+    "updatedRaw": "2026-10-05T14:16:52+00:00",
+    "publishedHKT": "2026-10-05 22:16:46",
+    "updatedHKT": "2026-10-05 22:16:52",
+    "originalOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/05221340/Tai-On-toilet.webp",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/webp",
+     "bytes": 136826,
+     "magic": "52494646721602005745425056503858",
+     "pillow": {
+      "format": "WEBP",
+      "size": [
+       958,
+       752
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:25.216033+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hkl",
+    "title": "港大二十四課程收生分數全升",
+    "url": "https://www.stheadline.com/edu-insights/3622788/",
+    "articleHttp": 200,
+    "originalTitle": "港大24課程聯招分數急升 專家籲考生調高成績目標 「理學士及法學士」門檻最高",
+    "publishedRaw": "2026-10-06T07:30:00+0800",
+    "updatedRaw": "2026-10-06T07:30:00+0800",
+    "publishedHKT": "2026-10-06 07:30:00",
+    "updatedHKT": "2026-10-06 07:30:00",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/ae1c2f2e9a9c7fcc6d631ebb221aabe2/2026-10/NA260831HKU12-169.jpg",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 233165,
+     "magic": "ffd8ffe000104a464946000101010060",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:25.048603+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hkl",
+    "title": "嶺大首設精英班錄十四名學生",
+    "url": "https://www.stheadline.com/edu-insights/3622625/",
+    "articleHttp": 200,
+    "originalTitle": "嶺大結合博雅與AI教育 校長秦泗釗：抓緊北都機遇 擬建文化科技一體社區︱專訪",
+    "publishedRaw": "2026-10-06T06:00:15+0800",
+    "updatedRaw": "2026-10-06T06:00:15+0800",
+    "publishedHKT": "2026-10-06 06:00:15",
+    "updatedHKT": "2026-10-06 06:00:15",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/8dc7668553a6f370df496e56e588ef72/2026-10/20261006__.png",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/png; charset=UTF-8",
+     "bytes": 276651,
+     "magic": "89504e470d0a1a0a0000000d49484452",
+     "pillow": {
+      "format": "PNG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:25.156603+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hkl",
+    "title": "開放式新盤消防年檢開支惹關注",
+    "url": "https://www.stheadline.com/renovation/3622693/",
+    "articleHttp": 200,
+    "originalTitle": "開放式新盤隱藏開支多 消防裝置須年檢 冷氣維修貴 收租客：早知咁煩就唔買",
+    "publishedRaw": "2026-10-06T06:00:30+0800",
+    "updatedRaw": "2026-10-06T06:00:30+0800",
+    "publishedHKT": "2026-10-06 06:00:30",
+    "updatedHKT": "2026-10-06 06:00:30",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/4cb0bef9a119c93a0d306324ef3166f0/2026-10/179119034542874.jpg",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 592109,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:25.376370+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   },
+   {
+    "group": "hkl",
+    "title": "七欖港隊金銅牌健兒返港凱旋",
+    "url": "https://www.stheadline.com/society/3622804/",
+    "articleHttp": 200,
+    "originalTitle": "名古屋亞運健兒凱旋 羅淑佩接機 七欖蔡紀駿借金牌合照︱Kelly Online",
+    "publishedRaw": "2026-10-05T23:15:28+0800",
+    "updatedRaw": "2026-10-05T23:15:28+0800",
+    "publishedHKT": "2026-10-05 23:15:28",
+    "updatedHKT": "2026-10-05 23:15:28",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/7877e2be4388636fbd2f753143a26370/2026-10/833780331_10175605312960603_1567773992650736122_n.jpg",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 235291,
+     "magic": "ffd8ffe000104a464946000101010060",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       676
+      ]
+     }
+    },
+    "checkedAt": "2026-10-06T00:35:25.153107+00:00",
+    "visualReview": "Contact sheet 已逐張檢視；圖片可顯示，內容與原文相符。星島圖另以原文 og:image 逐字核對，不能只靠 HTTP 200 判斷。"
+   }
+  ],
+  "root": [
+   {
+    "key": "nasdaq",
+    "url": "https://www.channelnewsasia.com/business/nasdaq-hits-record-dollar-and-treasury-yields-climb-oil-prices-ease-6432001",
+    "articleHTTP": 200,
+    "title": "Nasdaq hits record as dollar and Treasury yields climb, oil prices ease",
+    "ogImage": "https://dam.mediacorp.sg/image/upload/s--RQXbQdRi--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-05T153616Z_1_LYNXMPEM941EJ_RTROPTP_3_USA-STOCKS.JPG?itok=gByLAix3",
+    "publishedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-06T04:37:43+08:00",
+     "dateModified": "2026-10-06T06:39:06+08:00"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 89657,
+    "imageMagic": "ffd8ffe000104a464946000101000001",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 676
+    }
+   },
+   {
+    "key": "dayone",
+    "url": "https://www.channelnewsasia.com/business/dayone-data-centers-files-us-ipo-6434451",
+    "articleHTTP": 200,
+    "title": "DayOne Data Centers files for US IPO",
+    "ogImage": "https://dam.mediacorp.sg/image/upload/s--cShbgOWd--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-05T204104Z_2_LYNXMPEM941TP_RTROPTP_3_YESWAY-IPO.JPG?itok=-w55-mZy",
+    "publishedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-06T04:41:04+08:00",
+     "dateModified": "2026-10-06T04:41:04+08:00"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 47013,
+    "imageMagic": "ffd8ffe000104a464946000101000001",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 676
+    }
+   },
+   {
+    "key": "privatebank",
+    "url": "https://www.straitstimes.com/business/half-of-new-accounts-at-private-banks-in-singapore-industry-group-opened-in-a-month-abs",
+    "articleHTTP": 200,
+    "title": "Half of new accounts at private banks in Singapore industry group opened in a month: ABS",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/72efdeb0ce3ebff0709a409b60a5f088084455d447795228a3d2c6aa77c5044d",
+    "publishedRaw": "2026-10-05T13:35:00.000Z",
+    "jsonLdTime": {
+     "datePublished": "2026-10-05T21:35:00+08:00",
+     "dateModified": "2026-10-05T21:39:08+08:00"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/webp",
+    "imageBytes": 135098,
+    "imageMagic": "52494646b20f02005745425056503820",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "WEBP",
+     "width": 1140,
+     "height": 760
+    }
+   },
+   {
+    "key": "interests",
+    "url": "https://www.hk01.com/article/60396085",
+    "articleHTTP": 200,
+    "title": "議員涉足北都企業被「温提」申報　免重蹈漏報利益爭議｜政圈風聲",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261005/1183912631405121536832096.jpeg/XseD_iZpN2MW_EZuodpLZxaRCmBfVikYo7hqZKO4amQ",
+    "publishedRaw": "2026-10-06T07:00:31+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-06T07:00:31+08:00",
+     "dateModified": "2026-10-06T07:00:31+08:00"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 193729,
+    "imageMagic": "ffd8ffe000104a464946000102010048",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 675
+    }
+   },
+   {
+    "key": "collective",
+    "url": "https://thecollectivehk.com/%e7%b0%a1%e6%a8%b8%e6%88%bf%e6%a2%9d%e4%be%8b%e8%ad%b0%e5%93%a1%e6%86%82%e7%a7%9f%e9%87%91%e6%9a%b4%e6%bc%b2%e5%a2%9e%e5%9f%ba%e5%b1%a4%e8%b2%a0%e6%93%94%e4%bd%95%e6%b0%b8%e8%b3%a2%e6%9c%89%e5%be%97/",
+    "articleHTTP": 200,
+    "title": "簡樸房條例｜議員憂租金暴漲增基層負擔　何永賢：有得揀簡約公屋 - 集誌社",
+    "ogImage": "https://thecollectivehk.com/wp-content/uploads/2026/10/cover.jpeg",
+    "publishedRaw": "2026-10-05T23:25:21+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-05T23:25:21+08:00",
+     "dateModified": "2026-10-05T23:25:21+08:00"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 272463,
+    "imageMagic": "ffd8ffe000104a46494600010100015e",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 629
+    }
+   }
+  ],
+  "transport": {
+   "candidate": [
+    "運署稱復康巴士已延伸至啟德",
+    "平日十四來回班次免預約，署方按需求調整",
+    "有線新聞",
+    "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510519/%E5%95%9F%E5%BE%B7%E9%86%AB%E9%99%A2-%E9%81%8B%E8%BC%B8%E7%BD%B2-%E5%B7%B2%E5%BB%B6%E9%95%B7%E5%BE%A9%E5%BA%B7%E5%B7%B4%E5%A3%AB%E6%9C%8D%E5%8B%99-%E5%AF%86%E5%88%87%E7%95%99",
+    "2026-10-06 08:43:02",
+    "2026-10-06 08:43:14",
+    "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/06164233/vlcsnap-2026-10-06-08h42m28s550.jpg"
+   ],
+   "evidence": {
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510519/%E5%95%9F%E5%BE%B7%E9%86%AB%E9%99%A2-%E9%81%8B%E8%BC%B8%E7%BD%B2-%E5%B7%B2%E5%BB%B6%E9%95%B7%E5%BE%A9%E5%BA%B7%E5%B7%B4%E5%A3%AB%E6%9C%8D%E5%8B%99-%E5%AF%86%E5%88%87%E7%95%99",
+    "http": 200,
+    "title": "啟德醫院｜運輸署：已延長復康巴士服務　密切留意需求調整服務 - 有線寬頻 i-CABLE",
+    "pubRaw": "2026-10-06T00:43:02+00:00",
+    "pub": "2026-10-06 08:43:02",
+    "upd": "2026-10-06 08:43:14",
+    "og": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/06164233/vlcsnap-2026-10-06-08h42m28s550.jpg",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 500273,
+     "magic": "ffd8ffe000104a464946000101000001",
+     "format": "JPEG",
+     "size": [
+      1920,
+      1080
+     ]
+    },
+    "checkedAt": "2026-10-06T08:43:54.017826+08:00"
+   },
+   "visualReview": "已實際檢視 politics-help-510519.jpg：医院小巴站畫面清楚、並有原片運輸署字幕，非錯誤頁或空圖。",
+   "dedupBaseline": [
+    [
+     "啟德醫院首日開診市民讚環境",
+     "部分人指路牌不清晰，月底增專科門診",
+     "有線新聞",
+     "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510264/%E5%95%9F%E5%BE%B7%E9%86%AB%E9%99%A2-%E5%AE%B6%E5%BA%AD%E9%86%AB%E5%AD%B8%E4%B8%AD%E5%BF%83%E9%A6%96%E6%97%A5%E9%81%8B%E4%BD%9C-%E5%B8%82%E6%B0%91%E8%AE%9A%E7%92%B0%E5%A2%83%E5%A5%BD",
+     "2026-10-05 12:24:40",
+     "2026-10-05 18:59:53",
+     "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/05210040/hosp.jpg"
+    ]
+   ],
+   "substantiveNewFact": "上一版12:24開診環境及路牌報道，今晨08:43有線新增九龍中醫院聯網及運輸署回應無障礙交通需求；運署具體列出復康巴士延伸至啟德及兒童醫院設站、平日14來回班次、無需預約、按需求調整。上一版沒有這些安排。",
+   "limits": [
+    "原文只說營辦商已延長穿梭服務至兩醫院，未交代措施實施日子，不能宣稱今天才延長。",
+    "延長在原文指服務路線延伸，不等於已加長每日運作時間；未承諾延後4:15尾班。",
+    "此稿屬運輸署公共服務安排回應，可由root判斷hkp公共政策分類；單純輪椅人士抱怨510514不作政治卡。"
+   ],
+   "trackUpdate": {
+    "name": "港·啟德醫院分階段啟用",
+    "status": "服務調整",
+    "progress": "香港01 5日22:50指X光暫需轉院，院方稱短期推同院檢查；有線6日08:43引運署稱復康穿梭服務已延伸至啟德及兒童醫院，平日14來回班次免預約，會按需求調整。未交代延伸實施日期或承諾延後尾班。"
+   },
+   "checkedAt": "2026-10-06T08:44:28.935308+08:00"
+  },
+  "world": [
+   {
+    "id": "hk60396643",
+    "g": "cn",
+    "url": "https://www.hk01.com/article/60396643",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T23:36:37+08:00",
+    "publishedHKT": "2026-10-05T23:36:37+08:00",
+    "updatedHKT": "2026-10-05T23:36:41+08:00",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261005/1183920846469599232538790.jpeg/IFVnoKR4XplqEdxTC7BzpiJ-4S9Qfk1HT05FO09ORTs?v=w1280r16_9",
+    "title": "重慶7人盜礦因洞內漲水溺亡　同案21人被捕",
+    "description": "重慶市酉陽土家族苗族自治縣公安局10月5日晚上通報，當地近日查獲一宗違法盜礦案件，7人在盜礦時因降雨引發礦洞突發漲水溺亡。新華社引述通報稱，1",
+    "checkedAt": "2026-10-06T08:34:10.338098+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 71241,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1024,
+     576
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "hk60396635",
+    "g": "cn",
+    "url": "https://www.hk01.com/article/60396635",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T22:23:22+08:00",
+    "publishedHKT": "2026-10-05T22:23:22+08:00",
+    "updatedHKT": "2026-10-05T22:41:14+08:00",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260626/1147128626525769728326514.jpeg/MhSroyelTggQRxR74SprUJ-mnyFd4KSvdZqXFHWalxQ?v=w1280r16_9",
+    "title": "美國AI企業對中國同行優勢大幅收窄　外界質疑美國晶片管制措施",
+    "description": "彭博行業研究（Bloomberg Intelligence）的最新報告指出，隨着DeepSeek等中國人工智能（AI）實驗室逐漸迎頭趕上，美國AI企業對中國的領先優勢過去",
+    "checkedAt": "2026-10-06T08:34:10.136204+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 78407,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1024,
+     576
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ep14863953",
+    "g": "cn",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863953.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T00:10:48.000Z",
+    "publishedHKT": "2026-10-06T08:10:48+08:00",
+    "updatedHKT": "2026-10-06T08:20:03+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2017/02/DJY_FB_DefaultImage2017.jpg",
+    "title": "經商環境不安全 日企撤離中國速度創紀錄",
+    "description": "由於中國經濟放緩，關稅風險不斷上升，勞動力和製造成本增加，以及來自中國本土企業的激烈競爭進一步擠壓日企利潤空間，目前中國日企數量降至歷史最低水平。隨著中日兩國外交爭端持續，日企撤離趨勢可能進一步加劇。",
+    "checkedAt": "2026-10-06T08:34:09.961501+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 31681,
+    "magic": "ffd8ffe10018457869660000",
+    "format": "JPEG",
+    "size": [
+     476,
+     249
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ep14863864",
+    "g": "cn",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863864.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T18:43:33.000Z",
+    "publishedHKT": "2026-10-06T02:43:33+08:00",
+    "updatedHKT": "2026-10-06T03:33:02+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2025/10/id14621753-EpochImages-2980951255-xl-700x359.jpg",
+    "title": "德法力推貿易武器阻傾銷 劍指中共政策",
+    "description": "隨著全球經濟環境變化與中共帶來的供應鏈安全威脅增加，歐洲兩大核心國家——法國與德國於週一（10月5日）正式向歐盟委員會提出一項強有力的貿易政策倡議。",
+    "checkedAt": "2026-10-06T08:34:10.111359+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 70161,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ep14863763",
+    "g": "cn",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863763.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T15:53:35.000Z",
+    "publishedHKT": "2026-10-05T23:53:35+08:00",
+    "updatedHKT": "2026-10-05T23:53:35+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2023/07/id14030504-GettyImages-56040882-700x359.jpg",
+    "title": "「一大群人找不到工作必須被解決」上微博熱搜",
+    "description": "隨著中國經濟持續下行，失業率特別是青年失業率受到外界關注。10月5日，「一大群人找不到工作必須被解決」登上微博熱搜，再次將中國就業問題推上輿論焦點。",
+    "checkedAt": "2026-10-06T08:34:10.077485+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 58112,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ep14863906",
+    "g": "cn",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863906.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T19:48:33.000Z",
+    "publishedHKT": "2026-10-06T03:48:33+08:00",
+    "updatedHKT": "2026-10-06T03:49:09+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14863907-GettyImages-2298092198-700x359.jpg",
+    "title": "伊朗經濟危機加深 中共也開始縮減中伊貿易",
+    "description": "隨著伊朗經濟危機加深，中共開始縮減與伊朗的貿易，包括減少貨物出口和停止成品油出口。在伊朗，美元兌里亞爾匯率一度突破270萬，通貨膨脹飆升，石油收入幾乎消失。經濟學家估計，如果封鎖持續下去，到2027年6月，伊朗政權可能難以維持經濟運作並提供公共服務。",
+    "checkedAt": "2026-10-06T08:34:09.937573+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 259554,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ep14863672",
+    "g": "cn",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863672.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T15:00:40.000Z",
+    "publishedHKT": "2026-10-05T23:00:40+08:00",
+    "updatedHKT": "2026-10-05T23:00:40+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14863775-MixCollage-05-Oct-2026-01-40-PM-6049-600x359.jpg",
+    "title": "恆大海上威尼斯部分住宅掛牌價跌至十幾萬元",
+    "description": "中國房地產市場持續低迷，曾經以大型海濱度假社區為賣點的江蘇啟東「恆大海上威尼斯」，部分二手房掛牌價明顯走低。當地二手房市場上，部分六七十平方米住宅的掛牌價已跌至十幾萬元（人民幣，下同），引發廣泛關注。",
+    "checkedAt": "2026-10-06T08:34:12.107717+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 135265,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     600,
+     359
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "zb9789544",
+    "g": "cn",
+    "url": "https://www.zaobao.com.sg/news/china/story20261006-9789544",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T07:49:00+08:00",
+    "publishedHKT": "2026-10-06T07:49:00+08:00",
+    "updatedHKT": "2026-10-06T07:49:00+08:00",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/9448343f7ca822c409758ed8d153c647a2b97e9293f1a391cd67de60b3d0737e",
+    "title": "贵州“村超”首个海外赛区签约",
+    "description": "中国贵州省“村超”首个海外赛区签约，将常态化举办马来西亚“村超”分赛区赛事。",
+    "checkedAt": "2026-10-06T08:34:12.250692+08:00",
+    "imageStatus": 200,
+    "contentType": "image/webp",
+    "bytes": 108464,
+    "magic": "52494646a8a7010057454250",
+    "format": "WEBP",
+    "size": [
+     1023,
+     682
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ep14863999",
+    "g": "us",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863999.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T21:12:25.000Z",
+    "publishedHKT": "2026-10-06T05:12:25+08:00",
+    "updatedHKT": "2026-10-06T05:13:13+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2025/12/id14660634-188173-1-700x359.jpeg",
+    "title": "孫雯案追加洗錢共謀罪 辯護律師接連退出",
+    "description": "",
+    "checkedAt": "2026-10-06T08:34:12.041372+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 354480,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ep14864003",
+    "g": "us",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14864003.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T00:04:04.000Z",
+    "publishedHKT": "2026-10-06T08:04:04+08:00",
+    "updatedHKT": "2026-10-06T08:04:05+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2025/10/id14622609-186888-700x359.jpeg",
+    "title": "佛州校車遇連環相撞 釀2死多傷 含1高中生",
+    "description": "週一（10月5日）上午，美國佛羅里達州中部發生一起多車連環相撞事故，一輛校車翻車，造成兩人遇難，其中包括一名高中學生，此外還有多人受傷。",
+    "checkedAt": "2026-10-06T08:34:12.083428+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 307004,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "hk60396629",
+    "g": "us",
+    "url": "https://www.hk01.com/article/60396629",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T21:48:46+08:00",
+    "publishedHKT": "2026-10-05T21:48:46+08:00",
+    "updatedHKT": "2026-10-05T21:50:56+08:00",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261005/1183896236839669760586142.jpeg/fciFCQk7JG_n_7cI-3FYjXSCVdsx3vDuO4u1LjuLtS4?v=w1280r16_9",
+    "title": "美前眾院議長Dennis Hastert逝世　曾因性侵男童付掩口費囚15個月",
+    "description": "美國伊利諾伊州肯德爾縣驗屍官辦公室10月5日發表聲明稱，共和黨前眾議院議長哈斯特爾特（Dennis Hastert）上週末逝世，終年84歲。哈斯特爾特在2016",
+    "checkedAt": "2026-10-06T08:34:14.448554+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 42296,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1200,
+     675
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ud9796942",
+    "g": "tw",
+    "url": "https://udn.com/news/story/7266/9796942",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T08:29:33+08:00",
+    "publishedHKT": "2026-10-06T08:29:33+08:00",
+    "updatedHKT": "2026-10-06T08:30:10+08:00",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/06/35393225.jpg&M=1&s=Y&x=0&y=0&sw=1201&sh=801&exp=3600",
+    "title": "台鐵南港汐止貨列故障影響通勤 延誤10至20分鐘 官方致歉：已恢復正常 | 聯合新聞網",
+    "description": "台鐵公司表示，今天上午7時14分，7022次貨物列車在南港-汐止間西正線因機車動力異常，經處理無效，南港=汐止暫以東正線單線雙向行車。台鐵公司上午7時30分成立二級應變小組，故障機車於上午7時48分退回南港站，南港=汐止恢復正常行車。",
+    "checkedAt": "2026-10-06T08:34:16.219643+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 192779,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1201,
+     801
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ud9796878",
+    "g": "tw",
+    "url": "https://udn.com/news/story/7470/9796878",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T07:00:00+08:00",
+    "publishedHKT": "2026-10-06T07:00:00+08:00",
+    "updatedHKT": "2026-10-06T08:16:30+08:00",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/06/35393140.png&M=1&s=Y&x=0&y=0&sw=1248&sh=832&exp=3600",
+    "title": "影／魚虎爆量…日月潭變超大型夜市撈魚池 今年撈破4萬尾 | 聯合新聞網",
+    "description": "日月潭魚虎今年大爆發，縣府電撈結束仍見魚球肆虐，為此開放撈捕，長期關注潭區生態的「日月潭一等高」分享撈捕畫面，日月潭猶如超大型夜市撈魚池，隨手一撈全是魚虎，數量驚人。縣府統計，截至上月底已撈破4萬尾，創歷年新高。",
+    "checkedAt": "2026-10-06T08:34:16.326893+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 57530,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1248,
+     832
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ep14863947",
+    "g": "tw",
+    "url": "https://www.epochtimes.com/b5/26/10/5/n14863947.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T20:08:12.000Z",
+    "publishedHKT": "2026-10-06T04:08:12+08:00",
+    "updatedHKT": "2026-10-06T04:08:12+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2026/04/id14734704-GettyImages-2258197679-700x359.jpg",
+    "title": "五角大樓將派2官員常駐台灣國防部 引熱議",
+    "description": "台灣媒體週末報導，根據一項合作計劃，美國五角大樓將直接派遣一名國防部負責政策的副部長辦公室（OSW-P）官員和一名國防智庫「國防分析研究中心」（IDA）的專家，長期駐紮在台灣國防部總部。",
+    "checkedAt": "2026-10-06T08:36:14.915950+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 212887,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ii202610050957",
+    "g": "war",
+    "url": "https://www.iranintl.com/en/202610050957",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T22:08:27.971Z",
+    "publishedHKT": "2026-10-06T06:08:27.971000+08:00",
+    "updatedHKT": "2026-10-06T06:10:12+08:00",
+    "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/b58c8d4c3e0406413aa700148d5b50dfd794dc93-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "title": "Iran says US talks ‘meaningless’ as third tanker hit near Hormuz",
+    "description": "Iranian President Masoud Pezeshkian said Monday that talks with the United States were meaningless, even as President Donald Trump remained open to direct negotiations, while a third tanker in two days was struck near the Strait of Hormuz.",
+    "checkedAt": "2026-10-06T08:34:15.419914+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 39409,
+    "magic": "ffd8ffdb0043000b07080a08",
+    "format": "JPEG",
+    "size": [
+     1200,
+     630
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "ii202610059428",
+    "g": "war",
+    "url": "https://www.iranintl.com/en/202610059428",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-05T17:37:00.000Z",
+    "publishedHKT": "2026-10-06T01:37:00+08:00",
+    "updatedHKT": "2026-10-06T01:38:46+08:00",
+    "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/0fd64abd2c59fd3574b4746418533b27bcab8bd8-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "title": "Pezeshkian nominates missile-industry veteran as defense minister",
+    "description": "Iranian President Masoud Pezeshkian has nominated Mehrdad Akhlaghi Ketabchi as defense minister, moving to fill a post left vacant since Defense Minister Aziz Nasirzadeh was killed in US-Israeli strikes in February.",
+    "checkedAt": "2026-10-06T08:34:15.631218+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 90202,
+    "magic": "ffd8ffdb0043000b07080a08",
+    "format": "JPEG",
+    "size": [
+     1200,
+     630
+    ],
+    "ogMatch": true
+   },
+   {
+    "id": "hk60396645",
+    "g": "war",
+    "url": "https://www.hk01.com/article/60396645",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T00:47:55+08:00",
+    "publishedHKT": "2026-10-06T00:47:55+08:00",
+    "updatedHKT": "2026-10-06T04:57:36+08:00",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261006/1184004752694841344917362.jpeg/BFkc43LQpClBvJRmi69em8CNgRwOZXT2lW_yoJVv8qA?v=w1280r16_9",
+    "title": "也門政府軍：與胡塞武裝激烈戰鬥　已收復紅海港口城市摩卡",
+    "description": "也門政府軍10月5日表示，經激烈戰鬥後，政府軍已從胡塞武裝（Houthis）手中收復塔伊茲省（Taiz）的紅海港口城市摩卡（Mocha，又稱穆哈）。同日稍早",
+    "checkedAt": "2026-10-06T08:34:14.542664+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 97523,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1280,
+     720
+    ],
+    "ogMatch": true
+   }
+  ],
+  "briefs": [
+   {
+    "key": "a1",
+    "url": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
+    "status": 200,
+    "og": "https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2-1200x675.png",
+    "pub": "2026-10-05T17:32:42+00:00",
+    "mod": "2026-10-05T17:35:07+00:00",
+    "jsonld": [
+     "<script class=\"yoast-schema-graph\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"NewsArticle\",\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/#article\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/\"},\"author\":{\"name\":\"Matthias Bastian\",\"@id\":\"https://the-decoder.com/#/schema/person/f5278ecf79b4566467d86133ece0857c\"},\"headline\":\"OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide\",\"datePublished\":\"2026-10-05T17:32:42+00:00\",\"dateModified\":\"2026-10-05T17:35:07+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/\"},\"wordCount\":705,\"commentCount\":0,\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"image\":{\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2.png\",\"keywords\":[\"ChatGPT\",\"OpenAI\",\"Watermark\",\"Watermarking\"],\"articleSection\":[\"AI in practice\",\"Artificial Intelligence\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/#respond\"]}],\"copyrightYear\":\"2026\",\"copyrightHolder\":{\"@id\":\"https://the-decoder.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/\",\"url\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/\",\"name\":\"OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/#primaryimage\"},\"image\":{\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2.png\",\"datePublished\":\"2026-10-05T17:32:42+00:00\",\"dateModified\":\"2026-10-05T17:35:07+00:00\",\"description\":\"OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced.\",\"breadcrumb\":{\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/#primaryimage\",\"url\":\"https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2.png\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2.png\",\"width\":2048,\"height\":1152},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https://the-decoder.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://the-decoder.com/#website\",\"url\":\"https://the-decoder.com/\",\"name\":\"The Decoder\",\"description\":\"AI, Menschen, Wirtschaft\",\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://the-decoder.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://the-decoder.com/#organization\",\"name\":\"THE-DECODER.com\",\"url\":\"https://the-decoder.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/logo/image/\",\"url\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"width\":600,\"height\":180,\"caption\":\"THE-DECODER.com\"},\"image\":{\"@id\":\"https://the-decoder.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/TheDecoderDE/\",\"https://x.com/TheDecoderEN\",\"https://www.reddit.com/r/TheDecoder/\",\"https://discord.gg/8VKkHAacn8\",\"https://www.linkedin.com/company/the-decoder-en/\"]},{\"@type\":\"Person\",\"@id\":\"https://the-decoder.com/#/schema/person/f5278ecf79b4566467d86133ece0857c\",\"name\":\"Matthias Bastian\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/person/image/\",\"url\":\"/resources/images/avatar_matthias_bastian.jpg\",\"contentUrl\":\"/resources/images/avatar_matthias_bastian.jpg\",\"caption\":\"Matthias Bastian\"},\"description\":\"Matthias is the co-founder and publisher of THE DECODER, exploring how AI is fundamentally changing the relationship between humans and computers.\",\"sameAs\":[\"https://www.linkedin.com/in/matthias-bastian-128b71b1/\"],\"url\":\"https://the-decoder.com/author/matthias-bastian/\"}]}</script>"
+    ],
+    "checkedAt": "2026-10-06T08:34:16.557568+08:00",
+    "textFile": "scratch\\am-20261006\\briefs-a1.txt",
+    "image": {
+     "status": 200,
+     "mime": "image/png",
+     "bytes": 1660584,
+     "magic": "89504e470d0a1a0a0000000d49484452",
+     "format": "PNG",
+     "size": [
+      1200,
+      675
+     ],
+     "ogExact": true
+    },
+    "publishedHKT": "2026-10-06T01:32:42+08:00",
+    "withinWindow": true
+   },
+   {
+    "key": "a2",
+    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "status": 200,
+    "og": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "pub": "2026-10-05T14:35:09+00:00",
+    "mod": "2026-10-05T16:46:56+00:00",
+    "jsonld": [
+     "<script class=\"yoast-schema-graph\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"NewsArticle\",\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/#article\",\"isPartOf\":{\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/\"},\"author\":[{\"@id\":\"https://techcrunch.com/#/schema/person/image/162a0008e3d8aeb1ffa374a2adf00450\"}],\"headline\":\"Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;\",\"datePublished\":\"2026-10-05T14:35:09+00:00\",\"dateModified\":\"2026-10-05T16:46:56+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/\"},\"wordCount\":271,\"publisher\":{\"@id\":\"https://techcrunch.com/#organization\"},\"image\":{\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/#primaryimage\"},\"thumbnailUrl\":\"https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg\",\"keywords\":[\"AI agents\",\"alibaba\",\"In Brief\",\"Tencent\"],\"articleSection\":[\"AI\"],\"inLanguage\":\"en-US\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\"#speakable-summary\"]},\"copyrightYear\":\"2026\",\"copyrightHolder\":{\"@id\":\"https://techcrunch.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/\",\"url\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/\",\"name\":\"Researchers are tracking a Chinese AI 'agent fleet' | TechCrunch\",\"isPartOf\":{\"@id\":\"https://techcrunch.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/#primaryimage\"},\"image\":{\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/#primaryimage\"},\"thumbnailUrl\":\"https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg\",\"datePublished\":\"2026-10-05T14:35:09+00:00\",\"dateModified\":\"2026-10-05T16:46:56+00:00\",\"description\":\"Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.\",\"breadcrumb\":{\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/#primaryimage\",\"url\":\"https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg\",\"contentUrl\":\"https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg\",\"width\":2121,\"height\":1414,\"caption\":\"AI agent concept with robot inside a laptop with a voice bubble on red background.\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://techcrunch.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://techcrunch.com/#website\",\"url\":\"https://techcrunch.com/\",\"name\":\"TechCrunch\",\"description\":\"Startup and Technology News\",\"publisher\":{\"@id\":\"https://techcrunch.com/#organization\"},\"alternateName\":\"TC\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://techcrunch.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://techcrunch.com/#organization\",\"name\":\"TechCrunch\",\"alternateName\":\"TC\",\"url\":\"https://techcrunch.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/#/schema/logo/image/\",\"url\":\"https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200\",\"contentUrl\":\"https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200\",\"width\":1200,\"height\":1200,\"caption\":\"TechCrunch\"},\"image\":{\"@id\":\"https://techcrunch.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/techcrunch\",\"https://x.com/TechCrunch\",\"https://mstdn.social/@TechCrunch\",\"https://bsky.app/profile/techcrunch.com\",\"https://www.threads.net/@techcrunch\"]},{\"@type\":\"Person\",\"@id\":\"https://techcrunch.com/#/schema/person/image/162a0008e3d8aeb1ffa374a2adf00450\",\"name\":\"Russell Brandom\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/#/schema/person/image/08498da76d8645fe41a0e7df21026282\",\"url\":\"https://techcrunch.com/wp-content/uploads/2025/05/russell-e1755718978143.jpg?w=110\",\"contentUrl\":\"https://techcrunch.com/wp-content/uploads/2025/05/russell-e1755718978143.jpg?w=110\",\"width\":110,\"height\":150,\"caption\":\"Russell Brandom\"},\"description\":\"Russell Brandom has been covering the tech industry since 2012, with a focus on platform policy and emerging technologies. He previously worked at The Verge and Rest of World, and has written for Wired, The Awl and MIT's Technology Review. He can be reached at russell.brandom@techcrunch.com or on Signal at 412-401-5489.\",\"url\":\"https://techcrunch.com/author/russell-brandom/\"}]}</script>"
+    ],
+    "checkedAt": "2026-10-06T08:34:16.063301+08:00",
+    "textFile": "scratch\\am-20261006\\briefs-a2.txt",
+    "publishedHKT": "2026-10-05T22:35:09+08:00",
+    "withinWindow": true
+   },
+   {
+    "key": "a3",
+    "url": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+    "status": 200,
+    "og": "https://the-decoder.com/wp-content/uploads/2026/10/rho1_images-1200x675.png",
+    "pub": "2026-10-05T18:26:05+00:00",
+    "mod": "2026-10-05T18:28:06+00:00",
+    "jsonld": [
+     "<script class=\"yoast-schema-graph\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"NewsArticle\",\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/#article\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/\"},\"author\":{\"name\":\"Matthias Bastian\",\"@id\":\"https://the-decoder.com/#/schema/person/f5278ecf79b4566467d86133ece0857c\"},\"headline\":\"Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model\",\"datePublished\":\"2026-10-05T18:26:05+00:00\",\"dateModified\":\"2026-10-05T18:28:06+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/\"},\"wordCount\":186,\"commentCount\":0,\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"image\":{\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/10/rho1_images.png\",\"keywords\":[\"Robotics\",\"Robots\",\"World models\"],\"articleSection\":[\"AI research\",\"Artificial Intelligence\",\"Short News\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/#respond\"]}],\"copyrightYear\":\"2026\",\"copyrightHolder\":{\"@id\":\"https://the-decoder.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/\",\"url\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/\",\"name\":\"Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/#primaryimage\"},\"image\":{\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/10/rho1_images.png\",\"datePublished\":\"2026-10-05T18:26:05+00:00\",\"dateModified\":\"2026-10-05T18:28:06+00:00\",\"description\":\"Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fraction of the compute today's top models need. Instead of routing tasks to specialized systems, Rho-1 runs all modalities as tokens in one shared context window.\",\"breadcrumb\":{\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/#primaryimage\",\"url\":\"https://the-decoder.com/wp-content/uploads/2026/10/rho1_images.png\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2026/10/rho1_images.png\",\"width\":2048,\"height\":1152},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https://the-decoder.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://the-decoder.com/#website\",\"url\":\"https://the-decoder.com/\",\"name\":\"The Decoder\",\"description\":\"AI, Menschen, Wirtschaft\",\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://the-decoder.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://the-decoder.com/#organization\",\"name\":\"THE-DECODER.com\",\"url\":\"https://the-decoder.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/logo/image/\",\"url\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"width\":600,\"height\":180,\"caption\":\"THE-DECODER.com\"},\"image\":{\"@id\":\"https://the-decoder.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/TheDecoderDE/\",\"https://x.com/TheDecoderEN\",\"https://www.reddit.com/r/TheDecoder/\",\"https://discord.gg/8VKkHAacn8\",\"https://www.linkedin.com/company/the-decoder-en/\"]},{\"@type\":\"Person\",\"@id\":\"https://the-decoder.com/#/schema/person/f5278ecf79b4566467d86133ece0857c\",\"name\":\"Matthias Bastian\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/person/image/\",\"url\":\"/resources/images/avatar_matthias_bastian.jpg\",\"contentUrl\":\"/resources/images/avatar_matthias_bastian.jpg\",\"caption\":\"Matthias Bastian\"},\"description\":\"Matthias is the co-founder and publisher of THE DECODER, exploring how AI is fundamentally changing the relationship between humans and computers.\",\"sameAs\":[\"https://www.linkedin.com/in/matthias-bastian-128b71b1/\"],\"url\":\"https://the-decoder.com/author/matthias-bastian/\"}]}</script>"
+    ],
+    "checkedAt": "2026-10-06T08:34:16.556261+08:00",
+    "textFile": "scratch\\am-20261006\\briefs-a3.txt",
+    "publishedHKT": "2026-10-06T02:26:05+08:00",
+    "withinWindow": true
+   },
+   {
+    "key": "a4",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai",
+    "status": 200,
+    "og": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791242608.jpg?resize=1918%2C1080&quality=80",
+    "pub": "2026-10-05T23:23:47Z",
+    "mod": null,
+    "jsonld": [
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@type\":\"NewsMediaOrganization\",\"@id\":\"https://www.aljazeera.com#Organization\",\"foundingDate\":\"2006-11-15\",\"name\":\"Al Jazeera\",\"url\":\"https://www.aljazeera.com\",\"logo\":\"https://www.aljazeera.com/images/logo_aje.png\",\"sameAs\":[\"https://www.facebook.com/aljazeera\",\"https://twitter.com/ajenglish\",\"https://www.youtube.com/aljazeeraenglish\",\"https://www.instagram.com/aljazeeraenglish/?hl=en\",\"https://bsky.app/profile/aljazeera.com\",\"https://www.tiktok.com/@aljazeeraenglish\"],\"parentOrganization\":{\"@type\":\"Organization\",\"name\":\"Al Jazeera Media Network\",\"alternateName\":\"شبكة الجزيرة الإعلامية\"},\"@context\":\"https://schema.org\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org/\",\"@type\":\"WebPage\",\"name\":\"Whistleblower warns that humans don’t control AI\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".article-header\"]},\"url\":\"https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Whistleblower warns that humans don’t control AI\",\"uploadDate\":\"2026-10-05T23:23:47Z\",\"description\":\"Former Anthropic researcher Jacob Coxon warns that AI companies ‘don’t fully control’ their models.\",\"publisher\":{\"@id\":\"https://www.aljazeera.com#Organization\"},\"embedUrl\":\"https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.html?videoId=6406330438112\",\"duration\":\"PT0H0M57S\",\"thumbnailUrl\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/image-1791242608.jpg?resize=1918%2C1080&quality=80\"}</script>"
+    ],
+    "checkedAt": "2026-10-06T08:34:16.107328+08:00",
+    "textFile": "scratch\\am-20261006\\briefs-a4.txt",
+    "publishedHKT": "2026-10-06T07:23:47+08:00",
+    "withinWindow": true
+   },
+   {
+    "key": "w1",
+    "url": "https://www.iranintl.com/en/202610050957",
+    "status": 200,
+    "og": "https://i.iranintl.com/images/rdk9umy0/production/b58c8d4c3e0406413aa700148d5b50dfd794dc93-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "pub": "2026-10-05T22:08:27.971Z",
+    "mod": "2026-10-05T22:10:12Z",
+    "jsonld": [
+     "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Iran says US talks ‘meaningless’ as third tanker hit near Hormuz\",\"description\":\"Iranian President Masoud Pezeshkian said Monday that talks with the United States were meaningless, even as President Donald Trump remained open to direct negotiations, while a third tanker in two days was struck near the Strait of Hormuz.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.iranintl.com/en/202610050957\"},\"datePublished\":\"2026-10-05T22:08:27.971Z\",\"dateModified\":\"2026-10-05T22:10:12Z\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Iran International\",\"url\":\"https://www.iranintl.com/en\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.iranintl.com/en/logo.png\"}},\"image\":\"https://i.iranintl.com/images/rdk9umy0/production/b58c8d4c3e0406413aa700148d5b50dfd794dc93-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=58&fit=max&auto=format\",\"articleSection\":\"Mideast Crisis\",\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"common.home\",\"item\":\"https://www.iranintl.com/en\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mideast Crisis\",\"item\":\"https://www.iranintl.com/en/category/mideast-crisis\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Iran says US talks ‘meaningless’ as third tanker hit near Hormuz\"}]},\"inLanguage\":\"en-US\"}</script>"
+    ],
+    "checkedAt": "2026-10-06T08:34:16.084963+08:00",
+    "textFile": "scratch\\am-20261006\\briefs-w1.txt",
+    "image": {
+     "status": 200,
+     "mime": "image/jpeg",
+     "bytes": 39409,
+     "magic": "ffd8ffdb0043000b07080a08070b0a09",
+     "format": "JPEG",
+     "size": [
+      1200,
+      630
+     ],
+     "ogExact": true
+    },
+    "publishedHKT": "2026-10-06T06:08:27.971000+08:00",
+    "withinWindow": true
+   },
+   {
+    "key": "w2",
+    "url": "https://www.iranintl.com/en/202610058124",
+    "status": 200,
+    "og": "https://i.iranintl.com/images/rdk9umy0/production/a8e4a97191612f4c4edb3ebc82a6608355286836-4000x1836.png?rect=234,0,3497,1836&w=1200&h=630&q=66&fit=max&auto=format",
+    "pub": "2026-10-05T16:00:00.000Z",
+    "mod": "2026-10-05T19:08:52Z",
+    "jsonld": [
+     "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Saudi Arabia, Turkey and Pakistan activate defense pact over Houthi attacks\",\"description\":\"Saudi Arabia, Turkey and Pakistan activated collective deterrence measures Monday and agreed to rapidly deploy forces and military capabilities to the kingdom, as Saudi-backed Yemeni troops advanced against the Iran-backed Houthis.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.iranintl.com/en/202610058124\"},\"datePublished\":\"2026-10-05T16:00:00.000Z\",\"dateModified\":\"2026-10-05T19:08:52Z\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Iran International\",\"url\":\"https://www.iranintl.com/en\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.iranintl.com/en/logo.png\"}},\"image\":\"https://i.iranintl.com/images/rdk9umy0/production/a8e4a97191612f4c4edb3ebc82a6608355286836-4000x1836.png?rect=234,0,3497,1836&w=1200&h=630&q=58&fit=max&auto=format\",\"articleSection\":\"Mideast Crisis\",\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"common.home\",\"item\":\"https://www.iranintl.com/en\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mideast Crisis\",\"item\":\"https://www.iranintl.com/en/category/mideast-crisis\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Saudi Arabia, Turkey and Pakistan activate defense pact over Houthi attacks\"}]},\"inLanguage\":\"en-US\"}</script>"
+    ],
+    "checkedAt": "2026-10-06T08:34:16.085748+08:00",
+    "textFile": "scratch\\am-20261006\\briefs-w2.txt",
+    "publishedHKT": "2026-10-06T00:00:00+08:00",
+    "withinWindow": true
+   },
+   {
+    "key": "w3",
+    "url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
+    "status": 200,
+    "og": "https://www.aljazeera.com/wp-content/uploads/2026/10/AA-20261005-42659451-42659450-TURKISH_FOREIGN_MINISTER_HAKAN_FIDAN_IN_RIYADH-1791227857.jpg?resize=1920%2C1440",
+    "pub": "2026-10-05T18:32:04Z",
+    "mod": "2026-10-06T00:26:45Z",
+    "jsonld": [
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@type\":\"NewsMediaOrganization\",\"@id\":\"https://www.aljazeera.com#Organization\",\"foundingDate\":\"2006-11-15\",\"name\":\"Al Jazeera\",\"url\":\"https://www.aljazeera.com\",\"logo\":\"https://www.aljazeera.com/images/logo_aje.png\",\"sameAs\":[\"https://www.facebook.com/aljazeera\",\"https://twitter.com/ajenglish\",\"https://www.youtube.com/aljazeeraenglish\",\"https://www.instagram.com/aljazeeraenglish/?hl=en\",\"https://bsky.app/profile/aljazeera.com\",\"https://www.tiktok.com/@aljazeeraenglish\"],\"parentOrganization\":{\"@type\":\"Organization\",\"name\":\"Al Jazeera Media Network\",\"alternateName\":\"شبكة الجزيرة الإعلامية\"},\"@context\":\"https://schema.org\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"mainEntityOfPage\":\"https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures\",\"headline\":\"Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact\",\"description\":\"The three countries agree to trigger collective deterrence measures in response to ‘heinous attacks’ by Yemen’s Houthis.\",\"author\":{\"@type\":\"Person\",\"name\":\"Al Jazeera Staff\",\"url\":\"https://www.aljazeera.com/author/al_jazeera_staff_150119130629458\"},\"publisher\":{\"@id\":\"https://www.aljazeera.com#Organization\"},\"image\":[{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/AA-20261005-42659451-42659450-TURKISH_FOREIGN_MINISTER_HAKAN_FIDAN_IN_RIYADH-1791227857.jpg?resize=1920%2C1440\",\"height\":1440,\"width\":1920},{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/AA-20261005-42659451-42659450-TURKISH_FOREIGN_MINISTER_HAKAN_FIDAN_IN_RIYADH-1791227857.jpg?resize=1920%2C1080\",\"height\":1080,\"width\":1920},{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/AA-20261005-42659451-42659450-TURKISH_FOREIGN_MINISTER_HAKAN_FIDAN_IN_RIYADH-1791227857.jpg?resize=1800%2C1800\",\"height\":1800,\"width\":1800},{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/AA-20261005-42659451-42659450-TURKISH_FOREIGN_MINISTER_HAKAN_FIDAN_IN_RIYADH-1791227857.jpg?resize=1200%2C630\",\"height\":630,\"width\":1200}],\"datePublished\":\"2026-10-05T18:32:04Z\",\"dateModified\":\"2026-10-06T00:26:45Z\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org/\",\"@type\":\"WebPage\",\"name\":\"Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".article-header\"]},\"url\":\"https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact\",\"uploadDate\":\"2026-10-05T18:32:04Z\",\"description\":\"The three countries agree to trigger collective deterrence measures in response to ‘heinous attacks’ by Yemen’s Houthis.\",\"publisher\":{\"@id\":\"https://www.aljazeera.com#Organization\"},\"embedUrl\":\"https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.html?videoId=6406312255112\",\"duration\":\"PT0H0M20S\",\"thumbnailUrl\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/AA-20261005-42659451-42659450-TURKISH_FOREIGN_MINISTER_HAKAN_FIDAN_IN_RIYADH-1791227857.jpg?resize=1920%2C1440\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"News\",\"item\":\"https://www.aljazeera.com/news/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"US-Israel war on Iran\",\"item\":\"https://www.aljazeera.com/tag/israel-iran-conflict/\"}]}</script>"
+    ],
+    "checkedAt": "2026-10-06T08:34:16.131342+08:00",
+    "textFile": "scratch\\am-20261006\\briefs-w3.txt",
+    "publishedHKT": "2026-10-06T02:32:04+08:00",
+    "withinWindow": true
+   }
+  ],
+  "wordpress": {
+   "decoder": {
+    "status": 200,
+    "body": "[{\"date\":\"2026-10-05T20:59:19\",\"date_gmt\":\"2026-10-05T18:59:19\",\"link\":\"https:\\/\\/the-decoder.com\\/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor\\/\"},{\"date\":\"2026-10-05T20:26:05\",\"date_gmt\":\"2026-10-05T18:26:05\",\"link\":\"https:\\/\\/the-decoder.com\\/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model\\/\"},{\"date\":\"2026-10-05T19:32:42\",\"date_gmt\":\"2026-10-05T17:32:42\",\"link\":\"https:\\/\\/the-decoder.com\\/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide\\/\"},{\"date\":\"2026-10-05T18:37:08\",\"date_gmt\":\"2026-10-05T16:37:08\",\"link\":\"https:\\/\\/the-decoder.com\\/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds\\/\"},{\"date\":\"2026-10-05T18:00:12\",\"date_gmt\":\"2026-10-05T16:00:12\",\"link\":\"https:\\/\\/the-decoder.com\\/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo\\/\"}]"
+   },
+   "tc": {
+    "status": 200,
+    "body": "[{\"date\":\"2026-10-05T14:54:01\",\"date_gmt\":\"2026-10-05T21:54:01\",\"link\":\"https:\\/\\/techcrunch.com\\/2026\\/10\\/05\\/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years\\/\"},{\"date\":\"2026-10-05T13:36:48\",\"date_gmt\":\"2026-10-05T20:36:48\",\"link\":\"https:\\/\\/techcrunch.com\\/2026\\/10\\/05\\/openai-will-start-watermarking-chatgpts-text-in-the-eu\\/\"},{\"date\":\"2026-10-05T13:24:09\",\"date_gmt\":\"2026-10-05T20:24:09\",\"link\":\"https:\\/\\/techcrunch.com\\/2026\\/10\\/05\\/etched-fields-funding-offers-at-40b-valuation-sources-say\\/\"},{\"date\":\"2026-10-05T12:38:07\",\"date_gmt\":\"2026-10-05T19:38:07\",\"link\":\"https:\\/\\/techcrunch.com\\/2026\\/10\\/05\\/after-factorys-public-spat-with-khosla-menlo-proudly-invests\\/\"},{\"date\":\"2026-10-05T12:33:53\",\"date_gmt\":\"2026-10-05T19:33:53\",\"link\":\"https:\\/\\/techcrunch.com\\/2026\\/10\\/05\\/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost\\/\"}]"
+   }
+  }
+ },
+ "editorial": {
+  "hk": {
+   "checkedAt": "2026-10-06T08:36:22.280917+08:00",
+   "counts": {
+    "hks": 8,
+    "hkl": 8
+   },
+   "blockingIssues": [],
+   "images": {
+    "count": 16,
+    "allArticleHttp200": true,
+    "allImageHttp200": true,
+    "allDecoded": true,
+    "allExactOg": true,
+    "visualMontage": "hk-montage.jpg"
+   },
+   "heat": {
+    "googleTrendsHttp": 200,
+    "hk01HotHttp": 200,
+    "keywords": [
+     "nba",
+     "一 粥 麵",
+     "食品安全",
+     "france vs belgium",
+     "法國對比利時",
+     "丁錫全醫生",
+     "蔡天鳳",
+     "乒乓 球",
+     "hkexpress"
+    ],
+    "matchedSelectedCards": [],
+    "note": "食品安全熱度涉及銀鱈魚汞爭議，並非北角蝦仁；無直接可靠配對，未標熱卡。"
+   },
+   "dedup": [
+    {
+     "card": "啟德醫院照X光暫須轉往他院",
+     "decision": "留",
+     "reason": "上一版只報首日環境及路牌；本篇22:50新披露X光須轉院及院方短期同院檢查安排，具實質服務變更。"
+    },
+    {
+     "card": "七欖港隊金銅牌健兒返港凱旋",
+     "decision": "留",
+     "reason": "10月3日奪金已有稿，本篇10月5日23:15新報昨晚男女七欖隊抵港，非重報奪金；10月4日返港為壁球及單車隊，人物不同。"
+    },
+    {
+     "card": "蔡天鳳案四篇 Dimsum 夜稿及 HK01 朝早回顧",
+     "decision": "剔除",
+     "reason": "同日庭審改寫或開案同意案情回顧，未確認具新增實質事實，不能硬補配額。"
+    }
+   ],
+   "limits": [
+    "太安樓翻新消息依 Dimsum 報道所載管理告示，未自行接觸管理處；撮要明示二手來源。",
+    "部分來源引用政府部門回應或提供圖片，但新聞來源為香港01或星島原文，沒有直接讀取政府網站。",
+    "消防約章為星島專訪採訪稿；自願約章並非新增強制規定。",
+    "開放式新盤年檢成本為新刊採訪，並非今日新法律。"
+   ],
+   "trackUpdates": [
+    {
+     "name": "港·啟德醫院分階段啟用",
+     "status": "服務調整",
+     "progress": "香港01 5日22:50報道，家庭醫學診所X光檢查暫需轉往他院；院方稱短期內安排同座大樓檢查，減少病人往返。",
+     "url": "https://www.hk01.com/article/60396619"
+    }
+   ],
+   "newTracks": [
+    {
+     "row": [
+      "港·北角蝦仁禁用獸藥",
+      "回收跟進",
+      "香港01 5日21:56報道，北角去腸白蝦仁樣本含呋喃唑酮代謝物；受影響批次停售、下架及回收，調查繼續。"
+     ],
+     "keys": [
+      "北角蝦仁",
+      "呋喃唑酮",
+      "去腸白蝦仁"
+     ]
+    }
+   ],
+   "formalFilesChanged": false
+  },
+  "world": {
+   "counts": {
+    "cn": 8,
+    "us": 3,
+    "tw": 3,
+    "war": 3
+   },
+   "blockers": [],
+   "notes": [
+    "ETtoday requests/curl 均連線中斷；LTN RSS可讀但單篇403；NOWnews403，改用UDN與大紀元。",
+    "排除大紀元台股與訂房稿：原文published time為09:42/09:46，未來兼超09:30硬窗。",
+    "中尼科考與上一版相同，排除。",
+    "摩卡港城及胡塞否認海峽控制權為新進展，上一版僅杜巴布機場。",
+    "孫雯案新增洗錢罪為九月背景；本版只呈現十月五日法官健康及動議指示。",
+    "日企統計為六月數據、上周報告的新刊綜合；日月潭為九月底統計最新報道，未稱今日新增四萬尾。",
+    "美方星期一拒絕評論駐台專家為新回應，未將週末爆料當已落實。",
+    "不把油輪攻擊歸責伊朗，原文UKMTO未確認施襲者。"
+   ],
+   "trackSuggestions": [
+    {
+     "match": "孫雯",
+     "status": "審前程序",
+     "progress": "10-06：美聯邦法官要求辯方十四天內釐清健康及提審安排；明年一月十八日重審能否維持待定。"
+    },
+    {
+     "match": "美伊",
+     "status": "衝突升級",
+     "progress": "10-06：霍爾木茲附近兩日三油輪遇襲，施襲者未確認；也門政府軍稱奪摩卡，胡塞否認海峽控制權易手。"
+    }
+   ],
+   "newTracks": [
+    {
+     "name": "中·重慶盜礦七人溺亡案",
+     "status": "調查中",
+     "progress": "10-06：警方指封閉礦洞漲水七人溺亡，拘二十一人涉盜礦，案件仍在調查。",
+     "keys": [
+      "重慶廢礦洞",
+      "重慶.*盜礦",
+      "酉陽.*盜礦"
+     ]
+    },
+    {
+     "name": "美·孫雯涉中共代理案",
+     "status": "審前程序",
+     "progress": "10-06：法官要求十四天內釐清孫雯健康及提審安排，明年一月十八日重審能否維持待定。",
+     "keys": [
+      "孫雯",
+      "Linda Sun"
+     ]
+    }
+   ],
+   "visualReview": {
+    "checkedAt": "2026-10-06T08:38:05.598945+08:00",
+    "count": 17,
+    "decoded": 17,
+    "inspected": "world-montage.jpg",
+    "notes": [
+     "日企原文og為大紀元標誌，已核實非自行補圖。",
+     "佛州校車圖片為原文示意圖，未聲稱事故現場。",
+     "中國對伊朗贸易圖片為原文地鐵資料圖片；伊朗候選國防部長用原文議會資料圖。",
+     "重慶圖為原文警方通報；其他17圖與原文og完全一致。"
+    ]
+   }
+  },
+  "briefs": {
+   "ai": {
+    "characters": 401,
+    "sources": 4,
+    "media": 3,
+    "allWindow": true,
+    "sameURLAsPrevious": [],
+    "textRewritten": true,
+    "illustrationOriginalOgExact": true,
+    "imageDecodedAndVisuallyViewed": true
+   },
+   "warb": {
+    "characters": 353,
+    "sources": 3,
+    "media": 2,
+    "allWindow": true,
+    "sameURLAsPrevious": [],
+    "textRewritten": true,
+    "illustrationOriginalOgExact": true,
+    "imageDecodedAndVisuallyViewed": true
+   },
+   "checkedAt": "2026-10-06T08:35:50.677755+08:00",
+   "blockingIssues": [],
+   "limitations": [
+    "AI Al Jazeera 為57秒單篇短片；只使用原頁明示文字摘要，沒有聲稱讀取完整逐字稿。",
+    "Iran International 抽取 article 元素只得導言；另已讀全頁中第一篇正文，至 Most Viewed 為止，不使用推薦文章冒充該篇。",
+    "水印17%屬公司內部指定測試；不是所有題材的通用偵測率。",
+    "agent fleet 為初步研究，沒有證據指騰訊指揮或惡意入侵。",
+    "油輪攻擊歸責未定；部署承諾未等同部隊已抵達；政府軍戰果保留聲稱與反駁。"
+   ],
+   "incidentHackLawsuitRegulationSearch": [
+    "搜尋 AI incident／hack／lawsuit，查閱 TechCrunch hacking 與 Ars 訴訟線索；沒有照抄上版加州傳票，選用窗內新 agent fleet 初步研究及水印監管。"
+   ],
+   "visualNotes": {
+    "ai": "彩色紙張及重複AI功課句子的示意拼貼，原文標明 GPT-Image-2 生成；非真實事件照片。",
+    "warb": "日出港灣船隻，原文圖片說明9月28日 Bandar Abbas 資料照片；非新油輪襲擊照片。"
+   }
+  },
+  "rootVisualReview": "主編已檢視root-montage五張圖及有線510519原圖，皆可顯示且與原文一致。",
+  "dedup": [
+   "集誌社租金成本追問與上一版十四居屋登記為不同新事實。",
+   "也門摩卡港城與上一版杜巴布機場是不同地點及新增戰果說法；保留胡塞反駁。",
+   "啟德X光轉院與復康巴士公共交通安排分別處理不同服務；上一版只有開診、路牌及金鐘實測，未報今晨運署回應。"
+  ],
+  "falsePositive": "復康巴士可直接登車與港車北上無關；原撮要免預約誤配港車北上關鍵詞，改用等義可直接登車，未改規則、關鍵詞或舊線索進展。",
+  "rootLimits": [
+   "三篇經濟均為海外財經來源，沒有當作香港股市收市；新加坡私銀為六月至八月數據的新發布統計。",
+   "利益申報為報道指閉門提醒，未宣稱有議員違規或新規例。",
+   "復康巴士延伸至醫院未交代實施日期，不等於今天才實施或已延後尾班。",
+   "孫雯洗錢指控為九月背景，本版呈現10月5日健康及提審安排新指示；保留2027年1月18日既定重審節點。"
+  ]
+ },
+ "schedule": {
+  "settings": {
+   "amView": "10:00",
+   "pmView": "22:00"
+  },
+  "tasks": [
+   {
+    "id": "automation",
+    "status": "ACTIVE",
+    "timeHKT": "08:30"
+   },
+   {
+    "id": "automation-2",
+    "status": "ACTIVE",
+    "timeHKT": "20:30"
+   },
+   {
+    "id": "automation-4",
+    "status": "ACTIVE",
+    "timeHKT": "21:45"
+   }
+  ],
+  "changed": false
+ }
+}
