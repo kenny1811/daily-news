@@ -1,0 +1,2402 @@
+{
+ "edition": "2026-10-07/am",
+ "publishedAtHKT": "2026-10-07 08:39:53",
+ "previousEdition": "2026-10-06/pm",
+ "groups": {
+  "hks": 8,
+  "hkl": 8,
+  "hke": 3,
+  "hkp": 3,
+  "cn": 8,
+  "us": 3,
+  "tw": 3,
+  "war": 3
+ },
+ "tracks": {
+  "previous": 117,
+  "current": 126,
+  "updates": {
+   "港·立法會議員薪酬檢討": [
+    "評論再議改革",
+    "香港01主筆室7日評論議席數目、薪酬及議政質素，提出全職或義務制等討論；屬媒體意見，未有削席或薪酬修訂決定。"
+   ],
+   "🔥 美伊戰爭（2026）": [
+    "航運遇襲外交僵持",
+    "香港01 7日報道和平號油輪在阿曼附近遇襲12船員傷、11人印度籍，攻擊者未確認；英費爾福德基地恐襲案新增22歲男被捕，累計七人而前六人保釋。Iran International分析美伊拒在封鎖與軍事壓力下妥協、外交仍未中斷；涉伊朗策劃襲擊仍未裁定。 Iran International今晨報道外交立場繼續收緊，評論警告誤判風險；Trump洛杉磯言論引加州官員批評，白宮澄清並非鼓勵攻擊。Al Jazeera新分析指也門政府軍協調改善但進展有限，胡塞仍向Taiz施壓；未證全面逆轉。"
+   ],
+   "美中·川習會": [
+    "三方會晤未敲定",
+    "聯合早報7日引路透報道，俄方倡在11月18至19日深圳APEC期間安排普京、特朗普及習近平三方會晤，構想仍初步未敲定；不是已確認的新峰會。"
+   ]
+  },
+  "new": [
+   {
+    "row": [
+     "港·西九文化區財政及招標",
+     "待二〇二七年招標",
+     "有線6日晚報道2025/26基本赤字料9.98億元；管理局料2027上半年住宅招標，一筆過216億元撥款預計本財政年度用完，後續融資及收入待觀察。"
+    ],
+    "keys": [
+     "西九.*(?:赤字|招標|財政)",
+     "西九演藝中心"
+    ]
+   },
+   {
+    "row": [
+     "港·富泰邨女童啤酒事件",
+     "警方學校跟進",
+     "香港01 7日03:27報道，警方接獲學校報案調查6日晚女童拎啤酒事件；校方社工與老師已介入，尚未有虐兒罪名裁定。"
+    ],
+    "keys": [
+     "富泰邨.*女童",
+     "女童.*啤酒"
+    ]
+   },
+   {
+    "row": [
+     "港·東涌綫十一月提早收車",
+     "十一月廿八日施工",
+     "香港01 7日00:50報道，11月28日晚東涌至欣澳約23時提早兩小時收車，進行第三次波口安裝，設免費接駁巴士；其餘路段正常。"
+    ],
+    "keys": [
+     "東涌.*欣澳.*收車",
+     "東涌.*十一月.*收車",
+     "東涌綫.*11.28"
+    ]
+   },
+   {
+    "row": [
+     "港·HKBN舊數據機QR碼風險",
+     "連結已被封鎖",
+     "Dimsum 6日21:41報道，2021年8月前安裝一批數據機QR碼導往可疑頁面；供應商稱第三方網站結業後域名轉手、並非黑客，已按警方要求封鎖連結。"
+    ],
+    "keys": [
+     "寬頻.*(?:QR|二維碼)",
+     "數據機.*QR",
+     "HKBN.*QR"
+    ]
+   },
+   {
+    "row": [
+     "港·安柏苑外牆修繕",
+     "爭取十月中完成",
+     "星島7日08:00新刊訪問業主披露安柏苑外牆起泡滲漏；房署回覆指已完成逾八成修繕，承建商爭取10月中前完成，完工後再核實。"
+    ],
+    "keys": [
+     "安柏苑",
+     "安達臣.*外牆"
+    ]
+   },
+   {
+    "row": [
+     "港·城巴五八一不雅行為案",
+     "十一月待覆核",
+     "Dimsum 6日深夜報道，六十一歲被告表示擬不認罪，11月12日答辯及審前覆核，暫定11月24日開審四日，續准保釋；指控尚待裁斷。"
+    ],
+    "keys": [
+     "巴士.*不雅",
+     "城巴.*(?:公眾體統|581)",
+     "public decency"
+    ]
+   },
+   {
+    "row": [
+     "台·台南鐵路地下化首階段",
+     "十六日晚切換",
+     "自由時報7日報道10月16日晚22時起分階段封鎖切換軌道，12列次受影響並設公路接駁；17日06:29首班地下化列車往花蓮，仍屬待實施安排。"
+    ],
+    "keys": [
+     "台南.*地下化",
+     "台南.*切換.*軌道"
+    ],
+    "futureDate": "2026-10-16/2026-10-17"
+   },
+   {
+    "row": [
+     "台·陽信銀行疑詐貸案",
+     "經理交保候查",
+     "聯合新聞網7日報道陽信銀前古亭分行經理楊宜蓁涉放水兩宗逾2億台幣貸款，凌晨以50萬元交保，其他涉案人亦交保或請回；尚未定罪。"
+    ],
+    "keys": [
+     "陽信.*詐貸",
+     "陽信.*經理.*交保"
+    ],
+    "futureDate": null
+   },
+   {
+    "row": [
+     "美·沖繩駐軍涉劫殺及宵禁",
+     "九日起三十天限制",
+     "香港01 7日報道駐沖繩美軍因士兵涉嫌劫殺風波，下令10月9日起30天每日零時至5時禁外出，7日中午至9日中午停日常勤務及禁酒；刑事責任待司法裁決。"
+    ],
+    "keys": [
+     "沖繩.*宵禁",
+     "駐沖繩美軍.*三十天",
+     "駐沖繩美軍.*30天"
+    ],
+    "futureDate": "2026-10-09"
+   }
+  ],
+  "thresholdReview": [],
+  "retired": []
+ },
+ "selfcheck": {
+  "private": 0,
+  "formal": 0
+ },
+ "images": {
+  "checkedAtHKT": "2026-10-07T08:39:34.829729+08:00",
+  "images": [
+   {
+    "group": "hks",
+    "title": "屯門女童拎啤酒事件學校跟進",
+    "url": "https://www.hk01.com/article/60396994",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355918444236800348610.jpeg/nqL1kLophWej5FTPKrwa63lsG2WT8cJXJ2xr2Cdsa9g",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355918444236800348610.jpeg/nqL1kLophWej5FTPKrwa63lsG2WT8cJXJ2xr2Cdsa9g",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 119249,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "中環電車站爭執警方拘男子",
+    "url": "https://www.hk01.com/article/60396989",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184283891964317696587162.jpeg/D5YrfeEphY7o7Lf3Bh-miiCFTtSo2ghVgqeZfYKnmX0",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184283891964317696587162.jpeg/D5YrfeEphY7o7Lf3Bh-miiCFTtSo2ghVgqeZfYKnmX0",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 192141,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "旺角玩具店失竊警方拘男子",
+    "url": "https://www.hk01.com/article/60397020",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184405677045452800810937.jpeg/3OZBYcQGPHInOcYhscl_XShWME-C8IkOU1_n0FNf59A?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184405677045452800810937.jpeg/3OZBYcQGPHInOcYhscl_XShWME-C8IkOU1_n0FNf59A?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 101345,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "機場私家車疑逆線撞的士",
+    "url": "https://www.hk01.com/article/60397023",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184399836238057472160352.jpeg/nWIVpA7ZgqGCVqcd1uGeuus1HanGXaiy-ULy6PlC8ug?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184399836238057472160352.jpeg/nWIVpA7ZgqGCVqcd1uGeuus1HanGXaiy-ULy6PlC8ug?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 116499,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "界限街單車與的士相撞一傷",
+    "url": "https://www.hk01.com/article/60397014",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184361010392207360052198.jpeg/YrBjtTmKfnRcKBM3Q_kNcdeXQ7Earjl1G9ICkyHSApM?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184361010392207360052198.jpeg/YrBjtTmKfnRcKBM3Q_kNcdeXQ7Earjl1G9ICkyHSApM?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 173703,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hks",
+    "title": "長沙灣劏房檢百四十二萬疑毒品",
+    "url": "https://www.hk01.com/article/60397011",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184350116115386368638079.jpeg/w50lHTxhpF4xFtEKZwH9Vivbs7JfVaN2d4GoCneBqAo?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184350116115386368638079.jpeg/w50lHTxhpF4xFtEKZwH9Vivbs7JfVaN2d4GoCneBqAo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 200391,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hks",
+    "title": "上水破非法油站檢二千二升柴油",
+    "url": "https://www.hk01.com/article/60396987",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184272307200200704810742.jpeg/18NddUqj47hi4KbJKLqDgjvUuSeaiP64idZtRInWbUQ?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184272307200200704810742.jpeg/18NddUqj47hi4KbJKLqDgjvUuSeaiP64idZtRInWbUQ?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 156873,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1065,
+    "height": 599
+   },
+   {
+    "group": "hks",
+    "title": "巴士不雅行為案被告擬不認罪",
+    "url": "https://www.dimsumdaily.hk/man-denies-public-decency-offence-on-citybus-with-trial-date-set-for-november/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/06234538/CITYBUS-581.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/06234538/CITYBUS-581.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 100838,
+    "magicHex": "52494646de8901005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 848,
+    "height": 664
+   },
+   {
+    "group": "hkl",
+    "title": "六成直資八成全日幼園加學費",
+    "url": "https://www.hk01.com/article/60396956",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184225000027066368879136.jpeg/vT6CMkWcGAuZxpAFYfWZIUvp1s_2eg9niqP-0Iqj_tA?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184225000027066368879136.jpeg/vT6CMkWcGAuZxpAFYfWZIUvp1s_2eg9niqP-0Iqj_tA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 133347,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "廣福邨停水恢復升降機待修",
+    "url": "https://www.hk01.com/article/60396980",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184261654443986944206435.png/_lPNwXHG-oyOPY4_sLD0CrLl7j13Fc4ir-VAE6_lQBM?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184261654443986944206435.png/_lPNwXHG-oyOPY4_sLD0CrLl7j13Fc4ir-VAE6_lQBM?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 156974,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "東涌至欣澳十一月底提早收車",
+    "url": "https://www.hk01.com/article/60396997",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20240710/887774522730614784690324.jpeg/Mv4A8AWrwUO0Si2ab3umZPRiqdXBhYfazG2n-eZtp_k?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20240710/887774522730614784690324.jpeg/Mv4A8AWrwUO0Si2ab3umZPRiqdXBhYfazG2n-eZtp_k?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 218836,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "今日天晴乾燥最高約三十度",
+    "url": "https://www.hk01.com/article/60397002",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184385716789317632279168.jpeg/XJ9Rw6v9Tr_I_uaGf1mCZPDkdSRWMm3Krw2fsq8Nn7I?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184385716789317632279168.jpeg/XJ9Rw6v9Tr_I_uaGf1mCZPDkdSRWMm3Krw2fsq8Nn7I?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 171190,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkl",
+    "title": "寬頻數據機QR碼導往可疑網站",
+    "url": "https://www.dimsumdaily.hk/hong-kong-broadband-network-modem-qr-code-redirected-to-phishing-and-porn-site-after-domain-lapse/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/06213839/HK-modem-3-34.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/06213839/HK-modem-3-34.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 124810,
+    "magicHex": "5249464682e701005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 954,
+    "height": 748
+   },
+   {
+    "group": "hkl",
+    "title": "安達臣居屋外牆起泡滲漏剝落",
+    "url": "https://www.stheadline.com/society/3622246/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/da66221752385d30d971ffdeb46c61f4/2026-10/20261004__NEWS___0.png",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/da66221752385d30d971ffdeb46c61f4/2026-10/20261004__NEWS___0.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png; charset=UTF-8",
+    "bytes": 353397,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hkl",
+    "title": "THEi學生研AI樓宇缺陷檢測",
+    "url": "https://www.stheadline.com/edu-insights/3623175/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/lr/st_edu/e1cc8fab3fa9376ecc2020a096a3f2d9/2026-10/IMG_5327.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/lr/st_edu/e1cc8fab3fa9376ecc2020a096a3f2d9/2026-10/IMG_5327.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 145804,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676
+   },
+   {
+    "group": "hkl",
+    "title": "網民指保安誤發辭職失遣散費",
+    "url": "https://www.stheadline.com/local-topics/3623152/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/e0698bfaafd21519a961cc04c9ee30ec/2026-10/20261007_NEWS_FIRE.png",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/e0698bfaafd21519a961cc04c9ee30ec/2026-10/20261007_NEWS_FIRE.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png; charset=UTF-8",
+    "bytes": 348942,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "hke",
+    "title": "西九年度基本赤字料近十億元",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510813/%E8%A5%BF%E4%B9%9D%E8%B5%A4%E5%AD%97%E6%93%B4%E8%87%B3%E8%BF%9110%E5%84%84-%E7%AE%A1%E7%90%86%E5%B1%80%E6%8C%87%E7%82%BA%E6%BC%94%E8%97%9D%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B9%95%E6%BA%96%E5%82%99",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/07050616/TER-WKLN-BRIEF-261006-1630_frame_458.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/07050616/TER-WKLN-BRIEF-261006-1630_frame_458.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 863504,
+    "magicHex": "ffd8ffe000104a46494600010102001c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hke",
+    "title": "港經濟自由度報告續列首位",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510832/%E6%9C%AC%E6%B8%AF%E8%9F%AC%E8%81%AF%E5%85%A8%E7%90%83%E6%9C%80%E8%87%AA%E7%94%B1%E7%B6%93%E6%BF%9F%E9%AB%94-%E6%94%BF%E5%BA%9C-%E8%82%AF%E5%AE%9A%E8%87%AA%E7%94%B1%E5%B8%82%E5%A0%B4",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/07063758/FREE-ECON-261006-2300_frame_41.jpeg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/07063758/FREE-ECON-261006-2300_frame_41.jpeg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 412062,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080
+   },
+   {
+    "group": "hke",
+    "title": "標普納指創收市新高油價回穩",
+    "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-reach-record-closing-highs-as-focus-pivots-to-earnings",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/straitstimes/2ee563b78db052fc9062d2afab9e1f4f7d32aa96f3aefe6e6ddbb8bca915e898?w=1200",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/straitstimes/2ee563b78db052fc9062d2afab9e1f4f7d32aa96f3aefe6e6ddbb8bca915e898?w=1200",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 107107,
+    "magicHex": "ffd8ffdb004300050304040403050404",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   },
+   {
+    "group": "hkp",
+    "title": "國安AI學習平台推進校園應用",
+    "url": "https://www.thestandard.com.hk/news/article/344779",
+    "cardOg": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/9ba4c176f77d4ef5f6d33abd2e5c10c5/2026-10/NF261006NS063.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/9ba4c176f77d4ef5f6d33abd2e5c10c5/2026-10/NF261006NS063.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 179887,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1024,
+    "height": 683
+   },
+   {
+    "group": "hkp",
+    "title": "香港01評論議席與薪酬安排",
+    "url": "https://www.hk01.com/article/60396716",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184183617585156096512947.jpeg/gzzlWO3KZK2NPF4k-hCY0ujmcLN6BUjOan37imp9-4o?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184183617585156096512947.jpeg/gzzlWO3KZK2NPF4k-hCY0ujmcLN6BUjOan37imp9-4o?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 199632,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "hkp",
+    "title": "譚鎮國倡檢討狗隻晶片登記",
+    "url": "https://www.stheadline.com/politics/3623041/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/2dca0a8c4b367ff6aa7e1948a469a25e/2026-10/KF_LOGO_19__0.png",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/2dca0a8c4b367ff6aa7e1948a469a25e/2026-10/KF_LOGO_19__0.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png; charset=UTF-8",
+    "bytes": 450898,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "group": "cn",
+    "title": "中國據報擬推宋莉競逐世衛掌舵",
+    "url": "https://www.hk01.com/article/60397006",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20220216/570638977552355328817942.jpeg/MfDhTKrpqNFHeQhWb9cVtp9xTanfllEPp0yP2qdMj9o?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20220216/570638977552355328817942.jpeg/MfDhTKrpqNFHeQhWb9cVtp9xTanfllEPp0yP2qdMj9o?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 145996,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "cn",
+    "title": "俄方倡APEC中美俄元首會晤",
+    "url": "https://www.zaobao.com.sg/news/china/story20261007-9795797",
+    "cardOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "articleHTTP": 200,
+    "articleOg": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 16651,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 909,
+    "height": 500
+   },
+   {
+    "group": "cn",
+    "title": "法德倡快速貿易反制中歐續磋商",
+    "url": "https://www.zaobao.com.sg/news/china/story20261006-9794406",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/zaobao/91362d3638403dd41406917c89224f7b159af2314a84a513997dafcae124d01f",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/91362d3638403dd41406917c89224f7b159af2314a84a513997dafcae124d01f",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 236812,
+    "magicHex": "52494646049d03005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "cn",
+    "title": "星展料中國未來十五年均增百分三",
+    "url": "https://www.zaobao.com.sg/news/china/story20261006-9794152",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/zaobao/81250c130a4def725fb04097b5863e5cc36aaf8facc39465d99f904d84de6174",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/zaobao/81250c130a4def725fb04097b5863e5cc36aaf8facc39465d99f904d84de6174",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 125288,
+    "magicHex": "5249464660e901005745425056503820",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1023,
+    "height": 682
+   },
+   {
+    "group": "cn",
+    "title": "中國開源AI工具現蹤六百IP",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864829.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14864894-668a31017913bde1eb029a30d9960acd-663x359.png",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14864894-668a31017913bde1eb029a30d9960acd-663x359.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 160536,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 663,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "調查料中國第三季增長四點四",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864669.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2024/06/id14274036-GettyImages-2155633255-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2024/06/id14274036-GettyImages-2155633255-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 67169,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "加國智庫憂中國聯網車保安風險",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864843.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/05/id14762640-759952-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/05/id14762640-759952-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 266125,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "cn",
+    "title": "美司法部長稱優先打擊跨國鎮壓",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864778.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14864942-DSC07318-Todd-Blanche-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14864942-DSC07318-Todd-Blanche-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 143055,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "us",
+    "title": "洛杉磯機場兩客機滑行時擦撞",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864918.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2025/10/id14625372-LAX-6_JF_11212024-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2025/10/id14625372-LAX-6_JF_11212024-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 285870,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "us",
+    "title": "新澤西一家三口槍傷死亡續查",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864901.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14864910-a10ca5a32af54e0a8020d90f67abc179-700x359.png",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14864910-a10ca5a32af54e0a8020d90f67abc179-700x359.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 372095,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "us",
+    "title": "駐沖繩美軍九日起宵禁三十天",
+    "url": "https://www.hk01.com/article/60397010",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355200668798976024176.jpeg/u626QfX1m9zN69oq226ft9r1RlATxXYIDN03bgzdN24?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355200668798976024176.jpeg/u626QfX1m9zN69oq226ft9r1RlATxXYIDN03bgzdN24?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 115829,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "tw",
+    "title": "陽信銀經理涉詐貸五十萬交保",
+    "url": "https://udn.com/news/story/7321/9799380",
+    "cardOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/07/35396923.jpg&M=1&s=Y&x=224&y=81&sw=739&sh=416&exp=3600",
+    "articleHTTP": 200,
+    "articleOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/07/35396923.jpg&M=1&s=Y&x=224&y=81&sw=739&sh=416&exp=3600",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 54466,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 739,
+    "height": 416
+   },
+   {
+    "group": "tw",
+    "title": "台南鐵路十六日晚切換地下軌道",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5597903",
+    "cardOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/07/5597903_5_1.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/07/5597903_5_1.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 67595,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 800,
+    "height": 600
+   },
+   {
+    "group": "tw",
+    "title": "美企夥台廠本地生產兩款無人機",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864681.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/09/id14842249-870550-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/09/id14842249-870550-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 288125,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359
+   },
+   {
+    "group": "war",
+    "title": "阿曼附近油輪遇襲十二船員傷",
+    "url": "https://www.hk01.com/article/60397022",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184400327646908416946538.png/RHhyLsaRIVXlaygfIR-A6LKds1Fs4qT1sVgDS7FYA0s?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184400327646908416946538.png/RHhyLsaRIVXlaygfIR-A6LKds1Fs4qT1sVgDS7FYA0s?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 76632,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1209,
+    "height": 680
+   },
+   {
+    "group": "war",
+    "title": "英基地恐襲案再拘一人累計七人",
+    "url": "https://www.hk01.com/article/60397019",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260305/1106086321375416320367925.jpeg/c7s5-5-fp_Y22WAyYxU_GToAjcD6_P63Tymxkk8psZI?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260305/1106086321375416320367925.jpeg/c7s5-5-fp_Y22WAyYxU_GToAjcD6_P63Tymxkk8psZI?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 168249,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720
+   },
+   {
+    "group": "war",
+    "title": "美伊談判僵持分析憂誤判升級",
+    "url": "https://www.iranintl.com/en/202610060998",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/08350256ea02182abb23a86a1808e690a783f47b-1280x853.jpg?rect=128,100,1056,554&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/08350256ea02182abb23a86a1808e690a783f47b-1280x853.jpg?rect=128,100,1056,554&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/avif",
+    "bytes": 25125,
+    "magicHex": "0000001c667479706176696600000000",
+    "decoded": true,
+    "format": "AVIF",
+    "width": 1056,
+    "height": 554
+   },
+   {
+    "group": "ai",
+    "title": "ai",
+    "url": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+    "cardOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2-1200x670.png",
+    "articleHTTP": 200,
+    "articleOg": "https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2-1200x670.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 1704456,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 670
+   },
+   {
+    "group": "warb",
+    "title": "warb",
+    "url": "https://www.iranintl.com/en/202610060998",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/08350256ea02182abb23a86a1808e690a783f47b-1280x853.jpg?rect=128,100,1056,554&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/08350256ea02182abb23a86a1808e690a783f47b-1280x853.jpg?rect=128,100,1056,554&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/avif",
+    "bytes": 25125,
+    "magicHex": "0000001c667479706176696600000000",
+    "decoded": true,
+    "format": "AVIF",
+    "width": 1056,
+    "height": 554
+   }
+  ],
+  "failures": []
+ },
+ "sources": {
+  "hk": [
+   {
+    "group": "hks",
+    "title": "屯門女童拎啤酒事件學校跟進",
+    "url": "https://www.hk01.com/article/60396994",
+    "articleHttp": 200,
+    "originalTitle": "富泰邨女童孭爛書包苦拎兩袋啤酒惹議　父鬧廢人　學校：即時跟進",
+    "publishedRaw": "2026-10-07T03:27:56+08:00",
+    "updatedRaw": "2026-10-07T04:33:37+08:00",
+    "publishedHKT": "2026-10-07 03:27:56",
+    "updatedHKT": "2026-10-07 04:33:37",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355918444236800348610.jpeg/nqL1kLophWej5FTPKrwa63lsG2WT8cJXJ2xr2Cdsa9g",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 119249,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:26.700426+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hks",
+    "title": "旺角玩具店失竊警方拘男子",
+    "url": "https://www.hk01.com/article/60397020",
+    "articleHttp": 200,
+    "originalTitle": "旺角玩具店偷模型｜店主公開CCTV懸紅追緝　52歲男賊落網",
+    "publishedRaw": "2026-10-07T06:16:59+08:00",
+    "updatedRaw": "2026-10-07T07:31:30+08:00",
+    "publishedHKT": "2026-10-07 06:16:59",
+    "updatedHKT": "2026-10-07 07:31:30",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184405677045452800810937.jpeg/3OZBYcQGPHInOcYhscl_XShWME-C8IkOU1_n0FNf59A?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 101345,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:26.698907+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hks",
+    "title": "機場私家車疑逆線撞的士",
+    "url": "https://www.hk01.com/article/60397023",
+    "articleHttp": 200,
+    "originalTitle": "機場私家車疑逆線行駛　與車隊的士相撞　的士司機受傷送院",
+    "publishedRaw": "2026-10-07T07:12:46+08:00",
+    "updatedRaw": "2026-10-07T07:46:08+08:00",
+    "publishedHKT": "2026-10-07 07:12:46",
+    "updatedHKT": "2026-10-07 07:46:08",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184399836238057472160352.jpeg/nWIVpA7ZgqGCVqcd1uGeuus1HanGXaiy-ULy6PlC8ug?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 116499,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:26.752622+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hks",
+    "title": "界限街單車與的士相撞一傷",
+    "url": "https://www.hk01.com/article/60397014",
+    "articleHttp": 200,
+    "originalTitle": "頂級競賽公路單車界限街捱的士撞　單車男受傷送院　司機協助調查",
+    "publishedRaw": "2026-10-07T04:44:04+08:00",
+    "updatedRaw": "2026-10-07T07:37:11+08:00",
+    "publishedHKT": "2026-10-07 04:44:04",
+    "updatedHKT": "2026-10-07 07:37:11",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184361010392207360052198.jpeg/YrBjtTmKfnRcKBM3Q_kNcdeXQ7Earjl1G9ICkyHSApM?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 173703,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:26.862282+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hks",
+    "title": "長沙灣劏房檢百四萬疑毒品",
+    "url": "https://www.hk01.com/article/60397011",
+    "articleHttp": 200,
+    "originalTitle": "警重案組長沙灣劏房檢$142萬毒品　38歲女被捕　將被暫控販毒罪",
+    "publishedRaw": "2026-10-07T03:56:44+08:00",
+    "updatedRaw": "2026-10-07T03:56:46+08:00",
+    "publishedHKT": "2026-10-07 03:56:44",
+    "updatedHKT": "2026-10-07 03:56:46",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184350116115386368638079.jpeg/w50lHTxhpF4xFtEKZwH9Vivbs7JfVaN2d4GoCneBqAo?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 200391,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:26.786704+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hks",
+    "title": "上水破非法油站檢二千升柴油",
+    "url": "https://www.hk01.com/article/60396987",
+    "articleHttp": 200,
+    "originalTitle": "警反黑組聯消防破上水「鬼油站」　檢2200升柴油　檢控70歲黑幫翁",
+    "publishedRaw": "2026-10-06T23:01:21+08:00",
+    "updatedRaw": "2026-10-06T23:01:21+08:00",
+    "publishedHKT": "2026-10-06 23:01:21",
+    "updatedHKT": "2026-10-06 23:01:21",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184272307200200704810742.jpeg/18NddUqj47hi4KbJKLqDgjvUuSeaiP64idZtRInWbUQ?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 156873,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1065,
+       599
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:26.851154+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hks",
+    "title": "中環電車站爭執警方拘男子",
+    "url": "https://www.hk01.com/article/60396989",
+    "articleHttp": 200,
+    "originalTitle": "有片｜中環兩躁漢疑落電車碰撞爆衝突　一男遭按地制服　警拘一人",
+    "publishedRaw": "2026-10-06T23:02:48+08:00",
+    "updatedRaw": "2026-10-06T23:26:19+08:00",
+    "publishedHKT": "2026-10-06 23:02:48",
+    "updatedHKT": "2026-10-06 23:26:19",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184283891964317696587162.jpeg/D5YrfeEphY7o7Lf3Bh-miiCFTtSo2ghVgqeZfYKnmX0",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 192141,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:26.898618+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hks",
+    "title": "巴士不雅行為案被告否認控罪",
+    "url": "https://www.dimsumdaily.hk/man-denies-public-decency-offence-on-citybus-with-trial-date-set-for-november/",
+    "articleHttp": 200,
+    "originalTitle": "Man denies public decency offence on Citybus with trial date set for November",
+    "publishedRaw": "2026-10-06T15:47:49+00:00",
+    "updatedRaw": "2026-10-06T15:47:55+00:00",
+    "publishedHKT": "2026-10-06 23:47:49",
+    "updatedHKT": "2026-10-06 23:47:55",
+    "originalOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/06234538/CITYBUS-581.webp",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/webp",
+     "bytes": 100838,
+     "magic": "52494646de8901005745425056503858",
+     "pillow": {
+      "format": "WEBP",
+      "size": [
+       848,
+       664
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:26.960066+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hkl",
+    "title": "六成直資八成幼稚園加學費",
+    "url": "https://www.hk01.com/article/60396956",
+    "articleHttp": 200,
+    "originalTitle": "六成直資學校、八成全日制幼稚園加學費　教局：幼園學費處低水平",
+    "publishedRaw": "2026-10-06T21:18:32+08:00",
+    "updatedRaw": "2026-10-06T22:10:43+08:00",
+    "publishedHKT": "2026-10-06 21:18:32",
+    "updatedHKT": "2026-10-06 22:10:43",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184225000027066368879136.jpeg/vT6CMkWcGAuZxpAFYfWZIUvp1s_2eg9niqP-0Iqj_tA?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 133347,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:28.900228+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hkl",
+    "title": "廣福邨停水恢復升降機待修",
+    "url": "https://www.hk01.com/article/60396980",
+    "articleHttp": 200,
+    "originalTitle": "大埔廣福邨廣智樓停水停𨋢　凌晨恢復供水　升降機料明修復",
+    "publishedRaw": "2026-10-06T22:06:32+08:00",
+    "updatedRaw": "2026-10-07T00:37:08+08:00",
+    "publishedHKT": "2026-10-06 22:06:32",
+    "updatedHKT": "2026-10-07 00:37:08",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184261654443986944206435.png/_lPNwXHG-oyOPY4_sLD0CrLl7j13Fc4ir-VAE6_lQBM?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 156974,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:28.938559+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hkl",
+    "title": "東涌至欣澳十一月底提早收車",
+    "url": "https://www.hk01.com/article/60396997",
+    "articleHttp": 200,
+    "originalTitle": "東涌綫延綫｜東涌至欣澳站11.28提早2小時收車　配合安裝波口",
+    "publishedRaw": "2026-10-07T00:50:05+08:00",
+    "updatedRaw": "2026-10-07T02:00:59+08:00",
+    "publishedHKT": "2026-10-07 00:50:05",
+    "updatedHKT": "2026-10-07 02:00:59",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20240710/887774522730614784690324.jpeg/Mv4A8AWrwUO0Si2ab3umZPRiqdXBhYfazG2n-eZtp_k?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 218836,
+     "magic": "ffd8ffe000104a464946000101010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:28.845884+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hkl",
+    "title": "今日天晴乾燥最高約三十度",
+    "url": "https://www.hk01.com/article/60397002",
+    "articleHttp": 200,
+    "originalTitle": "天氣｜今日大致天晴乾燥　早上稍涼大部份地區約23度　日間約30度",
+    "publishedRaw": "2026-10-07T06:18:51+08:00",
+    "updatedRaw": "2026-10-07T06:58:53+08:00",
+    "publishedHKT": "2026-10-07 06:18:51",
+    "updatedHKT": "2026-10-07 06:58:53",
+    "originalOg": "https://cdn.hk01.com/di/media/images/dw/20261007/1184385716789317632279168.jpeg/XJ9Rw6v9Tr_I_uaGf1mCZPDkdSRWMm3Krw2fsq8Nn7I?v=w1280r16_9",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 171190,
+     "magic": "ffd8ffe000104a464946000102010048",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1280,
+       720
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:28.588772+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hkl",
+    "title": "寬頻數據機QR碼導往可疑網站",
+    "url": "https://www.dimsumdaily.hk/hong-kong-broadband-network-modem-qr-code-redirected-to-phishing-and-porn-site-after-domain-lapse/",
+    "articleHttp": 200,
+    "originalTitle": "Hong Kong Broadband Network modem QR code redirected to phishing and porn site after domain lapse - Dimsum Daily",
+    "publishedRaw": "2026-10-06T13:41:20+00:00",
+    "updatedRaw": "2026-10-06T13:41:25+00:00",
+    "publishedHKT": "2026-10-06 21:41:20",
+    "updatedHKT": "2026-10-06 21:41:25",
+    "originalOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/06213839/HK-modem-3-34.webp",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/webp",
+     "bytes": 124810,
+     "magic": "5249464682e701005745425056503858",
+     "pillow": {
+      "format": "WEBP",
+      "size": [
+       954,
+       748
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:29.230994+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hkl",
+    "title": "安達臣居屋外牆起泡滲漏剝落",
+    "url": "https://www.stheadline.com/society/3622246/",
+    "articleHttp": 200,
+    "originalTitle": "安達臣居屋入伙僅一年 外牆起泡、滲漏兼甩漆 業主失望 房署指工藝欠妥：嚴肅督促承建商修繕",
+    "publishedRaw": "2026-10-07T08:00:11+0800",
+    "updatedRaw": "2026-10-07T08:00:11+0800",
+    "publishedHKT": "2026-10-07 08:00:11",
+    "updatedHKT": "2026-10-07 08:00:11",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/da66221752385d30d971ffdeb46c61f4/2026-10/20261004__NEWS___0.png",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/png; charset=UTF-8",
+     "bytes": 353397,
+     "magic": "89504e470d0a1a0a0000000d49484452",
+     "pillow": {
+      "format": "PNG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:28.988900+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hkl",
+    "title": "THEi學生研AI樓宇缺陷檢測",
+    "url": "https://www.stheadline.com/edu-insights/3623175/",
+    "articleHttp": 200,
+    "originalTitle": "THEi學生研AI檢測系統 自動辨識樓宇缺陷省時高效",
+    "publishedRaw": "2026-10-07T07:00:00+0800",
+    "updatedRaw": "2026-10-07T07:00:00+0800",
+    "publishedHKT": "2026-10-07 07:00:00",
+    "updatedHKT": "2026-10-07 07:00:00",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/lr/st_edu/e1cc8fab3fa9376ecc2020a096a3f2d9/2026-10/IMG_5327.jpg",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/jpeg; charset=UTF-8",
+     "bytes": 145804,
+     "magic": "ffd8ffe000104a464946000101010060",
+     "pillow": {
+      "format": "JPEG",
+      "size": [
+       1200,
+       676
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:28.963273+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   },
+   {
+    "group": "hkl",
+    "title": "網民指保安誤發辭職失遣散費",
+    "url": "https://www.stheadline.com/local-topics/3623152/",
+    "articleHttp": 200,
+    "originalTitle": "近七旬患病保安遭裁員 臨別聽信經理「做咗呢步」 2萬遣散費慘被設局凍過水｜Juicy叮",
+    "publishedRaw": "2026-10-07T08:05:11+0800",
+    "updatedRaw": "2026-10-07T08:05:11+0800",
+    "publishedHKT": "2026-10-07 08:05:11",
+    "updatedHKT": "2026-10-07 08:05:11",
+    "originalOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/e0698bfaafd21519a961cc04c9ee30ec/2026-10/20261007_NEWS_FIRE.png",
+    "exactOgMatch": true,
+    "image": {
+     "http": 200,
+     "mime": "image/png; charset=UTF-8",
+     "bytes": 348942,
+     "magic": "89504e470d0a1a0a0000000d49484452",
+     "pillow": {
+      "format": "PNG",
+      "size": [
+       1200,
+       675
+      ]
+     }
+    },
+    "checkedAt": "2026-10-07T00:33:28.994336+00:00",
+    "visualReview": "已逐張目視 hk-montage.jpg，16圖均可顯示並與原文題材相符；星島另以原文 og:image 逐字比對，未僅靠 HTTP 200。"
+   }
+  ],
+  "root": [
+   {
+    "key": "westkowloon",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510813/%E8%A5%BF%E4%B9%9D%E8%B5%A4%E5%AD%97%E6%93%B4%E8%87%B3%E8%BF%9110%E5%84%84-%E7%AE%A1%E7%90%86%E5%B1%80%E6%8C%87%E7%82%BA%E6%BC%94%E8%97%9D%E4%B8%AD%E5%BF%83%E9%96%8B%E5%B9%95%E6%BA%96%E5%82%99",
+    "articleHTTP": 200,
+    "title": "西九赤字擴至近10億　管理局指為演藝中心開幕準備　料明年上半年推住宅招標 - 有線寬頻 i-CABLE",
+    "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/07050616/TER-WKLN-BRIEF-261006-1630_frame_458.jpg",
+    "publishedRaw": "2026-10-06T13:06:37+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-06T13:06:37+00:00",
+     "dateModified": "2026-10-06T13:06:51+00:00"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 863504,
+    "imageMagic": "ffd8ffe000104a46494600010102001c",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1920,
+     "height": 1080
+    }
+   },
+   {
+    "key": "freedom",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/510832/%E6%9C%AC%E6%B8%AF%E8%9F%AC%E8%81%AF%E5%85%A8%E7%90%83%E6%9C%80%E8%87%AA%E7%94%B1%E7%B6%93%E6%BF%9F%E9%AB%94-%E6%94%BF%E5%BA%9C-%E8%82%AF%E5%AE%9A%E8%87%AA%E7%94%B1%E5%B8%82%E5%A0%B4",
+    "articleHTTP": 200,
+    "title": "本港蟬聯全球最自由經濟體　政府：肯定自由市場優勢 - 有線寬頻 i-CABLE",
+    "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/07063758/FREE-ECON-261006-2300_frame_41.jpeg",
+    "publishedRaw": "2026-10-06T14:38:25+00:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-06T14:38:25+00:00",
+     "dateModified": "2026-10-06T15:44:53+00:00"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 412062,
+    "imageMagic": "ffd8ffe000104a464946000101000001",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1920,
+     "height": 1080
+    }
+   },
+   {
+    "key": "usclose",
+    "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-reach-record-closing-highs-as-focus-pivots-to-earnings",
+    "articleHTTP": 200,
+    "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/2ee563b78db052fc9062d2afab9e1f4f7d32aa96f3aefe6e6ddbb8bca915e898?w=1200",
+    "publishedRaw": "2026-10-06T20:49:28.000Z",
+    "jsonLdTime": {
+     "datePublished": "2026-10-07T04:49:28+08:00",
+     "dateModified": "2026-10-07T07:15:24+08:00"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 107107,
+    "imageMagic": "ffd8ffdb004300050304040403050404",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1200,
+     "height": 630
+    }
+   },
+   {
+    "key": "opinion",
+    "url": "https://www.hk01.com/article/60396716",
+    "articleHTTP": 200,
+    "title": "01觀點｜「議員過多論」何以引共鳴？",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261006/1184183617585156096512947.jpeg/gzzlWO3KZK2NPF4k-hCY0ujmcLN6BUjOan37imp9-4o?v=w1280r16_9",
+    "publishedRaw": "2026-10-07T07:00:14+08:00",
+    "jsonLdTime": {
+     "datePublished": "2026-10-07T07:00:14+08:00",
+     "dateModified": "2026-10-07T07:48:25+08:00"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg",
+    "imageBytes": 199632,
+    "imageMagic": "ffd8ffe000104a464946000102010048",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1280,
+     "height": 720
+    }
+   },
+   {
+    "key": "dog",
+    "url": "https://www.stheadline.com/politics/3623041/",
+    "articleHTTP": 200,
+    "title": "議政隨想︱譚鎮國：《強化飼主責任 正視流浪狗源頭》",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/2dca0a8c4b367ff6aa7e1948a469a25e/2026-10/KF_LOGO_19__0.png",
+    "publishedRaw": "2026-10-07T07:00:51+0800",
+    "jsonLdTime": {
+     "datePublished": "2026-10-07T07:00:51+0800",
+     "dateModified": "2026-10-07T07:00:51+0800"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/png; charset=UTF-8",
+    "imageBytes": 450898,
+    "imageMagic": "89504e470d0a1a0a0000000d49484452",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "PNG",
+     "width": 1200,
+     "height": 675
+    }
+   },
+   {
+    "key": "schools",
+    "url": "https://www.thestandard.com.hk/news/article/344779",
+    "articleHTTP": 200,
+    "title": "National security AI learning platform launches in schools",
+    "ogImage": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/9ba4c176f77d4ef5f6d33abd2e5c10c5/2026-10/NF261006NS063.jpg",
+    "publishedRaw": null,
+    "jsonLdTime": {
+     "datePublished": "2026-10-06T21:59:34.000+0800",
+     "dateModified": "2026-10-06T21:59:34.000+0800"
+    },
+    "imageHTTP": 200,
+    "imageContentType": "image/jpeg; charset=UTF-8",
+    "imageBytes": 179887,
+    "imageMagic": "ffd8ffe000104a464946000101010060",
+    "imageOgExact": true,
+    "imageDecoded": {
+     "format": "JPEG",
+     "width": 1024,
+     "height": 683
+    }
+   }
+  ],
+  "world": [
+   {
+    "id": "hk60397006",
+    "url": "https://www.hk01.com/article/60397006",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-07T03:37:22+08:00",
+    "publishedHKT": "2026-10-07T03:37:22+08:00",
+    "updatedHKT": "2026-10-07T03:38:42+08:00",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20220216/570638977552355328817942.jpeg/MfDhTKrpqNFHeQhWb9cVtp9xTanfllEPp0yP2qdMj9o?v=w1280r16_9",
+    "title": "路透社：中國擬推候選人角逐世衛總幹事",
+    "description": "路透社10月6日引述4位外交官和一位知情人士透露，中國計劃推舉一位候選人角逐世界衛生組織（WHO）總幹事一職，此舉將使北京有機會在美國退出世衛組",
+    "checkedAt": "2026-10-07T08:33:35.515843+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 145996,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1280,
+     720
+    ],
+    "ogMatch": true,
+    "group": "cn",
+    "cardTitle": "中國據報擬推宋莉競逐世衛掌舵",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:10.378931+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "zb9795797",
+    "url": "https://www.zaobao.com.sg/news/china/story20261007-9795797",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-07T07:30:59+08:00",
+    "publishedHKT": "2026-10-07T07:30:59+08:00",
+    "updatedHKT": "2026-10-07T07:31:02+08:00",
+    "ogImage": "https://www.zaobao.com.sg/_web2/assets/social-share.png",
+    "title": "克宫：俄有意在APEC期间举行普京特朗普习近平三方会晤",
+    "description": "俄罗斯克里姆林宫外交政策助理乌沙科夫星期二（10月6日）说，俄罗斯有意在亚太经济合作组织（APEC）领导人会议期间，举行俄罗斯总统普京、美国总统特朗普和中国国家主席习近平的三方会晤。",
+    "checkedAt": "2026-10-07T08:33:31.050068+08:00",
+    "imageStatus": 200,
+    "contentType": "image/png",
+    "bytes": 16651,
+    "magic": "89504e470d0a1a0a0000000d",
+    "format": "PNG",
+    "size": [
+     909,
+     500
+    ],
+    "ogMatch": true,
+    "group": "cn",
+    "cardTitle": "俄方倡APEC中美俄元首會晤",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:10.445816+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "zb9794406",
+    "url": "https://www.zaobao.com.sg/news/china/story20261006-9794406",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T23:33:01+08:00",
+    "publishedHKT": "2026-10-06T23:33:01+08:00",
+    "updatedHKT": "2026-10-06T23:33:01+08:00",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/91362d3638403dd41406917c89224f7b159af2314a84a513997dafcae124d01f",
+    "title": "法德拟推快速切断市场准入 中欧或陷“打打停停”贸易冲突",
+    "description": "中欧新一轮贸易谈判本周在北京登场之际，法国总统马克龙与德国总理默茨联名致信欧盟委员会主席冯德莱恩，要求欧盟建立“快速贸易反制机制”，必要时限制甚至切断相关国家进入欧盟单一市场的渠道。",
+    "checkedAt": "2026-10-07T08:33:30.926485+08:00",
+    "imageStatus": 200,
+    "contentType": "image/webp",
+    "bytes": 236812,
+    "magic": "52494646049d030057454250",
+    "format": "WEBP",
+    "size": [
+     1023,
+     682
+    ],
+    "ogMatch": true,
+    "group": "cn",
+    "cardTitle": "法德倡快速貿易反制中歐續磋商",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:10.527596+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "zb9794152",
+    "url": "https://www.zaobao.com.sg/news/china/story20261006-9794152",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T21:58:01+08:00",
+    "publishedHKT": "2026-10-06T21:58:01+08:00",
+    "updatedHKT": "2026-10-06T21:58:01+08:00",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/81250c130a4def725fb04097b5863e5cc36aaf8facc39465d99f904d84de6174",
+    "title": "专家：中国对美握有更多筹码 74项关键科技中领先66项",
+    "description": "经济学家纪沫研判，中美关系未来一年整体将保持相对稳定，因为中国手中握有更多筹码，包括在74项关键科技中领先美国66项，美国不得不对华做出一些妥协。",
+    "checkedAt": "2026-10-07T08:33:31.016282+08:00",
+    "imageStatus": 200,
+    "contentType": "image/webp",
+    "bytes": 125288,
+    "magic": "5249464660e9010057454250",
+    "format": "WEBP",
+    "size": [
+     1023,
+     682
+    ],
+    "ogMatch": true,
+    "group": "cn",
+    "cardTitle": "星展料中國未來十五年均增百分三",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:10.486910+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "ep14864829",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864829.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T23:07:06.000Z",
+    "publishedHKT": "2026-10-07T07:07:06+08:00",
+    "updatedHKT": "2026-10-07T07:07:08+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14864894-668a31017913bde1eb029a30d9960acd-663x359.png",
+    "title": "中國AI攻擊工具ARTEX AI現蹤全球600個IP",
+    "description": "一款名為「ARTEX AI」、由中國網絡安全工程師開發的人工智能（AI）自主滲透測試工具，日前在新韓銀行等韓國金融機構遭駭事件中現蹤。而最新調查顯示，全球約600個網絡地址（IP）中都偵測到了ARTEX活動。這款原本用於資安測試的AI工具，正因可能被轉用於自動化網絡攻擊而受到關注。",
+    "checkedAt": "2026-10-07T08:33:33.046354+08:00",
+    "imageStatus": 200,
+    "contentType": "image/png",
+    "bytes": 160536,
+    "magic": "89504e470d0a1a0a0000000d",
+    "format": "PNG",
+    "size": [
+     663,
+     359
+    ],
+    "ogMatch": true,
+    "group": "cn",
+    "cardTitle": "中國開源AI工具現蹤六百IP",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:10.467204+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "ep14864669",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864669.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T22:21:15.000Z",
+    "publishedHKT": "2026-10-07T06:21:15+08:00",
+    "updatedHKT": "2026-10-07T06:21:16+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2024/06/id14274036-GettyImages-2155633255-700x359.jpg",
+    "title": "中國經濟K型化嚴重 IMF新書：資本錯配加劇",
+    "description": "調查顯示，中國第3季GDP（國內生產總值）預計增4.4%，低於全年目標下限，並且K型經濟分化態勢加劇。國際貨幣基金組織（IMF）發布新書，分析中國經濟，認為資本錯配已抑制生產力成長。",
+    "checkedAt": "2026-10-07T08:33:33.101320+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 67169,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true,
+    "group": "cn",
+    "cardTitle": "調查料中國第三季增長四點四",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:10.280161+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "ep14864843",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864843.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T23:35:53.000Z",
+    "publishedHKT": "2026-10-07T07:35:53+08:00",
+    "updatedHKT": "2026-10-07T07:35:53+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2026/05/id14762640-759952-700x359.jpg",
+    "title": "專家：加拿大放行中製聯網車 恐增國安風險",
+    "description": "專家表示，隨著具備聯網功能的中國製電動車即將大量進入加拿大市場，加拿大國家安全正面臨日益嚴峻的挑戰。",
+    "checkedAt": "2026-10-07T08:33:33.134704+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 266125,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true,
+    "group": "cn",
+    "cardTitle": "加國智庫憂中國聯網車保安風險",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:10.417462+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "ep14864778",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864778.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T23:08:42.000Z",
+    "publishedHKT": "2026-10-07T07:08:42+08:00",
+    "updatedHKT": "2026-10-07T07:08:42+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14864942-DSC07318-Todd-Blanche-700x359.jpg",
+    "title": "專訪美司法部長：打擊中共跨國鎮壓是優先事項",
+    "description": "美國司法部長布蘭奇（Todd Blanche）近日接受《大紀元時報》（The Epoch Times）專訪時表示，打擊中共的跨國鎮壓行動是司法部的「重大優先事項」。",
+    "checkedAt": "2026-10-07T08:33:33.219885+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 143055,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true,
+    "group": "cn",
+    "cardTitle": "美司法部長稱優先打擊跨國鎮壓",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:10.283664+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "ep14864918",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864918.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T22:41:54.000Z",
+    "publishedHKT": "2026-10-07T06:41:54+08:00",
+    "updatedHKT": "2026-10-07T06:41:55+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2025/10/id14625372-LAX-6_JF_11212024-700x359.jpg",
+    "title": "達美客機在洛杉磯國際機場和加航班機擦撞",
+    "description": "週二（10月6日），一架達美航空（Delta Air Lines）客機在洛杉磯國際機場準備起飛時，撞上一架正前往登機口的加拿大航空（Air Canada）飛機。",
+    "checkedAt": "2026-10-07T08:33:33.267889+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 285870,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true,
+    "group": "us",
+    "cardTitle": "洛杉磯機場兩客機滑行時擦撞",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:11.049708+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "ep14864901",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864901.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T23:05:37.000Z",
+    "publishedHKT": "2026-10-07T07:05:37+08:00",
+    "updatedHKT": "2026-10-07T07:05:38+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14864910-a10ca5a32af54e0a8020d90f67abc179-700x359.png",
+    "title": "美國保險公司高管中槍身亡 疑殺妻女後自殺",
+    "description": "近日，美國新澤西州蒙哥馬利鎮一戶住宅內，一家三口被發現頭部中槍身亡。縣檢察官辦公室認定，母女二人死於他殺，男主人死於自殺。",
+    "checkedAt": "2026-10-07T08:33:33.291486+08:00",
+    "imageStatus": 200,
+    "contentType": "image/png",
+    "bytes": 372095,
+    "magic": "89504e470d0a1a0a0000000d",
+    "format": "PNG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true,
+    "group": "us",
+    "cardTitle": "新澤西一家三口槍傷死亡續查",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:11.073064+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "hk60397010",
+    "url": "https://www.hk01.com/article/60397010",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-07T04:15:54+08:00",
+    "publishedHKT": "2026-10-07T04:15:54+08:00",
+    "updatedHKT": "2026-10-07T04:18:28+08:00",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261007/1184355200668798976024176.jpeg/u626QfX1m9zN69oq226ft9r1RlATxXYIDN03bgzdN24?v=w1280r16_9",
+    "title": "駐沖繩美軍實施30天宵禁　應對士兵涉劫殺風波",
+    "description": "日本沖繩一名美軍士兵涉嫌搶劫殺人的案件，在激起當地民眾及日方強烈不滿後，駐沖繩美軍最高負責人、沖繩地區協調官沃森（Benjamin Watson）10月6",
+    "checkedAt": "2026-10-07T08:33:35.195979+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 115829,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1280,
+     720
+    ],
+    "ogMatch": true,
+    "group": "us",
+    "cardTitle": "駐沖繩美軍九日起宵禁三十天",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:11.329301+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "ud9799380",
+    "url": "https://udn.com/news/story/7321/9799380",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-07T06:59:08+08:00",
+    "publishedHKT": "2026-10-07T06:59:08+08:00",
+    "updatedHKT": "2026-10-07T08:08:47+08:00",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/07/35396923.jpg&M=1&s=Y&x=224&y=81&sw=739&sh=416&exp=3600",
+    "title": "影／陽信銀爆內神通外鬼詐貸2.4億 社子分行經理50萬交保 | 聯合新聞網",
+    "description": "調查局新北市處獲報，指陽信銀時任古亭分行女經理楊宜蓁，涉與「茱麗亞婚紗」總裁麥燦文勾結，明知麥男提供假金流與低價不動產作擔保，卻護航放水貸款1.8億，另協助普蘿絲國際貿易負責人吳慶文詐貸近7千萬，昨天搜索約談6人到案，台北地檢署漏夜複訊後，凌晨依違反銀行法命楊宜蓁50萬交保。",
+    "checkedAt": "2026-10-07T08:37:08.002603+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 54466,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     739,
+     416
+    ],
+    "ogMatch": true,
+    "group": "tw",
+    "cardTitle": "陽信銀經理涉詐貸五十萬交保",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:12.115381+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "lt5597903",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5597903",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-07T08:00:19+08:00",
+    "publishedHKT": "2026-10-07T08:00:19+08:00",
+    "updatedHKT": "2026-10-07T08:00:19+08:00",
+    "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/07/5597903_5_1.jpg",
+    "title": "百年鐵道史關鍵1夜！台鐵台南站10/16深夜切換軌道 - 生活 - 自由時報電子報",
+    "description": "台南市區鐵路地下化第1階段通車進入倒數，百年台南站將正式迎接地下化新時代，16日晚間將先舉行通車典禮，當晚台南站仍維持列車運行，深夜最後1班為晚間10點29分開往潮州的145車次新自強號；地下化首班車則是301車次新自強號、17日清晨上午6時29分開往花蓮，鐵道迷別錯過見證歷史時刻！配合通車切換，鐵道局南部工程分局預定16日晚間10時起先封鎖東正線，維持西正線單線運轉，晚間11時後再全面封鎖，直到17日上午6時，連夜進行鐵軌切換施工。",
+    "checkedAt": "2026-10-07T08:37:07.366574+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 67595,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     800,
+     600
+    ],
+    "ogMatch": true,
+    "group": "tw",
+    "cardTitle": "台南鐵路十六日晚切換地下軌道",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:11.451383+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "ep14864681",
+    "url": "https://www.epochtimes.com/b5/26/10/6/n14864681.htm",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T16:27:10.000Z",
+    "publishedHKT": "2026-10-07T00:27:10+08:00",
+    "updatedHKT": "2026-10-07T00:27:10+08:00",
+    "ogImage": "https://i.epochtimes.com/assets/uploads/2026/09/id14842249-870550-700x359.jpg",
+    "title": "美企將在台灣生產久經沙場的軍用無人機",
+    "description": "總部位於加利福尼亞州的國防科技公司Aevex Aerospace正與台灣的中光電智能機器人公司（CIRC）合作，在台灣本地生產Vandal和Onyx兩款無人機。此舉結合了從烏克蘭戰爭中汲取的經驗教訓以及台灣的電子和製造能力。",
+    "checkedAt": "2026-10-07T08:33:33.316980+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 288125,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     700,
+     359
+    ],
+    "ogMatch": true,
+    "group": "tw",
+    "cardTitle": "美企夥台廠本地生產兩款無人機",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:11.417988+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "hk60397022",
+    "url": "https://www.hk01.com/article/60397022",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-07T07:18:31+08:00",
+    "publishedHKT": "2026-10-07T07:18:31+08:00",
+    "updatedHKT": "2026-10-07T07:18:33+08:00",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261007/1184400327646908416946538.png/RHhyLsaRIVXlaygfIR-A6LKds1Fs4qT1sVgDS7FYA0s?v=w1280r16_9",
+    "title": "油輪阿曼附近遇襲12人傷　11傷者為印度籍　印度外交部發聲明譴責",
+    "description": "印度外交部10月6日發表聲明說，一艘懸掛巴拿馬國旗的油輪當日在阿曼附近通過霍爾木茲海峽（Strait of Hormuz）時遭砲彈攻擊，造成12名船員受傷，其",
+    "checkedAt": "2026-10-07T08:33:35.257592+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 76632,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1209,
+     680
+    ],
+    "ogMatch": true,
+    "group": "war",
+    "cardTitle": "阿曼附近油輪遇襲十二船員傷",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:11.553287+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "hk60397019",
+    "url": "https://www.hk01.com/article/60397019",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-07T05:52:12+08:00",
+    "publishedHKT": "2026-10-07T05:52:12+08:00",
+    "updatedHKT": "2026-10-07T05:52:16+08:00",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260305/1106086321375416320367925.jpeg/c7s5-5-fp_Y22WAyYxU_GToAjcD6_P63Tymxkk8psZI?v=w1280r16_9",
+    "title": "英國基地恐襲未遂案　22歲男子倫敦被捕　疑犯增至7名",
+    "description": "英國費爾福德皇家空軍基地（RAF Fairford）周邊9月發生企圖恐襲案，警方10月6日再在倫敦逮捕一名22歲英國籍男子，指他疑與此案有關。路透社同日引",
+    "checkedAt": "2026-10-07T08:33:35.624423+08:00",
+    "imageStatus": 200,
+    "contentType": "image/jpeg",
+    "bytes": 168249,
+    "magic": "ffd8ffe000104a4649460001",
+    "format": "JPEG",
+    "size": [
+     1280,
+     720
+    ],
+    "ogMatch": true,
+    "group": "war",
+    "cardTitle": "英基地恐襲案再拘一人累計七人",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:11.561178+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   },
+   {
+    "id": "ii202610060998",
+    "url": "https://www.iranintl.com/en/202610060998",
+    "articleStatus": 200,
+    "publishedRaw": "2026-10-06T16:31:21.949Z",
+    "publishedHKT": "2026-10-07T00:31:21.949000+08:00",
+    "updatedHKT": "2026-10-07T00:32:44+08:00",
+    "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/08350256ea02182abb23a86a1808e690a783f47b-1280x853.jpg?rect=128,100,1056,554&w=1200&h=630&q=66&fit=max&auto=format",
+    "title": "Iran, US back to ‘square one’ as diplomacy stalls",
+    "description": "Rhetoric is hardening on both sides of the Iran-US standoff, with even Iranian analysts traditionally optimistic about diplomacy warning that relations are slipping back to “square one” as military and economic pressure intensifies.",
+    "checkedAt": "2026-10-07T08:33:36.735896+08:00",
+    "imageStatus": 200,
+    "contentType": "image/avif",
+    "bytes": 25125,
+    "magic": "0000001c6674797061766966",
+    "format": "AVIF",
+    "size": [
+     1056,
+     554
+    ],
+    "ogMatch": true,
+    "group": "war",
+    "cardTitle": "美伊談判僵持分析憂誤判升級",
+    "bodyRead": true,
+    "ogRecheckedAt": "2026-10-07T08:37:12.963281+08:00",
+    "ogRecheckArticleStatus": 200,
+    "visualReviewed": true
+   }
+  ],
+  "briefs": [
+   {
+    "key": "a1",
+    "url": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+    "status": 200,
+    "og": "https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2-1200x670.png",
+    "pub": "2026-10-06T18:29:35+00:00",
+    "mod": "2026-10-06T18:32:01+00:00",
+    "jsonld": [
+     "<script class=\"yoast-schema-graph\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"NewsArticle\",\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/#article\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/\"},\"author\":{\"name\":\"Matthias Bastian\",\"@id\":\"https://the-decoder.com/#/schema/person/f5278ecf79b4566467d86133ece0857c\"},\"headline\":\"Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure\",\"datePublished\":\"2026-10-06T18:29:35+00:00\",\"dateModified\":\"2026-10-06T18:32:01+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/\"},\"wordCount\":486,\"commentCount\":0,\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"image\":{\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2.png\",\"keywords\":[\"Agents\",\"AI agents\",\"OpenAI\",\"Wikipedia\"],\"articleSection\":[\"AI in practice\",\"Artificial Intelligence\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/#respond\"]}],\"copyrightYear\":\"2026\",\"copyrightHolder\":{\"@id\":\"https://the-decoder.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/\",\"url\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/\",\"name\":\"Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/#primaryimage\"},\"image\":{\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2.png\",\"datePublished\":\"2026-10-06T18:29:35+00:00\",\"dateModified\":\"2026-10-06T18:32:01+00:00\",\"description\":\"According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling. Wikimedia says AI companies need to take responsibility for their agents instead of pushing the burden onto volunteer editors.\",\"breadcrumb\":{\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/#primaryimage\",\"url\":\"https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2.png\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2.png\",\"width\":1376,\"height\":768},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https://the-decoder.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://the-decoder.com/#website\",\"url\":\"https://the-decoder.com/\",\"name\":\"The Decoder\",\"description\":\"AI, Menschen, Wirtschaft\",\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://the-decoder.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://the-decoder.com/#organization\",\"name\":\"THE-DECODER.com\",\"url\":\"https://the-decoder.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/logo/image/\",\"url\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"width\":600,\"height\":180,\"caption\":\"THE-DECODER.com\"},\"image\":{\"@id\":\"https://the-decoder.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/TheDecoderDE/\",\"https://x.com/TheDecoderEN\",\"https://www.reddit.com/r/TheDecoder/\",\"https://discord.gg/8VKkHAacn8\",\"https://www.linkedin.com/company/the-decoder-en/\"]},{\"@type\":\"Person\",\"@id\":\"https://the-decoder.com/#/schema/person/f5278ecf79b4566467d86133ece0857c\",\"name\":\"Matthias Bastian\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/person/image/\",\"url\":\"/resources/images/avatar_matthias_bastian.jpg\",\"contentUrl\":\"/resources/images/avatar_matthias_bastian.jpg\",\"caption\":\"Matthias Bastian\"},\"description\":\"Matthias is the co-founder and publisher of THE DECODER, exploring how AI is fundamentally changing the relationship between humans and computers.\",\"sameAs\":[\"https://www.linkedin.com/in/matthias-bastian-128b71b1/\"],\"url\":\"https://the-decoder.com/author/matthias-bastian/\"}]}</script>"
+    ],
+    "checkedAt": "2026-10-07T08:36:03.634632+08:00",
+    "textFile": "scratch\\am-20261007\\briefs-a1.txt",
+    "textChars": 3613,
+    "image": {
+     "status": 200,
+     "mime": "image/png",
+     "bytes": 1704456,
+     "magic": "89504e470d0a1a0a0000000d49484452",
+     "format": "PNG",
+     "size": [
+      1200,
+      670
+     ],
+     "ogExact": true,
+     "visualChecked": true
+    },
+    "publishedHKT": "2026-10-07T02:29:35+08:00",
+    "windowPass": true
+   },
+   {
+    "key": "a2",
+    "url": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
+    "status": 200,
+    "og": "https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg",
+    "pub": "2026-10-06T14:18:08+00:00",
+    "mod": "2026-10-06T14:33:41+00:00",
+    "jsonld": [
+     "<script class=\"yoast-schema-graph\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"NewsArticle\",\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/#article\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/\"},\"author\":{\"name\":\"Jonathan Kemper\",\"@id\":\"https://the-decoder.com/#/schema/person/adca563d379fbefba86ca313447e42d8\"},\"headline\":\"Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work\",\"datePublished\":\"2026-10-06T14:18:08+00:00\",\"dateModified\":\"2026-10-06T14:33:41+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/\"},\"wordCount\":1214,\"commentCount\":0,\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"image\":{\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg\",\"keywords\":[\"Mistral AI\"],\"articleSection\":[\"AI in practice\",\"Artificial Intelligence\"],\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/#respond\"]}],\"copyrightYear\":\"2026\",\"copyrightHolder\":{\"@id\":\"https://the-decoder.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/\",\"url\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/\",\"name\":\"Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work\",\"isPartOf\":{\"@id\":\"https://the-decoder.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/#primaryimage\"},\"image\":{\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/#primaryimage\"},\"thumbnailUrl\":\"https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg\",\"datePublished\":\"2026-10-06T14:18:08+00:00\",\"dateModified\":\"2026-10-06T14:33:41+00:00\",\"description\":\"Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls well short of Claude, GPT-6, and Chinese competitors. Mistral's main pitch is cybersecurity work that closed US models refuse to do.\",\"breadcrumb\":{\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/#primaryimage\",\"url\":\"https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg\",\"width\":2560,\"height\":1429,\"caption\":\"The French AI startup Mistral AI is in talks for a new funding round of around 3 billion euros at a valuation of approximately 20 billion euros.\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Startseite\",\"item\":\"https://the-decoder.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://the-decoder.com/#website\",\"url\":\"https://the-decoder.com/\",\"name\":\"The Decoder\",\"description\":\"AI, Menschen, Wirtschaft\",\"publisher\":{\"@id\":\"https://the-decoder.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://the-decoder.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://the-decoder.com/#organization\",\"name\":\"THE-DECODER.com\",\"url\":\"https://the-decoder.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/logo/image/\",\"url\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2022/09/The-Decoder_Schema_Logo.png\",\"width\":600,\"height\":180,\"caption\":\"THE-DECODER.com\"},\"image\":{\"@id\":\"https://the-decoder.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/TheDecoderDE/\",\"https://x.com/TheDecoderEN\",\"https://www.reddit.com/r/TheDecoder/\",\"https://discord.gg/8VKkHAacn8\",\"https://www.linkedin.com/company/the-decoder-en/\"]},{\"@type\":\"Person\",\"@id\":\"https://the-decoder.com/#/schema/person/adca563d379fbefba86ca313447e42d8\",\"name\":\"Jonathan Kemper\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://the-decoder.com/#/schema/person/image/\",\"url\":\"https://the-decoder.com/wp-content/uploads/2025/05/avatar_jonathan_kemper_compressed-375x375.jpeg\",\"contentUrl\":\"https://the-decoder.com/wp-content/uploads/2025/05/avatar_jonathan_kemper_compressed-375x375.jpeg\",\"caption\":\"Jonathan Kemper\"},\"description\":\"Jonathan is a freelance tech journalist, author, and media coach. He covers open AI models, Chinese AI labs, and the technical underpinnings that make them tick – from novel training methods and scaling strategies to benchmark design. He's also an avid vibecoder.\",\"sameAs\":[\"https://www.linkedin.com/in/jonathankemper/\"],\"url\":\"https://the-decoder.com/author/jonathan-kemper/\"}]}</script>"
+    ],
+    "checkedAt": "2026-10-07T08:36:03.579297+08:00",
+    "textFile": "scratch\\am-20261007\\briefs-a2.txt",
+    "textChars": 8576,
+    "publishedHKT": "2026-10-06T22:18:08+08:00",
+    "windowPass": true
+   },
+   {
+    "key": "a3",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400",
+    "status": 200,
+    "og": "https://image.theregister.com/231294.jpg?imageId=231294&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "pub": "2026-10-06T16:04:15.000Z",
+    "mod": "",
+    "jsonld": [
+     "<script type=\"application/ld+json\">\n                    [{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"name\":\"theregister\",\"url\":\"https://www.theregister.com\"},{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Wikimedia Foundation comes forward as latest OpenAI agent assault victim\",\"description\":\"Millions of automated requests may have contributed to partial Wikidata outage in May\",\"url\":\"https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400\",\"inLanguage\":[{\"@type\":\"Language\",\"alternateName\":\"en-US\"}],\"image\":[{\"@type\":\"ImageObject\",\"@id\":\"https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400#primaryimage\",\"url\":\"https://image.theregister.com/231294.webp?width=1200\"}],\"keywords\":\"cybersecurity, wikipedia, openai, ai and ml\",\"thumbnailUrl\":\"https://image.theregister.com/231294.webp?width=400\",\"articleSection\":\"ai and ml\",\"author\":[{\"@type\":\"Person\",\"name\":\"Brandon Vigliarolo\",\"jobTitle\":\"GOVERNMENT AND IT NEWS REPORTER\",\"url\":\"https://www.theregister.com/author/brandon-vigliarolo\",\"email\":\"brandon.vigliarolo@theregister.com\"}],\"publisher\":{\"@type\":\"Organization\",\"name\":\"theregister\",\"url\":\"https://www.theregister.com\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg\"}},\"mainEntityOfPage\":\"https://www.theregister.com/ai-and-ml/2026/10/06/wikimedia-foundation-comes-forward-as-latest-openai-agent-assault-victim/5301400\",\"datePublished\":\"2026-10-06T16:04:15.000Z\",\"isAccessibleForFree\":true}]\n                </script>"
+    ],
+    "checkedAt": "2026-10-07T08:36:03.338972+08:00",
+    "textFile": "scratch\\am-20261007\\briefs-a3.txt",
+    "textChars": 5484,
+    "publishedHKT": "2026-10-07T00:04:15+08:00",
+    "windowPass": true
+   },
+   {
+    "key": "a4",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "status": 200,
+    "og": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
+    "pub": "2026-10-06T19:56:50+00:00",
+    "mod": "2026-10-06T20:30:43+00:00",
+    "jsonld": [
+     "<script class=\"yoast-schema-graph\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"NewsArticle\",\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/#article\",\"isPartOf\":{\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/\"},\"author\":[{\"@id\":\"https://techcrunch.com/#/schema/person/image/14f1d39bd1812acaeda25e46acf52b80\"}],\"headline\":\"The next hurdle for AI agents: getting websites to let them in\",\"datePublished\":\"2026-10-06T19:56:50+00:00\",\"dateModified\":\"2026-10-06T20:30:43+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/\"},\"wordCount\":1377,\"publisher\":{\"@id\":\"https://techcrunch.com/#organization\"},\"image\":{\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/#primaryimage\"},\"thumbnailUrl\":\"https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg\",\"keywords\":[\"e-commerce\",\"muse\",\"AI agents\"],\"articleSection\":[\"TC\",\"AI\",\"Apps\",\"Commerce\"],\"inLanguage\":\"en-US\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\"#speakable-summary\"]},\"copyrightYear\":\"2026\",\"copyrightHolder\":{\"@id\":\"https://techcrunch.com/#organization\"}},{\"@type\":\"WebPage\",\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/\",\"url\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/\",\"name\":\"The next hurdle for AI agents: getting websites to let them in | TechCrunch\",\"isPartOf\":{\"@id\":\"https://techcrunch.com/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/#primaryimage\"},\"image\":{\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/#primaryimage\"},\"thumbnailUrl\":\"https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg\",\"datePublished\":\"2026-10-06T19:56:50+00:00\",\"dateModified\":\"2026-10-06T20:30:43+00:00\",\"description\":\"Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.\",\"breadcrumb\":{\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/#primaryimage\",\"url\":\"https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg\",\"contentUrl\":\"https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg\",\"width\":7800,\"height\":5200,\"caption\":\"AI Chatbot Assistants on Glass Blocks, Artificial Intelligence Technology Concept. Digitally generated image. 3d render.\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://techcrunch.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"The next hurdle for AI agents: getting websites to let them in\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://techcrunch.com/#website\",\"url\":\"https://techcrunch.com/\",\"name\":\"TechCrunch\",\"description\":\"Startup and Technology News\",\"publisher\":{\"@id\":\"https://techcrunch.com/#organization\"},\"alternateName\":\"TC\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://techcrunch.com/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://techcrunch.com/#organization\",\"name\":\"TechCrunch\",\"alternateName\":\"TC\",\"url\":\"https://techcrunch.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/#/schema/logo/image/\",\"url\":\"https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200\",\"contentUrl\":\"https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200\",\"width\":1200,\"height\":1200,\"caption\":\"TechCrunch\"},\"image\":{\"@id\":\"https://techcrunch.com/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/techcrunch\",\"https://x.com/TechCrunch\",\"https://mstdn.social/@TechCrunch\",\"https://bsky.app/profile/techcrunch.com\",\"https://www.threads.net/@techcrunch\"]},{\"@type\":\"Person\",\"@id\":\"https://techcrunch.com/#/schema/person/image/14f1d39bd1812acaeda25e46acf52b80\",\"name\":\"Sarah Perez\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://techcrunch.com/#/schema/person/image/5946061433ada426f3b820df67ee9738\",\"url\":\"https://secure.gravatar.com/avatar/16d23d1acf41600294bf8b07d8b50f14f44415d88f76bf0ab725ad5405e748ca?s=96&d=identicon&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/16d23d1acf41600294bf8b07d8b50f14f44415d88f76bf0ab725ad5405e748ca?s=96&d=identicon&r=g\",\"caption\":\"Sarah Perez\"},\"description\":\"Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software. You can contact or verify outreach from Sarah by emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal.\",\"url\":\"https://techcrunch.com/author/sarah-perez/\"}]}</script>"
+    ],
+    "checkedAt": "2026-10-07T08:36:02.824683+08:00",
+    "textFile": "scratch\\am-20261007\\briefs-a4.txt",
+    "textChars": 9992,
+    "publishedHKT": "2026-10-07T03:56:50+08:00",
+    "windowPass": true
+   },
+   {
+    "key": "w1",
+    "url": "https://www.iranintl.com/en/202610060998",
+    "status": 200,
+    "og": "https://i.iranintl.com/images/rdk9umy0/production/08350256ea02182abb23a86a1808e690a783f47b-1280x853.jpg?rect=128,100,1056,554&w=1200&h=630&q=66&fit=max&auto=format",
+    "pub": "2026-10-06T16:31:21.949Z",
+    "mod": "2026-10-06T16:32:44Z",
+    "jsonld": [
+     "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Iran, US back to ‘square one’ as diplomacy stalls\",\"description\":\"Rhetoric is hardening on both sides of the Iran-US standoff, with even Iranian analysts traditionally optimistic about diplomacy warning that relations are slipping back to “square one” as military and economic pressure intensifies.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.iranintl.com/en/202610060998\"},\"datePublished\":\"2026-10-06T16:31:21.949Z\",\"dateModified\":\"2026-10-06T16:32:44Z\",\"author\":[{\"@type\":\"Person\",\"name\":\"Behrouz Turani\",\"url\":\"https://www.iranintl.com/en/author/behrouz-turani\"}],\"publisher\":{\"@type\":\"Organization\",\"name\":\"Iran International\",\"url\":\"https://www.iranintl.com/en\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.iranintl.com/en/logo.png\"}},\"image\":\"https://i.iranintl.com/images/rdk9umy0/production/08350256ea02182abb23a86a1808e690a783f47b-1280x853.jpg?rect=128,100,1056,554&w=1200&h=630&q=58&fit=max&auto=format\",\"keywords\":\"INSIGHT\",\"articleSection\":\"Diplomacy\",\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"common.home\",\"item\":\"https://www.iranintl.com/en\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Diplomacy\",\"item\":\"https://www.iranintl.com/en/category/foreign-relations\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Iran, US back to ‘square one’ as diplomacy stalls\"}]},\"inLanguage\":\"en-US\"}</script>"
+    ],
+    "checkedAt": "2026-10-07T08:36:04.154395+08:00",
+    "textFile": "scratch\\am-20261007\\briefs-w1.txt",
+    "textChars": 4022,
+    "image": {
+     "status": 200,
+     "mime": "image/avif",
+     "bytes": 25125,
+     "magic": "0000001c667479706176696600000000",
+     "format": "AVIF",
+     "size": [
+      1056,
+      554
+     ],
+     "ogExact": true,
+     "visualChecked": true
+    },
+    "publishedHKT": "2026-10-07T00:31:21.949000+08:00",
+    "windowPass": true
+   },
+   {
+    "key": "w2",
+    "url": "https://www.iranintl.com/en/202610066353",
+    "status": 200,
+    "og": "https://i.iranintl.com/images/rdk9umy0/production/28a1fa6ff54e398241ae124f59c1b319ec36ab48-800x566.jpg?rect=16,81,760,399&w=1200&h=630&q=66&fit=max&auto=format",
+    "pub": "2026-10-06T20:00:00.000Z",
+    "mod": "2026-10-06T20:05:20Z",
+    "jsonld": [
+     "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"‘Let ’em take out Los Angeles’: Trump’s Iran remarks ignite backlash\",\"description\":\"President Donald Trump’s suggestion that Iran could “take out” Los Angeles or San Diego has sparked a backlash from California officials and prompted the White House to insist that he was misunderstood as he defended the mounting costs of the war with Tehran.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.iranintl.com/en/202610066353\"},\"datePublished\":\"2026-10-06T20:00:00.000Z\",\"dateModified\":\"2026-10-06T20:05:20Z\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"Iran International\",\"url\":\"https://www.iranintl.com/en\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.iranintl.com/en/logo.png\"}},\"image\":\"https://i.iranintl.com/images/rdk9umy0/production/28a1fa6ff54e398241ae124f59c1b319ec36ab48-800x566.jpg?rect=16,81,760,399&w=1200&h=630&q=58&fit=max&auto=format\",\"articleSection\":\"United States\",\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"common.home\",\"item\":\"https://www.iranintl.com/en\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"United States\",\"item\":\"https://www.iranintl.com/en/category/united-states\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"‘Let ’em take out Los Angeles’: Trump’s Iran remarks ignite backlash\"}]},\"inLanguage\":\"en-US\"}</script>"
+    ],
+    "checkedAt": "2026-10-07T08:36:04.363139+08:00",
+    "textFile": "scratch\\am-20261007\\briefs-w2.txt",
+    "textChars": 2431,
+    "publishedHKT": "2026-10-07T04:00:00+08:00",
+    "windowPass": true
+   },
+   {
+    "key": "w3",
+    "url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed",
+    "status": 200,
+    "og": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac5289f-1791305887.jpg?resize=1920%2C1440",
+    "pub": "2026-10-06T19:43:05Z",
+    "mod": "2026-10-06T19:43:05Z",
+    "jsonld": [
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@type\":\"NewsMediaOrganization\",\"@id\":\"https://www.aljazeera.com#Organization\",\"foundingDate\":\"2006-11-15\",\"name\":\"Al Jazeera\",\"url\":\"https://www.aljazeera.com\",\"logo\":\"https://www.aljazeera.com/images/logo_aje.png\",\"sameAs\":[\"https://www.facebook.com/aljazeera\",\"https://twitter.com/ajenglish\",\"https://www.youtube.com/aljazeeraenglish\",\"https://www.instagram.com/aljazeeraenglish/?hl=en\",\"https://bsky.app/profile/aljazeera.com\",\"https://www.tiktok.com/@aljazeeraenglish\"],\"parentOrganization\":{\"@type\":\"Organization\",\"name\":\"Al Jazeera Media Network\",\"alternateName\":\"شبكة الجزيرة الإعلامية\"},\"@context\":\"https://schema.org\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"mainEntityOfPage\":\"https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed\",\"headline\":\"Yemen’s government is on the attack against the Houthis. What has changed?\",\"description\":\"Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.\",\"author\":{\"@type\":\"Person\",\"name\":\"Abubakr Al-Shamahi\",\"url\":\"https://www.aljazeera.com/author/abubakr_al_shamahi_2011848158551156\"},\"publisher\":{\"@id\":\"https://www.aljazeera.com#Organization\"},\"image\":[{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac5289f-1791305887.jpg?resize=1920%2C1440\",\"height\":1440,\"width\":1920},{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac5289f-1791305887.jpg?resize=1920%2C1080\",\"height\":1080,\"width\":1920},{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac5289f-1791305887.jpg?resize=1800%2C1440\",\"height\":1440,\"width\":1800},{\"@type\":\"ImageObject\",\"url\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac5289f-1791305887.jpg?resize=1200%2C630\",\"height\":630,\"width\":1200}],\"datePublished\":\"2026-10-06T19:43:05Z\",\"dateModified\":\"2026-10-06T19:43:05Z\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org/\",\"@type\":\"WebPage\",\"name\":\"Yemen’s government is on the attack against the Houthis. What has changed?\",\"speakable\":{\"@type\":\"SpeakableSpecification\",\"cssSelector\":[\".article-header\"]},\"url\":\"https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Yemen’s government is on the attack against the Houthis. What has changed?\",\"uploadDate\":\"2026-10-06T19:43:05Z\",\"description\":\"Yemeni forces are trying to reverse Houthi gains, aided by heavier air power and renewed international support.\",\"publisher\":{\"@id\":\"https://www.aljazeera.com#Organization\"},\"embedUrl\":\"https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.html?videoId=6406268777112\",\"thumbnailUrl\":\"https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac5289f-1791305887.jpg?resize=1920%2C1440\"}</script>",
+     "<script data-rh=\"true\" type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"News Analysis\",\"item\":\"https://www.aljazeera.com/news-analysis/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Conflict\",\"item\":\"https://www.aljazeera.com/tag/conflict/\"}]}</script>"
+    ],
+    "checkedAt": "2026-10-07T08:36:03.355644+08:00",
+    "textFile": "scratch\\am-20261007\\briefs-w3.txt",
+    "textChars": 8016,
+    "publishedHKT": "2026-10-07T03:43:05+08:00",
+    "windowPass": true
+   }
+  ]
+ },
+ "editorial": {
+  "hk": {
+   "checkedAt": "2026-10-07T08:35:04.502269+08:00",
+   "counts": {
+    "hks": 8,
+    "hkl": 8
+   },
+   "images": {
+    "count": 16,
+    "allArticleHttp200": true,
+    "allImageHttp200": true,
+    "allDecoded": true,
+    "allExactOg": true,
+    "visualMontage": "hk-montage.jpg"
+   },
+   "heat": {
+    "googleHttp": 200,
+    "hk01HotHttp": 200,
+    "keywords": [
+     {
+      "keyword": "陳曉華",
+      "traffic": "100+"
+     },
+     {
+      "keyword": "mlb",
+      "traffic": "200+"
+     },
+     {
+      "keyword": "阿根廷國家足球隊",
+      "traffic": "200+"
+     },
+     {
+      "keyword": "argentina",
+      "traffic": "100+"
+     },
+     {
+      "keyword": "阿根廷",
+      "traffic": "500+"
+     },
+     {
+      "keyword": "argentina vs benin",
+      "traffic": "1000+"
+     },
+     {
+      "keyword": "逃票",
+      "traffic": "200+"
+     },
+     {
+      "keyword": "皇崗口岸",
+      "traffic": "100+"
+     },
+     {
+      "keyword": "天气",
+      "traffic": "100+"
+     },
+     {
+      "keyword": "租者置其屋計劃",
+      "traffic": "200+"
+     }
+    ],
+    "hotMatches": [
+     {
+      "url": "https://www.hk01.com/article/60396989",
+      "text": "有片｜中環兩躁漢疑落電車碰撞爆衝突　一男遭按地制服　警拘一人",
+      "jsonPath": "root.props.pageProps.items[7].data"
+     }
+    ],
+    "note": "中環衝突有 hk01 hot 直接連結，標熱卡；Google 天气為一般天氣搜尋，未可靠對應本港事件，未加熱。"
+   },
+   "dedup": [
+    {
+     "card": "蔡天鳳案晨早總結",
+     "decision": "排除",
+     "reason": "僅回顧10月6日蔡母證供；上一晚已收辯方交叉盤問，沒有確認新庭審事實。"
+    },
+    {
+     "card": "公屋瞞報物業判監",
+     "decision": "排除",
+     "reason": "Dimsum夜稿為上一版同一判刑改寫。"
+    },
+    {
+     "card": "集森細筍未標二氧化硫",
+     "decision": "排除",
+     "reason": "上一版已發布同一回收事件。"
+    },
+    {
+     "card": "直資及全日幼稚園學費",
+     "decision": "保留",
+     "reason": "上一版為非本地大學生學費，今篇為直資中小學及全日幼園2026/27加費審批統計，對象及新事實不同。"
+    },
+    {
+     "card": "中環電車站衝突",
+     "decision": "保留",
+     "reason": "原文新刊23:02警方回應10月4日事件；前版未收，撮要明寫四日，並不聲稱昨晚發生。"
+    }
+   ],
+   "exactPreviousUrlDuplicates": [],
+   "limits": [
+    "星島保安遣散費稿為網民求助轉述，未有僱主回應或法院裁定；卡面明示網民及未裁定，不把網民法律理解當事實。",
+    "廣福邨稿凌晨更新仍寫「明日」恢復升降機，日期不明，卡面只寫換件待修，沒有猜是7日或8日。",
+    "THEi為研究項目及比賽成果，未聲稱已商用或獨立驗證識別準確率。",
+    "中環衝突發生10月4日，新聞發放10月6日23:02，屬首次新刊警方回應。"
+   ],
+   "trackUpdates": [],
+   "newTracks": [
+    {
+     "row": [
+      "港·富泰邨女童啤酒事件",
+      "警方學校跟進",
+      "香港01 7日03:27報道，警方接獲學校報案調查6日晚女童拎啤酒事件；校方社工與老師已介入，尚未有虐兒罪名裁定。"
+     ],
+     "keys": [
+      "富泰邨.*女童",
+      "女童.*啤酒"
+     ]
+    },
+    {
+     "row": [
+      "港·東涌綫十一月提早收車",
+      "十一月廿八日施工",
+      "香港01 7日00:50報道，11月28日晚東涌至欣澳約23時提早兩小時收車，進行第三次波口安裝，設免費接駁巴士；其餘路段正常。"
+     ],
+     "keys": [
+      "東涌.*欣澳.*收車",
+      "東涌.*十一月.*收車",
+      "東涌綫.*11.28"
+     ]
+    },
+    {
+     "row": [
+      "港·HKBN舊數據機QR碼風險",
+      "連結已被封鎖",
+      "Dimsum 6日21:41報道，2021年8月前安裝一批數據機QR碼導往可疑頁面；供應商稱第三方網站結業後域名轉手、並非黑客，已按警方要求封鎖連結。"
+     ],
+     "keys": [
+      "寬頻.*(?:QR|二維碼)",
+      "數據機.*QR",
+      "HKBN.*QR"
+     ]
+    },
+    {
+     "row": [
+      "港·安柏苑外牆修繕",
+      "爭取十月中完成",
+      "星島7日08:00新刊訪問業主披露安柏苑外牆起泡滲漏；房署回覆指已完成逾八成修繕，承建商爭取10月中前完成，完工後再核實。"
+     ],
+     "keys": [
+      "安柏苑",
+      "安達臣.*外牆"
+     ]
+    }
+   ],
+   "formalFilesChanged": false
+  },
+  "root": {
+   "checkedAt": "2026-10-07T00:35:18.979Z",
+   "notes": [
+    "西九9.98億元為2025/26基本赤字預計值，並非現金餘額；住宅招標為2027上半年預期。",
+    "經濟自由度為菲沙研究所指標及排名，不等同已證明市民生活或政治自由改善。",
+    "美股收市為美東10月6日完成交易，與前版香港恒指不同；不重刊噚日前一晚納指。",
+    "國安AI學習平台依新聞報道，不以支持者評語當實證成效；未直接引用政府公報。",
+    "01主筆室及譚鎮國兩篇為評論/倡議，清楚標示非新法已落實。",
+    "Standard八人被捕候選主體是九月執法，措辭多推論，未用來冒充今晨新拘捕；星島選委舊稿08:47早於硬窗排除。"
+   ],
+   "newTracks": [
+    {
+     "row": [
+      "港·西九文化區財政及招標",
+      "待二〇二七年招標",
+      "有線6日晚報道2025/26基本赤字料9.98億元；管理局料2027上半年住宅招標，一筆過216億元撥款預計本財政年度用完，後續融資及收入待觀察。"
+     ],
+     "keys": [
+      "西九.*(?:赤字|招標|財政)",
+      "西九演藝中心"
+     ]
+    }
+   ],
+   "trackUpdates": {}
+  },
+  "world": {
+   "date": "2026-10-07",
+   "edition": "am",
+   "counts": {
+    "cn": 8,
+    "us": 3,
+    "tw": 3,
+    "war": 3
+   },
+   "outlets": {
+    "cn": [
+     "香港01",
+     "聯合早報",
+     "大紀元"
+    ],
+    "us": [
+     "大紀元",
+     "香港01"
+    ],
+    "tw": [
+     "聯合新聞網",
+     "自由時報",
+     "大紀元"
+    ],
+    "war": [
+     "香港01",
+     "Iran International"
+    ]
+   },
+   "verification": "17篇完整正文已讀；全部原文200、圖片200，MIME/實際magic/Pillow解碼及montage目視成功；第二次原文og:image逐字核對17張均相符。",
+   "limits": [
+    "APEC三方會晤的早報原文og:image為媒體logo，並非會晤現場相片；會晤仍未敲定。",
+    "中國WHO提名屬路透消息人士報道，宋莉及代表團未回應；非已當選。",
+    "ARTEX全球600IP包括合法測試，不能推定全部被黑客控制或中國國家級攻擊。",
+    "GDP4.4%及星展未來十五年3%均為預測，非已公布實績；星展科技領先說法沒有當作已證實硬事實。",
+    "加拿大聯網車文章為智庫風險研討，沒有當作已發生破壞電網或竊密。",
+    "大紀元司法部長文為已刊專訪預告；完整節目預定美東6日晚9時（HKT7日09:00）播出，不聲稱已看該節目。",
+    "台無人機4000架月產能屬企業未來目標，並非已達量產。",
+    "英基地案累計七人被捕但前六人已保釋；伊朗牽涉仍屬疑似；油輪攻擊者未確認。",
+    "II談判文章為分析及引述立場，外交渠道沒有完全中斷；其div.blocks完整正文已讀，未混入RelatedArticles。"
+   ],
+   "dedup": [
+    "所有17張URL均與上一版排除清單不同。",
+    "美伊新資料為和平號油輪12傷（11印度籍）、英基地案新增第七名22歲被捕人及最新外交僵局分析；不同於上一版沙特機場三傷、革命衛隊油款網絡及胡塞航運分析。",
+    "國際組與上一版沒有同題換媒體重收；中美俄會晤屬新增APEC初步構想，保留未敲定限制。"
+   ],
+   "excluded": [
+    "大紀元蔡英文訪美14864515全文標示轉自台灣中央社，剔除。",
+    "大紀元蘇姿丰14864603原文發放09:07:34，現時未來；晶片走私14864409發放15:25:07且超窗，剔除。",
+    "香港01國慶旅遊60396955為觀察者網授權刊載、帶明顯宣傳式評論，未用；並未把21.3億預測當實際出遊人數。",
+    "早報商務部回應9794565發放20:49:52及CZ專訪9793746發放20:10:13早於硬窗，剔除。"
+   ],
+   "trackSuggestions": [
+    {
+     "name": "🔥 美伊戰爭（2026）",
+     "status": "航運遇襲外交僵持",
+     "progress": "香港01 7日報道和平號油輪在阿曼附近遇襲12船員傷、11人印度籍，攻擊者未確認；英費爾福德基地恐襲案新增22歲男被捕，累計七人而前六人保釋。Iran International分析美伊拒在封鎖與軍事壓力下妥協、外交仍未中斷；涉伊朗策劃襲擊仍未裁定。"
+    },
+    {
+     "name": "美中·川習會",
+     "status": "三方會晤未敲定",
+     "progress": "聯合早報7日引路透報道，俄方倡在11月18至19日深圳APEC期間安排普京、特朗普及習近平三方會晤，構想仍初步未敲定；不是已確認的新峰會。"
+    }
+   ],
+   "newTracks": [
+    {
+     "row": [
+      "台·台南鐵路地下化首階段",
+      "十六日晚切換",
+      "自由時報7日報道10月16日晚22時起分階段封鎖切換軌道，12列次受影響並設公路接駁；17日06:29首班地下化列車往花蓮，仍屬待實施安排。"
+     ],
+     "keys": [
+      "台南.*地下化",
+      "台南.*切換.*軌道"
+     ],
+     "futureDate": "2026-10-16/2026-10-17"
+    },
+    {
+     "row": [
+      "台·陽信銀行疑詐貸案",
+      "經理交保候查",
+      "聯合新聞網7日報道陽信銀前古亭分行經理楊宜蓁涉放水兩宗逾2億台幣貸款，凌晨以50萬元交保，其他涉案人亦交保或請回；尚未定罪。"
+     ],
+     "keys": [
+      "陽信.*詐貸",
+      "陽信.*經理.*交保"
+     ],
+     "futureDate": null
+    },
+    {
+     "row": [
+      "美·沖繩駐軍涉劫殺及宵禁",
+      "九日起三十天限制",
+      "香港01 7日報道駐沖繩美軍因士兵涉嫌劫殺風波，下令10月9日起30天每日零時至5時禁外出，7日中午至9日中午停日常勤務及禁酒；刑事責任待司法裁決。"
+     ],
+     "keys": [
+      "沖繩.*宵禁",
+      "駐沖繩美軍.*三十天",
+      "駐沖繩美軍.*30天"
+     ],
+     "futureDate": "2026-10-09"
+    }
+   ]
+  },
+  "briefs": {
+   "checkedAt": "2026-10-07T08:38:30.712859+08:00",
+   "sourceCounts": {
+    "ai": 4,
+    "warb": 3
+   },
+   "mediaCounts": {
+    "ai": 3,
+    "warb": 2
+   },
+   "bodyChars": {
+    "ai": 353,
+    "warb": 301
+   },
+   "allWindowPass": true,
+   "previousURLDuplicates": [],
+   "previousContentReviewed": true,
+   "originalBodiesRead": true,
+   "imagesOriginalOGExact": true,
+   "imagesHTTPMimeMagicDecodedAndViewed": true,
+   "searchQueries": [
+    "AI lawsuit regulation hack incident October 6 2026 Wikimedia OpenAI",
+    "AI regulation lawsuit October 7 2026"
+   ],
+   "searchFindings": "Wikimedia事故為本窗新報道，但原基金會公告10月5日，事件包括五月服務局部故障；明示歷史，未稱今晨新攻擊。另搜尋到9月29日訴訟及10月1日監管傳票，超窗未使用。Register Copilot13:00Z正好21:00邊界，剔除。",
+   "limitations": [
+    "The Register可見時間17:04 UTC與meta/JSONLD16:04Z差一小時；採meta/JSONLD，同一窗內，不影響入選。",
+    "Wikimedia兩篇媒體報道同一調查，唔係兩宗事故或兩次獨立調查；文中未疊加計數。",
+    "Mistral排名及安全測試有公司自述，正文僅採獨立指數並保留拒答影響。",
+    "兩篇WAR含分析評論；軍事成果不可由專家評論當作獨立戰果驗證。",
+    "AI圖片為原文標示Nano Banana Pro生成示意圖，並非事故現場照片；WAR圖片為原文10月6日Mashhad集會照片。"
+   ],
+   "blockers": [],
+   "warTrackSuggestion": {
+    "name": "🔥 美伊戰爭（2026）",
+    "progress": "Iran International今晨報道外交立場繼續收緊，評論警告誤判風險；Trump洛杉磯言論引加州官員批評，白宮澄清並非鼓勵攻擊。Al Jazeera新分析指也門政府軍協調改善但進展有限，胡塞仍向Taiz施壓；未證全面逆轉。",
+    "sourceURLs": [
+     "https://www.iranintl.com/en/202610060998",
+     "https://www.iranintl.com/en/202610066353",
+     "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed"
+    ]
+   },
+   "wpTimeEvidence": "briefs-wp-time-evidence.json：Decoder date比date_gmt快2h，meta等於date_gmt；TechCrunch date比date_gmt慢7h，meta等於date_gmt。全部由GMT轉HKT+8。"
+  },
+  "adjudication": [
+   "自檢無重複或跨追蹤警告；逐組人工覆核39條，與上一版無相同文章URL",
+   "直資及幼園加費審批與上一版非本地大學生學費屬不同對象；排除蔡天鳳證供回顧、公屋同宗判刑及同一食品回收改寫",
+   "中環衝突發生10月4日，今窗新刊警方回應，撮要明示四日；沒有當成今晨新事故",
+   "美股為美東10月6日收市，與上一晚港股及再上一版美股交易日不同；兩項中國經濟預測不是實際公布GDP",
+   "APEC三方會晤只是初步構想，原文圖為媒體logo；司法部長專訪為預告，沒有聲稱看過09時才播的節目",
+   "同一美伊分析文章可同時作戰爭卡及簡報來源；AI兩篇Wikimedia報道為同一調查，不計為兩宗事故，明示五月故障及較早事件",
+   "國安AI學習平台、議員薪酬及狗隻登記評論分別標示報道、媒體意見及倡議，未當成成效驗證或已修法；AI插圖明示原文生成示意圖"
+  ]
+ },
+ "schedule": {
+  "am": "08:30",
+  "pmDraft": "20:30",
+  "pmRefresh": "21:45",
+  "status": "ACTIVE",
+  "changed": false
+ }
+}
