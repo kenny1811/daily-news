@@ -1,0 +1,2753 @@
+{
+ "date": "2026-10-10",
+ "edition": "am",
+ "publication": {
+  "date": "2026-10-10",
+  "edition": "am",
+  "publishedAtHKT": "2026-10-10 08:39:09",
+  "previousTrackCount": 205,
+  "trackCount": 232,
+  "formalSelfcheckExit": 0,
+  "files": [
+   "data/2026-10-10.json",
+   "data/index.json",
+   "tools/track_keys.json",
+   "tools/lowfreq.json"
+  ]
+ },
+ "imageAudit": {
+  "checkedAtHKT": "2026-10-10T08:36:30.737801+08:00",
+  "images": [
+   {
+    "group": "hks",
+    "title": "獅子山十七歲少女不適直升機救起",
+    "url": "https://www.hk01.com/article/60398117",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185500537760518144348216.jpeg/LlWaFaV-FbaNE-hbtyPK94UDWB7vpgM1MDoNwjA6DcI?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185500537760518144348216.jpeg/LlWaFaV-FbaNE-hbtyPK94UDWB7vpgM1MDoNwjA6DcI?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 165524,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675,
+    "checkedAt": "2026-10-10T08:36:20.910800+08:00"
+   },
+   {
+    "group": "hks",
+    "title": "大老山公路貨車跌卡板阻路",
+    "url": "https://www.hk01.com/article/60398102",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185410980255895552234896.png/UuP0TsYTmEulgoTxL2cthBVZQpxMWgUmNFpZbjRaWW4",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185410980255895552234896.png/UuP0TsYTmEulgoTxL2cthBVZQpxMWgUmNFpZbjRaWW4",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 223438,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675,
+    "checkedAt": "2026-10-10T08:36:20.975418+08:00"
+   },
+   {
+    "group": "hks",
+    "title": "元朗八旬婦疑食粥鯁喉送院後清醒",
+    "url": "https://www.hk01.com/article/60398114",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185481455061438464794528.jpeg/Ly3iTpvLYVUT8GJLhWrCvngouYEDom1Qlmmy9qxpsvY?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185481455061438464794528.jpeg/Ly3iTpvLYVUT8GJLhWrCvngouYEDom1Qlmmy9qxpsvY?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 121563,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675,
+    "checkedAt": "2026-10-10T08:36:20.835089+08:00"
+   },
+   {
+    "group": "hks",
+    "title": "油麻地男子房內暈倒當場不治",
+    "url": "https://www.hk01.com/article/60398103",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185391614932029440306841.jpeg/edgYQ29g9JYU-1MiLBL0D4wshAODcMtQbY3mHm2N5h4?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185391614932029440306841.jpeg/edgYQ29g9JYU-1MiLBL0D4wshAODcMtQbY3mHm2N5h4?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 113725,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:20.823122+08:00"
+   },
+   {
+    "group": "hks",
+    "title": "藍田平田邨設施大樓男子猝死",
+    "url": "https://www.hk01.com/article/60398101",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185382712253353984387046.jpeg/A_8EXFziCNhy3KAoSdlhjdnf9qqVSjghX5JvrWWSb60?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185382712253353984387046.jpeg/A_8EXFziCNhy3KAoSdlhjdnf9qqVSjghX5JvrWWSb60?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 158803,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:20.905392+08:00"
+   },
+   {
+    "group": "hks",
+    "title": "屯公凌志司機公開車鏡片解畫",
+    "url": "https://www.stheadline.com/breaking-news/3624489/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/fb995ee67ca92828f5f766facdbd4448/2026-10/2026-10-10_00_40_35.png",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/fb995ee67ca92828f5f766facdbd4448/2026-10/2026-10-10_00_40_35.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png; charset=UTF-8",
+    "bytes": 328189,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1198,
+    "height": 588,
+    "checkedAt": "2026-10-10T08:36:20.475439+08:00"
+   },
+   {
+    "group": "hks",
+    "title": "黃竹坑畫廊停業後藝術家追款",
+    "url": "https://www.dimsumdaily.hk/tang-contemporary-closes-wong-chuk-hang-gallery-as-artists-allege-unpaid-fees-and-withheld-works/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09221755/Tang-Contemporary3-33.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09221755/Tang-Contemporary3-33.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 192430,
+    "magicHex": "52494646a6ef02005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1176,
+    "height": 924,
+    "checkedAt": "2026-10-10T08:36:20.885930+08:00"
+   },
+   {
+    "group": "hks",
+    "title": "北角護老樂三長者帶耐藥菌",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/511836/%E5%8C%97%E8%A7%92-%E8%AD%B7%E8%80%81%E6%A8%82-%E5%AE%89%E8%80%81%E9%99%A2%E7%88%86%E8%85%B8%E9%81%93%E6%A1%BF%E8%8F%8C-3%E9%95%B7%E8%80%85%E5%8F%97%E6%84%9F%E6%9F%93%E7%84%A1",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/10065007/CHP-ELDER-261009-2115_frame_0.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/10065007/CHP-ELDER-261009-2115_frame_0.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 689150,
+    "magicHex": "ffd8ffe000104a46494600010102001c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080,
+    "checkedAt": "2026-10-10T08:36:21.293000+08:00"
+   },
+   {
+    "group": "hkl",
+    "title": "中大研究指四成學生有孤獨感",
+    "url": "https://www.hk01.com/article/60397584",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260915/1176539752540016640826051.jpeg/ykaXTQsKpWg9Wx_lfV5r3lpbktOhMubr8IJqgtWCaoI?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260915/1176539752540016640826051.jpeg/ykaXTQsKpWg9Wx_lfV5r3lpbktOhMubr8IJqgtWCaoI?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 160576,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:22.014432+08:00"
+   },
+   {
+    "group": "hkl",
+    "title": "中大首屆科博薈逾四十五團隊參展",
+    "url": "https://www.hk01.com/article/60397906",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261009/1185368039688769536079238.jpeg/V1VykYRE5U6qgvlGbWwGJDHrd-JZzNXKKgKO9yoCjvc?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261009/1185368039688769536079238.jpeg/V1VykYRE5U6qgvlGbWwGJDHrd-JZzNXKKgKO9yoCjvc?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 192887,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:22.496841+08:00"
+   },
+   {
+    "group": "hkl",
+    "title": "馬莎沙律青醬疑染沙門氏菌下架",
+    "url": "https://www.hk01.com/article/60398098",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20250819/1034429892264988672947085.jpeg/ndCwd3aLFTt_cHGhkwV-Sihw0taiecsVkhGUHJIRlBw?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20250819/1034429892264988672947085.jpeg/ndCwd3aLFTt_cHGhkwV-Sihw0taiecsVkhGUHJIRlBw?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 246691,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:22.567556+08:00"
+   },
+   {
+    "group": "hkl",
+    "title": "維園年宵四百攤位競投全部租出",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/511822/%E7%B6%AD%E5%9C%92%E5%B9%B4%E5%AE%B5400%E6%94%A4%E4%BD%8D%E7%A7%9F%E5%87%BA-%E7%B8%BD%E6%94%B6%E5%85%A5%E9%80%BE865%E8%90%AC%E8%BC%83%E5%8E%BB%E5%B9%B4%E4%B8%8B%E8%B7%8C",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/10052823/vlcsnap-2026-10-09-21h27m16s625.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/10052823/vlcsnap-2026-10-09-21h27m16s625.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 587620,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080,
+    "checkedAt": "2026-10-10T08:36:23.250988+08:00"
+   },
+   {
+    "group": "hkl",
+    "title": "甲一籃球永倫南華分別大勝",
+    "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/511842/%E7%94%B2%E4%B8%80%E7%B1%83%E7%90%83%E8%81%AF%E8%B3%BD-%E6%84%89%E5%9C%9261%E6%AF%94115%E6%B0%B8%E5%80%AB-%E5%8D%97%E8%8F%AF121%E6%AF%9473%E6%99%89%E8%A3%95",
+    "cardOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/10070250/BASKETBALL-HK-261009-2300_frame_1053.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/10070250/BASKETBALL-HK-261009-2300_frame_1053.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 328625,
+    "magicHex": "ffd8ffe000104a46494600010102001c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1080,
+    "checkedAt": "2026-10-10T08:36:23.123717+08:00"
+   },
+   {
+    "group": "hkl",
+    "title": "中大三學者躋身各自學科全球五強",
+    "url": "https://www.stheadline.com/edu-insights/3624387/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/ul/st_edu/3d41ce640e3d1b7c1ab4bd3e03cd818d/2026-10/261009_CUHKscholars_CoverPhoto_V1b_jpg_.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/ul/st_edu/3d41ce640e3d1b7c1ab4bd3e03cd818d/2026-10/261009_CUHKscholars_CoverPhoto_V1b_jpg_.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg; charset=UTF-8",
+    "bytes": 154220,
+    "magicHex": "ffd8ffe000104a464946000101010060",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675,
+    "checkedAt": "2026-10-10T08:36:22.527313+08:00"
+   },
+   {
+    "group": "hkl",
+    "title": "建築師學會促檢視工程投標制度",
+    "url": "https://www.hk01.com/article/60398082",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260915/1176510679658532864627138.jpeg/-BPfSX-5wPZiVSfl4BucKHk4VWixpfiw-Tf7Sdw3-0k?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260915/1176510679658532864627138.jpeg/-BPfSX-5wPZiVSfl4BucKHk4VWixpfiw-Tf7Sdw3-0k?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 78116,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:22.673868+08:00"
+   },
+   {
+    "group": "hkl",
+    "title": "美酒佳餚巡禮設三百四十個攤位",
+    "url": "https://www.hk01.com/article/60397292",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261008/1184913949422784512185439.png/clp9KWU81cFNZxy9Yxu_k-IixlWWWDd3ztkD3s7ZA94",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261008/1184913949422784512185439.png/clp9KWU81cFNZxy9Yxu_k-IixlWWWDd3ztkD3s7ZA94",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 184018,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 675,
+    "checkedAt": "2026-10-10T08:36:22.872660+08:00"
+   },
+   {
+    "group": "hke",
+    "title": "美股三大指數回升錄全周升幅",
+    "url": "https://www.straitstimes.com/business/companies-markets/wall-street-posts-weekly-gains-with-earnings-inflation-data-on-tap",
+    "cardOg": "https://cassette.sphdigital.com.sg/image/straitstimes/48193a92a5f440dd1d5291117b1738db6763c71ee946e6e507eb24f8adb7a1bf?w=1200",
+    "articleHTTP": 200,
+    "articleOg": "https://cassette.sphdigital.com.sg/image/straitstimes/48193a92a5f440dd1d5291117b1738db6763c71ee946e6e507eb24f8adb7a1bf?w=1200",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 107997,
+    "magicHex": "ffd8ffdb004300050304040403050404",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630,
+    "checkedAt": "2026-10-10T08:36:23.970562+08:00"
+   },
+   {
+    "group": "hke",
+    "title": "晶片初創融資估值擬25億美元",
+    "url": "https://www.channelnewsasia.com/business/exclusive-sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-sources-say-6448066",
+    "cardOg": "https://dam.mediacorp.sg/image/upload/s--ILXq3FkD--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-09T224151Z_1_LYNXMPEM981XA_RTROPTP_3_NETHERLANDS-GERMANY-CHIPS.JPG?itok=zT5vSxp7",
+    "articleHTTP": 200,
+    "articleOg": "https://dam.mediacorp.sg/image/upload/s--ILXq3FkD--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-09T224151Z_1_LYNXMPEM981XA_RTROPTP_3_NETHERLANDS-GERMANY-CHIPS.JPG?itok=zT5vSxp7",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 84293,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676,
+    "checkedAt": "2026-10-10T08:36:24.907438+08:00"
+   },
+   {
+    "group": "hke",
+    "title": "Kalshi查白宮發言人任命可疑交易",
+    "url": "https://www.channelnewsasia.com/business/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-6448026",
+    "cardOg": "https://dam.mediacorp.sg/image/upload/s--Yi0OWPSD--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-09T220329Z_1_LYNXMPEM981WO_RTROPTP_3_KALSHI-PERPETUAL-FUTURE.JPG?itok=x5Sj2BHS",
+    "articleHTTP": 200,
+    "articleOg": "https://dam.mediacorp.sg/image/upload/s--Yi0OWPSD--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-09T220329Z_1_LYNXMPEM981WO_RTROPTP_3_KALSHI-PERPETUAL-FUTURE.JPG?itok=x5Sj2BHS",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 59236,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676,
+    "checkedAt": "2026-10-10T08:36:24.859339+08:00"
+   },
+   {
+    "group": "hkp",
+    "title": "星島社論倡把人才外流化為港機遇",
+    "url": "https://www.stheadline.com/daily-editorial/3624483/",
+    "cardOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/1b08cff4bb9af86f7b0f133ee338e88e/2026-10/2026-10-10_00_15_06.png",
+    "articleHTTP": 200,
+    "articleOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/1b08cff4bb9af86f7b0f133ee338e88e/2026-10/2026-10-10_00_15_06.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png; charset=UTF-8",
+    "bytes": 505623,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 674,
+    "checkedAt": "2026-10-10T08:36:24.377423+08:00"
+   },
+   {
+    "group": "hkp",
+    "title": "議員倡向成年永久居民派千元券",
+    "url": "https://www.dimsumdaily.hk/lawmakers-urge-hk1000-vouchers-for-adult-residents-in-hong-kong/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09230715/HK1000.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09230715/HK1000.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 141820,
+    "magicHex": "52494646f42902005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1182,
+    "height": 928,
+    "checkedAt": "2026-10-10T08:36:24.283074+08:00"
+   },
+   {
+    "group": "hkp",
+    "title": "八旬翁涉萬元賄區議員獲准保釋",
+    "url": "https://www.dimsumdaily.hk/man-80-charged-over-hk10000-bribe-to-yau-tsim-mong-councillor-dozes-in-court/",
+    "cardOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09224850/pastor-333.webp",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09224850/pastor-333.webp",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/webp",
+    "bytes": 220076,
+    "magicHex": "52494646a45b03005745425056503858",
+    "decoded": true,
+    "format": "WEBP",
+    "width": 1176,
+    "height": 930,
+    "checkedAt": "2026-10-10T08:36:24.445374+08:00"
+   },
+   {
+    "group": "cn",
+    "title": "中歐達混能車出口減量共識",
+    "url": "https://www.hk01.com/article/60398110",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185460744708165632812349.png/kik1u57jNw-RoA0Jvj0gFzdjDeZilB_Ha3IqkmtyKpI?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20261010/1185460744708165632812349.png/kik1u57jNw-RoA0Jvj0gFzdjDeZilB_Ha3IqkmtyKpI?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 133455,
+    "magicHex": "ffd8ffe000104a464946000102010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:24.811143+08:00"
+   },
+   {
+    "group": "cn",
+    "title": "比亞迪暫不在美國銷售乘用車",
+    "url": "https://www.hk01.com/article/60398069",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20260429/1126136434739646464946807.jpeg/46ulRn6F98nWs-VnyneSFYUUsmwLQ4f93GMw5NxjMOQ?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20260429/1126136434739646464946807.jpeg/46ulRn6F98nWs-VnyneSFYUUsmwLQ4f93GMw5NxjMOQ?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 160651,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:24.997321+08:00"
+   },
+   {
+    "group": "cn",
+    "title": "德前情報局長涉間諜案被羈押",
+    "url": "https://www.epochtimes.com/b5/26/10/9/n14866936.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14866968-GettyImages-83909246-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14866968-GettyImages-83909246-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 41200,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359,
+    "checkedAt": "2026-10-10T08:36:25.551474+08:00"
+   },
+   {
+    "group": "cn",
+    "title": "小米十七Ultra在售價加千元",
+    "url": "https://www.epochtimes.com/b5/26/10/9/n14867042.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/08/id14823342-GettyImages-2087342797-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/08/id14823342-GettyImages-2087342797-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 237419,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359,
+    "checkedAt": "2026-10-10T08:36:25.907191+08:00"
+   },
+   {
+    "group": "cn",
+    "title": "廣西九家售電公司聯名求援",
+    "url": "https://www.epochtimes.com/b5/26/10/9/n14867020.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/07/id14809452-GettyImages-1227773826-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/07/id14809452-GettyImages-1227773826-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 141069,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359,
+    "checkedAt": "2026-10-10T08:36:25.912790+08:00"
+   },
+   {
+    "group": "cn",
+    "title": "外賣店主稱月做十六萬僅賺三千",
+    "url": "https://www.epochtimes.com/b5/26/10/9/n14866695.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/07/id14815922-GettyImages-2270899622-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/07/id14815922-GettyImages-2270899622-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 318149,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359,
+    "checkedAt": "2026-10-10T08:36:25.985672+08:00"
+   },
+   {
+    "group": "cn",
+    "title": "江淮汽車收跌近八個百分點",
+    "url": "https://www.epochtimes.com/b5/26/10/9/n14866950.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14866985-GettyImages-1138030995-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14866985-GettyImages-1138030995-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 228106,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359,
+    "checkedAt": "2026-10-10T08:36:26.299934+08:00"
+   },
+   {
+    "group": "cn",
+    "title": "經濟學者質疑中國刺激力度",
+    "url": "https://www.epochtimes.com/b5/26/10/9/n14866935.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2014/06/1406071017292320-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2014/06/1406071017292320-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 23567,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359,
+    "checkedAt": "2026-10-10T08:36:26.299425+08:00"
+   },
+   {
+    "group": "us",
+    "title": "美制裁國際刑事法院服務交易",
+    "url": "https://www.hk01.com/article/60398097",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20250924/1047316676393046016412983.jpeg/7zapPiyiwYNv5T4947YEw31HhKy0vmJU4AHHc-ABx3M?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20250924/1047316676393046016412983.jpeg/7zapPiyiwYNv5T4947YEw31HhKy0vmJU4AHHc-ABx3M?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 215931,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:26.611226+08:00"
+   },
+   {
+    "group": "us",
+    "title": "特朗普設委員會調查庫克",
+    "url": "https://www.hk01.com/article/60398105",
+    "cardOg": "https://cdn.hk01.com/di/media/images/dw/20250826/1036943257528963072082546.jpeg/icSvcURQf_NQqsdwrMH7A9w8WCQYg7X-Uuvjl1Lr45c?v=w1280r16_9",
+    "articleHTTP": 200,
+    "articleOg": "https://cdn.hk01.com/di/media/images/dw/20250826/1036943257528963072082546.jpeg/icSvcURQf_NQqsdwrMH7A9w8WCQYg7X-Uuvjl1Lr45c?v=w1280r16_9",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 126003,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1280,
+    "height": 720,
+    "checkedAt": "2026-10-10T08:36:26.738808+08:00"
+   },
+   {
+    "group": "us",
+    "title": "飛紐約航班遇湍流改降邁阿密",
+    "url": "https://www.epochtimes.com/b5/26/10/9/n14866902.htm",
+    "cardOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14866928-GettyImages-2281000484-700x359.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://i.epochtimes.com/assets/uploads/2026/10/id14866928-GettyImages-2281000484-700x359.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 139142,
+    "magicHex": "ffd8ffe000104a46494600010101012c",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 700,
+    "height": 359,
+    "checkedAt": "2026-10-10T08:36:26.981650+08:00"
+   },
+   {
+    "group": "tw",
+    "title": "嘉義女童欺凌民事案獲賠三萬",
+    "url": "https://news.ltn.com.tw/news/society/breakingnews/5601458",
+    "cardOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/5601458_1_1.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/5601458_1_1.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 55342,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 707,
+    "height": 525,
+    "checkedAt": "2026-10-10T08:36:27.386433+08:00"
+   },
+   {
+    "group": "tw",
+    "title": "台中競速遮車牌三人被拘提",
+    "url": "https://news.ltn.com.tw/news/society/breakingnews/5601453",
+    "cardOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/5601453_1_1.jpg",
+    "articleHTTP": 200,
+    "articleOg": "https://img.ltn.com.tw/Upload/news/600/2026/10/10/5601453_1_1.jpg",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 82387,
+    "magicHex": "ffd8ffe000104a464946000101010048",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 800,
+    "height": 600,
+    "checkedAt": "2026-10-10T08:36:27.411545+08:00"
+   },
+   {
+    "group": "tw",
+    "title": "新竹爭產父獲四分之一特留分",
+    "url": "https://udn.com/news/story/7321/9805875",
+    "cardOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35406896.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "articleHTTP": 200,
+    "articleOg": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/10/35406896.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 154843,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1279,
+    "height": 853,
+    "checkedAt": "2026-10-10T08:36:29.557573+08:00"
+   },
+   {
+    "group": "war",
+    "title": "聯合國特使警告也門重陷全面戰爭",
+    "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue",
+    "cardOg": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac942131fc2-1791574547.jpg?resize=1920%2C1440",
+    "articleHTTP": 200,
+    "articleOg": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac942131fc2-1791574547.jpg?resize=1920%2C1440",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 292086,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1440,
+    "checkedAt": "2026-10-10T08:36:29.521829+08:00"
+   },
+   {
+    "group": "war",
+    "title": "人權組織指伊朗一年處決逾二千人",
+    "url": "https://www.iranintl.com/en/202610091479",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/d9efe0c143421fb42692fd7224f460444b8b90b3-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/d9efe0c143421fb42692fd7224f460444b8b90b3-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 1393186,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1200,
+    "height": 630,
+    "checkedAt": "2026-10-10T08:36:29.132456+08:00"
+   },
+   {
+    "group": "war",
+    "title": "伊朗少年疑遭毆打後羈押死亡",
+    "url": "https://www.iranintl.com/en/202610097800",
+    "cardOg": "https://i.iranintl.com/images/rdk9umy0/production/0a8e0739f58104f278430aea90031fd53d83491b-768x961.png?rect=0,160,768,403&w=1200&h=630&q=66&fit=max&auto=format",
+    "articleHTTP": 200,
+    "articleOg": "https://i.iranintl.com/images/rdk9umy0/production/0a8e0739f58104f278430aea90031fd53d83491b-768x961.png?rect=0,160,768,403&w=1200&h=630&q=66&fit=max&auto=format",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 873311,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 768,
+    "height": 403,
+    "checkedAt": "2026-10-10T08:36:29.764241+08:00"
+   },
+   {
+    "group": "ai",
+    "title": "ai",
+    "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
+    "cardOg": "https://the-decoder.com/wp-content/uploads/2025/11/Anthropic-Cybersecurity.png",
+    "articleHTTP": 200,
+    "articleOg": "https://the-decoder.com/wp-content/uploads/2025/11/Anthropic-Cybersecurity.png",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/png",
+    "bytes": 13598,
+    "magicHex": "89504e470d0a1a0a0000000d49484452",
+    "decoded": true,
+    "format": "PNG",
+    "width": 1664,
+    "height": 936,
+    "checkedAt": "2026-10-10T08:36:30.735508+08:00"
+   },
+   {
+    "group": "warb",
+    "title": "warb",
+    "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue",
+    "cardOg": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac942131fc2-1791574547.jpg?resize=1920%2C1440",
+    "articleHTTP": 200,
+    "articleOg": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac942131fc2-1791574547.jpg?resize=1920%2C1440",
+    "exactOgMatch": true,
+    "imageHTTP": 200,
+    "contentType": "image/jpeg",
+    "bytes": 292086,
+    "magicHex": "ffd8ffe000104a464946000101000001",
+    "decoded": true,
+    "format": "JPEG",
+    "width": 1920,
+    "height": 1440,
+    "checkedAt": "2026-10-10T08:36:29.505763+08:00"
+   }
+  ],
+  "failures": []
+ },
+ "editorialReview": {
+  "reviewer": "world_am10",
+  "scope": "Independent editorial review of 16 HK, three HKE and three HKP cards; no own world cards re-reviewed.",
+  "checkedAt": "2026-10-10T08:38:52.594769+08:00",
+  "status": "Complete: no demonstrated source-ban violation or unresolved factual blocker; sourcing limitations retained.",
+  "readEvidence": [
+   "hk.json",
+   "hk-evidence.json",
+   "all 16 hk-article-hks/hkl body texts",
+   "root.json",
+   "root-review.json",
+   "root-market.txt",
+   "root-chip.txt",
+   "root-kalshi.txt",
+   "exclusions.json",
+   "previous.json",
+   "politics.json",
+   "politics-review.json",
+   "politics-evidence.json",
+   "politics-more-evidence.json",
+   "politics-editorial-article.txt",
+   "politics-bribe.txt",
+   "politics-voucher.txt"
+  ],
+  "findings": [
+   {
+    "severity": "caution",
+    "location": "hk.hkl[2]",
+    "url": "https://www.hk01.com/article/60398098",
+    "finding": "Single government statement dominates factual sourcing, without merchant response. Article has HK01 reporter attribution and no government press-release/full-reprint label. No verbatim-copy comparison was performed; this is an editorial sourcing limitation, NOT a demonstrated violation of the written source ban.",
+    "evidence": "hk-article-hkl-2.txt opens 食環署食安中心今日（9日）表示 and all factual product/recall details attributed to centre."
+   },
+   {
+    "severity": "caution",
+    "location": "hk.hks[7]",
+    "finding": "All outbreak facts attributed to CHP, no care-home or relative response. The article is attributed to Cable News and has no government release/full-reprint label. No direct verbatim-copy evidence; source restriction violation cannot be established from government-topic content alone.",
+    "evidence": "hk-article-hks-7.txt three short paragraphs, all outbreak findings and future screening from CHP."
+   },
+   {
+    "severity": "resolved",
+    "location": "root.hke[1]",
+    "finding": "Valuation headline should state USD; 2.5 billion without currency ambiguous. Review says company did not respond, article actually says declined to comment.",
+    "evidence": "root-chip.txt: roughly $2.5 billion valuation; funding not closed; Nuvacore declined to comment.",
+    "resolution": "Re-read root.json: headline now explicitly 25億美元. Parent confirmed declined-comment correction in review."
+   }
+  ],
+  "verified": [
+   "hks 8 has four publishers, hkl 8 has three publishers, hke 3 has two publishers, hkp 3 has two publishers (ST editorial and Dimsum Daily).",
+   "All 16 HK and three HKE first-publication metadata after Oct9 21:00 and before current local clock. No card URL repeats yesterday PM exclusions.",
+   "Lions Rock first paragraph identifies friend ill, later fuller paragraph explicitly states 17-year-old also felt unwell and was rescued; headline is supported by body, not description alone.",
+   "Yuen Long 87-year-old recovered consciousness explicitly in body; no invented death or continuing coma.",
+   "Oil Ma Tei 46-year-old and Lam Tin 57-year-old are separate addresses, ages and discoveries; cause awaits autopsy.",
+   "Tuen Mun driver dashboard footage and personal account is new evidence after yesterday traffic-delay story. Current card does not adopt driver's account as established responsibility.",
+   "Tang gallery story includes artists allegations and Vivian Har denial, unpaid liability remains disputed; Thai lawyer says suit filed despite gallery denial.",
+   "CUHK loneliness research surveyed 1462 last June-November; 40.4% is students, 34% young adults; card does not substitute all youth denominator.",
+   "CUHK science fair includes own reporter event photographs, university startup participation; card omits government speech and GDP promises.",
+   "Science citation card specifies own disciplines and 469 CUHK scholars; not university overall rank, different institutions from prior EdU/Lingnan story.",
+   "Architects Institute suggestions are a new stakeholder response after prior One Stanley warranty story; not completed reform or new proof of defective structure.",
+   "Wine and Dine article describes Oct29-Nov1 future event, advance card sales Oct7-11 and general sales Oct12; no claim event already open.",
+   "Basketball scores 115-61 and 121-73 yield 54 and 48 point margins as stated.",
+   "Wall Street close is Oct9 New York session, materially separate from yesterday PM Hong Kong close and Oct8 US close.",
+   "Nuvacore funding and valuation attributed to two sources, round not completed and could change.",
+   "Kalshi investigation attributed to WSJ quoting spokesperson; CNA/Reuters says Kalshi declined further comment; not proven insider trading.",
+   "HKP first publications Oct10 07:00:57, Oct9 23:09:34 and Oct9 22:54:41 HKT all satisfy first-publication window and precede checkedAt. DD article UTC metadata +8 consistent with producing-agent wp-json verification.",
+   "HKP ST daily editorial explicitly labelled media opinion and proposes stable residency/entrepreneurship policy. Does not recycle old US PERM/J1 background as a new decision or assert Hong Kong policy adopted. Editorial is an allowed project source; no government-release reprint label.",
+   "HKP voucher details at least HK$1000 for permanent residents aged 18+ and restored student allowance are stakeholder proposals. Prior PM card covered motion passing, vague KPIs, jobs and maintenance; fresh detailed proposals are distinct, not another report of the same vote. They remain unadopted proposals.",
+   "HKP bribe court appearance adds actual HK$2000 bail, no witness contact/no return to alleged scene, and December14 adjournment, beyond baseline charged-and-awaiting-Oct9-appearance. Card preserves allegation/unresolved guilt. Existing future court node now Dec14 must be retained.",
+   "Baseline exact tracks 港·區議員萬元行賄案 and 港·施政報告2026 match politics-review updates, preserving names and known future node. No HKP article URL duplicates prior PM exclusions.",
+   "HKP editorial photograph shows harbour ship background, not migration statistics; producing agent records this limited relevance and exact OG/actual PNG verification. DD voucher image is currency illustration, not evidence coupons were issued."
+  ],
+  "limits": [
+   "Three HKE publishers count is two but all underlying stories are Reuters; disclosed to parent.",
+   "Current review uses freshly fetched local original full-text/meta evidence, not independent image HTTP audit; parent/producing agents handle image verification.",
+   "Single-official-source cautions are not established violations under the written source rule. This independent review does not verify final track thresholds/low-frequency changes; parent owns final cross-check and selfcheck."
+  ]
+ },
+ "trackReview": {
+  "checkedAt": "2026-10-10T00:38:22.679Z",
+  "candidateSha256": "9e0ac0eb1bdc614a4ea5f351ab9bbb11455b7cde59e1573ca7154b23444cf572",
+  "scope": "唯讀對照完整候選39卡、兩篇brief、205條上一版track及27條新增track；語義、關鍵詞及既定未來節點覆核，不代替world/brief各原文事實及HTTP核實。",
+  "counts": {
+   "cards": 39,
+   "oldTracks": 205,
+   "newTracks": 27,
+   "allTracks": 232
+  },
+  "result": "pass_with_nonblocking_key_specificity_notes",
+  "missingOld": [],
+  "duplicateNames": [],
+  "badRowShape": [],
+  "falseNOP": [],
+  "matchedTracks": [
+   {
+    "name": "🔥 美伊戰爭（2026）",
+    "keys": [
+     "伊朗",
+     "以色列",
+     "霍爾木茲",
+     "德黑蘭",
+     "胡塞",
+     "美伊",
+     "革命衛隊"
+    ],
+    "hits": [
+     "war:人權組織指伊朗一年處決逾二千人",
+     "war:伊朗少年疑遭毆打後羈押死亡"
+    ]
+   },
+   {
+    "name": "港·獅子山少女不適救援",
+    "keys": [
+     "獅子山十七歲",
+     "獅子山少女不適",
+     "獅子山17歲"
+    ],
+    "hits": [
+     "hks:獅子山十七歲少女不適直升機救起"
+    ]
+   },
+   {
+    "name": "港·大老山貨車散落卡板",
+    "keys": [
+     "大老山公路貨車跌",
+     "大老山貨車散落"
+    ],
+    "hits": [
+     "hks:大老山公路貨車跌卡板阻路"
+    ]
+   },
+   {
+    "name": "港·元朗院舍鯁喉事故",
+    "keys": [
+     "元朗八旬婦疑食粥",
+     "元朗院舍鯁喉"
+    ],
+    "hits": [
+     "hks:元朗八旬婦疑食粥鯁喉送院後清醒"
+    ]
+   },
+   {
+    "name": "港·油麻地澤興樓男子死亡",
+    "keys": [
+     "油麻地男子房內",
+     "澤興樓男子"
+    ],
+    "hits": [
+     "hks:油麻地男子房內暈倒當場不治"
+    ]
+   },
+   {
+    "name": "港·平田邨設施大樓男子死亡",
+    "keys": [
+     "平田邨設施大樓男子",
+     "平田邨服務設施大樓"
+    ],
+    "hits": [
+     "hks:藍田平田邨設施大樓男子猝死"
+    ]
+   },
+   {
+    "name": "港·當代唐人畫廊欠款爭議",
+    "keys": [
+     "黃竹坑畫廊停業",
+     "當代唐人畫廊",
+     "Tang Contemporary"
+    ],
+    "hits": [
+     "hks:黃竹坑畫廊停業後藝術家追款"
+    ]
+   },
+   {
+    "name": "港·馬莎沙律青醬回收",
+    "keys": [
+     "馬莎沙律青醬",
+     "馬莎預先包裝沙律"
+    ],
+    "hits": [
+     "hkl:馬莎沙律青醬疑染沙門氏菌下架"
+    ]
+   },
+   {
+    "name": "美·Nuvacore新融資洽談",
+    "keys": [
+     "Nuvacore"
+    ],
+    "hits": [
+     "hke:晶片初創融資估值擬25億美元"
+    ]
+   },
+   {
+    "name": "美·Kalshi白宮任命交易調查",
+    "keys": [
+     "Kalshi",
+     "白宮發言人任命"
+    ],
+    "hits": [
+     "hke:Kalshi查白宮發言人任命可疑交易"
+    ]
+   },
+   {
+    "name": "中·中歐混能車貿易共識",
+    "keys": [
+     "混能車",
+     "插電混能",
+     "中歐貿易"
+    ],
+    "hits": [
+     "cn:中歐達混能車出口減量共識"
+    ]
+   },
+   {
+    "name": "中·比亞迪美國乘用車計劃",
+    "keys": [
+     "比亞迪",
+     "李柯"
+    ],
+    "hits": [
+     "cn:比亞迪暫不在美國銷售乘用車"
+    ]
+   },
+   {
+    "name": "中·德前情報局長涉間諜案",
+    "keys": [
+     "漢寧",
+     "德前情報局長"
+    ],
+    "hits": [
+     "cn:德前情報局長涉間諜案被羈押"
+    ]
+   },
+   {
+    "name": "中·小米在售手機加價",
+    "keys": [
+     "小米",
+     "Ultra"
+    ],
+    "hits": [
+     "cn:小米十七Ultra在售價加千元"
+    ]
+   },
+   {
+    "name": "中·廣西售電公司虧損",
+    "keys": [
+     "廣西",
+     "售電"
+    ],
+    "hits": [
+     "cn:廣西九家售電公司聯名求援"
+    ]
+   },
+   {
+    "name": "中·外賣店帳本爭議",
+    "keys": [
+     "外賣店",
+     "帳本"
+    ],
+    "hits": [
+     "cn:外賣店主稱月做十六萬僅賺三千"
+    ]
+   },
+   {
+    "name": "中·刺激政策力度討論",
+    "keys": [
+     "刺激力度",
+     "經濟學者質疑"
+    ],
+    "hits": [
+     "cn:經濟學者質疑中國刺激力度"
+    ]
+   },
+   {
+    "name": "美·國際刑事法院制裁",
+    "keys": [
+     "國際刑事法院",
+     "ICC"
+    ],
+    "hits": [
+     "us:美制裁國際刑事法院服務交易"
+    ]
+   },
+   {
+    "name": "美·聯儲理事庫克調查",
+    "keys": [
+     "庫克",
+     "Lisa Cook"
+    ],
+    "hits": [
+     "us:特朗普設委員會調查庫克"
+    ]
+   },
+   {
+    "name": "美·Avianca042湍流備降",
+    "keys": [
+     "湍流",
+     "邁阿密",
+     "Avianca"
+    ],
+    "hits": [
+     "us:飛紐約航班遇湍流改降邁阿密"
+    ]
+   },
+   {
+    "name": "台·嘉義女童校園欺凌民事案",
+    "keys": [
+     "嘉義女童",
+     "欺凌民事"
+    ],
+    "hits": [
+     "tw:嘉義女童欺凌民事案獲賠三萬"
+    ]
+   },
+   {
+    "name": "台·台中競速遮牌案",
+    "keys": [
+     "競速",
+     "遮車牌"
+    ],
+    "hits": [
+     "tw:台中競速遮車牌三人被拘提"
+    ]
+   },
+   {
+    "name": "台·新竹父子遺產特留分案",
+    "keys": [
+     "特留分",
+     "新竹爭產"
+    ],
+    "hits": [
+     "tw:新竹爭產父獲四分之一特留分"
+    ]
+   },
+   {
+    "name": "美·伊朗年度處決人權統計",
+    "keys": [
+     "HRANA",
+     "處決逾二千"
+    ],
+    "hits": [
+     "war:人權組織指伊朗一年處決逾二千人"
+    ]
+   },
+   {
+    "name": "美·伊朗少年Omid羈押死亡",
+    "keys": [
+     "伊朗少年",
+     "Omid Ghanouni"
+    ],
+    "hits": [
+     "war:伊朗少年疑遭毆打後羈押死亡"
+    ]
+   }
+  ],
+  "newTrackCoverage": [
+   {
+    "name": "港·獅子山少女不適救援",
+    "cardHits": [
+     "hks:獅子山十七歲少女不適直升機救起"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "港·大老山貨車散落卡板",
+    "cardHits": [
+     "hks:大老山公路貨車跌卡板阻路"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "港·元朗院舍鯁喉事故",
+    "cardHits": [
+     "hks:元朗八旬婦疑食粥鯁喉送院後清醒"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "港·油麻地澤興樓男子死亡",
+    "cardHits": [
+     "hks:油麻地男子房內暈倒當場不治"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "港·平田邨設施大樓男子死亡",
+    "cardHits": [
+     "hks:藍田平田邨設施大樓男子猝死"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "港·當代唐人畫廊欠款爭議",
+    "cardHits": [
+     "hks:黃竹坑畫廊停業後藝術家追款"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "港·馬莎沙律青醬回收",
+    "cardHits": [
+     "hkl:馬莎沙律青醬疑染沙門氏菌下架"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "美·Nuvacore新融資洽談",
+    "cardHits": [
+     "hke:晶片初創融資估值擬25億美元"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "美·Kalshi白宮任命交易調查",
+    "cardHits": [
+     "hke:Kalshi查白宮發言人任命可疑交易"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "中·中歐混能車貿易共識",
+    "cardHits": [
+     "cn:中歐達混能車出口減量共識"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "中·比亞迪美國乘用車計劃",
+    "cardHits": [
+     "cn:比亞迪暫不在美國銷售乘用車"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "中·德前情報局長涉間諜案",
+    "cardHits": [
+     "cn:德前情報局長涉間諜案被羈押"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "中·小米在售手機加價",
+    "cardHits": [
+     "cn:小米十七Ultra在售價加千元"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "中·廣西售電公司虧損",
+    "cardHits": [
+     "cn:廣西九家售電公司聯名求援"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "中·外賣店帳本爭議",
+    "cardHits": [
+     "cn:外賣店主稱月做十六萬僅賺三千"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "中·刺激政策力度討論",
+    "cardHits": [
+     "cn:經濟學者質疑中國刺激力度"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "美·國際刑事法院制裁",
+    "cardHits": [
+     "us:美制裁國際刑事法院服務交易"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "美·聯儲理事庫克調查",
+    "cardHits": [
+     "us:特朗普設委員會調查庫克"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "美·Avianca042湍流備降",
+    "cardHits": [
+     "us:飛紐約航班遇湍流改降邁阿密"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "台·嘉義女童校園欺凌民事案",
+    "cardHits": [
+     "tw:嘉義女童欺凌民事案獲賠三萬"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "台·台中競速遮牌案",
+    "cardHits": [
+     "tw:台中競速遮車牌三人被拘提"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "台·新竹父子遺產特留分案",
+    "cardHits": [
+     "tw:新竹爭產父獲四分之一特留分"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "美·伊朗年度處決人權統計",
+    "cardHits": [
+     "war:人權組織指伊朗一年處決逾二千人"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "美·伊朗少年Omid羈押死亡",
+    "cardHits": [
+     "war:伊朗少年疑遭毆打後羈押死亡"
+    ],
+    "briefBacked": false
+   },
+   {
+    "name": "美·Anthropic假命案線報事件",
+    "cardHits": [],
+    "briefBacked": true
+   },
+   {
+    "name": "美·Claude動態多agent工作流",
+    "cardHits": [],
+    "briefBacked": true
+   },
+   {
+    "name": "美·Anthropic開源漏洞scanner",
+    "cardHits": [],
+    "briefBacked": true
+   }
+  ],
+  "semanticDecisions": [
+   "27條新增分別對應24張新聞卡及3項AI簡報發展，沒有相同事件另取名重複。",
+   "江淮收市變動沿用尊界踏板track；不另起江淮跌市同事件線索，亦未把跌幅單一歸因於測試。",
+   "屯公新卡是司機新公開前後鏡片，原首宗5傷與三宗合計8傷分開，警方未裁責任。",
+   "北角天龍苑5人與護老樂3人分開記，廣義原track新增另一院舍群組，未混加人數。",
+   "馬莎回收未誤作原法國芝士或集森細筍進展，三者產品、批次及致病原不同。",
+   "安達臣及One Stanley兩舊track新增學會改革建議時保留原調查及保養內容，未宣稱新安全裁決或拆卸完成。",
+   "伊朗年度死刑數與少年羈押死亡另起具體track，同時總戰事track記錄，屬概覽加專項；不當成當日戰事傷亡。",
+   "台灣六月校園欺凌調解及本月首次採訪、台中7日拘提與10日首發、德6日被捕與8日明鏡披露，均明示事件日期，不稱今日判決或拘捕。",
+   "三項AI新track由簡報支持，39卡沒有命中不構成漏配。"
+  ],
+  "futureNodes": {
+   "preservation": "所有205條舊線索原名保留；未更新的NOP進展逐條延續原文字，因此原有既定節點保留，沒有除名。",
+   "nearTerm": [
+    "新皇崗10月12日06:30開通",
+    "蔡天鳳案10月12日續審",
+    "碧瑤灣案10月21日再訊",
+    "美容師案10月27日判刑",
+    "五男與14歲女童案10月30日判刑",
+    "青馬巴士兩死案11月25日再訊",
+    "八旬翁賄區議員案新增12月14日再訊"
+   ],
+   "newFuture": [
+    "中歐混能車10月15日歐盟峰會再議",
+    "庫克調查11月5日聽證"
+   ],
+   "caveats": [
+    "內地燃油附加費10月10日生效節點是今日，原track明確仍為先前宣布而未宣稱已查證全航司落實；後續宜另搜實際實施，不可機械改成已完成。",
+    "畫廊泰國訴訟首聆訊僅知10月，沒有具體日子不可編造。"
+   ]
+  },
+  "nonblockingKeySpecificity": [
+   {
+    "name": "美·Avianca042湍流備降",
+    "current": [
+     "湍流",
+     "邁阿密",
+     "Avianca"
+    ],
+    "risk": "任何邁阿密新聞或另一航司湍流可能誤配此案。",
+    "suggested": [
+     "Avianca.*(042|湍流|備降)",
+     "042.*湍流",
+     "麥德林.*(航班|飛).*紐約"
+    ]
+   },
+   {
+    "name": "中·小米在售手機加價",
+    "current": [
+     "小米",
+     "Ultra"
+    ],
+    "risk": "任何小米新聞或其他品牌Ultra都可能誤配。",
+    "suggested": [
+     "小米.*(加價|漲價|調價)",
+     "17.*Ultra.*(千元|1000|加價|漲價)"
+    ]
+   },
+   {
+    "name": "中·廣西售電公司虧損",
+    "current": [
+     "廣西",
+     "售電"
+    ],
+    "risk": "廣西其他消息或另一地區售電可能誤配。",
+    "suggested": [
+     "廣西.*售電",
+     "九家售電公司",
+     "廣西.*虧損"
+    ]
+   },
+   {
+    "name": "美·聯儲理事庫克調查",
+    "current": [
+     "庫克",
+     "Lisa Cook"
+    ],
+    "risk": "蘋果Tim Cook中文亦為庫克。",
+    "suggested": [
+     "聯儲.*庫克",
+     "Lisa Cook",
+     "庫克.*房貸",
+     "庫克.*調查"
+    ]
+   },
+   {
+    "name": "中·比亞迪美國乘用車計劃",
+    "current": [
+     "比亞迪",
+     "李柯"
+    ],
+    "risk": "其他比亞迪產銷新聞可能誤配美國乘用車計劃。",
+    "suggested": [
+     "比亞迪.*美國",
+     "李柯.*(美國|乘用車)"
+    ]
+   },
+   {
+    "name": "中·外賣店帳本爭議",
+    "current": [
+     "外賣店",
+     "帳本"
+    ],
+    "risk": "泛指其他外賣店或另一帳本。",
+    "suggested": [
+     "外賣店.*(十六萬|16.2萬|三千|3750|帳本)",
+     "帳本.*外賣"
+    ]
+   }
+  ],
+  "requiredFixes": []
+ },
+ "producerReviews": {
+  "hk": {
+   "checkedAt": "2026-10-10T08:35:38.318534+08:00",
+   "counts": {
+    "hks": 8,
+    "hkl": 8
+   },
+   "media": {
+    "hks": [
+     "Dimsum Daily",
+     "星島日報",
+     "有線新聞",
+     "香港01"
+    ],
+    "hkl": [
+     "星島日報",
+     "有線新聞",
+     "香港01"
+    ]
+   },
+   "hardWindow": "2026-10-09 >21:00 / 2026-10-10 <09:30 HKT; all publication and update timestamps <= actual check",
+   "fullBodyRead": 16,
+   "imageReview": {
+    "count": 16,
+    "articleHttp200": 16,
+    "imageHttp200": 16,
+    "imageMimeMagicPillow": 16,
+    "originalOgExact": 16,
+    "secondArticleOgExact": 16,
+    "hk01Signature43": true,
+    "montage": "hk-montage.jpg",
+    "montageActuallyViewed": true,
+    "notes": "親自目視16圖：救援山景直升機、貨車車鏡、醫院資料圖、街景資料圖、平田邨資料圖、凌志新片、畫廊、護老樂門面、校園、展會、馬莎、競投、籃球、學者、建築、飲食活動均對應原文；資料圖不稱新現場。"
+   },
+   "heat": {
+    "googleFile": "hk-feed-trends.txt",
+    "googleHttp": 200,
+    "hk01File": "hk-feed-hot.txt",
+    "hk01Http": 200,
+    "marked": [
+     "hks屯公凌志司機（HK01hot屯公連環事故，新增司機鏡片證據）"
+    ],
+    "notMarked": "Google熱門清水灣道與本版大老山不同，不混標；中大娛樂相關與學生研究不混標；其餘無直接配對。"
+   },
+   "dedup": [
+    {
+     "topic": "屯門公路連環事故",
+     "decision": "保留實質新增證據",
+     "before": "昨晚卡及track為四車5傷、三宗事故、車龍消散，無凌志司機上載自己前後鏡片及自動制動解畫。",
+     "after": "ST10日08:12新文，凌志司機公開自己前後鏡片，前方車流先急煞，警方仍查責任。不能宣稱司機已獲裁定無責。",
+     "url": "https://www.stheadline.com/breaking-news/3624489/"
+    },
+    {
+     "topic": "北角安老院耐藥菌群組",
+     "decision": "新群組，非原院舍增例",
+     "before": "10月2香港01/60395889原文為天龍苑5帶菌（77至92歲）。",
+     "after": "本版有線為護老樂3帶菌（74至94歲），另早已知2人，不得將兩院舍相加或稱天龍苑新增3宗。",
+     "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/511836/%E5%8C%97%E8%A7%92-%E8%AD%B7%E8%80%81%E6%A8%82-%E5%AE%89%E8%80%81%E9%99%A2%E7%88%86%E8%85%B8%E9%81%93%E6%A1%BF%E8%8F%8C-3%E9%95%B7%E8%80%85%E5%8F%97%E6%84%9F%E6%9F%93%E7%84%A1"
+    },
+    {
+     "topic": "全球前2%學者",
+     "decision": "新院校及數據",
+     "before": "PM星島3624358只教大及嶺大；未有中大3位分學科前5及469人數據。",
+     "after": "ST3624387於21:31新報中大469人、盧煜明臨床醫學第3、關美寶地理第5、趙建豐教育第5；非全球所有科學家總排名。",
+     "url": "https://www.stheadline.com/edu-insights/3624387/"
+    },
+    {
+     "topic": "工程質量",
+     "decision": "新增專業團體具體改革建議",
+     "before": "上一版One Stanley保養檢測承諾及安達臣拆卸；沒有建築師學會專工專責、業主聘用監督及合理工期建議。",
+     "after": "9日21:15新報學會建議重新檢視投標、資格監督及工期，僅建議未實施，非新的調查裁決。",
+     "url": "https://www.hk01.com/article/60398082"
+    },
+    {
+     "topic": "美酒佳餚巡禮",
+     "decision": "窗內另篇完整攻略",
+     "before": "PM曾排除另一篇meta9日正文今7日矛盾文，沒有出卡。",
+     "after": "60397292首發9日22:28，正文無今7日矛盾，明示29日至11月1日活動，12日公開售票，非已舉行。",
+     "url": "https://www.hk01.com/article/60397292"
+    },
+    {
+     "topic": "西貢營地死亡",
+     "decision": "排除日期矛盾",
+     "reason": "60398095 meta9日晚、正文稱昨晚8日晚；星島更列9日00:36，不能用9日22時首發標籤洗舊報道。"
+    },
+    {
+     "topic": "純天氣預報",
+     "decision": "排除候選",
+     "reason": "改用新刊中大排名，無需純轉述天文台預報。"
+    },
+    {
+     "topic": "DD三宗屯公8傷",
+     "decision": "不另出第二卡",
+     "reason": "與新司機片同一事件，只用ST新證據一張；不把第二事故3傷當首宗5變8。"
+    }
+   ],
+   "limits": [
+    "元朗87歲婦08:18更新已回復清醒，不仍寫昏迷待救。",
+    "獅子山文有17歲女與其中朋友不適兩種描述，卡只稱17歲少女不適並已由直升機送院，不指定嘔吐者就是她。",
+    "油麻地46歲男子在廣東道589號澤興樓房間死亡，非路旁或送院後死亡；藍田57歲男為另一宗死因待驗。",
+    "畫廊7月21日起停業、8月通知，22:18新報藝術家欠款和作品爭議；不稱今日突然結業，畫廊否認藝術家起訴與泰國代表稱已提訴並列，未裁定責任。",
+    "馬莎只稱可能沙門氏菌污染，已停售回收，不稱香港有人中招。沙律285克8至11日到期、青醬115克8至13日到期。",
+    "學者榜只取正文中大三人各自學科前5；原文開頭城大2人前5與正文第6第8有矛盾，卡不採城大五強說法。",
+    "維園年宵400攤位總收入逾865萬；不同文稱跌37或38萬，卡只寫較去年下跌。",
+    "學生研究訪1462名市民（去年6至11月），學生40.4%屬樣本，不能稱全港四成大學生經普查確認。"
+   ],
+   "trackUpdates": {
+    "港·屯門公路連環事故": [
+     "司機鏡片新證據",
+     "10-10：星島08:12首發凌志司機上載前後車鏡片，稱前車先急煞及自動制動介入，片段顯示前方亦有車；三宗事故合計8傷，首宗仍5傷，警方未裁定責任。昨晚車龍已逐漸消散。"
+    ],
+    "港·北角安老院耐藥菌群組": [
+     "另院舍三人帶菌",
+     "10-10：有線9日22:50報護老樂3名74至94歲院友帶菌無病徵，疑同層另2名已知帶菌者傳播，續篩查；10月2天龍苑5人為另一院舍群組，未得新進度，不混加人數。"
+    ],
+    "港·One Stanley鋼筋調查": [
+     "學會倡改投標制度",
+     "10-10：香港019日21:15報建築師學會因One Stanley及安達臣等事故倡檢視低價投標、業主聘特定資格監督及合理工期；屬建議未實施。保留發展商成交日起六年結構保養及檢測承諾，調查未裁。"
+    ],
+    "港·安達臣首置盤鋼筋違規": [
+     "學會提改革建議",
+     "10-10：建築師學會就One Stanley及安達臣事故倡投標、工期及專業監督改革，未有新安全裁定或拆卸完成；原有3幢補救、3幢擬拆重建及申請待續。"
+    ]
+   },
+   "newTracks": [
+    {
+     "row": [
+      "港·獅子山少女不適救援",
+      "直升機送院",
+      "10-10：17歲少女凌晨與友人登山後不適，致電母親求助，早上由直升機救起轉律敦治醫院；病因待查。"
+     ],
+     "keys": [
+      "獅子山十七歲",
+      "獅子山少女不適",
+      "獅子山17歲"
+     ]
+    },
+    {
+     "row": [
+      "港·大老山貨車散落卡板",
+      "道路安全待查",
+      "10-10：香港01新片報9日近18時大老山公路貨車跌紙皮及卡板，後車減速避讓，未報傷亡，未有責任裁決。"
+     ],
+     "keys": [
+      "大老山公路貨車跌",
+      "大老山貨車散落"
+     ]
+    },
+    {
+     "row": [
+      "港·元朗院舍鯁喉事故",
+      "送院後清醒",
+      "10-10：泰衡街院舍87歲婦清晨疑食粥鯁喉一度昏迷，送博愛醫院後清醒，警方調查。"
+     ],
+     "keys": [
+      "元朗八旬婦疑食粥",
+      "元朗院舍鯁喉"
+     ]
+    },
+    {
+     "row": [
+      "港·油麻地澤興樓男子死亡",
+      "驗屍查因",
+      "10-10：香港01新報46歲男子9日晚在廣東道589號房間暈倒，救護員到場證死亡，死因待驗屍。"
+     ],
+     "keys": [
+      "油麻地男子房內",
+      "澤興樓男子"
+     ]
+    },
+    {
+     "row": [
+      "港·平田邨設施大樓男子死亡",
+      "驗屍查因",
+      "10-10：57歲男子9日晚被發現於平田邨服務設施大樓房間昏迷，消防破門後證實死亡，死因待驗。"
+     ],
+     "keys": [
+      "平田邨設施大樓男子",
+      "平田邨服務設施大樓"
+     ]
+    },
+    {
+     "row": [
+      "港·當代唐人畫廊欠款爭議",
+      "藝術家追款",
+      "10-10：Dimsum9日22:18新報黃竹坑畫廊自7月停業後藝術家追款及作品；畫廊稱分期清還並否認藝術家訴訟，泰國代表則稱8月已提告，爭議未裁。"
+     ],
+     "keys": [
+      "黃竹坑畫廊停業",
+      "當代唐人畫廊",
+      "Tang Contemporary"
+     ]
+    },
+    {
+     "row": [
+      "港·馬莎沙律青醬回收",
+      "指定批次回收",
+      "10-10：香港019日晚報285克純素堅果藜麥沙律（8至11日到期）及115克開心果帕瑪森青醬（8至13日到期）可能受沙門氏菌污染，已停售回收，未報本港病例。"
+     ],
+     "keys": [
+      "馬莎沙律青醬",
+      "馬莎預先包裝沙律"
+     ]
+    }
+   ]
+  },
+  "root": {
+   "trackUpdates": {},
+   "newTracks": [
+    {
+     "row": [
+      "美·Nuvacore新融資洽談",
+      "估值仍待落實",
+      "10-10：路透引消息指Nuvacore洽談以約25億美元估值集資；公司拒絕評論，並非已完成融資。"
+     ],
+     "keys": [
+      "Nuvacore"
+     ]
+    },
+    {
+     "row": [
+      "美·Kalshi白宮任命交易調查",
+      "可疑交易待查",
+      "10-10：華爾街日報引公司發言人稱就白宮發言人任命相關可疑押注展開調查；未證實有人內幕交易或違法。"
+     ],
+     "keys": [
+      "Kalshi",
+      "白宮發言人任命"
+     ]
+    }
+   ],
+   "notes": [
+    "美股是9日紐約收市，與前版香港收市及8日美股不同；兩融資／調查報道均為新披露，指控及洽談已加歸屬。"
+   ]
+  },
+  "world": {
+   "checkedAt": "2026-10-10T08:33:17.036717+08:00",
+   "trackUpdates": {
+    "中·尊界V800制動踏板測試": [
+     "市場反應及跌幅",
+     "10-10午：大紀元9日晚首發新收市資料，江淮9日收報22.75元跌7.97%，兩交易日市值減約106.39億元；此前漲幅及公司虧損亦構成背景，不把全部跌幅斷言為踏板測試造成。原免費升級承諾保留，未確認已完成。"
+    ],
+    "🔥 美伊戰爭（2026）": [
+     "也門調停及人權報告",
+     "10-10午：聯合國也門特使9日警告全面戰爭回歸，稱8月以來至少46平民死130餘傷並促談判；HRANA新年度報告記錄伊朗2003宗處決，涵蓋2025-10-10至2026-10-08，非一日新增。Iran International獨家引消息指17歲少年羈押死亡，未取得獨立死因紀錄。"
+    ]
+   },
+   "newTracks": [
+    {
+     "row": [
+      "中·中歐混能車貿易共識",
+      "四年減量待落實",
+      "歐盟專員9日稱與中國達混能及插電混能車出口共識，料四年內減數百萬輛；10月15日歐盟峰會再議，非即時出口已減半。"
+     ],
+     "keys": [
+      "混能車",
+      "插電混能",
+      "中歐貿易"
+     ]
+    },
+    {
+     "row": [
+      "中·比亞迪美國乘用車計劃",
+      "暫緩拓展",
+      "李柯8日米爾肯亞洲峰會稱美國環境難預測，暫不銷售乘用車；9日21時首發報道，2010年已有商用車業務。"
+     ],
+     "keys": [
+      "比亞迪",
+      "李柯"
+     ]
+    },
+    {
+     "row": [
+      "中·德前情報局長涉間諜案",
+      "審前羈押",
+      "明鏡8日披露漢寧與中國退役少將聯繫；其6日因涉間諜罪被捕並羈押，律師否認指控，未定罪，亦未裁定向中方洩密。"
+     ],
+     "keys": [
+      "漢寧",
+      "德前情報局長"
+     ]
+    },
+    {
+     "row": [
+      "中·小米在售手機加價",
+      "客服確認調價",
+      "界面引小米客服確認17 Ultra在售版本較首發加1000元，稱核心零件成本上升；具體調價時間未能查明。未採用證券時報華為部分。"
+     ],
+     "keys": [
+      "小米",
+      "Ultra"
+     ]
+    },
+    {
+     "row": [
+      "中·廣西售電公司虧損",
+      "九企聯名求援",
+      "第一財經訪聯署企業內部人士確認9月30日求援文件，稱1至8月虧逾20億人民幣、全年或50億；後者預測非已實現損失。"
+     ],
+     "keys": [
+      "廣西",
+      "售電"
+     ]
+    },
+    {
+     "row": [
+      "中·外賣店帳本爭議",
+      "店主影片自述",
+      "9日微博影片店主自述上月16.2萬營業額僅剩3750元淨利；帳本未獨立審計，不能推為全行業利潤，未引用央視背景資料。"
+     ],
+     "keys": [
+      "外賣店",
+      "帳本"
+     ]
+    },
+    {
+     "row": [
+      "中·刺激政策力度討論",
+      "學者評估待觀察",
+      "大紀元9日晚引WSJ、匯豐紐曼及歐亞王丹質疑小幅措施力度；屬經濟分析而非新政策決定，不引用財政部報告數據作卡。"
+     ],
+     "keys": [
+      "刺激力度",
+      "經濟學者質疑"
+     ]
+    },
+    {
+     "row": [
+      "美·國際刑事法院制裁",
+      "交易限制及反對",
+      "美9日宣布針對ICC服務交易制裁，法院反對；AJ補充六個月初始寬限及若干豁免，非一切交易即刻斷絕。"
+     ],
+     "keys": [
+      "國際刑事法院",
+      "ICC"
+     ]
+    },
+    {
+     "row": [
+      "美·聯儲理事庫克調查",
+      "十一月五日聽證",
+      "特朗普設調查委員會，11月5日聽證；庫克否認房貸虛假陳述指控，最高院先前程序裁決未裁責任，非已撤職。"
+     ],
+     "keys": [
+      "庫克",
+      "Lisa Cook"
+     ]
+    },
+    {
+     "row": [
+      "美·Avianca042湍流備降",
+      "八人送院",
+      "9日航班由麥德林飛紐約遇湍流改降邁阿密，8人送院；航司向CBS稱3機組及6乘客受傷或不適，兩數口徑不同。"
+     ],
+     "keys": [
+      "湍流",
+      "邁阿密",
+      "Avianca"
+     ]
+    },
+    {
+     "row": [
+      "台·嘉義女童校園欺凌民事案",
+      "六月調解成立",
+      "自由時報10日採訪家長披露今年6月達調解賠3萬新台幣，成年前互不騷擾否則20萬違約金，非今日新判決。"
+     ],
+     "keys": [
+      "嘉義女童",
+      "欺凌民事"
+     ]
+    },
+    {
+     "row": [
+      "台·台中競速遮牌案",
+      "三人移送偵辦",
+      "警方追查9月6日競速後10月7日跨縣市拘提3人查扣3車，10日首次採訪報道，刑責未裁。"
+     ],
+     "keys": [
+      "競速",
+      "遮車牌"
+     ]
+    },
+    {
+     "row": [
+      "台·新竹父子遺產特留分案",
+      "判決可上訴",
+      "新竹地院指重大侮辱證據不足，判父有四分之一特留分、母須塗銷房地登記；尚可上訴，未直接完成分割。"
+     ],
+     "keys": [
+      "特留分",
+      "新竹爭產"
+     ]
+    },
+    {
+     "row": [
+      "美·伊朗年度處決人權統計",
+      "HRANA年度報告",
+      "HRANA9日新報告統計2025-10-10至2026-10-08至少2003人處決，較此前期間增29%，獨立監測受限可能漏報。"
+     ],
+     "keys": [
+      "HRANA",
+      "處決逾二千"
+     ]
+    },
+    {
+     "row": [
+      "美·伊朗少年Omid羈押死亡",
+      "死因仍待核實",
+      "Iran International引熟悉案件消息指17歲Omid Ghanouni6日羈押死亡、父求醫遭拒；未取得法醫或獨立病歷確認死因，家屬9日要求交代。"
+     ],
+     "keys": [
+      "伊朗少年",
+      "Omid Ghanouni"
+     ]
+    }
+   ],
+   "sourceAndFactLimits": {
+    "hk60398110": "只用Reuters採訪歐方專員部分，刪中商務部立場；OG為原文會面照（部門供圖），非查詢政府網站。數百萬/四年是預測。",
+    "hk60398069": "快科技私人科技媒體引公司高層峰會言論，非中國官媒；事件8日、首發9日21:00:26。",
+    "ep14866936": "明鏡報道及德檢方指控；律師否認。未裁定中方收情報。",
+    "ep14867042": "只用界面/小米客服部分；排除證券時報華為加價段落以免官媒洗來源。圖為小米門店資料照。",
+    "ep14867020": "第一財經採訪參與聯署企業內部人士，資料為企業請示；央企被報道不等於引用官媒。預測與已發生分開。",
+    "ep14866695": "只用新微博店主自述，排除央視歷史背景及網民推論；圖為外賣騎手資料照，不是已確認的店主。",
+    "ep14866950": "只用收市數字、懂車帝及私人公司回應；排除半島網官媒評論。收市跌7.97%非收市跌停。圖為汽車生產線資料圖。",
+    "ep14866935": "卡採WSJ/HSBC/Eurasia Group分析，不採財政部報告數字或政策宣傳；明示意見。",
+    "hk60398097": "HK01 Reuters綜合，AJ03:32全文補六個月寬限；卡不可稱立即全面停止交易。",
+    "hk60398105": "11月5日未來節點保留；指控未裁。圖為特朗普/庫克拼圖。",
+    "ep14866902": "8人送院與9人受傷或不適口徑有別；圖為Avianca飛機資料圖。",
+    "lt5601458": "家長現時採訪披露六月調解，非今日判刑；3萬/20萬均新台幣。法院外觀資料照。",
+    "lt5601453": "3嫌犯7日被拘提，9月6日案發；記者報道非CNA轉載；查扣車輛警方提供照片。",
+    "ud9805875": "記者王駿杰報道，非CNA；2023死亡為案情背景。遺產尚未分割、判決可上訴。圖片示意。",
+    "ajyemen": "單篇首發04:56，獨立AJ Staff and Anadolu採聯合國會議，不採中國/盟友官媒或胡塞聲明；平民死亡為8月以來非當日。AFP集會照不是戰場傷亡照。",
+    "ii202610091479": "年度2003非今年目前或戰爭單一傷亡數；HRANA新調查非官方統計。圖為絞刑資料圖。",
+    "ii202610097800": "只用此篇top story內容（頁面載有其他推薦全文，已分開）；匿名來源指控，死因無獨立醫療記錄。圖為少年肖像。"
+   },
+   "dedup": {
+    "ep14866950": "昨晚報踏板測試及免費升級承諾，本篇加入9日收市跌幅及市值變化；不能稱新測試或將跌幅全歸於測試。",
+    "others": "17URL無一與昨日pm39卡重複，其餘各事件未見上一版已報。"
+   },
+   "excluded": [
+    "HK01菲海警水炮文大部份為中國外交部立場，捨棄",
+    "Epoch陳偉傑首發15:47未來，捨棄",
+    "II伊拉克無人機、英國兩男答辯、AJ特朗普不攻伊朗首發早於21:00，捨棄",
+    "AA和Times of Israel入口403，不靠搜摘要作卡"
+   ],
+   "visual": "17圖片全部HTTP200、image MIME、magic、Pillow解碼、第二次原文OG字串比對通過；08:32親眼檢視world-montage.jpg，無HTML錯圖。"
+  },
+  "briefs": {
+   "checkedAt": "2026-10-10T00:32:26.426626+00:00",
+   "sourceCounts": {
+    "ai": 4,
+    "warb": 3
+   },
+   "outletCounts": {
+    "ai": 3,
+    "warb": 3
+   },
+   "lengths": {
+    "ai": 343,
+    "warb": 314
+   },
+   "previousCompared": true,
+   "oldTopicsExcluded": [
+    "Claude Science 紫外圖",
+    "俄伊假記者",
+    "Vegalabs 17600 美元帳單",
+    "利雅得機場重開",
+    "UK 監視案舊庭證"
+   ],
+   "notes": [
+    "gCaptain 本文 byline Oct9 與 meta/WP date_gmt/RSS 一致，不是前版曾棄用的 Oct7 機場文章。",
+    "Al Jazeera publishedDate 無 offset，但 JSON-LD datePublished 及 RSS 值支持 UTC，換算10日04:56。",
+    "Iran International 只採美國總統表態與媒體分析，不採其引用伊朗政府、IRGC、ISNA 或官媒的聲稱。",
+    "AJ/Anadolu 聯合採訪只採聯合國特使會議發言與聯合國平民累計數，不採葉門/沙特政府或胡塞官方聲明。",
+    "七篇首發時間均在硬窗，沒有用更新時間冒充首發。",
+    "AI 原文基準測試與 scanner 準確率均為公司預期，正文不作保證；Ars 研究非隨機試驗。"
+   ],
+   "trackUpdates": {
+    "🔥 美伊戰爭（2026）": [
+     "海上襲擊及調停呼籲",
+     "10-10早：路透引UKMTO稱阿聯酋十三海里外船隻遭不明飛行物擊中，火已救熄，責任及船員情況未明；兩消息人士指GEM NO.2。聯合國特使警告也門重陷全面戰爭，促政治調停；特朗普選前不再攻擊僅單方面表態，未等同全面停火。"
+    ]
+   },
+   "newTracks": [
+    {
+     "row": [
+      "美·Anthropic假命案線報事件",
+      "公司遲發現受批評",
+      "10-10：TC新披露模型7月18日提交費城假命案線報、9月28日才發現；警方稱被列垃圾訊息未曾看到，未稱已導致拘捕。"
+     ],
+     "keys": [
+      "假命案線報",
+      "費城警方",
+      "Philadelphia police",
+      "false homicide"
+     ]
+    },
+    {
+     "row": [
+      "美·Claude動態多agent工作流",
+      "新增並行分工",
+      "10-10：The Decoder報Managed Agents動態工作流可每次最多1000個agent，公司藏錯基準表現較好，跨任務效益及成本待獨立驗證。"
+     ],
+     "keys": [
+      "動態工作流",
+      "dynamic workflows",
+      "千個 agent"
+     ]
+    },
+    {
+     "row": [
+      "美·Anthropic開源漏洞scanner",
+      "免費計劃公布",
+      "10-10：免費OSS scanner擬定期檢查漏洞、解釋及建議修補；報告未經人手覆核可出錯，不能視作安全保證。"
+     ],
+     "keys": [
+      "OSS scanner",
+      "開源漏洞",
+      "Cyber Mission"
+     ]
+    }
+   ]
+  },
+  "politics": {
+   "checkedAt": "2026-10-10T00:35:56.565354+00:00",
+   "qualified": 3,
+   "bodyRead": true,
+   "visualChecked": true,
+   "visualNotes": "原圖為維港岸邊市民拍攝軍艦，非人才移居統計照片；屬社論背景圖。",
+   "notes": [
+    "本卡清楚標示星島社論與媒體意見，不將美國已報PERM/J-1政策再當今日新政策。",
+    "新內容是10日社論倡香港保持政策穩定、清晰居留稅務及創業配套，把外流人才轉化本港機遇；這是編輯部的倡議，未稱香港已修改政策或人才已大量流入。",
+    "不是港府新聞公報轉述，有完整獨立立場及分析；沒有採其口號與價值判斷為已證事實。",
+    "星島圖片第二步200並不足證明hash；已再開文章確認OG完全相同，另PNG實際解碼成功。",
+    "Standard最新僅旅遊零售/排名及娛樂；Epoch香港入口仍混中國美國稿，未找到另外窗內香港政治獨立報道；星島politics最近兩篇政府/立會譴責歐洲報告已排除。",
+    "Dimsum 23:09 新文增加陳曼琪千元消費券、何敬康反對單靠生育獎金及莊豪鋒恢復學生津貼倡議，前版五年規劃卡只有表決及KPI/就業/維修監督，不是重刊相同事實。",
+    "行賄案在前版只知控罪及9日將提堂；本篇法院現場記錄新增2000元保釋、不接觸證人/不返案發現場、12月14日再訊，為實質司法進展。背景廉署指控均未當作罪成。",
+    "Dimsum wp-json date_gmt 對應本次 article:published_time，+8後分別9日23:09:34及22:54:41；非更新時間篩稿。"
+   ],
+   "trackUpdates": {
+    "港·區議員萬元行賄案": [
+     "二千元保釋候訊",
+     "10-10早：Dimsum9日22:54庭審報道，80歲被告在9日西九法院獲准2000元保釋，不准接觸控方證人或返案發地點，押至12月14日取法律意見再訊；控罪未裁決。"
+    ],
+    "港·施政報告2026": [
+     "派券及家庭配套倡議",
+     "10-10早：Dimsum9日23:09新報議員在7至9日辯論倡向成年永久居民發至少1000元消費券、恢復學生津貼及改善工時家庭配套；均屬議員倡議，非政府已採納或發款。"
+    ]
+   },
+   "newTracks": []
+  }
+ },
+ "briefSourceEvidence": {
+  "checkedAt": "2026-10-10T00:32:26.426077+00:00",
+  "sources": [
+   {
+    "key": "agents",
+    "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+    "articleHttp": 200,
+    "publishedRaw": "2026-10-09T18:28:25+00:00",
+    "publishedHKT": "2026-10-10T02:28:25+08:00",
+    "timeWindowPass": true,
+    "bodyRead": true,
+    "image": {
+     "url": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+     "http": 200,
+     "mime": "image/png",
+     "bytes": 1067402,
+     "magic": "89504e470d0a1a0a0000000d49484452",
+     "format": "PNG",
+     "width": 2048,
+     "height": 1152,
+     "decoded": true
+    },
+    "ogExactOnReopen": true,
+    "checkedAt": "2026-10-10T00:31:26.946853+00:00"
+   },
+   {
+    "key": "scanner",
+    "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
+    "articleHttp": 200,
+    "publishedRaw": "2026-10-09T17:54:44+00:00",
+    "publishedHKT": "2026-10-10T01:54:44+08:00",
+    "timeWindowPass": true,
+    "bodyRead": true,
+    "image": {
+     "url": "https://the-decoder.com/wp-content/uploads/2025/11/Anthropic-Cybersecurity.png",
+     "http": 200,
+     "mime": "image/png",
+     "bytes": 13598,
+     "magic": "89504e470d0a1a0a0000000d49484452",
+     "format": "PNG",
+     "width": 1664,
+     "height": 936,
+     "decoded": true
+    },
+    "ogExactOnReopen": true,
+    "checkedAt": "2026-10-10T00:31:26.948581+00:00"
+   },
+   {
+    "key": "police",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "articleHttp": 200,
+    "publishedRaw": "2026-10-09T19:36:56+00:00",
+    "publishedHKT": "2026-10-10T03:36:56+08:00",
+    "timeWindowPass": true,
+    "bodyRead": true,
+    "image": {
+     "url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+     "http": 200,
+     "mime": "image/webp",
+     "bytes": 161746,
+     "magic": "52494646ca7702005745425056503858",
+     "format": "WEBP",
+     "width": 1200,
+     "height": 797,
+     "decoded": true
+    },
+    "ogExactOnReopen": true,
+    "checkedAt": "2026-10-10T00:31:26.102444+00:00"
+   },
+   {
+    "key": "code",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "articleHttp": 200,
+    "publishedRaw": "2026-10-09T19:43:50+00:00",
+    "publishedHKT": "2026-10-10T03:43:50+08:00",
+    "timeWindowPass": true,
+    "bodyRead": true,
+    "image": {
+     "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 81030,
+     "magic": "ffd8ffe000104a46494600010101012c",
+     "format": "JPEG",
+     "width": 1152,
+     "height": 648,
+     "decoded": true
+    },
+    "ogExactOnReopen": true,
+    "checkedAt": "2026-10-10T00:31:26.948348+00:00"
+   },
+   {
+    "key": "yemen",
+    "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue",
+    "articleHttp": 200,
+    "publishedRaw": "2026-10-09T20:56:01Z",
+    "publishedHKT": "2026-10-10T04:56:01+08:00",
+    "timeWindowPass": true,
+    "bodyRead": true,
+    "image": {
+     "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ac942131fc2-1791574547.jpg?resize=1920%2C1440",
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 292086,
+     "magic": "ffd8ffe000104a464946000101000001",
+     "format": "JPEG",
+     "width": 1920,
+     "height": 1440,
+     "decoded": true
+    },
+    "ogExactOnReopen": true,
+    "checkedAt": "2026-10-10T00:31:26.169827+00:00"
+   },
+   {
+    "key": "ship",
+    "url": "https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/",
+    "articleHttp": 200,
+    "publishedRaw": "2026-10-09T09:37:26-07:00",
+    "publishedHKT": "2026-10-10T00:37:26+08:00",
+    "timeWindowPass": true,
+    "bodyRead": true,
+    "image": {
+     "url": "https://gcaptain.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-6.35.51-PM.jpg",
+     "http": 200,
+     "mime": "image/jpeg",
+     "bytes": 135989,
+     "magic": "ffd8ffe000104a464946000101000001",
+     "format": "JPEG",
+     "width": 1630,
+     "height": 1032,
+     "decoded": true
+    },
+    "ogExactOnReopen": true,
+    "checkedAt": "2026-10-10T00:31:26.280327+00:00"
+   },
+   {
+    "key": "pledge",
+    "url": "https://www.iranintl.com/en/202610097417",
+    "articleHttp": 200,
+    "publishedRaw": "2026-10-09T20:51:21.554Z",
+    "publishedHKT": "2026-10-10T04:51:21.554000+08:00",
+    "timeWindowPass": true,
+    "bodyRead": true,
+    "image": {
+     "url": "https://i.iranintl.com/images/rdk9umy0/production/c04a40dd05832f7009ebbbe3f596d3d099010e7d-1280x853.jpg?rect=19,118,1152,605&w=1200&h=630&q=66&fit=max&auto=format",
+     "http": 200,
+     "mime": "image/avif",
+     "bytes": 44238,
+     "magic": "0000001c667479706176696600000000",
+     "format": "AVIF",
+     "width": 1152,
+     "height": 605,
+     "decoded": true
+    },
+    "ogExactOnReopen": true,
+    "checkedAt": "2026-10-10T00:31:27.639757+00:00"
+   }
+  ],
+  "freshAudit": "briefs-fresh-audit.json",
+  "visualChecked": true,
+  "visualNotes": {
+   "scanner": "粉紅底鎖頭網絡保安插畫，原文示意；沒有冒充產品介面。",
+   "yemen": "集會者舉匕首，原文說明為薩那反沙特介入示威，非海上襲擊現場。"
+  },
+  "searchRound": {
+   "query": "AI incident hack lawsuit regulation October 9 2026 Anthropic",
+   "results": "找到費城假線報、Axios 新報道、早於本窗的 FTC 及 Hugging Face 訴訟；採用全文可讀 TC，新舊事件時間在正文區分。"
+  }
+ },
+ "politicsSourceEvidence": [
+  {
+   "url": "https://www.stheadline.com/daily-editorial/3624483/",
+   "http": 200,
+   "meta": {
+    "csrf-token": "7vtV7ClJ9UQA9PEDN2iwVN8hao7LsEI4VB76TSRi",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "null": "ie=edge",
+    "HandheldFriendly": "True",
+    "robots": "max-image-preview:large",
+    "theme-color": "#ffffff",
+    "msapplication-TileColor": "#ffffff",
+    "msapplication-TileImage": "https://www.sthlstatic.com/sthl/assets/favicon/ms-icon-144x144.png",
+    "apple-itunes-app": "app-id=348023216, app-argument=https://www.stheadline.com/daily-editorial/3624483/%E7%A4%BE%E8%AB%96%E8%8F%AF%E5%BA%9C%E7%B0%BD%E8%AD%89%E6%94%BF%E7%AD%96%E4%B8%80%E7%B7%8A%E5%86%8D%E7%B7%8A-%E6%AD%A3%E4%B8%AD%E4%B8%AD%E6%B8%AF%E6%90%B6%E4%BA%BA%E6%89%8D%E4%B8%8B%E6%87%B7?lang=zh-HK",
+    "sppc-site-verification": "41dbd2548c1bc695fcb5b5c1141f0d23",
+    "title": "社論：華府簽證政策一緊再緊 正中中港搶人才下懷",
+    "description": "拿破崙說過：「當敵人正在犯錯，千萬不要打斷他。」這句話用在特朗普政府身上，再適合不過。它將會無限期暫停多間科技公司參與「永久勞工認證」的計劃，讓那些效力的外籍專才難以取得綠卡。這種政策所反映的，顯然是所謂「美國優先」的思維。但從口碑來看，矽谷一致反對簽證政策又一次收緊，因為此舉必定損害美國招攬英才的能力，最終讓「敵人」得益。 華府排拒更多「馬斯克們」 單論人才政策，特朗普回朝不足兩年，已是昏招迭出",
+    "image": "https://image.hkhl.hk/f/1200p0/0x0/100/none/1b08cff4bb9af86f7b0f133ee338e88e/2026-10/2026-10-10_00_15_06.png",
+    "image_for_whatsapp": "https://image.hkhl.hk/f/640p0/0x0/100/none/b5df3137c79d2813c65ecf7f55972db0/2026-10/2026-10-10_00_15_06.png",
+    "keyword": "",
+    "url": "https://www.stheadline.com/daily-editorial/3624483/社論華府簽證政策一緊再緊-正中中港搶人才下懷",
+    "publisher": "星島頭條",
+    "og:title": "社論：華府簽證政策一緊再緊 正中中港搶人才下懷",
+    "og:description": "拿破崙說過：「當敵人正在犯錯，千萬不要打斷他。」這句話用在特朗普政府身上，再適合不過。它將會無限期暫停多間科技公司參與「永久勞工認證」的計劃，讓那些效力的外籍專才難以取得綠卡。這種政策所反映的，顯然是所謂「美國優先」的思維。但從口碑來看，矽谷一致反對簽證政策又一次收緊，因為此舉必定損害美國招攬英才的能力，最終讓「敵人」得益。 華府排拒更多「馬斯克們」 單論人才政策，特朗普回朝不足兩年，已是昏招迭出",
+    "og:site_name": "星島頭條",
+    "og:image": "https://image.hkhl.hk/f/1200p0/0x0/100/none/1b08cff4bb9af86f7b0f133ee338e88e/2026-10/2026-10-10_00_15_06.png",
+    "og:image:alt": "社論：華府簽證政策一緊再緊 正中中港搶人才下懷",
+    "og:type": "article",
+    "og:url": "https://www.stheadline.com/daily-editorial/3624483/社論華府簽證政策一緊再緊-正中中港搶人才下懷",
+    "og:locale": "zh_HK",
+    "article:published_time": "2026-10-10T07:00:57+0800",
+    "article:modified_time": "2026-10-10T07:18:12+0800",
+    "format-detection": "telephone=no",
+    "al:ios:url": "singtaodaily://news?newsId=3624483&lang=tc",
+    "al:ios:app_store_id": "348023216",
+    "al:ios:app_name": "星島頭條",
+    "al:android:url": "singtaodaily://news?lang=tc&newsId=3624483",
+    "al:android:package": "singtao.android.hkheadline",
+    "al:android:app_name": "星島頭條",
+    "category:url": "https://www.stheadline.com/daily-editorial/社論",
+    "dable:item_id": "3624483",
+    "dable:title": "社論：華府簽證政策一緊再緊 正中中港搶人才下懷",
+    "dable:author": "星島頭條",
+    "dable:image": "https://image.hkhl.hk/f/1200p0/0x0/100/none/1b08cff4bb9af86f7b0f133ee338e88e/2026-10/2026-10-10_00_15_06.png",
+    "article:section": "港聞",
+    "article:section2": "社論"
+   },
+   "ld": [
+    [
+     {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "@id": "https://www.stheadline.com/daily-editorial/3624483/社論華府簽證政策一緊再緊-正中中港搶人才下懷",
+      "headline": "社論：華府簽證政策一緊再緊 正中中港搶人才下懷",
+      "inLanguage": "zh-hant",
+      "keywords": "",
+      "description": "拿破崙說過：「當敵人正在犯錯，千萬不要打斷他。」這句話用在特朗普政府身上，再適合不過。它將會無限期暫停多間科技公司參與「永久勞工認證」的計劃，讓那些效力的外籍專才難以取得綠卡。這種政策所反映的，顯然是所謂「美國優先」的思維。但從口碑來看，矽谷一致反對簽證政策又一次收緊，因為此舉必定損害美國招攬英才的能力，最終讓「敵人」得益。 華府排拒更多「馬斯克們」 單論人才政策，特朗普回朝不足兩年，已是昏招迭出",
+      "articleSection": "社論",
+      "isAccessibleForFree": true,
+      "image": {
+       "@type": "ImageObject",
+       "url": "https://image.hkhl.hk/f/1200p0/0x0/100/none/1b08cff4bb9af86f7b0f133ee338e88e/2026-10/2026-10-10_00_15_06.png"
+      },
+      "datePublished": "2026-10-10T07:00:57+0800",
+      "dateModified": "2026-10-10T07:18:12+0800",
+      "url": "https://www.stheadline.com/daily-editorial/3624483/社論華府簽證政策一緊再緊-正中中港搶人才下懷",
+      "articleBody": "拿破崙說過：「當敵人正在犯錯，千萬不要打斷他。」這句話用在特朗普政府身上，再適合不過。它將會無限期暫停多間科技公司參與「永久勞工認證」的計劃，讓那些效力的外籍專才難以取得綠卡。這種政策所反映的，顯然是所謂「美國優先」的思維。但從口碑來看，矽谷一致反對簽證政策又一次收緊，因為此舉必定損害美國招攬英才的能力，最終讓「敵人」得益。\n\n單論人才政策，特朗普回朝不足兩年，已是昏招迭出：從打壓哈佛、削大學科研經費，到大幅提高H-1B專業技術人員的簽證費，一錯再錯。最新一次收緊做得更為高調，因為它是由副總統萬斯親自宣布的。在記者會上，萬斯點名批評微軟，指責它在去年辭退6000名美國工人，同時取得6300個H-1B工作簽證和近3000張綠卡，直斥微軟濫用制度。",
+      "publisher": {
+       "@type": "Organization",
+       "name": "星島頭條網",
+       "url": "https://www.stheadline.com",
+       "logo": {
+        "@type": "ImageObject",
+        "width": 112,
+        "height": 112,
+        "url": "https://www.sthlstatic.com/sthl/assets/images/meta_logo.svg"
+       },
+       "sameAs": [
+        "https://www.facebook.com/stheadlinehk",
+        "https://www.instagram.com/singtaoheadline",
+        "https://www.youtube.com/c/SingTaoHeadline",
+        "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98"
+       ]
+      },
+      "mainEntityOfPage": {
+       "@type": "WebPage",
+       "@id": "https://www.stheadline.com/daily-editorial/3624483/社論華府簽證政策一緊再緊-正中中港搶人才下懷"
+      },
+      "translationOfWork": {
+       "@type": "WebPage",
+       "url": "https://www.stheadline.com/zh-hans/daily-editorial/3624483/社论华府签证政策一紧再紧-正中中港抢人才下怀",
+       "inLanguage": "zh-Hans",
+       "name": "社论：华府签证政策一紧再紧 正中中港抢人才下怀"
+      }
+     },
+     {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "社論",
+        "item": "https://www.stheadline.com/daily-editorial/社論"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "社論：華府簽證政策一緊再緊 正中中港搶人才下懷",
+        "item": "https://www.stheadline.com/daily-editorial/3624483/社論華府簽證政策一緊再緊-正中中港搶人才下懷"
+       }
+      ]
+     }
+    ]
+   ],
+   "image": {
+    "url": "https://image.hkhl.hk/f/1200p0/0x0/100/none/1b08cff4bb9af86f7b0f133ee338e88e/2026-10/2026-10-10_00_15_06.png",
+    "http": 200,
+    "mime": "image/png; charset=UTF-8",
+    "bytes": 505623,
+    "magic": "89504e470d0a1a0a0000000d49484452",
+    "format": "PNG",
+    "width": 1200,
+    "height": 674,
+    "decoded": true
+   },
+   "reopenHttp": 200,
+   "ogExact": true,
+   "checkedAt": "2026-10-10T00:33:54.499198+00:00"
+  },
+  [
+   {
+    "key": "voucher",
+    "url": "https://www.dimsumdaily.hk/lawmakers-urge-hk1000-vouchers-for-adult-residents-in-hong-kong/",
+    "http": 200,
+    "meta": {
+     "viewport": "width=device-width, initial-scale=1.0",
+     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+     "og:image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09230715/HK1000.webp",
+     "description": "Legislative Councillors debating Hong Kong's first five-year plan motion alongside the 2026 Policy Address pressed for cash relief for households, a rethink of natalist spending and a makeover for northern shopping streets.",
+     "og:locale": "en_US",
+     "og:type": "article",
+     "og:title": "Lawmakers urge HK$1,000 vouchers for adult residents in Hong Kong",
+     "og:description": "Legislative Councillors debating Hong Kong's first five-year plan motion alongside the 2026 Policy Address pressed for cash relief for households, a rethink of natalist spending and a makeover for northern shopping streets.",
+     "og:url": "https://www.dimsumdaily.hk/lawmakers-urge-hk1000-vouchers-for-adult-residents-in-hong-kong/",
+     "og:site_name": "Dimsum Daily",
+     "article:publisher": "https://www.facebook.com/dimsumdailyhk/",
+     "article:published_time": "2026-10-09T15:09:34+00:00",
+     "article:modified_time": "2026-10-09T15:09:39+00:00",
+     "twitter:card": "summary_large_image",
+     "twitter:image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09230715/HK1000.webp",
+     "twitter:creator": "@DimsumDailyHK",
+     "twitter:site": "@DimsumDailyHK",
+     "twitter:label1": "Written by",
+     "twitter:data1": "Dickson Tam",
+     "twitter:label2": "Est. reading time",
+     "twitter:data2": "2 minutes",
+     "generator": "WordPress 5.9.2",
+     "fb:app_id": "134587740565152",
+     "msapplication-TileImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2024/04/27185518/cropped-ds-120--270x270.png",
+     "null": "928"
+    },
+    "checkedAt": "2026-10-10T00:35:21.144062+00:00",
+    "image": {
+     "url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09230715/HK1000.webp",
+     "http": 200,
+     "mime": "image/webp",
+     "bytes": 141820,
+     "magic": "52494646f42902005745425056503858",
+     "format": "WEBP",
+     "width": 1182,
+     "height": 928,
+     "decoded": true
+    },
+    "reopenHttp": 200,
+    "ogExact": true,
+    "bodyRead": true,
+    "visualChecked": true,
+    "publishedHKT": "2026-10-09T23:09:34+08:00",
+    "imageNotes": "一千元鈔票示意，非政府已發券"
+   },
+   {
+    "key": "bribe",
+    "url": "https://www.dimsumdaily.hk/man-80-charged-over-hk10000-bribe-to-yau-tsim-mong-councillor-dozes-in-court/",
+    "http": 200,
+    "meta": {
+     "viewport": "width=device-width, initial-scale=1.0",
+     "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+     "og:image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09224850/pastor-333.webp",
+     "description": "An 80-year-old retiree charged with offering HK$10,000 to a Yau Tsim Mong district councillor to help force a meeting with a church pastor fell asleep repeatedly in the dock today as West Kowloon Magistrates' Courts adjourned the case.",
+     "og:locale": "en_US",
+     "og:type": "article",
+     "og:title": "Man, 80, charged over HK$10,000 bribe to Yau Tsim Mong councillor; dozes in court",
+     "og:description": "An 80-year-old retiree charged with offering HK$10,000 to a Yau Tsim Mong district councillor to help force a meeting with a church pastor fell asleep repeatedly in the dock today as West Kowloon Magistrates' Courts adjourned the case.",
+     "og:url": "https://www.dimsumdaily.hk/man-80-charged-over-hk10000-bribe-to-yau-tsim-mong-councillor-dozes-in-court/",
+     "og:site_name": "Dimsum Daily",
+     "article:publisher": "https://www.facebook.com/dimsumdailyhk/",
+     "article:published_time": "2026-10-09T14:54:41+00:00",
+     "article:modified_time": "2026-10-09T14:54:48+00:00",
+     "twitter:card": "summary_large_image",
+     "twitter:image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09224850/pastor-333.webp",
+     "twitter:creator": "@DimsumDailyHK",
+     "twitter:site": "@DimsumDailyHK",
+     "twitter:label1": "Written by",
+     "twitter:data1": "Dickson Tam",
+     "twitter:label2": "Est. reading time",
+     "twitter:data2": "2 minutes",
+     "generator": "WordPress 5.9.2",
+     "fb:app_id": "134587740565152",
+     "msapplication-TileImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2024/04/27185518/cropped-ds-120--270x270.png",
+     "null": "930"
+    },
+    "checkedAt": "2026-10-10T00:35:21.292194+00:00",
+    "image": {
+     "url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/09224850/pastor-333.webp",
+     "http": 200,
+     "mime": "image/webp",
+     "bytes": 220076,
+     "magic": "52494646a45b03005745425056503858",
+     "format": "WEBP",
+     "width": 1176,
+     "height": 930,
+     "decoded": true
+    },
+    "reopenHttp": 200,
+    "ogExact": true,
+    "bodyRead": true,
+    "visualChecked": true,
+    "publishedHKT": "2026-10-09T22:54:41+08:00",
+    "imageNotes": "原文被告在法院外照片，未冒充犯罪過程"
+   },
+   {
+    "key": "collective",
+    "url": "https://thecollectivehk.com/wp-json/wp/v2/posts?per_page=20&_fields=date,date_gmt,link,title",
+    "http": 200,
+    "meta": {},
+    "checkedAt": "2026-10-10T00:35:21.292822+00:00",
+    "items": [
+     {
+      "date": "2026-10-10T01:00:12",
+      "date_gmt": "2026-10-09T17:00:12",
+      "link": "https://thecollectivehk.com/%e8%81%9a%e7%84%a6%ef%bc%8epodcast%ef%bd%9c27-%e5%88%86%e9%90%98%e3%80%80%e6%8e%a2%e8%a8%8e%e8%b1%aa%e5%ae%85%e5%81%b7%e5%b7%a5%e6%b8%9b%e6%96%99%e5%8e%9f%e5%9b%a0-%e5%ae%8f%e7%a6%8f%e8%8b%91%e3%80%8c/",
+      "title": {
+       "rendered": "聚焦．Podcast｜27 分鐘　探討豪宅偷工減料原因 宏福苑「刑不上局長」？ 黃金周VS生態  林卓延案上訴駁回 "
+      }
+     },
+     {
+      "date": "2026-10-09T13:10:03",
+      "date_gmt": "2026-10-09T05:10:03",
+      "link": "https://thecollectivehk.com/%e5%9c%8b%e5%ae%89%e6%aa%a2%e6%8e%a7%ef%bd%9c%e5%9c%8b%e5%ae%89%e8%ad%a6%e4%b8%89%e5%80%8b%e6%9c%88%e5%89%8d%e6%8b%98-52-%e6%ad%b2%e7%94%b7%e3%80%80%e8%a2%ab%e6%8c%87%e6%b6%89%e6%96%b0%e7%85%bd/",
+      "title": {
+       "rendered": "國安檢控｜國安警三個月前拘 52 歲男　被指涉新煽動罪　檢控提堂兩日後出稿交代"
+      }
+     },
+     {
+      "date": "2026-10-09T09:45:41",
+      "date_gmt": "2026-10-09T01:45:41",
+      "link": "https://thecollectivehk.com/%e6%9e%97%e5%8d%93%e5%bb%b7%e8%a2%ab%e6%8c%87%e5%88%aa%e7%9b%b8%e5%a6%a8%e7%a4%99%e5%8f%b8%e6%b3%95%e5%85%ac%e6%ad%a3%e7%bd%aa%e8%84%ab%e5%be%8b%e6%94%bf%e5%8f%b8%e4%b8%8a%e8%a8%b4/",
+      "title": {
+       "rendered": "林卓廷等被指妨礙司法公正　上訴庭指原審「明顯有錯」　證據存疑駁回律政司上訴　"
+      }
+     },
+     {
+      "date": "2026-10-09T09:35:03",
+      "date_gmt": "2026-10-09T01:35:03",
+      "link": "https://thecollectivehk.com/%e9%86%ab%e5%a7%94%e6%9c%83%e6%94%b9%e9%9d%a9%e5%a5%b3%e8%ad%a6%e7%94%a2%e5%ad%90%e5%87%ba%e8%a1%80%e4%ba%a1%e6%8a%95%e8%a8%b4%e6%8b%96%e8%bf%91%e5%8d%81%e5%b9%b4%e9%86%ab%e5%a7%94%e4%b8%8d%e7%a0%94/",
+      "title": {
+       "rendered": "醫委會改革｜女警產子出血亡　投訴拖近十年醫委不研訊　家屬向盧寵茂發信批「草草了事」"
+      }
+     },
+     {
+      "date": "2026-10-09T02:14:38",
+      "date_gmt": "2026-10-08T18:14:38",
+      "link": "https://thecollectivehk.com/one-stanley-%e3%80%8c%e6%8a%bd%e7%ad%8b%e3%80%8d%ef%bd%9c%e7%99%bc%e5%b1%95%e5%95%86%e3%80%81%e6%89%bf%e5%bb%ba%e5%95%86%e9%a0%85%e7%9b%ae%e7%9b%a4%e9%bb%9e%e3%80%80%e6%b5%b7%e6%82%85%e4%b8%ad/",
+      "title": {
+       "rendered": "One Stanley 「抽筋」｜發展商、承建商項目盤點　海悅中標 $4.8 億天文台總部工程"
+      }
+     },
+     {
+      "date": "2026-10-09T01:22:22",
+      "date_gmt": "2026-10-08T17:22:22",
+      "link": "https://thecollectivehk.com/mic%e5%b1%85%e5%b1%8b%ef%bd%9c%e5%ae%89%e6%9f%8f%e8%8b%91%e5%85%a5%e4%bc%99%e4%b8%80%e5%b9%b4%e5%a4%96%e7%89%86%e8%b5%b7%e6%b3%a1%e7%94%a9%e6%bc%86%e3%80%80%e5%90%8c%e6%9c%9f%e5%ae%89%e6%a8%ba/",
+      "title": {
+       "rendered": "MiC居屋｜安柏苑入伙一年外牆起泡甩漆　同期安樺苑同病相憐　居民：幾百萬買幢爛樓"
+      }
+     },
+     {
+      "date": "2026-10-09T00:27:20",
+      "date_gmt": "2026-10-08T16:27:20",
+      "link": "https://thecollectivehk.com/%e6%97%ba%e8%a7%92%e5%a4%a9%e5%8f%b0%e7%81%ab%ef%bd%9c%e4%ba%94%e6%9c%88%e5%b9%b4%e6%aa%a2%e6%8c%87%e8%a3%9d%e7%bd%ae%e6%ad%a3%e5%b8%b8%e3%80%80%e7%81%ab%e8%ad%a6%e7%95%b6%e6%97%a5%e8%ad%a6%e9%90%98/",
+      "title": {
+       "rendered": "旺角天台火｜年檢指裝置正常　遇火警喉轆警鐘失靈　消防處：火勢波及未能運作　消防工程師：咁易燒爛就大問題"
+      }
+     },
+     {
+      "date": "2026-10-08T20:52:02",
+      "date_gmt": "2026-10-08T12:52:02",
+      "link": "https://thecollectivehk.com/%e9%86%ab%e5%a7%94%e6%9c%83%e6%94%b9%e9%9d%a9%e9%86%ab%e9%86%ab%e7%9b%b8%e8%a1%9e%e7%97%85%e4%ba%ba%e7%b5%84%e7%b9%94%e6%8c%87%e5%85%ab%e6%88%90%e5%8f%97%e8%a8%aa%e8%80%85%e6%94%af%e6%8c%81%e4%bf%ae/",
+      "title": {
+       "rendered": "醫委會改革｜投訴人批「醫醫相衞」　病人組織：八成受訪者支持修例　建議增業外委員比例"
+      }
+     },
+     {
+      "date": "2026-10-08T20:47:31",
+      "date_gmt": "2026-10-08T12:47:31",
+      "link": "https://thecollectivehk.com/%e9%95%b7%e5%af%a6%e5%ae%89%e9%81%94%e8%87%a3%e9%81%93%e9%a6%96%e7%bd%ae%e7%9b%a4%e3%80%80%e5%85%ad%e5%b9%a2%e9%8b%bc%e7%ad%8b%e5%81%8f%e9%9b%a2%e5%9c%96%e5%89%87%e3%80%80%e4%b8%89%e5%b9%a2%e8%a6%81/",
+      "title": {
+       "rendered": "安達臣首置盤｜六幢鋼筋偏離圖則　三幢要重建　長實：拆卸最省時　屋宇署：已批圖則仍未工程申請"
+      }
+     },
+     {
+      "date": "2026-10-08T13:52:27",
+      "date_gmt": "2026-10-08T05:52:27",
+      "link": "https://thecollectivehk.com/%e9%84%ba%e7%90%83%e4%b8%80%e6%96%b9%e8%b3%aa%e7%96%91%e8%94%a1%e5%a4%a9%e9%b3%b3%e7%b6%93%e6%bf%9f%e8%83%bd%e5%8a%9b/",
+      "title": {
+       "rendered": "蔡天鳳案｜鄺球一方質疑蔡天鳳經濟能力　指鄺球在海南做生意、擁名車、加多利山單位一半權益"
+      }
+     },
+     {
+      "date": "2026-10-08T02:36:52",
+      "date_gmt": "2026-10-07T18:36:52",
+      "link": "https://thecollectivehk.com/%e5%9c%96%e8%bc%af%ef%bd%9cgovernment-land/",
+      "title": {
+       "rendered": "圖輯｜Government Land"
+      }
+     },
+     {
+      "date": "2026-10-08T02:20:32",
+      "date_gmt": "2026-10-07T18:20:32",
+      "link": "https://thecollectivehk.com/%e9%bb%83%e9%8c%a6%e8%bc%9d%e9%96%8b%e6%94%af%ef%bd%9c%e8%8a%b1%e9%80%be%e7%99%be%e8%90%ac%e8%81%98%e9%97%9c%e9%80%a3%e5%8d%94%e6%9c%83%e9%ab%98%e5%b1%a4%e5%81%9a%e9%a1%a7%e5%95%8f%e3%80%80%e9%bb%83/",
+      "title": {
+       "rendered": "黃錦輝開支｜花逾百萬聘關連協會高層做顧問　黃錦輝：協會非牟利　立法會秘書處：指引已羅列不補充"
+      }
+     },
+     {
+      "date": "2026-10-07T19:58:13",
+      "date_gmt": "2026-10-07T11:58:13",
+      "link": "https://thecollectivehk.com/%e6%96%b0%e4%b8%bb%e6%95%99%e5%b1%b1%ef%bd%9c%e6%94%bf%e5%ba%9c%e6%b8%85%e5%a0%b4%e5%86%8d%e9%80%a0%e3%80%80%e7%b8%ae%e8%87%b3%e4%ba%94%e4%b9%92%e4%b9%93%e6%b3%a2%e6%9e%b1%e3%80%80%e5%85%ad%e5%81%a5/",
+      "title": {
+       "rendered": "新主教山｜政府清場再造　縮至五乒乓波枱　六健身設施　街坊嘆設施不足「樹倒猢猻散」"
+      }
+     },
+     {
+      "date": "2026-10-07T12:34:06",
+      "date_gmt": "2026-10-07T04:34:06",
+      "link": "https://thecollectivehk.com/%e8%94%a1%e5%a4%a9%e9%b3%b3%e6%a1%88%e8%94%a1%e6%af%8d%e6%97%a9%e5%89%8d%e7%a8%b1%e9%84%ba%e6%af%8d%e5%90%91%e5%8f%b8%e6%a9%9f%e8%ac%8a%e7%a8%b1%e6%97%85%e9%81%8a%e5%b1%ac%e5%82%b3%e8%81%9e%e8%ad%89/",
+      "title": {
+       "rendered": "蔡天鳳案｜辯方盤問　蔡母認昨供稱自己持物業為「說錯」　鄺球一方指邊作供邊憑空捏造"
+      }
+     },
+     {
+      "date": "2026-10-07T00:46:51",
+      "date_gmt": "2026-10-06T16:46:51",
+      "link": "https://thecollectivehk.com/one-stanley-%e3%80%8c%e6%8a%bd%e7%ad%8b%e3%80%8d%ef%bd%9c%e5%b1%8b%e5%ae%87%e7%bd%b2%ef%bc%9a%e6%9c%83%e4%b8%bb%e5%8b%95%e6%8a%bd%e6%aa%a2%e9%83%a8%e5%88%86%e5%96%ae%e4%bd%8d%e5%8f%8a%e6%89%bf/",
+      "title": {
+       "rendered": "One Stanley 「抽筋」｜屋宇署：會主動抽檢部分單位及承建商其他項目　"
+      }
+     },
+     {
+      "date": "2026-10-06T16:50:42",
+      "date_gmt": "2026-10-06T08:50:42",
+      "link": "https://thecollectivehk.com/%e7%9f%a2%e6%9d%bf%e6%98%8e%e5%a4%ab%e9%81%87%e8%a5%b2%e6%b8%af%e4%ba%ba%e5%bb%96%e6%b8%af%e7%99%bc%e8%a2%ab%e5%8f%b0%e7%81%a3%e8%b5%b7%e8%a8%b4%e9%80%9a%e7%b7%9d%e5%9b%9b%e4%ba%ba/",
+      "title": {
+       "rendered": "矢板明夫遇襲｜港人廖港發被台灣起訴　通緝四人　被指屬「和安樂」成員"
+      }
+     },
+     {
+      "date": "2026-10-06T15:28:01",
+      "date_gmt": "2026-10-06T07:28:01",
+      "link": "https://thecollectivehk.com/10-1-%e9%bb%83%e9%87%91%e5%91%a8%ef%bd%9c%e8%a5%bf%e8%b2%a2%e5%bb%88%e9%96%80%e7%81%a3-3000-%e4%ba%ba%e7%99%bb%e5%b3%b6%e3%80%80%e6%8c%96%e8%9c%86%e6%8d%89%e6%b5%b7%e5%8f%83%e3%80%80%e7%b6%a0%e8%89%b2/",
+      "title": {
+       "rendered": "10.1 黃金周｜西貢廈門灣 3000 人登島　挖蜆捉海參　綠色和平控訴「郊野超載」"
+      }
+     },
+     {
+      "date": "2026-10-06T12:48:26",
+      "date_gmt": "2026-10-06T04:48:26",
+      "link": "https://thecollectivehk.com/%e8%94%a1%e5%a4%a9%e9%b3%b3%e6%a1%88%e8%94%a1%e6%af%8d%e4%bd%9c%e4%be%9b%e6%8c%87%e9%84%ba%e7%90%83%e7%a8%b1%e4%bd%a0%e5%a4%a0%e8%86%bd%e8%b3%a3%e6%a8%93%e6%88%91%e6%ae%ba%e5%92%97%e4%bd%a0%e5%85%a8/",
+      "title": {
+       "rendered": "蔡天鳳案｜蔡母作供　指女兒失蹤後致電鄺家　鄺港傑前言不對後語、鄺港智知報警斥「你仆街啦」"
+      }
+     },
+     {
+      "date": "2026-10-06T11:40:43",
+      "date_gmt": "2026-10-06T03:40:43",
+      "link": "https://thecollectivehk.com/%e5%ae%8f%e7%a6%8f%e8%8b%91%e5%95%8f%e8%b2%ac%e5%95%9f%e5%8b%95%e9%83%a8%e9%96%80%e9%a6%96%e9%95%b7%e8%b2%ac%e4%bb%bb%e5%88%b6%e7%8d%a8%e5%a7%94%e6%9c%83%e4%ba%a4%e5%a0%b1%e5%91%8a%e5%be%8c%e7%9b%a1/",
+      "title": {
+       "rendered": "宏福苑官員問責｜已啟動部門首長責任制？　特首：獨委會交報告後，盡快追究責任"
+      }
+     },
+     {
+      "date": "2026-10-05T23:25:21",
+      "date_gmt": "2026-10-05T15:25:21",
+      "link": "https://thecollectivehk.com/%e7%b0%a1%e6%a8%b8%e6%88%bf%e6%a2%9d%e4%be%8b%e8%ad%b0%e5%93%a1%e6%86%82%e7%a7%9f%e9%87%91%e6%9a%b4%e6%bc%b2%e5%a2%9e%e5%9f%ba%e5%b1%a4%e8%b2%a0%e6%93%94%e4%bd%95%e6%b0%b8%e8%b3%a2%e6%9c%89%e5%be%97/",
+      "title": {
+       "rendered": "簡樸房條例｜議員憂租金暴漲增基層負擔　何永賢：有得揀簡約公屋"
+      }
+     }
+    ]
+   },
+   {
+    "key": "greenbean",
+    "url": "https://greenbean.media/wp-json/wp/v2/posts?per_page=10&_fields=date,date_gmt,link,title",
+    "http": 200,
+    "meta": {},
+    "checkedAt": "2026-10-10T00:35:21.846036+00:00",
+    "items": [
+     {
+      "date": "2026-10-09T12:00:09",
+      "date_gmt": "2026-10-09T11:00:09",
+      "link": "https://greenbean.media/%e6%b3%95%e5%9c%8b%e6%94%bf%e6%b2%bb%e7%99%b1%e7%98%93%e9%81%87%e4%b8%8a%e5%82%b5%e5%8b%99%e5%8d%b1%e6%a9%9f/",
+      "title": {
+       "rendered": "法國：政治癱瘓遇上債務危機"
+      }
+     },
+     {
+      "date": "2026-10-09T11:00:32",
+      "date_gmt": "2026-10-09T10:00:32",
+      "link": "https://greenbean.media/%e8%ab%87%e8%ab%87%e8%8b%b1%e5%9c%8b%e7%9a%84%e9%80%80%e4%bc%91%e9%87%91%e5%88%b6%e5%ba%a6/",
+      "title": {
+       "rendered": "談談英國的退休金制度"
+      }
+     },
+     {
+      "date": "2026-10-09T10:00:29",
+      "date_gmt": "2026-10-09T09:00:29",
+      "link": "https://greenbean.media/%e4%ba%ba%e9%a1%9e%e6%9c%80%e5%be%8c%e7%9a%84%e8%87%aa%e7%94%b1/",
+      "title": {
+       "rendered": "人類最後的自由"
+      }
+     },
+     {
+      "date": "2026-10-08T20:00:35",
+      "date_gmt": "2026-10-08T19:00:35",
+      "link": "https://greenbean.media/ep77-%ef%bd%9c%e4%bf%84%e7%be%85%e6%96%af%e7%96%ab%e7%97%87%e5%af%a6%e9%a9%97%e5%ae%a4%e8%81%b7%e5%93%a1%e7%96%91%e4%b8%ad%e8%82%ba%e9%bc%a0%e7%96%ab%e4%ba%a1%ef%bd%9c%e7%89%b9%e6%9c%97%e6%99%ae/",
+      "title": {
+       "rendered": "EP77 ｜俄羅斯疫症實驗室職員疑中肺鼠疫亡｜特朗普指伊朗毁洛杉磯微不足道｜洋流破圈挑戰蔣萬安 民調真空下勝負難料"
+      }
+     },
+     {
+      "date": "2026-10-08T12:00:17",
+      "date_gmt": "2026-10-08T11:00:17",
+      "link": "https://greenbean.media/%e6%88%b0%e7%88%ad%e5%bd%a2%e6%85%8b%e4%b8%95%e8%ae%8a/",
+      "title": {
+       "rendered": "戰爭形態丕變  風險與日俱增"
+      }
+     },
+     {
+      "date": "2026-10-08T09:00:29",
+      "date_gmt": "2026-10-08T08:00:29",
+      "link": "https://greenbean.media/%e4%b8%8d%e6%98%af%e7%b5%a6%e7%8e%8b%e5%ae%a4%e4%bd%8f%e7%9a%84%e7%9a%87%e5%ae%ae/",
+      "title": {
+       "rendered": "不是給王室住的皇宮"
+      }
+     },
+     {
+      "date": "2026-10-07T13:00:02",
+      "date_gmt": "2026-10-07T12:00:02",
+      "link": "https://greenbean.media/%e6%88%91%e8%a6%81%e5%81%9a%e8%bb%8a%e6%89%8b%ef%bd%9c30%e6%ad%b2%e7%a7%bb%e8%8b%b1%e6%b8%af%e4%ba%ba%e6%88%90%e5%8a%9f%e8%bf%bd%e5%a4%a2%ef%bc%8c%e6%88%90%e7%82%ba%e8%b3%bd%e8%bb%8a%e5%86%a0%e8%bb%8d/",
+      "title": {
+       "rendered": "我要做車手｜30歲移英港人成功追夢，成為賽車冠軍，站上英國頒獎台 !"
+      }
+     },
+     {
+      "date": "2026-10-07T12:00:47",
+      "date_gmt": "2026-10-07T11:00:47",
+      "link": "https://greenbean.media/%e7%95%99%e5%ad%b8%e5%a6%82%e4%bd%95%e5%bd%b1%e9%9f%bf%e6%94%bf%e6%b2%bb%e7%ab%8b%e5%a0%b4/",
+      "title": {
+       "rendered": "留學如何影響政治立場"
+      }
+     },
+     {
+      "date": "2026-10-07T11:00:38",
+      "date_gmt": "2026-10-07T10:00:38",
+      "link": "https://greenbean.media/%e5%8f%8d%e6%ad%a3%e5%92%81%e6%9c%89%e7%b1%b3%ef%bc%8c%e5%94%94%e7%88%ad%e5%9c%a8%e5%97%b090%e7%a2%9760%e7%a2%97%e5%95%a6%ef%bc%8c%e5%85%a8%e9%83%a8%e7%82%92%e6%99%92%e4%b8%80%e7%a2%9f%e5%81%9a/",
+      "title": {
+       "rendered": "反正咁有米，唔爭在嗰90碗60碗啦，全部炒晒一碟做大鑊飯，人人做隻飽飽滯滯尊貴嘅大嘥鬼！！"
+      }
+     },
+     {
+      "date": "2026-10-07T11:00:15",
+      "date_gmt": "2026-10-07T10:00:15",
+      "link": "https://greenbean.media/%e5%8f%8d%e6%ad%a3%e5%92%81%e6%9c%89%e7%b1%b3%ef%bc%8c%e5%94%94%e7%88%ad%e5%9c%a8%e5%97%b090%e7%a2%9760%e7%a2%97%e5%95%a6%ef%bc%8c%e5%85%a8%e9%83%a8%e7%82%92%e6%99%92%e4%b8%80%e7%a2%9f%e5%81%9a-2/",
+      "title": {
+       "rendered": "反正咁有米，唔爭在嗰90碗60碗啦，全部炒晒一碟做大鑊飯，人人做隻飽飽滯滯尊貴嘅大嘥鬼！！"
+      }
+     }
+    ]
+   },
+   {
+    "key": "hkfp",
+    "url": "https://hongkongfp.com/feed/",
+    "http": 200,
+    "meta": {},
+    "checkedAt": "2026-10-10T00:35:20.750515+00:00",
+    "items": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\n\txmlns:content=\"http://purl.org/rss/1.0/modules/content/\"\n\txmlns:wfw=\"http://wellformedweb.org/CommentAPI/\"\n\txmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n\txmlns:atom=\"http://www.w3.org/2005/Atom\"\n\txmlns:sy=\"http://purl.org/rss/1.0/modules/syndication/\"\n\txmlns:slash=\"http://purl.org/rss/1.0/modules/slash/\"\n\t>\n\n<channel>\n\t<title>Hong Kong Free Press HKFP</title>\n\t<atom:link href=\"https://hongkongfp.com/feed/\" rel=\"self\" type=\"application/rss+xml\" />\n\t<link>https://hongkongfp.com/</link>\n\t<description>Hong Kong news, breaking updates - 100% Independent, impartial, non-profit</description>\n\t<lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>\n\t<language>en-GB</language>\n\t<sy:updatePeriod>\n\thourly\t</sy:updatePeriod>\n\t<sy:updateFrequency>\n\t1\t</sy:updateFrequency>\n\t\n\n<image>\n\t<url>https://hongkongfp.com/wp-content/uploads/2025/06/TINY-FAVICON-do-not-use-100x100.jpg?crop=1</url>\n\t<title>Hong Kong Free Press HKFP</title>\n\t<link>https://hongkongfp.com/</link>\n\t<width>32</width>\n\t<height>32</height>\n</image> \n<site xmlns=\"com-wordpress:feed-additions:1\">175101873</site>\t<item>\n\t\t<title>HKFP Lens: 1.4 million visitors flock to Hong Kong over China&#8217;s Golden Week holiday</title>\n\t\t<link>https://hongkongfp.com/2026/10/10/hkfp-lens-1-4-million-visitors-flock-to-hong-kong-over-chinas-golden-week-holiday/</link>\n\t\t\n\t\t<dc:creator><![CDATA[Kyle Lam]]></dc:creator>\n\t\t<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>\n\t\t\t\t<category><![CDATA[Environment & Health]]></category>\n\t\t<category><![CDATA[HKFP Lens]]></category>\n\t\t<category><![CDATA[Hong Kong]]></category>\n\t\t<category><![CDATA[Travel & Transport]]></category>\n\t\t<category><![CDATA[Urban Exploring]]></category>\n\t\t<category><![CDATA[Country Parks]]></category>\n\t\t<category><![CDATA[golden week]]></category>\n\t\t<category><![CDATA[Kennedy Town]]></category>\n\t\t<category><![CDATA[Mong Kok]]></category>\n\t\t<category><![CDATA[National Day (October 1)]]></category>\n\t\t<cate"
+   }
+  ]
+ ],
+ "rootSourceEvidence": [
+  {
+   "key": "market",
+   "url": "https://www.straitstimes.com/business/companies-markets/wall-street-posts-weekly-gains-with-earnings-inflation-data-on-tap",
+   "articleHTTP": 200,
+   "title": "Wall Street posts weekly gains with earnings, inflation data on tap",
+   "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/48193a92a5f440dd1d5291117b1738db6763c71ee946e6e507eb24f8adb7a1bf?w=1200",
+   "publishedRaw": "2026-10-09T20:37:03.000Z",
+   "jsonLdTime": {
+    "datePublished": "2026-10-10T04:37:03+08:00",
+    "dateModified": "2026-10-10T04:37:03+08:00"
+   },
+   "textExtract": "Wall Street posts weekly gains ahead of earnings | The Straits Times Log in / sign up for free Menu Choose edition Singapore International Search singapore asia world opinion life business sport Visual Podcasts STClassifieds Paid press releases Advertise with us FAQs Contact us Wall Street posts weekly gains with earnings, inflation data on tap Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange, in New York City. PHOTO: AFP Published Oct 10, 2026, 04:37 AM Updated Oct 10, 2026, 04:37 AM Set as preferred source Summarise Wall Street ended higher and posted weekly gains as investors looked ahead to third-quarter earnings and inflation data that could shape the Federal Reserve’s next move. Big banks, including Wells Fargo, Goldman Sachs and JPMorgan Chase, are due to report, while analysts expect S&P 500 earnings to rise 30.6% and energy and technology to lead. Stocks were mixed by sector and company news, with AI shares rising, telecom firms falling after SpaceX’s spectrum deal, Humana jumping on Medicare ratings, and Apple slipping on weaker demand. AI generated NEW YORK - Wall Street ended higher on Oct 9 as investors shifted their focus to next week, with third-quarter earnings season set to start and inflation data expected, which could shed light on the Federal Reserve’s next policy decision. All three major US stock indexes advanced on the day, logging weekly gains. The small-cap Russell 2000, however, ended lower than Oct 2’s close. “It’s the kind of back-and-forth market we’ve been in where we have the reversal of sentiment around Iran,” said Ross Mayfield, investment strategy analyst at Baird in Louisville, Kentucky. “With conflicting headlines coming out of the White House and parties in the Midd",
+   "imageHTTP": 200,
+   "imageContentType": "image/jpeg",
+   "imageBytes": 107997,
+   "imageMagic": "ffd8ffdb004300050304040403050404",
+   "imageOgExact": true,
+   "imageDecoded": {
+    "format": "JPEG",
+    "width": 1200,
+    "height": 630
+   }
+  },
+  {
+   "key": "chip",
+   "url": "https://www.channelnewsasia.com/business/exclusive-sequoia-backed-chip-startup-nuvacore-raising-funds-about-25-billion-valuation-sources-say-6448066",
+   "articleHTTP": 200,
+   "title": "Exclusive-Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
+   "ogImage": "https://dam.mediacorp.sg/image/upload/s--ILXq3FkD--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-09T224151Z_1_LYNXMPEM981XA_RTROPTP_3_NETHERLANDS-GERMANY-CHIPS.JPG?itok=zT5vSxp7",
+   "publishedRaw": null,
+   "jsonLdTime": {
+    "datePublished": "2026-10-10T06:37:56+08:00",
+    "dateModified": "2026-10-10T06:41:51+08:00"
+   },
+   "textExtract": "Exclusive-Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say - CNA Skip to main content Sign In Sign In Account My Feed Edition Menu Edition: Singapore Indonesia Asia World CNAR Search menu Search Edition: Singapore Indonesia Asia World CNA Insider Lifestyle Luxury News Id 1822271 Type landing_page Top Stories Latest News Id 1822271 Type landing_page Asia Id 1821901 Type landing_page East Asia Id 4310561 Type landing_page Singapore Id 1821876 Type landing_page World Id 1821886 Type landing_page Commentary Id 1821896 Type landing_page CNA Explains Id 3384986 Type landing_page Sustainability Id 1881506 Type landing_page Business Id 1821906 Type landing_page Sport Id 1821911 Type landing_page Singapore Parliament Id 1822221 Type landing_page Interactives Id 1331736 Type landing_page Watch Id 1431321 Type landing_page Live TV Id 1431321 Type landing_page News Reports Documentaries & Shows TV Schedule Id 1822266 Type landing_page Listen Id 5197731 Type landing_page CNA938 Live Id 5197731 Type landing_page Podcasts Radio Schedule Id 2005266 Type landing_page Insider Id 5191361 Type landing_page Big Read Id 4634231 Type landing_page Up Close Id 4648841 Type landing_page In Pixels Id 4791376 Type landing_page Ground Up Id 4628706 Type landing_page Voices Id 4635741 Type landing_page Adulting Id 4635751 Type landing_page Mental Health Matters Id 4635731 Type landing_page Insider Spotlight Id 6418016 Type landing_page Lifestyle Type external Entertainment Type external Women Type external Wellness Type external Living Type external Style & Beauty Type external Dining Type external Travel Type external Branded Content Id 2204221 Type landing_page Business Blueprint Id 1924496 Type landing_page Health Matters Id 2003586 Type landing_pa",
+   "imageHTTP": 200,
+   "imageContentType": "image/jpeg",
+   "imageBytes": 84293,
+   "imageMagic": "ffd8ffe000104a464946000101000001",
+   "imageOgExact": true,
+   "imageDecoded": {
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676
+   }
+  },
+  {
+   "key": "kalshi",
+   "url": "https://www.channelnewsasia.com/business/kalshi-probes-suspicious-trades-tied-trump-press-secretary-pick-wsj-reports-6448026",
+   "articleHTTP": 200,
+   "title": "Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports",
+   "ogImage": "https://dam.mediacorp.sg/image/upload/s--Yi0OWPSD--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-09T220329Z_1_LYNXMPEM981WO_RTROPTP_3_KALSHI-PERPETUAL-FUTURE.JPG?itok=x5Sj2BHS",
+   "publishedRaw": null,
+   "jsonLdTime": {
+    "datePublished": "2026-10-10T06:03:29+08:00",
+    "dateModified": "2026-10-10T06:33:02+08:00"
+   },
+   "textExtract": "Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports - CNA Skip to main content Sign In Sign In Account My Feed Edition Menu Edition: Singapore Indonesia Asia World CNAR Search menu Search Edition: Singapore Indonesia Asia World CNA Insider Lifestyle Luxury News Id 1822271 Type landing_page Top Stories Latest News Id 1822271 Type landing_page Asia Id 1821901 Type landing_page East Asia Id 4310561 Type landing_page Singapore Id 1821876 Type landing_page World Id 1821886 Type landing_page Commentary Id 1821896 Type landing_page CNA Explains Id 3384986 Type landing_page Sustainability Id 1881506 Type landing_page Business Id 1821906 Type landing_page Sport Id 1821911 Type landing_page Singapore Parliament Id 1822221 Type landing_page Interactives Id 1331736 Type landing_page Watch Id 1431321 Type landing_page Live TV Id 1431321 Type landing_page News Reports Documentaries & Shows TV Schedule Id 1822266 Type landing_page Listen Id 5197731 Type landing_page CNA938 Live Id 5197731 Type landing_page Podcasts Radio Schedule Id 2005266 Type landing_page Insider Id 5191361 Type landing_page Big Read Id 4634231 Type landing_page Up Close Id 4648841 Type landing_page In Pixels Id 4791376 Type landing_page Ground Up Id 4628706 Type landing_page Voices Id 4635741 Type landing_page Adulting Id 4635751 Type landing_page Mental Health Matters Id 4635731 Type landing_page Insider Spotlight Id 6418016 Type landing_page Lifestyle Type external Entertainment Type external Women Type external Wellness Type external Living Type external Style & Beauty Type external Dining Type external Travel Type external Branded Content Id 2204221 Type landing_page Business Blueprint Id 1924496 Type landing_page Health Matters Id 2003586 Type landing_page Brand Studio Id 4656461 T",
+   "imageHTTP": 200,
+   "imageContentType": "image/jpeg",
+   "imageBytes": 59236,
+   "imageMagic": "ffd8ffe000104a464946000101000001",
+   "imageOgExact": true,
+   "imageDecoded": {
+    "format": "JPEG",
+    "width": 1200,
+    "height": 676
+   }
+  }
+ ],
+ "visualReview": {
+  "reviewer": "root",
+  "actuallyViewed": [
+   "hk-montage.jpg",
+   "root-montage.jpg",
+   "world-montage.jpg",
+   "briefs-montage.jpg",
+   "politics-editorial.img",
+   "politics-voucher.img",
+   "politics-bribe.img"
+  ],
+  "result": "41張卡面圖片已目視，與原文OG相符；資料照及示意圖不稱即時現場。"
+ },
+ "warnings": [
+  {
+   "type": "dedup false positive",
+   "reason": "本版為10月9日紐約收市（道指升423.31點），上版為10月9日香港收市（恒指升425點）。兩地交易所、指數及時區不同，標題共通字造成自檢假陽性；保留。"
+  }
+ ],
+ "schedule": {
+  "amView": "10:00",
+  "pmView": "22:00",
+  "draft": "20:30",
+  "refresh": "21:45",
+  "automationIds": [
+   "automation-2",
+   "automation-4"
+  ],
+  "action": "已回讀兩任務ACTIVE，時間相符，無改動。"
+ },
+ "preservation": {
+  "previousDate": "2026-10-09",
+  "previousEdition": "pm",
+  "previousTrackCount": 205,
+  "kept": 205,
+  "added": 27,
+  "retired": 0,
+  "total": 232,
+  "unrelatedChangesPreserved": true
+ },
+ "localServer": {
+  "checkedAtHKT": "2026-10-10 08:39:25",
+  "base": "http://127.0.0.1:8080",
+  "dailyHTTP": 200,
+  "indexHTTP": 200,
+  "pageHTTP": 200,
+  "dayExact": true,
+  "indexExact": true,
+  "date": "2026-10-10",
+  "edition": "am"
+ }
+}
