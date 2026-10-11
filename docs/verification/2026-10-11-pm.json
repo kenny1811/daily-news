@@ -1,0 +1,1670 @@
+{
+  "date": "2026-10-11",
+  "edition": "pm",
+  "state": {
+    "stagedAt": "2026-10-11T12:54:37.384Z",
+    "finalizedAt": "2026-10-11T13:58:19.540Z",
+    "validatedAt": "2026-10-11T13:58:19.540Z",
+    "lastSourceCheckedAt": "2026-10-11T13:54:12.604088+00:00",
+    "version": 1,
+    "notice": {
+      "status": "pending"
+    }
+  },
+  "recordedAt": "2026-10-11T13:59:04.646Z",
+  "counts": {
+    "hks": 8,
+    "hkl": 8,
+    "hke": 3,
+    "hkp": 3,
+    "cn": 8,
+    "us": 3,
+    "tw": 3,
+    "war": 3
+  },
+  "track": {
+    "previous": 297,
+    "current": 326,
+    "allPreviousPreserved": true
+  },
+  "selfcheckExit": 0,
+  "imageVerification": {
+    "cards": 39,
+    "briefIllustrations": 2,
+    "method": "逐篇重新讀原文、比對現用 OG；重新取圖片，核對 HTTP、MIME、magic、大小及解碼；兩張新 OG 由主 agent 目視。",
+    "root": [
+      {
+        "key": "border",
+        "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/512155/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%A4%90%E5%BB%B3%E7%9C%8B%E6%BA%96%E5%95%86%E6%A9%9F%E9%99%84%E8%BF%91%E9%96%8B%E8%88%96-%E6%9C%9B%E9%80%9A%E9%97%9C%E5%BE%8C%E7%94%9F",
+        "articleHTTP": 200,
+        "title": "新皇崗口岸｜餐廳看準商機附近開舖　望通關後生意額多五成以上 - 有線寬頻 i-CABLE",
+        "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/12022517/vlcsnap-2026-10-11-18h25m01s589.jpg",
+        "publishedRaw": "2026-10-11T10:51:35+00:00",
+        "jsonLdTime": {
+          "datePublished": "2026-10-11T10:51:35+00:00",
+          "dateModified": "2026-10-11T10:51:43+00:00"
+        },
+        "imageHTTP": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 491170,
+        "imageMagic": "ffd8ffe000104a464946000101000001",
+        "imageOgExact": true,
+        "imageDecoded": {
+          "format": "JPEG",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      {
+        "key": "cpf",
+        "url": "https://www.straitstimes.com/business/mary-chia-admits-disclosure-lapses-over-cpf-arrears-at-four-subsidiaries-after-sgx-queries",
+        "articleHTTP": 200,
+        "title": "Mary Chia admits disclosure lapses over CPF arrears at four subsidiaries after SGX queries",
+        "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/c407b8e3d2077d31b3193ceca6a0cc1d04be78b9538b7d48347a56c588355a39?w=1200",
+        "publishedRaw": "2026-10-11T04:30:00.000Z",
+        "jsonLdTime": {
+          "datePublished": "2026-10-11T12:30:00+08:00",
+          "dateModified": "2026-10-11T12:30:00+08:00"
+        },
+        "imageHTTP": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 85512,
+        "imageMagic": "ffd8ffdb004300050304040403050404",
+        "imageOgExact": true,
+        "imageDecoded": {
+          "format": "JPEG",
+          "width": 1200,
+          "height": 630
+        }
+      },
+      {
+        "key": "starlink",
+        "url": "https://www.channelnewsasia.com/business/musk-vows-affordable-starlink-in-india-days-ambanis-record-jio-ipo-6450016",
+        "articleHTTP": 200,
+        "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+        "ogImage": "https://dam.mediacorp.sg/image/upload/s--1dR4HVAW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-11T073050Z_1_LYNXMPEM9A04X_RTROPTP_3_INDIA-SATELLITE-INTERNET-MUSK.JPG?itok=V7Lt6ROg",
+        "publishedRaw": null,
+        "jsonLdTime": {
+          "datePublished": "2026-10-11T15:11:19+08:00",
+          "dateModified": "2026-10-11T15:30:50+08:00"
+        },
+        "imageHTTP": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 59398,
+        "imageMagic": "ffd8ffe000104a464946000101000001",
+        "imageOgExact": true,
+        "imageDecoded": {
+          "format": "JPEG",
+          "width": 1200,
+          "height": 676
+        }
+      },
+      {
+        "key": "estate",
+        "url": "https://thecollectivehk.com/%e9%a0%86%e7%b7%bb%e8%8b%91%e7%b6%ad%e4%bf%ae%ef%bd%9c%e4%b8%ad%e6%a8%99%e5%85%ac%e5%8f%b8%e8%a2%ab%e6%8c%87%e8%88%87%e5%ae%8f%e7%a6%8f%e8%8b%91%e6%b6%88%e9%98%b2%e6%89%bf%e8%be%a6%e5%95%86%e6%9c%89/",
+        "articleHTTP": 200,
+        "title": "順緻苑維修｜中標公司被指與宏福苑消防承辦商有關聯　業主推翻 2000 萬天台防水工程　居民：大火後加強監察 - 集誌社",
+        "ogImage": "https://thecollectivehk.com/wp-content/uploads/2026/10/VID_26_10_10_20_09_081-1.jpeg",
+        "publishedRaw": "2026-10-11T12:29:05+08:00",
+        "jsonLdTime": {
+          "datePublished": "2026-10-11T12:29:05+08:00",
+          "dateModified": "2026-10-11T20:38:12+08:00"
+        },
+        "imageHTTP": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 493592,
+        "imageMagic": "ffd8ffe000104a464946000101000048",
+        "imageOgExact": true,
+        "imageDecoded": {
+          "format": "JPEG",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "key": "school",
+        "url": "https://www.hk01.com/article/60397886",
+        "articleHTTP": 200,
+        "title": "馮志豪｜學校不只是學額容器　資源重組應守住人文關懷",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261009/1185280619706322944637019.jpeg/jJEvFAWkukrIm74Z0nNIc5pPeqsSK6WxmDUp85g1KfM?v=w1280r16_9",
+        "publishedRaw": "2026-10-11T10:00:54+08:00",
+        "jsonLdTime": {
+          "datePublished": "2026-10-11T10:00:54+08:00",
+          "dateModified": "2026-10-11T12:16:37+08:00"
+        },
+        "imageHTTP": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 147616,
+        "imageMagic": "ffd8ffe000104a464946000102010048",
+        "imageOgExact": true,
+        "imageDecoded": {
+          "format": "JPEG",
+          "width": 1200,
+          "height": 675
+        }
+      },
+      {
+        "key": "repair",
+        "url": "https://www.hk01.com/article/60397918",
+        "articleHTTP": 200,
+        "title": "立法會議員．李鎮強｜打破圍標「割韭菜」亂象：讓業主安心投票",
+        "ogImage": "https://cdn.hk01.com/di/media/images/2961420/org/7468cabaaa403d755b940df244d9c888.JPG/6XYLYXFzjLevaeUXEYNG45ySN8cpcDXLGj6gcBo-oHA?v=w1280r16_9",
+        "publishedRaw": "2026-10-11T18:00:46+08:00",
+        "jsonLdTime": {
+          "datePublished": "2026-10-11T18:00:46+08:00",
+          "dateModified": "2026-10-11T18:00:46+08:00"
+        },
+        "imageHTTP": 200,
+        "imageContentType": "image/jpeg",
+        "imageBytes": 182128,
+        "imageMagic": "ffd8ffe000104a464946000102010048",
+        "imageOgExact": true,
+        "imageDecoded": {
+          "format": "JPEG",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    ],
+    "hk": [
+      {
+        "group": "hks",
+        "index": 0,
+        "url": "https://www.hk01.com/article/60398434",
+        "articleHTTP": 200,
+        "title": "灣仔男子墮斃｜原定今日偕妻遊越南　疑醉酒坐欄失平衡1樓向後跌",
+        "publishedRaw": "2026-10-11T15:23:45+08:00",
+        "updatedRaw": "2026-10-11T18:50:30+08:00",
+        "publishedHKT": "2026-10-11 15:23:45",
+        "updatedHKT": "2026-10-11 18:50:30",
+        "oldUpdated": "2026-10-11 18:50:30",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1185994081713524736502974.jpeg/2AaM1fBwxZhbtD6IXRE-Uyd2EBxmCv-XaXrvA2l67wM",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1185994081713524736502974.jpeg/2AaM1fBwxZhbtD6IXRE-Uyd2EBxmCv-XaXrvA2l67wM",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 254401,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hks-0.txt",
+        "checkedAt": "2026-10-11T13:51:26.125053+00:00"
+      },
+      {
+        "group": "hks",
+        "index": 1,
+        "url": "https://www.hk01.com/article/60398513",
+        "articleHTTP": 200,
+        "title": "七隻貓疑遭人遺棄大埔　善心人帶往保護遺棄動物協會　惜全數死亡",
+        "publishedRaw": "2026-10-11T20:32:18+08:00",
+        "updatedRaw": "2026-10-11T21:05:32+08:00",
+        "publishedHKT": "2026-10-11 20:32:18",
+        "updatedHKT": "2026-10-11 21:05:32",
+        "oldUpdated": "2026-10-11 20:32:51",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1186049380092743680829407.jpeg/AIJ1OURJr_08GvkzZAuztHSa7moC8Ob02Mhjh9jIY4c?v=w1280r16_9",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1186049380092743680829407.jpeg/AIJ1OURJr_08GvkzZAuztHSa7moC8Ob02Mhjh9jIY4c?v=w1280r16_9",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 155892,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1260,
+            709
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hks-1.txt",
+        "checkedAt": "2026-10-11T13:51:26.124569+00:00"
+      },
+      {
+        "group": "hks",
+        "index": 2,
+        "url": "https://www.stheadline.com/ohpama/3624910/",
+        "articleHTTP": 200,
+        "title": "爭玩具變家長開戰！尖沙咀玩具店罵戰片瘋傳 女童媽怒索CCTV要公道 男童嚇至嚎啕大哭 ",
+        "publishedRaw": "2026-10-11T20:31:04+0800",
+        "updatedRaw": "2026-10-11T20:31:04+0800",
+        "publishedHKT": "2026-10-11 20:31:04",
+        "updatedHKT": "2026-10-11 20:31:04",
+        "oldUpdated": "2026-10-11 20:31:04",
+        "og": "https://image.hkhl.hk/f/1200p0/0x0/ll/ohpama/7cbabba12f731c8416aeae349f157450/2026-10/New_Project_21__0.png",
+        "oldOg": "https://image.hkhl.hk/f/1200p0/0x0/ll/ohpama/7cbabba12f731c8416aeae349f157450/2026-10/New_Project_21__0.png",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/png; charset=UTF-8",
+          "bytes": 454205,
+          "magic": "89504e470d0a1a0a0000000d49484452",
+          "format": "PNG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hks-2.txt",
+        "checkedAt": "2026-10-11T13:51:26.632854+00:00"
+      },
+      {
+        "group": "hks",
+        "index": 3,
+        "url": "https://www.hk01.com/article/60398491",
+        "articleHTTP": 200,
+        "title": "屯門新和里中學現1米長蛇蹤　警通知蛇王捉走",
+        "publishedRaw": "2026-10-11T18:24:35+08:00",
+        "updatedRaw": "2026-10-11T19:21:06+08:00",
+        "publishedHKT": "2026-10-11 18:24:35",
+        "updatedHKT": "2026-10-11 19:21:06",
+        "oldUpdated": "2026-10-11 19:21:06",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1186034113602129920053249.jpeg/8VXH75mvVz6_dV9bbxwwJeHfce23Jqfw8pKuD_KSrg8",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1186034113602129920053249.jpeg/8VXH75mvVz6_dV9bbxwwJeHfce23Jqfw8pKuD_KSrg8",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 258276,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hks-3.txt",
+        "checkedAt": "2026-10-11T13:51:26.124814+00:00"
+      },
+      {
+        "group": "hks",
+        "index": 4,
+        "url": "https://www.hk01.com/article/60398431",
+        "articleHTTP": 200,
+        "title": "元朗錦上路井坑山一帶山火　火線一度綿延30米　濃煙席捲半空",
+        "publishedRaw": "2026-10-11T14:55:16+08:00",
+        "updatedRaw": "2026-10-11T17:01:21+08:00",
+        "publishedHKT": "2026-10-11 14:55:16",
+        "updatedHKT": "2026-10-11 17:01:21",
+        "oldUpdated": "2026-10-11 17:01:21",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1185960377586814976709123.jpeg/zmGuzK9EdGNGa25iLZ9Q8Y3yUPDmv0pkT-HOYU_hzmE?v=w1280r16_9",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1185960377586814976709123.jpeg/zmGuzK9EdGNGa25iLZ9Q8Y3yUPDmv0pkT-HOYU_hzmE?v=w1280r16_9",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 146098,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hks-4.txt",
+        "checkedAt": "2026-10-11T13:51:26.409091+00:00"
+      },
+      {
+        "group": "hks",
+        "index": 5,
+        "url": "https://www.hk01.com/article/60398445",
+        "articleHTTP": 200,
+        "title": "元朗火燒車．有片｜安樂路私家車突起火冒煙　消防射水救熄",
+        "publishedRaw": "2026-10-11T15:50:03+08:00",
+        "updatedRaw": "2026-10-11T16:15:45+08:00",
+        "publishedHKT": "2026-10-11 15:50:03",
+        "updatedHKT": "2026-10-11 16:15:45",
+        "oldUpdated": "2026-10-11 16:15:45",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1185987477865762816729483.jpeg/gXKPSu3mLtwLJqjpGo5pV6DA5sPHl_QQusGyQrrBskI",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1185987477865762816729483.jpeg/gXKPSu3mLtwLJqjpGo5pV6DA5sPHl_QQusGyQrrBskI",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 157039,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hks-5.txt",
+        "checkedAt": "2026-10-11T13:51:26.251547+00:00"
+      },
+      {
+        "group": "hks",
+        "index": 6,
+        "url": "https://www.hk01.com/article/60398392",
+        "articleHTTP": 200,
+        "title": "梅艷芳骨灰疑被盜｜僧人指數月前家人曾了解　消息：無收勒索電話",
+        "publishedRaw": "2026-10-11T13:04:05+08:00",
+        "updatedRaw": "2026-10-11T13:48:26+08:00",
+        "publishedHKT": "2026-10-11 13:04:05",
+        "updatedHKT": "2026-10-11 13:48:26",
+        "oldUpdated": "2026-10-11 13:48:26",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1185959923477909504874326.jpeg/pCq404Wt5Y8zQftREfjWsXQFfNRWY6qmQbBKX0GwSl8",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1185959923477909504874326.jpeg/pCq404Wt5Y8zQftREfjWsXQFfNRWY6qmQbBKX0GwSl8",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 206153,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hks-6.txt",
+        "checkedAt": "2026-10-11T13:51:26.092933+00:00"
+      },
+      {
+        "group": "hks",
+        "index": 7,
+        "url": "https://www.hk01.com/article/60395268",
+        "articleHTTP": 200,
+        "title": "大城小檔｜銅鑼灣輪椅婆婆拒困四面牆　遊走港九擺檔賣花尋寄託",
+        "publishedRaw": "2026-10-11T10:00:38+08:00",
+        "updatedRaw": "2026-10-11T14:29:38+08:00",
+        "publishedHKT": "2026-10-11 10:00:38",
+        "updatedHKT": "2026-10-11 14:29:38",
+        "oldUpdated": "2026-10-11 14:29:38",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261008/1184908187782877184902153.jpeg/q7_Yh1chdZ26c1hdvKUzSuRByFioDknedJb9PnSW_T4",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261008/1184908187782877184902153.jpeg/q7_Yh1chdZ26c1hdvKUzSuRByFioDknedJb9PnSW_T4",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 246619,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hks-7.txt",
+        "checkedAt": "2026-10-11T13:51:26.388601+00:00"
+      },
+      {
+        "group": "hkl",
+        "index": 0,
+        "url": "https://www.hk01.com/article/60398399",
+        "articleHTTP": 200,
+        "title": "主人帶貓公園散步被無理驅趕　投訴特首辦後康文署職員鞠躬道歉",
+        "publishedRaw": "2026-10-11T12:00:42+08:00",
+        "updatedRaw": "2026-10-11T13:10:24+08:00",
+        "publishedHKT": "2026-10-11 12:00:42",
+        "updatedHKT": "2026-10-11 13:10:24",
+        "oldUpdated": "2026-10-11 13:10:24",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1185935967127605248580761.jpeg/_GATUXtjL4_cBLYi9VnEnsZaSfWgtZqADsfCwQ7HwsE",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1185935967127605248580761.jpeg/_GATUXtjL4_cBLYi9VnEnsZaSfWgtZqADsfCwQ7HwsE",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 174679,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hkl-0.txt",
+        "checkedAt": "2026-10-11T13:51:26.142994+00:00"
+      },
+      {
+        "group": "hkl",
+        "index": 1,
+        "url": "https://www.hk01.com/article/60398456",
+        "articleHTTP": 200,
+        "title": "單車節終點塞爆變推車節、取消汀九段　單車總會為領航車誤判致歉",
+        "publishedRaw": "2026-10-11T16:10:43+08:00",
+        "updatedRaw": "2026-10-11T21:22:17+08:00",
+        "publishedHKT": "2026-10-11 16:10:43",
+        "updatedHKT": "2026-10-11 21:22:17",
+        "oldUpdated": "2026-10-11 16:56:09",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1185997629830467584215986.jpeg/GIkBF8qu_p4FE87QDRbOkIKAMh5eUG9rhHMoc4RzKHM",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1185997629830467584215986.jpeg/GIkBF8qu_p4FE87QDRbOkIKAMh5eUG9rhHMoc4RzKHM",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 348953,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hkl-1.txt",
+        "checkedAt": "2026-10-11T13:51:25.867564+00:00"
+      },
+      {
+        "group": "hkl",
+        "index": 2,
+        "url": "https://www.hk01.com/article/60398511",
+        "articleHTTP": 200,
+        "title": "油塘高超道爆水管　水花四射路面滿佈沙石　初步疑為鹹水｜有片",
+        "publishedRaw": "2026-10-11T19:43:34+08:00",
+        "updatedRaw": "2026-10-11T20:18:19+08:00",
+        "publishedHKT": "2026-10-11 19:43:34",
+        "updatedHKT": "2026-10-11 20:18:19",
+        "oldUpdated": "2026-10-11 20:18:19",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1186048524060463104097364.jpeg/PdS_H4ijyxXsITPHGDt-v6WjorF4keJveyK2cXsitnE",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1186048524060463104097364.jpeg/PdS_H4ijyxXsITPHGDt-v6WjorF4keJveyK2cXsitnE",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 224447,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hkl-2.txt",
+        "checkedAt": "2026-10-11T13:51:26.156342+00:00"
+      },
+      {
+        "group": "hkl",
+        "index": 3,
+        "url": "https://www.hk01.com/article/60398460",
+        "articleHTTP": 200,
+        "title": "新皇崗口岸明啟用　跨境校巴公司負責人：加派跟車保母陪學童過關",
+        "publishedRaw": "2026-10-11T16:06:43+08:00",
+        "updatedRaw": "2026-10-11T16:08:36+08:00",
+        "publishedHKT": "2026-10-11 16:06:43",
+        "updatedHKT": "2026-10-11 16:08:36",
+        "oldUpdated": "2026-10-11 16:08:36",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261006/1184211361517801472581472.jpeg/SZeZ1EtrvVb6c59ciO2MxnrzRBPPHXb2U-MKS3bjCks?v=w1280r16_9",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261006/1184211361517801472581472.jpeg/SZeZ1EtrvVb6c59ciO2MxnrzRBPPHXb2U-MKS3bjCks?v=w1280r16_9",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 158781,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1280,
+            720
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hkl-3.txt",
+        "checkedAt": "2026-10-11T13:51:26.470074+00:00"
+      },
+      {
+        "group": "hkl",
+        "index": 4,
+        "url": "https://www.hk01.com/article/60398451",
+        "articleHTTP": 200,
+        "title": "流感｜高危長者染病易有併發症　專家倡早接種季節性流感疫苗",
+        "publishedRaw": "2026-10-11T15:44:16+08:00",
+        "updatedRaw": "2026-10-11T15:44:20+08:00",
+        "publishedHKT": "2026-10-11 15:44:16",
+        "updatedHKT": "2026-10-11 15:44:20",
+        "oldUpdated": "2026-10-11 15:44:20",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1185978264053616640765013.jpeg/Bdlgehe3ugrOPoHQqKykUmNrJpwzD_Et0Fx-r9Bcfq8?v=w1280r16_9",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1185978264053616640765013.jpeg/Bdlgehe3ugrOPoHQqKykUmNrJpwzD_Et0Fx-r9Bcfq8?v=w1280r16_9",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 165223,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1280,
+            720
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hkl-4.txt",
+        "checkedAt": "2026-10-11T13:51:28.651330+00:00"
+      },
+      {
+        "group": "hkl",
+        "index": 5,
+        "url": "https://www.hk01.com/article/60398503",
+        "articleHTTP": 200,
+        "title": "肺鼠疫疑雲致港口罩銷量增　醫生籲勿過份恐慌　正確戴口罩可預防",
+        "publishedRaw": "2026-10-11T20:29:13+08:00",
+        "updatedRaw": "2026-10-11T21:31:03+08:00",
+        "publishedHKT": "2026-10-11 20:29:13",
+        "updatedHKT": "2026-10-11 21:31:03",
+        "oldUpdated": "2026-10-11 20:29:17",
+        "og": "https://cdn.hk01.com/di/media/images/dw/20261011/1186066826275065856834795.jpeg/7DVgH1ZzaPiPS2vaRIOPZQ-BGLGvhjRu6A6Q0egOkNE",
+        "oldOg": "https://cdn.hk01.com/di/media/images/dw/20261011/1186037829990354944126095.jpeg/67ylvXNbhsMnlVyjy59gK4ivgCwKlWLM0Km6j9Cpuo8?v=w1280r16_9",
+        "ogExact": false,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 232907,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hkl-5.txt",
+        "checkedAt": "2026-10-11T13:51:28.716974+00:00",
+        "visualChecked": true
+      },
+      {
+        "group": "hkl",
+        "index": 6,
+        "url": "https://www.stheadline.com/football-news/3624899/",
+        "articleHTTP": 200,
+        "title": "港超聯｜理文兩球擊敗十人流浪　開季五戰全勝下周硬撼傑志",
+        "publishedRaw": "2026-10-11T19:09:47+0800",
+        "updatedRaw": "2026-10-11T19:09:47+0800",
+        "publishedHKT": "2026-10-11 19:09:47",
+        "updatedHKT": "2026-10-11 19:09:47",
+        "oldUpdated": "2026-10-11 19:09:47",
+        "og": "https://image.hkhl.hk/f/1200p0/0x0/100/none/9e83007c4cccae475fe2f4419b5106aa/2026-10/Billy_67_.png",
+        "oldOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/9e83007c4cccae475fe2f4419b5106aa/2026-10/Billy_67_.png",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/png; charset=UTF-8",
+          "bytes": 320166,
+          "magic": "89504e470d0a1a0a0000000d49484452",
+          "format": "PNG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hkl-6.txt",
+        "checkedAt": "2026-10-11T13:51:28.791386+00:00"
+      },
+      {
+        "group": "hkl",
+        "index": 7,
+        "url": "https://www.stheadline.com/food/3624636/",
+        "articleHTTP": 200,
+        "title": "荃灣40年燒味老店「聯發燒臘飯麵家」結業！熟客嘆可惜 惟街坊這原因唔撐…",
+        "publishedRaw": "2026-10-11T11:30:22+0800",
+        "updatedRaw": "2026-10-11T11:30:22+0800",
+        "publishedHKT": "2026-10-11 11:30:22",
+        "updatedHKT": "2026-10-11 11:30:22",
+        "oldUpdated": "2026-10-11 11:30:22",
+        "og": "https://image.hkhl.hk/f/1200p0/0x0/100/none/ea18d03e8704a4d3c3c7c19e1d8a15c2/2026-10/20261010_LIFESTYLE___0.png",
+        "oldOg": "https://image.hkhl.hk/f/1200p0/0x0/100/none/ea18d03e8704a4d3c3c7c19e1d8a15c2/2026-10/20261010_LIFESTYLE___0.png",
+        "ogExact": true,
+        "image": {
+          "http": 200,
+          "mime": "image/png; charset=UTF-8",
+          "bytes": 315209,
+          "magic": "89504e470d0a1a0a0000000d49484452",
+          "format": "PNG",
+          "size": [
+            1200,
+            675
+          ],
+          "decoded": true
+        },
+        "bodyFile": "hk-hkl-7.txt",
+        "checkedAt": "2026-10-11T13:51:28.640970+00:00"
+      }
+    ],
+    "world": {
+      "completedAt": "2026-10-11T21:51:37.867320+08:00",
+      "articles": [
+        {
+          "id": "ep14867775",
+          "url": "https://www.epochtimes.com/b5/26/10/11/n14867775.htm",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T03:58:32.000Z",
+          "publishedHKT": "2026-10-11T11:58:32+08:00",
+          "updatedHKT": "2026-10-11T11:58:32+08:00",
+          "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14867777-photo_2026-10-11_12-29-41-700x359.jpg",
+          "title": "江蘇一鹽化工廠倒閉  近千員工面臨失業",
+          "description": "10月9日，江蘇徐州豐縣豐城鹽化工有限公司內部宣布不再復產經營，近千名工人面臨轉崗或安置賠償，工人透露所有人都希望拿錢走人，未來走一步看一步。",
+          "checkedAt": "2026-10-11T20:36:06.699008+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 173489,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            700,
+            359
+          ],
+          "ogMatch": true,
+          "group": "cn",
+          "lastSourceCheckedAt": "2026-10-11T21:51:36.523149+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://i.epochtimes.com/assets/uploads/2026/10/id14867777-photo_2026-10-11_12-29-41-700x359.jpg",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 173489,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            700,
+            359
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T03:58:32.000Z",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "ep14867813",
+          "url": "https://www.epochtimes.com/b5/26/10/11/n14867813.htm",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T07:32:21.000Z",
+          "publishedHKT": "2026-10-11T15:32:21+08:00",
+          "updatedHKT": "2026-10-11T15:32:21+08:00",
+          "ogImage": "https://i.epochtimes.com/assets/uploads/2026/10/id14867814-786539-600x4001-1-600x359.jpg",
+          "title": "中國9月乘用車零售量同比降24% 新能源車跌12%",
+          "description": "週六（10月10日），中國乘用車市場信息聯席會（CPCA，簡稱乘聯會）發布初步數據，2026年9月中國乘用車零售銷量為170.2萬輛，同比大幅下降24%；新能源車零售銷量為114.1萬輛，雖然較8月成長14%，但仍比去年9月下降12%。",
+          "checkedAt": "2026-10-11T20:36:04.758769+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 192451,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            600,
+            359
+          ],
+          "ogMatch": true,
+          "group": "cn",
+          "lastSourceCheckedAt": "2026-10-11T21:51:36.754057+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://i.epochtimes.com/assets/uploads/2026/10/id14867814-786539-600x4001-1-600x359.jpg",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 192451,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            600,
+            359
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T07:32:21.000Z",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "cna6450146",
+          "url": "https://www.channelnewsasia.com/sport/gea-sends-shelton-crashing-out-shanghai-6450146",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T17:45:28+08:00",
+          "publishedHKT": "2026-10-11T17:45:28+08:00",
+          "updatedHKT": "2026-10-11T17:45:28+08:00",
+          "ogImage": "https://dam.mediacorp.sg/image/upload/s--XkH69MmI--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-11T094528Z_1_LYNXMPEM9A06S_RTROPTP_3_TENNIS-SHANGHAI.JPG?itok=lS_kVpuJ",
+          "title": "Gea sends Shelton crashing out of Shanghai",
+          "description": "Oct 11 : US Open finalist Ben Shelton conceded he had been \"outplayed\" after suffering a shock 7-6(5) 7-6(3) defeat by France's Arthur Gea in the third round of the Shanghai Masters on Sunday.World number four Shelton, who has barely played since losing to Alexander Zverev in September's US Open final and wit",
+          "checkedAt": "2026-10-11T20:48:56.682722+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 53767,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            1200,
+            676
+          ],
+          "ogMatch": true,
+          "group": "cn",
+          "lastSourceCheckedAt": "2026-10-11T21:51:37.227953+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://dam.mediacorp.sg/image/upload/s--XkH69MmI--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-11T094528Z_1_LYNXMPEM9A06S_RTROPTP_3_TENNIS-SHANGHAI.JPG?itok=lS_kVpuJ",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 53767,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            1200,
+            676
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T17:45:28+08:00",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "hk60398481",
+          "url": "https://www.hk01.com/article/60398481",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T18:30:29+08:00",
+          "publishedHKT": "2026-10-11T18:30:29+08:00",
+          "updatedHKT": "2026-10-11T18:30:29+08:00",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261011/1186005769577828352380172.png/ftjcdMp_vxW5VBv9J3Bi13tgHpiXF_NgX_rlb1_65W8?v=w1280r16_9",
+          "title": "海南9歲自閉童被踢出𨋢　施暴男持刀恫嚇遭行拘10日家屬憂報復",
+          "description": "10月8日，海南海口一名9歲自閉症男童搭升降機回家時，遭42歲男子一腳踢出升降機，家屬上門理論時，竟遭對方持刀恫嚇。10月10日，官方證實涉事男子",
+          "checkedAt": "2026-10-11T20:36:05.783668+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 35959,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            746,
+            420
+          ],
+          "ogMatch": true,
+          "group": "cn",
+          "lastSourceCheckedAt": "2026-10-11T21:51:37.474629+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://cdn.hk01.com/di/media/images/dw/20261011/1186005769577828352380172.png/ftjcdMp_vxW5VBv9J3Bi13tgHpiXF_NgX_rlb1_65W8?v=w1280r16_9",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 35959,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            746,
+            420
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T18:30:29+08:00",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "hk60398414",
+          "url": "https://www.hk01.com/article/60398414",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T14:00:29+08:00",
+          "publishedHKT": "2026-10-11T14:00:29+08:00",
+          "updatedHKT": "2026-10-11T21:08:34+08:00",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261011/1186061164820303872918657.jpeg/evsM0f7JwqMWKS-2F1EFPI7LOQwEiHshNcp6bDXKemw",
+          "title": "重慶44歲名醫遇車禍落車避險　意外由高架橋護欄缺口墜落20多米亡",
+          "description": "重慶市傳出醫界噩耗，一名年僅44歲的醫院副院長，4日與同學聚會後搭車返鄉，途中車輛不慎撞上高速公路中央分隔島。眾人下車避險時，他不慎從護欄缺",
+          "checkedAt": "2026-10-11T20:36:05.751254+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 163230,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "ogMatch": true,
+          "group": "cn",
+          "lastSourceCheckedAt": "2026-10-11T21:51:37.237461+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://cdn.hk01.com/di/media/images/dw/20261011/1185934471593988096378620.jpeg/UvAVzG8mxt_UQ39dkTbXsymdoQJ4YN7SP9gJkD_YCZA?v=w1280r16_9",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 34865,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            570,
+            321
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T21:08:34+08:00",
+          "ogExactDraft": false,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "dw79633330",
+          "url": "https://www.dw.com/zh/a-79633330",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T10:56:50.941Z",
+          "publishedHKT": "2026-10-11T18:56:50.941000+08:00",
+          "updatedHKT": "2026-10-11T18:58:13.234000+08:00",
+          "ogImage": "https://static.dw.com/image/61306037_6.jpg",
+          "title": "德国议会“中国委员会”建议欧盟须准备更强硬的对华贸易政策工具",
+          "description": "德国联邦议院委托成立的专家委员会建议，欧盟必须在欧洲层面准备更强有力的贸易政策工具，以便在中国于贸易争端中采取升级措施时有能力实施反制。该委员会在首份半年度报告中指出，德国对华经济安全状况总体趋于恶化，供应链依赖加深，并认为“合作伙伴、竞争对手和制度性对手”的对华战略已告失败。",
+          "checkedAt": "2026-10-11T20:50:48.691111+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 45283,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            940,
+            529
+          ],
+          "ogMatch": true,
+          "group": "cn",
+          "lastSourceCheckedAt": "2026-10-11T21:51:37.322929+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://static.dw.com/image/61306037_6.jpg",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 45283,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            940,
+            529
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T10:58:13.234Z",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "ep14867581",
+          "url": "https://www.epochtimes.com/b5/26/10/10/n14867581.htm",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T03:47:52.000Z",
+          "publishedHKT": "2026-10-11T11:47:52+08:00",
+          "updatedHKT": "2026-10-11T13:39:04+08:00",
+          "ogImage": "https://i.epochtimes.com/assets/uploads/2022/10/id13844859-c8441b66a6626ab902ea63ae78c605b1-700x359.png",
+          "title": "清風：地圖上搜不到的那座橋",
+          "description": "北京北三環西路和中關村大街交匯的地方，有一座立交橋。車流每天照常從橋上壓過去，橋下的公交站牌還寫著「四通橋東」「四通橋北」，橋本身卻被抹掉了名字。2023年5月底，六四34周年的前幾天，北京網友發現護欄外那塊藍底白字、配著漢語拼音的「四通橋」路牌被拆走了。據自由亞洲電台和德國之聲當時的報道，同一段時間裡，在百度、高德、騰訊地圖上輸入這三個字，頁面顯示「未找到相關地點」。北京其他立交橋的名字照常能搜到。",
+          "checkedAt": "2026-10-11T20:47:46.934700+08:00",
+          "imageStatus": 200,
+          "contentType": "image/png",
+          "bytes": 384651,
+          "magic": "89504e470d0a1a0a0000000d",
+          "format": "PNG",
+          "size": [
+            700,
+            359
+          ],
+          "ogMatch": true,
+          "group": "cn",
+          "lastSourceCheckedAt": "2026-10-11T21:51:36.115731+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://i.epochtimes.com/assets/uploads/2022/10/id13844859-c8441b66a6626ab902ea63ae78c605b1-700x359.png",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/png",
+          "secondImageBytes": 384651,
+          "secondImageMagic": "89504e470d0a1a0a0000000d",
+          "secondImageFormat": "PNG",
+          "secondImageDimensions": [
+            700,
+            359
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T05:39:04.000Z",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "zb9818532",
+          "url": "https://www.zaobao.com.sg/news/china/story20261011-9818532",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T14:25:04+08:00",
+          "publishedHKT": "2026-10-11T14:25:04+08:00",
+          "updatedHKT": "2026-10-11T14:25:07+08:00",
+          "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/3b1752af62b8d975b7012d6d72743d8961905cc2a20f4a27d417a61150d79c36",
+          "title": "库克卸任苹果CEO后首次访华 现身广州探班咏春短片拍摄",
+          "description": "美国科技巨头苹果公司前首席执行官库克卸任后首次访问中国，星期六（10月10日）现身广州，参观使用iPhone 18 Pro拍摄的咏春拳短片制作现场。",
+          "checkedAt": "2026-10-11T20:36:07.982111+08:00",
+          "imageStatus": 200,
+          "contentType": "image/webp",
+          "bytes": 48354,
+          "magic": "52494646dabc000057454250",
+          "format": "WEBP",
+          "size": [
+            690,
+            460
+          ],
+          "ogMatch": true,
+          "group": "cn",
+          "lastSourceCheckedAt": "2026-10-11T21:51:36.778225+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://cassette.sphdigital.com.sg/image/zaobao/3b1752af62b8d975b7012d6d72743d8961905cc2a20f4a27d417a61150d79c36",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/webp",
+          "secondImageBytes": 48354,
+          "secondImageMagic": "52494646dabc000057454250",
+          "secondImageFormat": "WEBP",
+          "secondImageDimensions": [
+            690,
+            460
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T14:25:07+08:00",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "hk60398426",
+          "url": "https://www.hk01.com/article/60398426",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T14:44:04+08:00",
+          "publishedHKT": "2026-10-11T14:44:04+08:00",
+          "updatedHKT": "2026-10-11T15:25:02+08:00",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261011/1185974709653606400954231.jpeg/sUUsIRHkFv_JL687rIXFneKEVdRFDZoCANXE3QDVxN0",
+          "title": "美媒：特朗普政府自6月以來　於機場拘留至少12名合法留美港人",
+          "description": "美國政治新聞網站《政治報》（POLITICO）報道，儘管拜登（Joe Biden）政府時期指令允許香港人在美國合法居住和工作至2027年2月，但特朗普（Donald",
+          "checkedAt": "2026-10-11T20:36:05.076154+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 175421,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "ogMatch": true,
+          "group": "us",
+          "lastSourceCheckedAt": "2026-10-11T21:51:36.519604+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://cdn.hk01.com/di/media/images/dw/20261011/1185974709653606400954231.jpeg/sUUsIRHkFv_JL687rIXFneKEVdRFDZoCANXE3QDVxN0",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 175421,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            1200,
+            675
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T15:25:02+08:00",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "hk60398470",
+          "url": "https://www.hk01.com/article/60398470",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T18:00:24+08:00",
+          "publishedHKT": "2026-10-11T18:00:24+08:00",
+          "updatedHKT": "2026-10-11T18:00:24+08:00",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20250506/996378805083836416159436.jpeg/YnGaKmD19Dg9BhD5PWojRFigX3xBsca_1ycoAtcnKAI?v=w1280r16_9",
+          "title": "賀錦麗鋪路2028重返白宮　捐款人直言勝算低　丈夫據報亦不贊成",
+          "description": "據《華爾街日報》10月9日報道，美國前副總統賀錦麗（Kamala Harris）正為第三次參選總統鋪路，但有知情人士透露，她的丈夫任德龍（Doug Emhoff）私",
+          "checkedAt": "2026-10-11T20:36:05.537312+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 108231,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            1280,
+            720
+          ],
+          "ogMatch": true,
+          "group": "us",
+          "lastSourceCheckedAt": "2026-10-11T21:51:36.598716+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://cdn.hk01.com/di/media/images/dw/20250506/996378805083836416159436.jpeg/YnGaKmD19Dg9BhD5PWojRFigX3xBsca_1ycoAtcnKAI?v=w1280r16_9",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 108231,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            1280,
+            720
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T18:00:24+08:00",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "ep14867638",
+          "url": "https://www.epochtimes.com/b5/26/10/11/n14867638.htm",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T02:45:39.000Z",
+          "publishedHKT": "2026-10-11T10:45:39+08:00",
+          "updatedHKT": "2026-10-11T10:45:39+08:00",
+          "ogImage": "https://i.epochtimes.com/assets/uploads/2025/03/id14457709-GettyImages-2201696919-700x359.jpg",
+          "title": "美麻疹病例數突破4000 超過25%來自賓州",
+          "description": "美國疾病控制和預防中心（CDC）公布的數據顯示，美國今年報告的麻疹病例已超過4000例，其中25%以上來自賓夕法尼亞州。",
+          "checkedAt": "2026-10-11T20:36:07.255050+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 72818,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            700,
+            359
+          ],
+          "ogMatch": true,
+          "group": "us",
+          "lastSourceCheckedAt": "2026-10-11T21:51:36.466691+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://i.epochtimes.com/assets/uploads/2025/03/id14457709-GettyImages-2201696919-700x359.jpg",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 72818,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            700,
+            359
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T02:45:39.000Z",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "lt5602958",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5602958",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T19:43:07+08:00",
+          "publishedHKT": "2026-10-11T19:43:07+08:00",
+          "updatedHKT": "2026-10-11T19:43:07+08:00",
+          "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/11/5602958_1_1.jpg",
+          "title": "李彥秀毒品發言惹議 社工工會明日赴服務處抗議 - 生活 - 自由時報電子報",
+          "description": "九合一選舉在即，毒品議題成為台北市長選戰攻防焦點，國民黨立法委員李彥秀近日因毒品議題發言惹議，引發社工人員不滿。台北市社會工作人員職業工會宣布，明（12）日上午10時將前往李彥秀南港的服務處抗議，要求公開道歉。國民黨立委李彥秀9日出席「向毒說不，我的孩子我守護」活動，會中表示，社區是大家每天在跳舞、運動的地方，「以後變成社工人員在那邊，都是很多吸毒的人來給毒品、毒藥來治癮，」這個對於社區來說是多大的危害，該言論引發社工團體反彈。",
+          "checkedAt": "2026-10-11T20:36:09.846035+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 68382,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            800,
+            495
+          ],
+          "ogMatch": true,
+          "group": "tw",
+          "lastSourceCheckedAt": "2026-10-11T21:51:36.731611+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://img.ltn.com.tw/Upload/news/600/2026/10/11/5602958_1_1.jpg",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 68382,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            800,
+            495
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T19:43:07+08:00",
+          "ogExactDraft": true,
+          "bodyExactDraft": false
+        },
+        {
+          "id": "ud9808010",
+          "url": "https://udn.com/news/story/7241/9808010",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T20:15:59+08:00",
+          "publishedHKT": "2026-10-11T20:15:59+08:00",
+          "updatedHKT": "2026-10-11T20:16:48+08:00",
+          "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410481.jpg&M=1&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600",
+          "title": "路易莎營收創新高、淨利卻暴跌56％！董事長坦言犯了2個錯 | 聯合新聞網",
+          "description": "今年上半年，台灣本土最大連鎖咖啡品牌路易莎的營收又創新高。但市場聚焦的，是它的獲利數字。",
+          "checkedAt": "2026-10-11T20:36:07.859743+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 149709,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            1254,
+            836
+          ],
+          "ogMatch": true,
+          "group": "tw",
+          "lastSourceCheckedAt": "2026-10-11T21:51:37.228169+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410481.jpg&M=1&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 149709,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            1254,
+            836
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T20:16:48+08:00",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "lt5602926",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5602926",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T19:24:00+08:00",
+          "publishedHKT": "2026-10-11T19:24:00+08:00",
+          "updatedHKT": "2026-10-11T19:32:30+08:00",
+          "ogImage": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/10/11/phpa5XRkL.jpeg",
+          "title": "WTT大滿貫》就差一點！林昀儒激戰7局惜敗球王松島輝空 收亞軍平最佳 - 自由體育",
+          "description": "「沉默刺客」林昀儒今天在WTT中國大滿貫男單冠軍戰，和日本球王松島輝空激戰7局，可惜以局數3：4讓出，再次收下亞軍。世界排名第6的林昀儒這週在中國大滿貫和鄭怡靜在混雙收下亞軍。男單部分再接再厲，昨天先是在男單8強以直落四橫掃世界排名第5的瑞典「六角戰士」莫雷加德（Truls Möregårdh），今",
+          "checkedAt": "2026-10-11T20:38:05.352329+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 49328,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            800,
+            533
+          ],
+          "ogMatch": true,
+          "group": "tw",
+          "lastSourceCheckedAt": "2026-10-11T21:51:36.471531+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/10/11/phpa5XRkL.jpeg",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 49328,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            800,
+            533
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T19:32:30+08:00",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "ajship",
+          "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T03:13:53Z",
+          "publishedHKT": "2026-10-11T11:13:53+08:00",
+          "updatedHKT": "2026-10-11T12:46:41+08:00",
+          "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260905__C7FF8WM__v1__HighRes__UsIranIsraelWar-1791684574.jpg?resize=1920%2C1440",
+          "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+          "description": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
+          "checkedAt": "2026-10-11T20:36:10.598629+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 162851,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            1920,
+            1440
+          ],
+          "ogMatch": true,
+          "group": "war",
+          "lastSourceCheckedAt": "2026-10-11T21:51:37.238048+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260905__C7FF8WM__v1__HighRes__UsIranIsraelWar-1791684574.jpg?resize=1920%2C1440",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/jpeg",
+          "secondImageBytes": 162851,
+          "secondImageMagic": "ffd8ffe000104a4649460001",
+          "secondImageFormat": "JPEG",
+          "secondImageDimensions": [
+            1920,
+            1440
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T04:46:41Z",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "ii202610118579",
+          "url": "https://www.iranintl.com/en/202610118579",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T04:19:54.633Z",
+          "publishedHKT": "2026-10-11T12:19:54.633000+08:00",
+          "updatedHKT": "2026-10-11T12:30:04+08:00",
+          "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/e34495dafec3d8cc85dd9440f43f1845d536aad0-1259x2237.jpg?rect=0,734,1259,661&w=1200&h=630&q=66&fit=max&auto=format",
+          "title": "US weighs strikes on Houthis and Iran after deadly Saudi airport attack",
+          "description": "A deadly Houthi attack on Riyadh’s main airport drew a Saudi vow of retaliation on Saturday, as President Donald Trump raised the possibility of joining strikes on the group and resuming attacks on Iran.",
+          "checkedAt": "2026-10-11T20:36:11.277357+08:00",
+          "imageStatus": 200,
+          "contentType": "image/jpeg",
+          "bytes": 50450,
+          "magic": "ffd8ffdb0043000b07080a08",
+          "format": "JPEG",
+          "size": [
+            1200,
+            630
+          ],
+          "ogMatch": true,
+          "group": "war",
+          "lastSourceCheckedAt": "2026-10-11T21:51:37.435081+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://i.iranintl.com/images/rdk9umy0/production/e34495dafec3d8cc85dd9440f43f1845d536aad0-1259x2237.jpg?rect=0,734,1259,661&w=1200&h=630&q=66&fit=max&auto=format",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/avif",
+          "secondImageBytes": 25621,
+          "secondImageMagic": "0000001c6674797061766966",
+          "secondImageFormat": "AVIF",
+          "secondImageDimensions": [
+            1200,
+            630
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T04:30:04Z",
+          "ogExactDraft": true,
+          "bodyExactDraft": true
+        },
+        {
+          "id": "ii202610114699",
+          "url": "https://www.iranintl.com/en/202610114699",
+          "articleStatus": 200,
+          "publishedRaw": "2026-10-11T10:09:16.904Z",
+          "publishedHKT": "2026-10-11T18:09:16.904000+08:00",
+          "updatedHKT": "2026-10-11T21:17:31+08:00",
+          "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/fc95b09ea8a4c5f9d9bb58cf32aff58f3ef80c7a-938x532.png?rect=0,20,938,492&w=1200&h=630&q=66&fit=max&auto=format",
+          "title": "US economic campaign targets Iran's political survival, experts say",
+          "description": "US sanctions and a naval blockade are increasingly targeting the financial networks and security structures sustaining the Islamic Republic, raising questions about whether economic pressure can force political change, experts said on Iran International's Insight.",
+          "checkedAt": "2026-10-11T20:36:11.234881+08:00",
+          "imageStatus": 200,
+          "contentType": "image/png",
+          "bytes": 604436,
+          "magic": "89504e470d0a1a0a0000000d",
+          "format": "PNG",
+          "size": [
+            938,
+            492
+          ],
+          "ogMatch": true,
+          "group": "war",
+          "lastSourceCheckedAt": "2026-10-11T21:51:37.859538+08:00",
+          "secondArticleStatus": 200,
+          "secondOG": "https://i.iranintl.com/images/rdk9umy0/production/fc95b09ea8a4c5f9d9bb58cf32aff58f3ef80c7a-938x532.png?rect=0,20,938,492&w=1200&h=630&q=66&fit=max&auto=format",
+          "secondOGExact": true,
+          "secondImageStatus": 200,
+          "secondImageType": "image/png",
+          "secondImageBytes": 604436,
+          "secondImageMagic": "89504e470d0a1a0a0000000d",
+          "secondImageFormat": "PNG",
+          "secondImageDimensions": [
+            938,
+            492
+          ],
+          "visualVerified": true,
+          "updatedRaw": "2026-10-11T13:17:31Z",
+          "ogExactDraft": true,
+          "bodyExactDraft": false
+        }
+      ]
+    },
+    "brief": {
+      "sources": [
+        {
+          "key": "arxiv",
+          "url": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/",
+          "articleHTTP": 200,
+          "originalOG": "https://the-decoder.com/wp-content/uploads/2026/10/arxiv-flood-ai-paper-nano-banana-pro.jpg",
+          "exactMatch": true,
+          "dates": [
+            "https://www.facebook.com/TheDecoderDE/",
+            "2026-10-11T09:17:32+00:00",
+            "2026-10-11T09:19:01+00:00"
+          ],
+          "bodyChanged": true,
+          "fullText": "scratch\\pm-refresh-20261011\\briefs-arxiv.txt",
+          "rawHTML": "scratch\\pm-refresh-20261011\\briefs-arxiv.html",
+          "correctionMentions": [],
+          "checkedAt": "2026-10-11T13:51:53.830856+00:00"
+        },
+        {
+          "key": "odyssey",
+          "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+          "articleHTTP": 200,
+          "originalOG": "https://the-decoder.com/wp-content/uploads/2026/10/Odyssey-3.jpg",
+          "exactMatch": true,
+          "dates": [
+            "https://www.facebook.com/TheDecoderDE/",
+            "2026-10-11T07:48:01+00:00",
+            "2026-10-11T07:49:17+00:00"
+          ],
+          "bodyChanged": true,
+          "fullText": "scratch\\pm-refresh-20261011\\briefs-odyssey.txt",
+          "rawHTML": "scratch\\pm-refresh-20261011\\briefs-odyssey.html",
+          "correctionMentions": [],
+          "checkedAt": "2026-10-11T13:51:53.799406+00:00"
+        },
+        {
+          "key": "nightmare",
+          "url": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
+          "articleHTTP": 200,
+          "originalOG": "https://image.theregister.com/5285618.jpg?imageId=5285618&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+          "exactMatch": true,
+          "dates": [
+            "2026-10-11T11:30:00.000Z",
+            ""
+          ],
+          "bodyChanged": false,
+          "fullText": "scratch\\pm-refresh-20261011\\briefs-nightmare.txt",
+          "rawHTML": "scratch\\pm-refresh-20261011\\briefs-nightmare.html",
+          "correctionMentions": [],
+          "checkedAt": "2026-10-11T13:51:53.734726+00:00"
+        },
+        {
+          "key": "local",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "articleHTTP": 200,
+          "originalOG": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "exactMatch": true,
+          "dates": [
+            "2026-10-11T11:00:00+00:00",
+            "2026-10-11T11:00:00+00:00"
+          ],
+          "bodyChanged": true,
+          "fullText": "scratch\\pm-refresh-20261011\\briefs-local.txt",
+          "rawHTML": "scratch\\pm-refresh-20261011\\briefs-local.html",
+          "correctionMentions": [],
+          "imageHTTP": 200,
+          "mime": "image/jpeg",
+          "bytes": 136775,
+          "magic": "ffd8ffe000104a464946000101000001",
+          "decoded": true,
+          "format": "JPEG",
+          "size": [
+            1200,
+            624
+          ],
+          "checkedAt": "2026-10-11T13:51:54.269229+00:00"
+        },
+        {
+          "key": "civilians",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack",
+          "articleHTTP": 200,
+          "originalOG": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa85b880ee6f-1789418376.jpg?resize=1920%2C1440",
+          "exactMatch": true,
+          "dates": [
+            "2026-10-11T10:42:35"
+          ],
+          "bodyChanged": false,
+          "fullText": "scratch\\pm-refresh-20261011\\briefs-civilians.txt",
+          "rawHTML": "scratch\\pm-refresh-20261011\\briefs-civilians.html",
+          "correctionMentions": [],
+          "imageHTTP": 200,
+          "mime": "image/jpeg",
+          "bytes": 772054,
+          "magic": "ffd8ffe000104a464946000101000001",
+          "decoded": true,
+          "format": "JPEG",
+          "size": [
+            1920,
+            1440
+          ],
+          "checkedAt": "2026-10-11T13:51:54.869553+00:00"
+        },
+        {
+          "key": "economic",
+          "url": "https://www.iranintl.com/en/202610114699",
+          "articleHTTP": 200,
+          "originalOG": "https://i.iranintl.com/images/rdk9umy0/production/fc95b09ea8a4c5f9d9bb58cf32aff58f3ef80c7a-938x532.png?rect=0,20,938,492&w=1200&h=630&q=66&fit=max&auto=format",
+          "exactMatch": true,
+          "dates": [
+            "2026-10-11T10:09:16.904Z",
+            "2026-10-11T13:17:31Z"
+          ],
+          "bodyChanged": true,
+          "fullText": "scratch\\pm-refresh-20261011\\briefs-economic.txt",
+          "rawHTML": "scratch\\pm-refresh-20261011\\briefs-economic.html",
+          "correctionMentions": [],
+          "checkedAt": "2026-10-11T13:51:53.768814+00:00"
+        },
+        {
+          "key": "yemen",
+          "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know",
+          "articleHTTP": 200,
+          "originalOG": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-09-19T114800Z_221791993_RC28MNAFHPNK_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1791703405.jpg?resize=1920%2C1440",
+          "exactMatch": true,
+          "dates": [
+            "2026-10-11T10:45:15"
+          ],
+          "bodyChanged": false,
+          "fullText": "scratch\\pm-refresh-20261011\\briefs-yemen.txt",
+          "rawHTML": "scratch\\pm-refresh-20261011\\briefs-yemen.html",
+          "correctionMentions": [],
+          "checkedAt": "2026-10-11T13:51:53.782490+00:00"
+        }
+      ],
+      "lastSourceCheckedAt": "2026-10-11T13:51:54.869553+00:00",
+      "method": "Seven original articles fetched afresh, raw HTML/full text and publication metadata saved; two adopted OG images fetched and decoded.",
+      "semanticReview": {
+        "arxiv": "正文無改；相關文章列表更新。",
+        "odyssey": "正文無改；相關文章列表更新。",
+        "nightmare": "全文未改，無更正。",
+        "local": "正文無改；延伸閱讀列表更新。",
+        "civilians": "全文未改，無更正。",
+        "economic": "21:17HKT更新，Kerrie改Kerri Bitsoff，Insight改Washington DC townhall；本版只稱Bitsoff及專家討論，觀點及正文其餘內容無實質改變。",
+        "yemen": "全文未改，無更正。"
+      },
+      "socialSearch": {
+        "queries": [
+          "site:threads.com arxiv Odyssey-3 October 11 2026",
+          "site:facebook.com Yemen Sanaa October 11 2026",
+          "site:instagram.com Hermes Qwen October 11 2026"
+        ],
+        "result": "Threads及IG未找到可用相關原帖；Facebook返回舊帖／不相關頁，未採用。",
+        "rejectedExample": "https://www.facebook.com/2228330884080336/posts/2442315272681895/",
+        "reason": "2019年歌手資料，不相關且超窗"
+      },
+      "reviewCompletedAt": "2026-10-11T13:52:29.024284+00:00"
+    }
+  },
+  "changes": {
+    "hk": {
+      "edition": "2026-10-11",
+      "lastSourceCheckedAt": "2026-10-11T13:54:12.604088+00:00",
+      "changes": [
+        {
+          "group": "hks",
+          "index": 1,
+          "card": [
+            "大埔七貓疑遭遺棄送協會全亡",
+            "警方列殘酷對待動物案，死因仍待查明",
+            "香港01",
+            "https://www.hk01.com/article/60398513",
+            "2026-10-11 20:32:18",
+            "2026-10-11 21:05:32",
+            "https://cdn.hk01.com/di/media/images/dw/20261011/1186049380092743680829407.jpeg/AIJ1OURJr_08GvkzZAuztHSa7moC8Ob02Mhjh9jIY4c?v=w1280r16_9"
+          ],
+          "reason": "文章更新 metadata，正文未見實質新增案情"
+        },
+        {
+          "group": "hkl",
+          "index": 1,
+          "card": [
+            "單車總會為單車節領航誤判致歉",
+            "稱領航車誤判改道，令車手錯過汀九橋",
+            "香港01",
+            "https://www.hk01.com/article/60398456",
+            "2026-10-11 16:10:43",
+            "2026-10-11 21:22:17",
+            "https://cdn.hk01.com/di/media/images/dw/20261011/1185997629830467584215986.jpeg/GIkBF8qu_p4FE87QDRbOkIKAMh5eUG9rhHMoc4RzKHM"
+          ],
+          "reason": "21:22 更新加入單車總會對領航誤判及緊急通道的解釋和致歉，必須明確歸屬總會；原文兼有記者現場圖片及車手反映。"
+        },
+        {
+          "group": "hkl",
+          "index": 5,
+          "card": [
+            "口罩店稱銷量升醫生籲勿過度恐慌",
+            "林緯遜指未有確實證據證明肺鼠疫爆發",
+            "香港01",
+            "https://www.hk01.com/article/60398503",
+            "2026-10-11 20:29:13",
+            "2026-10-11 21:31:03",
+            "https://cdn.hk01.com/di/media/images/dw/20261011/1186066826275065856834795.jpeg/7DVgH1ZzaPiPS2vaRIOPZQ-BGLGvhjRu6A6Q0egOkNE"
+          ],
+          "reason": "原文更新21:31:03，OG已更換；新圖實際目視符合口罩店及醫生訪問。醫生仍稱未有確實證據證明肺鼠疫爆發。"
+        }
+      ],
+      "trackUpdates": {
+        "港·單車節交通安排": [
+          "總會為誤判致歉",
+          "11日21:22更新：單車總會稱兩名56公里組車手受傷後，現場移雪糕筒開緊急通道，32公里領航車誤判路線改動，未經汀九橋；總會為失望及不便致歉。此為總會解釋，擠塞另有記者現場圖片及車手反映。"
+        ]
+      },
+      "verification": {
+        "articles": 16,
+        "articleHTTP200": true,
+        "imagesDecoded": true,
+        "freshOGsUsed": true,
+        "changedImageVisual": "hk-hkl-5.bin 已實際目視，1200px JPEG口罩店、醫生及相關標題合圖",
+        "fulltext": "hk-hks-0.txt 至 hk-hks-7.txt、hk-hkl-0.txt 至 hk-hkl-7.txt",
+        "metadataEvidence": "hk-evidence.json"
+      },
+      "latestScan": {
+        "file": "hk-latest-scan.json",
+        "checkedAt": "2026-10-11T13:53:42.629307+00:00",
+        "finding": "最新60398517單車總會致歉與既有60398456新增內容同題，已更新原卡，不另加重複卡。60398505為每日影片合集；60398512五年規劃宣傳非本組合格增量。"
+      },
+      "social": {
+        "file": "hk-social-access.json",
+        "finding": "實際重取Threads單車節搜尋、相關作者、Instagram貓主帳戶及Facebook協會搜尋；Threads和IG僅返回公開頁殼，未取得可核實原帖正文、首次發放時間與永久連結；Facebook搜尋404。無法判定有無新帖，未直接採用或聲稱原帖已核實。"
+      },
+      "remainingLimitations": [
+        "社交平台頁殼／搜尋阻礙，不能聲稱原帖無新增內容。"
+      ]
+    },
+    "world": {
+      "completedAt": "2026-10-11T21:52:27.170119+08:00",
+      "cardPatches": [
+        {
+          "group": "cn",
+          "index": 4,
+          "url": "https://www.hk01.com/article/60398414",
+          "card": [
+            "重慶醫生貴州車禍落車墮橋亡",
+            "同事述四日事故；從分隔島缺口墮下",
+            "香港01",
+            "https://www.hk01.com/article/60398414",
+            "2026-10-11 14:00:29",
+            "2026-10-11 21:08:34",
+            "https://cdn.hk01.com/di/media/images/dw/20261011/1186061164820303872918657.jpeg/evsM0f7JwqMWKS-2F1EFPI7LOQwEiHshNcp6bDXKemw"
+          ]
+        },
+        {
+          "group": "war",
+          "index": 2,
+          "url": "https://www.iranintl.com/en/202610114699",
+          "card": [
+            "學者分歧制裁能否逼伊朗讓步",
+            "華府座談析金融網絡受壓，政權走向未定",
+            "Iran International",
+            "https://www.iranintl.com/en/202610114699",
+            "2026-10-11 18:09:16",
+            "2026-10-11 21:17:31",
+            "https://i.iranintl.com/images/rdk9umy0/production/fc95b09ea8a4c5f9d9bb58cf32aff58f3ef80c7a-938x532.png?rect=0,20,938,492&w=1200&h=630&q=66&fit=max&auto=format"
+          ]
+        }
+      ],
+      "cardReplacements": [],
+      "decisions": {
+        "hk60398414": "正文未變；21:08更新OG加媒體文字圖，已重新下載200/image/jpeg/解碼並實際目視，換原文新OG及更新時間。",
+        "ii202610114699": "21:17更正活動為Washington DC townhall、Kerrie拼法改Kerri；其餘39段分析未變。卡摘要改華府座談，不再稱節目；track若有Insight節目字眼請改華府座談，分析並非實質政治讓步。",
+        "lt5602958": "只變頁面推薦／廣告，新聞正文與未來抗議日期不變。"
+      },
+      "socialSearches": [
+        {
+          "platform": "Threads",
+          "query": "site:threads.com Shanghai Gea 2026",
+          "result": "No results"
+        },
+        {
+          "platform": "Facebook",
+          "query": "site:facebook.com 社工工會 李彥秀 2026",
+          "result": "No results"
+        },
+        {
+          "platform": "Instagram",
+          "query": "site:instagram.com/p/ Riyadh October 11, 2026",
+          "result": "No results"
+        }
+      ],
+      "newSocialAdoptions": []
+    },
+    "root": "順緻苑文章 updated 改為20:38:12，正文無實質改動。"
+  },
+  "social": {
+    "root": "重新搜尋 Threads 順緻苑維修、Facebook 皇崗、IG Mary Chia，未取得合資格原帖。",
+    "hk": {
+      "file": "hk-social-access.json",
+      "finding": "實際重取Threads單車節搜尋、相關作者、Instagram貓主帳戶及Facebook協會搜尋；Threads和IG僅返回公開頁殼，未取得可核實原帖正文、首次發放時間與永久連結；Facebook搜尋404。無法判定有無新帖，未直接採用或聲稱原帖已核實。"
+    },
+    "world": [
+      {
+        "platform": "Threads",
+        "query": "site:threads.com Shanghai Gea 2026",
+        "result": "No results"
+      },
+      {
+        "platform": "Facebook",
+        "query": "site:facebook.com 社工工會 李彥秀 2026",
+        "result": "No results"
+      },
+      {
+        "platform": "Instagram",
+        "query": "site:instagram.com/p/ Riyadh October 11, 2026",
+        "result": "No results"
+      }
+    ],
+    "brief": {
+      "queries": [
+        "site:threads.com arxiv Odyssey-3 October 11 2026",
+        "site:facebook.com Yemen Sanaa October 11 2026",
+        "site:instagram.com Hermes Qwen October 11 2026"
+      ],
+      "result": "Threads及IG未找到可用相關原帖；Facebook返回舊帖／不相關頁，未採用。",
+      "rejectedExample": "https://www.facebook.com/2228330884080336/posts/2442315272681895/",
+      "reason": "2019年歌手資料，不相關且超窗"
+    },
+    "limitation": "搜尋無結果不代表沒有原帖；平台頁殼、登入限制或404不能核實全文及時間，未直接出卡。"
+  },
+  "dedupDecisions": [
+    "元朗安樂路車火與午報青沙公路車火為不同地點事件。",
+    "梅艷芳骨灰卡增加僧人回應、未確定被盜，屬實質更新；未把失竊聲稱當證實。"
+  ],
+  "sourceCorrections": [
+    "移除極目、紅星／北京日報轉述鏈及中新社圖片鏈，改用合資格 CNA、DW、大紀元候選。",
+    "保留韓少杰上一版追蹤狀態，未以被剔除官媒轉述聲稱新進展。"
+  ],
+  "limitations": [
+    "hke 其中兩條為新加坡企業及印度 Starlink，香港直接關聯較弱；來源及時間仍合格。",
+    "部分原文圖片為資料圖片，未當作當日現場。"
+  ],
+  "preservation": {
+    "am": true,
+    "index": true,
+    "history": true,
+    "unrelated": true
+  },
+  "timing": "21:49:45觸發，21:50:10開始；來源最後查核21:54:12，驗證及定稿在21:55目標之後完成；未把啟動時間當最後查核。",
+  "localScratch": "scratch/pm-refresh-20261011/：原文全文、原圖、feed及社交存取結果；scratch/pm-20261011/：初稿證據及新增追蹤。"
+}

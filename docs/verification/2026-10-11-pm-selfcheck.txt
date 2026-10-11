@@ -1,0 +1,55 @@
+── 自檢報告 2026-10-11（夜報，12小時窗 2026-10-11 09:00 起）──
+香港社會=8｜民生=8｜經濟=3｜政治=3｜中國=8｜美國=3｜台灣=3｜美伊戰爭=3
+事件追蹤=326｜AI簡報=326字｜美伊簡報=319字
+總卡數=39｜缺圖=0
+
+⚠ 提提你（唔會 fail，但盡量換返新料）共 2 項：
+  • 疑似同一單事：香港社會[5]「元朗安樂路私家車起火冒煙」⟷ 今日午報·民生[0]「青沙公路私家車起火兩人逃生」（共通詞：路私、私家、家車、車起）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：香港社會[6]「梅艷芳骨灰失蹤僧人稱未確定被盜」⟷ 今日午報·香港社會[1]「家屬稱梅艷芳骨灰疑失竊籲協尋」（共通詞：梅艷、艷芳、芳骨、骨灰）→ 只留最新最全嗰條，另一條換第二單
+
+🖼 驗圖（共 41 條，全部要驗，冇豁免）——**兩步都要做**：
+   ① WebFetch「文章」攞 og:image，同「現用圖」逐字比對（捉抄錯；星島 hkhl 只可以靠呢步）
+   ② WebFetch「現用圖」本身：回 404 ＝ 一定錯（hk01 只可以靠呢步，因為讀 og:image 會隨機讀錯簽名）
+  • 香港社會[0] 文章=https://www.hk01.com/article/60398434  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1185994081713524736502974.jpeg/2AaM1fBwxZhbtD6IXRE-Uyd2EBxmCv-XaXrvA2l67wM
+  • 香港社會[1] 文章=https://www.hk01.com/article/60398513  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1186049380092743680829407.jpeg/AIJ1OURJr_08GvkzZAuztHSa7moC8Ob02Mhjh9jIY4c?v=w1280r16_9
+  • 香港社會[2] 文章=https://www.stheadline.com/ohpama/3624910/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/ll/ohpama/7cbabba12f731c8416aeae349f157450/2026-10/New_Project_21__0.png
+  • 香港社會[3] 文章=https://www.hk01.com/article/60398491  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1186034113602129920053249.jpeg/8VXH75mvVz6_dV9bbxwwJeHfce23Jqfw8pKuD_KSrg8
+  • 香港社會[4] 文章=https://www.hk01.com/article/60398431  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1185960377586814976709123.jpeg/zmGuzK9EdGNGa25iLZ9Q8Y3yUPDmv0pkT-HOYU_hzmE?v=w1280r16_9
+  • 香港社會[5] 文章=https://www.hk01.com/article/60398445  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1185987477865762816729483.jpeg/gXKPSu3mLtwLJqjpGo5pV6DA5sPHl_QQusGyQrrBskI
+  • 香港社會[6] 文章=https://www.hk01.com/article/60398392  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1185959923477909504874326.jpeg/pCq404Wt5Y8zQftREfjWsXQFfNRWY6qmQbBKX0GwSl8
+  • 香港社會[7] 文章=https://www.hk01.com/article/60395268  現用圖=https://cdn.hk01.com/di/media/images/dw/20261008/1184908187782877184902153.jpeg/q7_Yh1chdZ26c1hdvKUzSuRByFioDknedJb9PnSW_T4
+  • 民生[0] 文章=https://www.hk01.com/article/60398399  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1185935967127605248580761.jpeg/_GATUXtjL4_cBLYi9VnEnsZaSfWgtZqADsfCwQ7HwsE
+  • 民生[1] 文章=https://www.hk01.com/article/60398456  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1185997629830467584215986.jpeg/GIkBF8qu_p4FE87QDRbOkIKAMh5eUG9rhHMoc4RzKHM
+  • 民生[2] 文章=https://www.hk01.com/article/60398511  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1186048524060463104097364.jpeg/PdS_H4ijyxXsITPHGDt-v6WjorF4keJveyK2cXsitnE
+  • 民生[3] 文章=https://www.hk01.com/article/60398460  現用圖=https://cdn.hk01.com/di/media/images/dw/20261006/1184211361517801472581472.jpeg/SZeZ1EtrvVb6c59ciO2MxnrzRBPPHXb2U-MKS3bjCks?v=w1280r16_9
+  • 民生[4] 文章=https://www.hk01.com/article/60398451  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1185978264053616640765013.jpeg/Bdlgehe3ugrOPoHQqKykUmNrJpwzD_Et0Fx-r9Bcfq8?v=w1280r16_9
+  • 民生[5] 文章=https://www.hk01.com/article/60398503  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1186066826275065856834795.jpeg/7DVgH1ZzaPiPS2vaRIOPZQ-BGLGvhjRu6A6Q0egOkNE
+  • 民生[6] 文章=https://www.stheadline.com/football-news/3624899/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/9e83007c4cccae475fe2f4419b5106aa/2026-10/Billy_67_.png
+  • 民生[7] 文章=https://www.stheadline.com/food/3624636/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/ea18d03e8704a4d3c3c7c19e1d8a15c2/2026-10/20261010_LIFESTYLE___0.png
+  • 經濟[0] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/512155/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%A4%90%E5%BB%B3%E7%9C%8B%E6%BA%96%E5%95%86%E6%A9%9F%E9%99%84%E8%BF%91%E9%96%8B%E8%88%96-%E6%9C%9B%E9%80%9A%E9%97%9C%E5%BE%8C%E7%94%9F  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/12022517/vlcsnap-2026-10-11-18h25m01s589.jpg
+  • 經濟[1] 文章=https://www.straitstimes.com/business/mary-chia-admits-disclosure-lapses-over-cpf-arrears-at-four-subsidiaries-after-sgx-queries  現用圖=https://cassette.sphdigital.com.sg/image/straitstimes/c407b8e3d2077d31b3193ceca6a0cc1d04be78b9538b7d48347a56c588355a39?w=1200
+  • 經濟[2] 文章=https://www.channelnewsasia.com/business/musk-vows-affordable-starlink-in-india-days-ambanis-record-jio-ipo-6450016  現用圖=https://dam.mediacorp.sg/image/upload/s--1dR4HVAW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-11T073050Z_1_LYNXMPEM9A04X_RTROPTP_3_INDIA-SATELLITE-INTERNET-MUSK.JPG?itok=V7Lt6ROg
+  • 政治[0] 文章=https://thecollectivehk.com/%e9%a0%86%e7%b7%bb%e8%8b%91%e7%b6%ad%e4%bf%ae%ef%bd%9c%e4%b8%ad%e6%a8%99%e5%85%ac%e5%8f%b8%e8%a2%ab%e6%8c%87%e8%88%87%e5%ae%8f%e7%a6%8f%e8%8b%91%e6%b6%88%e9%98%b2%e6%89%bf%e8%be%a6%e5%95%86%e6%9c%89/  現用圖=https://thecollectivehk.com/wp-content/uploads/2026/10/VID_26_10_10_20_09_081-1.jpeg
+  • 政治[1] 文章=https://www.hk01.com/article/60397886  現用圖=https://cdn.hk01.com/di/media/images/dw/20261009/1185280619706322944637019.jpeg/jJEvFAWkukrIm74Z0nNIc5pPeqsSK6WxmDUp85g1KfM?v=w1280r16_9
+  • 政治[2] 文章=https://www.hk01.com/article/60397918  現用圖=https://cdn.hk01.com/di/media/images/2961420/org/7468cabaaa403d755b940df244d9c888.JPG/6XYLYXFzjLevaeUXEYNG45ySN8cpcDXLGj6gcBo-oHA?v=w1280r16_9
+  • 中國[0] 文章=https://www.epochtimes.com/b5/26/10/11/n14867775.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/10/id14867777-photo_2026-10-11_12-29-41-700x359.jpg
+  • 中國[1] 文章=https://www.epochtimes.com/b5/26/10/11/n14867813.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/10/id14867814-786539-600x4001-1-600x359.jpg
+  • 中國[2] 文章=https://www.channelnewsasia.com/sport/gea-sends-shelton-crashing-out-shanghai-6450146  現用圖=https://dam.mediacorp.sg/image/upload/s--XkH69MmI--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-11T094528Z_1_LYNXMPEM9A06S_RTROPTP_3_TENNIS-SHANGHAI.JPG?itok=lS_kVpuJ
+  • 中國[3] 文章=https://www.hk01.com/article/60398481  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1186005769577828352380172.png/ftjcdMp_vxW5VBv9J3Bi13tgHpiXF_NgX_rlb1_65W8?v=w1280r16_9
+  • 中國[4] 文章=https://www.hk01.com/article/60398414  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1186061164820303872918657.jpeg/evsM0f7JwqMWKS-2F1EFPI7LOQwEiHshNcp6bDXKemw
+  • 中國[5] 文章=https://www.dw.com/zh/a-79633330  現用圖=https://static.dw.com/image/61306037_6.jpg
+  • 中國[6] 文章=https://www.epochtimes.com/b5/26/10/10/n14867581.htm  現用圖=https://i.epochtimes.com/assets/uploads/2022/10/id13844859-c8441b66a6626ab902ea63ae78c605b1-700x359.png
+  • 中國[7] 文章=https://www.zaobao.com.sg/news/china/story20261011-9818532  現用圖=https://cassette.sphdigital.com.sg/image/zaobao/3b1752af62b8d975b7012d6d72743d8961905cc2a20f4a27d417a61150d79c36
+  • 美國[0] 文章=https://www.hk01.com/article/60398426  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1185974709653606400954231.jpeg/sUUsIRHkFv_JL687rIXFneKEVdRFDZoCANXE3QDVxN0
+  • 美國[1] 文章=https://www.hk01.com/article/60398470  現用圖=https://cdn.hk01.com/di/media/images/dw/20250506/996378805083836416159436.jpeg/YnGaKmD19Dg9BhD5PWojRFigX3xBsca_1ycoAtcnKAI?v=w1280r16_9
+  • 美國[2] 文章=https://www.epochtimes.com/b5/26/10/11/n14867638.htm  現用圖=https://i.epochtimes.com/assets/uploads/2025/03/id14457709-GettyImages-2201696919-700x359.jpg
+  • 台灣[0] 文章=https://news.ltn.com.tw/news/life/breakingnews/5602958  現用圖=https://img.ltn.com.tw/Upload/news/600/2026/10/11/5602958_1_1.jpg
+  • 台灣[1] 文章=https://udn.com/news/story/7241/9808010  現用圖=https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/11/35410481.jpg&M=1&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600
+  • 台灣[2] 文章=https://sports.ltn.com.tw/news/breakingnews/5602926  現用圖=https://img.ltn.com.tw/Upload/sports/page/800S/2026/10/11/phpa5XRkL.jpeg
+  • 美伊戰爭[0] 文章=https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman  現用圖=https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260905__C7FF8WM__v1__HighRes__UsIranIsraelWar-1791684574.jpg?resize=1920%2C1440
+  • 美伊戰爭[1] 文章=https://www.iranintl.com/en/202610118579  現用圖=https://i.iranintl.com/images/rdk9umy0/production/e34495dafec3d8cc85dd9440f43f1845d536aad0-1259x2237.jpg?rect=0,734,1259,661&w=1200&h=630&q=66&fit=max&auto=format
+  • 美伊戰爭[2] 文章=https://www.iranintl.com/en/202610114699  現用圖=https://i.iranintl.com/images/rdk9umy0/production/fc95b09ea8a4c5f9d9bb58cf32aff58f3ef80c7a-938x532.png?rect=0,20,938,492&w=1200&h=630&q=66&fit=max&auto=format
+  • AI 動向簡報插圖 文章=https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/  現用圖=https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+  • 美伊戰爭簡報插圖 文章=https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack  現用圖=https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6aa85b880ee6f-1789418376.jpg?resize=1920%2C1440
+
+✅ 全部通過，可以 push。
