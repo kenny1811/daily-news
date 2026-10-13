@@ -1,0 +1,2486 @@
+{
+  "edition": "2026-10-13 am",
+  "publicationAt": "2026-10-13T01:45:08.530Z",
+  "quality": {
+    "status": "am-exception",
+    "selfcheckExit": 1,
+    "issues": [
+      "hks 社交原帖只有 1/8（至少 4，50%）",
+      "hke 社交原帖只有 0/3（至少 2，50%）",
+      "hkp 社交原帖只有 0/3（至少 2，50%）",
+      "cn 社交原帖只有 0/8（至少 4，50%）",
+      "us 社交原帖只有 0/3（至少 2，50%）",
+      "tw 社交原帖只有 1/3（至少 2，50%）",
+      "war 社交原帖只有 0/3（至少 2，50%）",
+      "warb 社交原帖只有 0/3（至少 2，50%）"
+    ],
+    "socialCounts": {
+      "hks": {
+        "total": 8,
+        "social": 1,
+        "required": 4
+      },
+      "hkl": {
+        "total": 8,
+        "social": 4,
+        "required": 4
+      },
+      "hke": {
+        "total": 3,
+        "social": 0,
+        "required": 2
+      },
+      "hkp": {
+        "total": 3,
+        "social": 0,
+        "required": 2
+      },
+      "cn": {
+        "total": 8,
+        "social": 0,
+        "required": 4
+      },
+      "us": {
+        "total": 3,
+        "social": 0,
+        "required": 2
+      },
+      "tw": {
+        "total": 3,
+        "social": 1,
+        "required": 2
+      },
+      "war": {
+        "total": 3,
+        "social": 0,
+        "required": 2
+      },
+      "ai": {
+        "total": 6,
+        "social": 3,
+        "required": 3
+      },
+      "warb": {
+        "total": 3,
+        "social": 0,
+        "required": 2
+      }
+    },
+    "validatedAt": "2026-10-13T01:45:08.530Z",
+    "note": "午報缺料例外不代表自檢通過；未用傳媒Threads、FB、IG或虛構原帖補配額。"
+  },
+  "counts": {
+    "hks": 8,
+    "hkl": 8,
+    "hke": 3,
+    "hkp": 3,
+    "cn": 8,
+    "us": 3,
+    "tw": 3,
+    "war": 3
+  },
+  "trackCount": 398,
+  "previousTracksRetained": 367,
+  "adoptedImagesVisuallyChecked": 41,
+  "sourceCoverage": {
+    "edition": "2026-10-13 am",
+    "sources": 47,
+    "records": [
+      {
+        "url": "https://www.threads.com/@hungunited/post/DeaSLY2GoM3",
+        "refs": [
+          {
+            "g": "hks",
+            "i": 0,
+            "image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/847225997_17935272657403684_9153943745046141692_n.heic?stp=dst-jpg_e35_sh2.08_tt6&_nc_cat=102&ig_cache_key=NDAwNjU5NDc2NTkyODQzMjQzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=R9H7upnWIHMQ7kNvwFiJ5zx&_nc_oc=Adr1-4YmpDFu64u01NuoPq1bB1GcujbZOQsRwwCtBYSAslE336jl7m7Ql1Wp9NQiuCY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=SVNVgUoYLqjWf98N7zsClQ&_nc_ss=7a22e&oh=00_AQPDP9oKfpg197qICNaIk9j8o_Nhr2gc28qOU83JE4LL4g&oe=6AD33C8C"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:37:14.045068+08:00",
+        "originalOG": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/847225997_17935272657403684_9153943745046141692_n.heic?stp=dst-jpg_e35_sh2.08_tt6&_nc_cat=102&ig_cache_key=NDAwNjU5NDc2NTkyODQzMjQzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=R9H7upnWIHMQ7kNvwFiJ5zx&_nc_oc=Adr1-4YmpDFu64u01NuoPq1bB1GcujbZOQsRwwCtBYSAslE336jl7m7Ql1Wp9NQiuCY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=SVNVgUoYLqjWf98N7zsClQ&_nc_ss=7a22e&oh=00_AQPDP9oKfpg197qICNaIk9j8o_Nhr2gc28qOU83JE4LL4g&oe=6AD33C8C",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/847225997_17935272657403684_9153943745046141692_n.heic?stp=dst-jpg_e35_sh2.08_tt6&_nc_cat=102&ig_cache_key=NDAwNjU5NDc2NTkyODQzMjQzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=R9H7upnWIHMQ7kNvwFiJ5zx&_nc_oc=Adr1-4YmpDFu64u01NuoPq1bB1GcujbZOQsRwwCtBYSAslE336jl7m7Ql1Wp9NQiuCY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=SVNVgUoYLqjWf98N7zsClQ&_nc_ss=7a22e&oh=00_AQPDP9oKfpg197qICNaIk9j8o_Nhr2gc28qOU83JE4LL4g&oe=6AD33C8C",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 249628,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            1440,
+            811
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-thread-0.jpg",
+          "sha256": "5f9d14e3d3eb66acd9828b612ca22f5b7ce270aa67817969bb85abd5e607ecbe",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        },
+        "authorVerification": {
+          "type": "independent individual",
+          "displayName": "Hung Wong",
+          "handle": "hungunited",
+          "relationship": "self-reported evacuated resident/onsite witness",
+          "firstHandContent": "Original photo of firefighting/evacuated residents and own description of evacuating; later own reply says lower floors may return.",
+          "identityBasis": "Public post display name and handle; first-person account, original onsite image and consistent near-real-time follow-up. Legal identity and exact flat unverified; no claim made.",
+          "crossCheck": "HK01 60398965 reports same-date Tsz Ching Estate Ching On House fire; original article gallery photo with visible 正安樓 was read and visually compared for building facade, stair tower, metal walkway roof and globe lamps.",
+          "originalPublishedTime": "2026-10-12T22:15:39Z",
+          "publishedTimeSource": "Parent agent browser DOM time attribute",
+          "hktPublishedTime": "2026-10-13 06:15:39",
+          "relatedFollowup": "https://www.threads.com/@hungunited/post/DeaTpVLkrEF",
+          "relatedFollowupTime": "2026-10-13 06:28:26",
+          "claimScope": "Card limits claims to resident evacuation and visible fire appliances; no assertion that witness established fire cause or casualties."
+        },
+        "originalPublished": "2026-10-12T22:15:39Z"
+      },
+      {
+        "url": "https://www.hk01.com/article/60398731",
+        "refs": [
+          {
+            "g": "hks",
+            "i": 1,
+            "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186407894375993344170534.jpeg/DVP5kaY80_-x3BZk4XaIJTHYlr1GHXLcDkpgAg5KYAI"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:27.476147+08:00",
+        "originalOG": "https://cdn.hk01.com/di/media/images/dw/20261012/1186407894375993344170534.jpeg/DVP5kaY80_-x3BZk4XaIJTHYlr1GHXLcDkpgAg5KYAI",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.hk01.com/di/media/images/dw/20261012/1186407894375993344170534.jpeg/DVP5kaY80_-x3BZk4XaIJTHYlr1GHXLcDkpgAg5KYAI",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 229466,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-img-0.jpg",
+          "sha256": "91344bbb972919c43c3d9c0cf6ba4093297b2329573a19bfcb64c56878068691",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.hk01.com/article/60398967",
+        "refs": [
+          {
+            "g": "hks",
+            "i": 2,
+            "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579179445948416128459.jpeg/F54WsmcFDRe3lLzkv3P6rvyPLRpnM_USSIbi50iG4uc?v=w1280r16_9"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:27.630857+08:00",
+        "originalOG": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579179445948416128459.jpeg/F54WsmcFDRe3lLzkv3P6rvyPLRpnM_USSIbi50iG4uc?v=w1280r16_9",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579179445948416128459.jpeg/F54WsmcFDRe3lLzkv3P6rvyPLRpnM_USSIbi50iG4uc?v=w1280r16_9",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 166981,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            1280,
+            720
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-img-4.jpg",
+          "sha256": "1d0739155620d6a8fdef1f832b405643d9688f69f257fc9aca8d8a3b48827ff4",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.hk01.com/article/60398958",
+        "refs": [
+          {
+            "g": "hks",
+            "i": 3,
+            "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186504827937492992035642.jpeg/I4iqQv7w7ZDgdZvmHYIDA-k8fNewV_HrjzKk9qUypPY?v=w1280r16_9"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:29.076999+08:00",
+        "originalOG": "https://cdn.hk01.com/di/media/images/dw/20261013/1186504827937492992035642.jpeg/I4iqQv7w7ZDgdZvmHYIDA-k8fNewV_HrjzKk9qUypPY?v=w1280r16_9",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.hk01.com/di/media/images/dw/20261013/1186504827937492992035642.jpeg/I4iqQv7w7ZDgdZvmHYIDA-k8fNewV_HrjzKk9qUypPY?v=w1280r16_9",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 173446,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            1280,
+            720
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-img-8.jpg",
+          "sha256": "88d7840726405348f0277d30c3dd3d253e55ec91f49d689e0e3c7550f99be0a4",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.dimsumdaily.hk/man-arrested-after-police-seize-suspected-crack-cocaine-worth-hk34000-in-tsing-yi-flat/",
+        "refs": [
+          {
+            "g": "hks",
+            "i": 4,
+            "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13075837/Tsing-Yi-2-2-32.webp"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:35:46.055118+08:00",
+        "originalOG": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13075837/Tsing-Yi-2-2-32.webp",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13075837/Tsing-Yi-2-2-32.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 256940,
+          "magic": "52494646a4eb030057454250",
+          "size": [
+            1176,
+            924
+          ],
+          "format": "WEBP",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-dimsum-img-1.jpg",
+          "sha256": "4d15dc251d875bd6a935da002a0ae896447b386041b7a39e4dca53acce4061fb",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.dimsumdaily.hk/police-arrest-woman-over-alleged-fake-andy-hui-concert-tickets-as-6-buyers-lose-about-hk20000-for-14-seats/",
+        "refs": [
+          {
+            "g": "hks",
+            "i": 5,
+            "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13003129/Andy-Hui-concert-tickets.webp"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:35:53.776438+08:00",
+        "originalOG": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13003129/Andy-Hui-concert-tickets.webp",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13003129/Andy-Hui-concert-tickets.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 153120,
+          "magic": "524946461856020057454250",
+          "size": [
+            954,
+            742
+          ],
+          "format": "WEBP",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-dimsum-img-5.jpg",
+          "sha256": "5597155d295e3c2cc947847e457a0aa41fa64de6634ab60351989c671f62d886",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.hk01.com/article/60398966",
+        "refs": [
+          {
+            "g": "hks",
+            "i": 6,
+            "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579928666083328058691.jpeg/XkazdqkxUb_B-k9UNGaK04IUXkY8UTAE16-N1devjdU?v=w1280r16_9"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:27.627564+08:00",
+        "originalOG": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579928666083328058691.jpeg/XkazdqkxUb_B-k9UNGaK04IUXkY8UTAE16-N1devjdU?v=w1280r16_9",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579928666083328058691.jpeg/XkazdqkxUb_B-k9UNGaK04IUXkY8UTAE16-N1devjdU?v=w1280r16_9",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 156793,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            1280,
+            720
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-img-5.jpg",
+          "sha256": "613bd7d2fb4b3839d78258aa82ead529f78757012e2550b7a26add8077ea9a26",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.hk01.com/article/60398934",
+        "refs": [
+          {
+            "g": "hks",
+            "i": 7,
+            "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186438720878809088348271.png/YogPJuZxLZEyrYfDy_BOCA3Ne9JG6qbwRBGWjEQRlow?v=w1280r16_9"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:32.324697+08:00",
+        "originalOG": "https://cdn.hk01.com/di/media/images/dw/20261012/1186438720878809088348271.png/YogPJuZxLZEyrYfDy_BOCA3Ne9JG6qbwRBGWjEQRlow?v=w1280r16_9",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.hk01.com/di/media/images/dw/20261012/1186438720878809088348271.png/YogPJuZxLZEyrYfDy_BOCA3Ne9JG6qbwRBGWjEQRlow?v=w1280r16_9",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 182696,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            1280,
+            720
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-img-17.jpg",
+          "sha256": "0cccf80ad3d37e3afc6f082d6ed780897dd84030c2186e1ea0991535950d808c",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.threads.com/@luka._.wan/post/DeZcA1gE1QN",
+        "refs": [
+          {
+            "g": "hkl",
+            "i": 0,
+            "image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/846449402_18632431345001868_2669918432774783291_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EBkOxTklpiAQ7kNvwG_tNsT&_nc_oc=AdqJZP3ZLYPjOBRnl9YypFD8D23UGTuMIHL9gRjaDXHLZEFj_2jXwz677eKRZUvbRi0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=RuipvCrki-utoMWXse96tg&_nc_ss=7f20f&oh=00_AQOs0PKhPBgtC5ghHhCUi38Hd4w_jatpeDwY8TsQ9g-6JA&oe=6AD353B1"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T09:09:47.867143+08:00",
+        "originalOG": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/846449402_18632431345001868_2669918432774783291_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EBkOxTklpiAQ7kNvwG_tNsT&_nc_oc=AdqJZP3ZLYPjOBRnl9YypFD8D23UGTuMIHL9gRjaDXHLZEFj_2jXwz677eKRZUvbRi0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=RuipvCrki-utoMWXse96tg&_nc_ss=7f20f&oh=00_AQOs0PKhPBgtC5ghHhCUi38Hd4w_jatpeDwY8TsQ9g-6JA&oe=6AD353B1",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/846449402_18632431345001868_2669918432774783291_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EBkOxTklpiAQ7kNvwG_tNsT&_nc_oc=AdqJZP3ZLYPjOBRnl9YypFD8D23UGTuMIHL9gRjaDXHLZEFj_2jXwz677eKRZUvbRi0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=RuipvCrki-utoMWXse96tg&_nc_ss=7f20f&oh=00_AQOs0PKhPBgtC5ghHhCUi38Hd4w_jatpeDwY8TsQ9g-6JA&oe=6AD353B1",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 47525,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            360,
+            640
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-thread-playground.jpg",
+          "sha256": "80113d704d4564631968803820addc8d765699e88ad8abe4f1e55a234e8b8a47",
+          "ogMatchesOriginal": true
+        },
+        "authorVerification": {
+          "type": "個人家長／親子生活記錄",
+          "relationship": "到此一遊第一身描述並附幼童實地遊玩影片；公開profile名Luka Wan，約250followers34Threads，其他貼文亦記孩子及公園活動",
+          "basis": "實際browser讀profile與原帖影片；沒有傳媒身份、商業聯絡或贊助標示；真實法定身份及利益關係不能完全證實。"
+        },
+        "visualCheck": {
+          "passed": true,
+          "description": "OG為原影片封面，見領達廣場戶外天台多角形黃色遊樂塔及藍色滑梯，寫安達臣領達廣場，非通用logo；browser播放實景可見幼童爬筒及成人陪伴，與到此一遊全文相符。",
+          "limits": "未獨立量度面積或滑梯高度；不以貼文推斷設施違規或已發生碰撞。"
+        },
+        "originalPublished": "2026-10-12T14:22:21.000Z"
+      },
+      {
+        "url": "https://www.dimsumdaily.hk/yata-apologises-after-rat-seen-on-produce-shelves-at-san-po-kong-store-as-fehd-issues-notice/",
+        "refs": [
+          {
+            "g": "hkl",
+            "i": 1,
+            "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13081659/YATA-234222.webp"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:35:44.044697+08:00",
+        "originalOG": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13081659/YATA-234222.webp",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13081659/YATA-234222.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 186830,
+          "magic": "52494646c6d9020057454250",
+          "size": [
+            1170,
+            932
+          ],
+          "format": "WEBP",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-dimsum-img-0.jpg",
+          "sha256": "7a1b9c20c38e760fb50c756ac9f41531b5e9a0626277a1ab609c0a2cee6f9b9a",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.dimsumdaily.hk/cfs-finds-excessive-bacillus-cereus-in-preserved-bean-curd-sample-from-kung-wo-beancurd-factory/",
+        "refs": [
+          {
+            "g": "hkl",
+            "i": 2,
+            "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13001638/Kung-Wo-223.webp"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:35:56.062142+08:00",
+        "originalOG": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13001638/Kung-Wo-223.webp",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13001638/Kung-Wo-223.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 229850,
+          "magic": "52494646d281030057454250",
+          "size": [
+            942,
+            750
+          ],
+          "format": "WEBP",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-dimsum-img-6.jpg",
+          "sha256": "8f390ff1a2674c712d0151fb8025c2b8d7804680632a138870ec7557d9bd7c6c",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.dimsumdaily.hk/kennedy-bay-residential-project-sees-wage-dispute-as-construction-workers-stage-protest-in-kennedy-town/",
+        "refs": [
+          {
+            "g": "hkl",
+            "i": 3,
+            "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/12212304/Kennedy-Bay-22.webp"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:36:10.289252+08:00",
+        "originalOG": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/12212304/Kennedy-Bay-22.webp",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/12212304/Kennedy-Bay-22.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 193302,
+          "magic": "524946460ef3020057454250",
+          "size": [
+            960,
+            752
+          ],
+          "format": "WEBP",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-dimsum-img-15.jpg",
+          "sha256": "0824c46e630eb2cb8dce4118c8aa3bbe3e95de9f4949baeae2fd5da244e95dc0",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.hk01.com/article/60398937",
+        "refs": [
+          {
+            "g": "hkl",
+            "i": 4,
+            "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186134444458119168289075.jpeg/A_Id_iRyeTb2y6JOVoUDr65nSKKplfmRqpFiPICRYjw?v=w1280r16_9"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:31.191635+08:00",
+        "originalOG": "https://cdn.hk01.com/di/media/images/dw/20261012/1186134444458119168289075.jpeg/A_Id_iRyeTb2y6JOVoUDr65nSKKplfmRqpFiPICRYjw?v=w1280r16_9",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.hk01.com/di/media/images/dw/20261012/1186134444458119168289075.jpeg/A_Id_iRyeTb2y6JOVoUDr65nSKKplfmRqpFiPICRYjw?v=w1280r16_9",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 243757,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            1280,
+            720
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-img-16.jpg",
+          "sha256": "80284c105687313014cdde9b2fd5eb6b70f4748428bd0f439cf82d3fc7167136",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "visualCheckResult": "Relevant scene, original article image or clearly identified illustrative image; personally viewed by hk_am13."
+        }
+      },
+      {
+        "url": "https://www.threads.com/@feel.lane/post/DeahY3pFHsZ",
+        "refs": [
+          {
+            "g": "hkl",
+            "i": 5,
+            "image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/840070062_18125572960747065_7478574416452428361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNjY2MTY2MzA0Njc5NDAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzI3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5MvynrrHCzAQ7kNvwENdiVh&_nc_oc=AdpPAHislofQ-Ot0gP5vEpOXO6hlPDRvf5ufVUTxYqNdCTSiyn_HlbNbDZGg3e9n_TU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=IV8Oez9Y5VoCkGimBHUzKQ&_nc_ss=7a22e&oh=00_AQNWfV9DfqiCbt6OWIUQUwnKi7ZHH6vQ7tWSyhA6T_cI7Q&oe=6AD34BCA"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T09:19:13.269027+08:00",
+        "originalOG": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/840070062_18125572960747065_7478574416452428361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNjY2MTY2MzA0Njc5NDAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzI3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5MvynrrHCzAQ7kNvwENdiVh&_nc_oc=AdpPAHislofQ-Ot0gP5vEpOXO6hlPDRvf5ufVUTxYqNdCTSiyn_HlbNbDZGg3e9n_TU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=IV8Oez9Y5VoCkGimBHUzKQ&_nc_ss=7a22e&oh=00_AQNWfV9DfqiCbt6OWIUQUwnKi7ZHH6vQ7tWSyhA6T_cI7Q&oe=6AD34BCA",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/840070062_18125572960747065_7478574416452428361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNjY2MTY2MzA0Njc5NDAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzI3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5MvynrrHCzAQ7kNvwENdiVh&_nc_oc=AdpPAHislofQ-Ot0gP5vEpOXO6hlPDRvf5ufVUTxYqNdCTSiyn_HlbNbDZGg3e9n_TU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=IV8Oez9Y5VoCkGimBHUzKQ&_nc_ss=7a22e&oh=00_AQNWfV9DfqiCbt6OWIUQUwnKi7ZHH6vQ7tWSyhA6T_cI7Q&oe=6AD34BCA",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 3391817,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            3274,
+            4096
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-thread-feellane.jpg",
+          "sha256": "d15de3577279053ad7a53b3cd8ba46df8326614c3a629f4cf5cf0529189fbb1c",
+          "ogMatchesOriginal": true
+        },
+        "authorVerification": {
+          "type": "社區計劃組織帳戶，非散戶個人",
+          "relationship": "原帖第一身我哋宣佈自辦感里賞店計劃，profile明示西環共融實驗室及滙豐支持，圖與文均為專屬計劃預告",
+          "basis": "browser公開profile約2followers，計劃新帳戶；社聯官方2025資助名單可獨立核實香港明愛西環共融實驗室計劃存在，不能單憑名單完全證明此新帳戶運作者身份。",
+          "crosscheckUrl": "https://www.hkcss.org.hk/%E3%80%8C%E6%BB%99%E8%B1%90%E9%A6%99%E6%B8%AF%E7%A4%BE%E5%8D%80%E5%A4%A5%E4%BC%B4%E8%A8%88%E5%8A%832025%E3%80%8D%E7%94%B3%E8%AB%8B%E7%B5%90%E6%9E%9C/"
+        },
+        "visualCheck": {
+          "passed": true,
+          "description": "OG為專屬感里賞店綠色活動海報，寫2026十一至十二月、西環社區記憶、五感鄰里欣賞小店、三場活動，與全文逐項相符，非通用logo。海報有滙豐香港社區夥伴計劃支持標示。",
+          "limits": "沒有確實場次日子、場地、報名方法、名額或免費字眼，不能補寫。"
+        },
+        "originalPublished": "2026-10-13T00:28:32.000Z"
+      },
+      {
+        "url": "https://www.threads.com/@chihhsiwu/post/DeZfuHpE0d7",
+        "refs": [
+          {
+            "g": "hkl",
+            "i": 6,
+            "image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843161486_17913474015537891_4547666322078637412_n.webp?_nc_cat=111&ig_cache_key=NDAwNjM3MjczNTk4NjgyMjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TdF82NVDiAsQ7kNvwHrbfTu&_nc_oc=AdqiQ3JQVFChFhdDJE-4HLNCB5ejQqj9NFbUbMYuEj1FCcidCtIS2ZmZ6ViaDf5TCF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=mpD38ek2453sh3ESa_hlkw&_nc_ss=7a22e&oh=00_AQMIcVwZ4DU86qbvPDpOVU03MXnHP5oOSb5-eDIcQXdGrQ&oe=6AD33EBC"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T09:14:30.300597+08:00",
+        "originalOG": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843161486_17913474015537891_4547666322078637412_n.webp?_nc_cat=111&ig_cache_key=NDAwNjM3MjczNTk4NjgyMjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TdF82NVDiAsQ7kNvwHrbfTu&_nc_oc=AdqiQ3JQVFChFhdDJE-4HLNCB5ejQqj9NFbUbMYuEj1FCcidCtIS2ZmZ6ViaDf5TCF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=mpD38ek2453sh3ESa_hlkw&_nc_ss=7a22e&oh=00_AQMIcVwZ4DU86qbvPDpOVU03MXnHP5oOSb5-eDIcQXdGrQ&oe=6AD33EBC",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843161486_17913474015537891_4547666322078637412_n.webp?_nc_cat=111&ig_cache_key=NDAwNjM3MjczNTk4NjgyMjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TdF82NVDiAsQ7kNvwHrbfTu&_nc_oc=AdqiQ3JQVFChFhdDJE-4HLNCB5ejQqj9NFbUbMYuEj1FCcidCtIS2ZmZ6ViaDf5TCF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=mpD38ek2453sh3ESa_hlkw&_nc_ss=7a22e&oh=00_AQMIcVwZ4DU86qbvPDpOVU03MXnHP5oOSb5-eDIcQXdGrQ&oe=6AD33EBC",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 60428,
+          "magic": "5249464604ec000057454250",
+          "size": [
+            1080,
+            1799
+          ],
+          "format": "WEBP",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-thread-b10.jpg",
+          "sha256": "12c20b12bd198ad0a8119e2fcd82159a40d740159df41f26b5f972c67cbf4f0c",
+          "ogMatchesOriginal": true
+        },
+        "authorVerification": {
+          "type": "獨立個人乘客／自述學生",
+          "relationship": "第一身描述本人學生八達通拍優惠站和過關乘搭B10，附交易紀錄及優惠站照片，回覆又解釋皇巴轉乘情況",
+          "basis": "公開profile名WU Chih-Hsi，10followers2Threads，train標籤，無傳媒/商業介紹；真實姓名及學生身份未獨立確認。"
+        },
+        "visualCheck": {
+          "passed": true,
+          "description": "原帖OG為八達通交易紀錄截圖，見2026-10-12 06:53 九巴/龍運 -9.1，另有巴士0.0及其他扣款；非通用logo或傳媒截圖。",
+          "limits": "交易紀錄只顯示九巴/龍運而非路線B10；路線、學生身份、正價12.1及折扣原因來自作者自述，不能獨立證實bug或一般優惠政策。圖片時鐘時區不明，不用圖片時間當發帖時間。"
+        },
+        "originalPublished": "2026-10-12T14:54:43.000Z"
+      },
+      {
+        "url": "https://www.threads.com/@yankit_ko/post/DeZqf0Fj59c",
+        "refs": [
+          {
+            "g": "hkl",
+            "i": 7,
+            "image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/844757919_17968503342179250_6814967755032025564_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAwNjQyMDI0NzcwNzg4NTQwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjMwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=24qtGJPZwiMQ7kNvwEFlbEX&_nc_oc=Adp8r7QDtAysqCAfTBh_tUhkdbVQ4mCGtlfxagyKYT6PxzX6FSmdkYYvd7EN0ln10s8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=2gJFaQd8Y3-YCFLULiwN_Q&_nc_ss=7a22e&oh=00_AQPS-rLTjmFC9s9wkEe1jB9IRhNhRn3NoIUTtgeq37txUA&oe=6AD35CD3"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:56:30.109480+08:00",
+        "originalOG": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/844757919_17968503342179250_6814967755032025564_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAwNjQyMDI0NzcwNzg4NTQwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjMwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=24qtGJPZwiMQ7kNvwEFlbEX&_nc_oc=Adp8r7QDtAysqCAfTBh_tUhkdbVQ4mCGtlfxagyKYT6PxzX6FSmdkYYvd7EN0ln10s8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=2gJFaQd8Y3-YCFLULiwN_Q&_nc_ss=7a22e&oh=00_AQPS-rLTjmFC9s9wkEe1jB9IRhNhRn3NoIUTtgeq37txUA&oe=6AD35CD3",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/844757919_17968503342179250_6814967755032025564_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAwNjQyMDI0NzcwNzg4NTQwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjMwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=24qtGJPZwiMQ7kNvwEFlbEX&_nc_oc=Adp8r7QDtAysqCAfTBh_tUhkdbVQ4mCGtlfxagyKYT6PxzX6FSmdkYYvd7EN0ln10s8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=2gJFaQd8Y3-YCFLULiwN_Q&_nc_ss=7a22e&oh=00_AQPS-rLTjmFC9s9wkEe1jB9IRhNhRn3NoIUTtgeq37txUA&oe=6AD35CD3",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 1033080,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            2304,
+            4096
+          ],
+          "format": "JPEG",
+          "decoded": true,
+          "file": "scratch\\am-20261013\\hk-thread-bus.jpg",
+          "sha256": "983ee472b4242748652d5b70af2ddfbf69a440e0b4579e3973bde6bd0e0641f6",
+          "ogMatchesOriginal": true
+        },
+        "authorVerification": {
+          "publicProfile": "Yankit Ko @yankit_ko;3.1Kfollowers;199Threads;bio bachelors; individual public profile, not existing news-pool media. No claim legal identity independently verified.",
+          "relationship": "Full original caption explicitly first-person passenger, says waited at FuShin terminal and saw driver disembark/run to station office/tap card/leave towardTsuenWan. Bus-seat photo consistent with own passenger viewpoint. No media attribution/repost marker in caption.",
+          "limits": "Photo authorship inferred from first-person original post and coherent viewpoint; no external provenance proof. Verified badge alone not relied on. Route73B visible outside belongs adjacent shelter, not assert photographed bus is73B or derive73X from image."
+        },
+        "visualCheck": "Original full-size portrait photograph taken from upper-deck bus window: KMB keep-clean decal, yellow handrail, outside estate bus terminal/passengers and route73B shelter. Genuine scene, not logo/avatar/screenshot of another news report. Does not itself establish actual driving/rest intervals or route73X display.",
+        "originalPublished": "2026-10-12T16:28:53.000Z"
+      },
+      {
+        "url": "https://www.straitstimes.com/business/hsbc-moves-to-wall-street-bonus-model-cuts-fixed-pay-deals",
+        "refs": [
+          {
+            "g": "hke",
+            "i": 0,
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/168818341e07181f0e7518e96665b0466fb9cda40bc587836ab699f3d4629a00?w=1200"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:40:22.919778+08:00",
+        "originalOG": "https://cassette.sphdigital.com.sg/image/straitstimes/168818341e07181f0e7518e96665b0466fb9cda40bc587836ab699f3d4629a00?w=1200",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cassette.sphdigital.com.sg/image/straitstimes/168818341e07181f0e7518e96665b0466fb9cda40bc587836ab699f3d4629a00?w=1200",
+          "matchesOG": true,
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 59062,
+          "magic": "ffd8ffdb004300050304040403050404",
+          "format": "JPEG",
+          "size": [
+            1200,
+            630
+          ],
+          "sha256": "bbb7bcf53a858dcb7ee47b471740697f18a506bc5249c41d75b284a2751ac125",
+          "file": "scratch\\am-20261013\\ep-image-hsbc.bin"
+        }
+      },
+      {
+        "url": "https://www.dimsumdaily.hk/big-banks-heat-up-year-end-mortgage-competition/",
+        "refs": [
+          {
+            "g": "hke",
+            "i": 1,
+            "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/12214146/HSBC-2-2-2.webp"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:41:05.090019+08:00",
+        "originalOG": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/12214146/HSBC-2-2-2.webp",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/12214146/HSBC-2-2-2.webp",
+          "matchesOG": true,
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 301816,
+          "magic": "52494646f09a04005745425056503858",
+          "format": "WEBP",
+          "size": [
+            1116,
+            884
+          ],
+          "sha256": "9b843e970dc4df3dc2de3bdcc4a384ddea66d6f0cd1b0bd2af4ad4b7232fa5b1",
+          "file": "scratch\\am-20261013\\ep-image-mortgage.bin"
+        }
+      },
+      {
+        "url": "https://www.dimsumdaily.hk/baidu-opens-free-tung-chung-robotaxi-trials/",
+        "refs": [
+          {
+            "g": "hke",
+            "i": 2,
+            "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13090044/Apollog-Go1-1-21.webp"
+          }
+        ],
+        "sourceHttp": 403,
+        "browserReadSuccessful": true,
+        "checkedAt": "2026-10-13T09:31:28.194553+08:00",
+        "originalOG": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13090044/Apollog-Go1-1-21.webp",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13090044/Apollog-Go1-1-21.webp",
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 260372,
+          "magic": "524946460cf9030057454250",
+          "size": [
+            1184,
+            924
+          ],
+          "format": "WEBP",
+          "decoded": true,
+          "sha256": "553761947ec3a0501a45057baec4c5bb49417047612ffedb45aeb7b151c5cc4c",
+          "ogMatchesOriginal": true,
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\robotaxi-image.bin"
+        }
+      },
+      {
+        "url": "https://www.hk01.com/article/60398502",
+        "refs": [
+          {
+            "g": "hkp",
+            "i": 0,
+            "image": "https://cdn.hk01.com/di/media/images/dw/20261011/1186027765586071552061823.jpeg/D4GPkJU11OFUqdBjCRC4eDgVxO3T1g2l33j6Nfp4-jU?v=w1280r16_9"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:40:22.604402+08:00",
+        "originalOG": "https://cdn.hk01.com/di/media/images/dw/20261011/1186027765586071552061823.jpeg/D4GPkJU11OFUqdBjCRC4eDgVxO3T1g2l33j6Nfp4-jU?v=w1280r16_9",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cdn.hk01.com/di/media/images/dw/20261011/1186027765586071552061823.jpeg/D4GPkJU11OFUqdBjCRC4eDgVxO3T1g2l33j6Nfp4-jU?v=w1280r16_9",
+          "matchesOG": true,
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 179944,
+          "magic": "ffd8ffe000104a464946000102010048",
+          "format": "JPEG",
+          "size": [
+            1280,
+            720
+          ],
+          "sha256": "c4d94d65211c3e51c331f9c346b0de7c838af00b89393e7396a3ba301f19f4f5",
+          "file": "scratch\\am-20261013\\ep-image-law.bin"
+        }
+      },
+      {
+        "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/512478/%E8%A5%BF%E4%B9%9D%E8%B2%A1%E8%B5%A4-%E6%8C%87-%E4%B8%96%E7%95%8C%E7%B4%9A-%E8%96%AA%E9%85%AC%E6%9C%89%E6%A0%B9%E6%93%9A%E9%87%90%E5%AE%9A-%E9%99%B3%E6%99%BA%E6%80%9D",
+        "refs": [
+          {
+            "g": "hkp",
+            "i": 1,
+            "image": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/13073644/NL_20261012_L-WESTKL-261012-2300.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:40:23.434023+08:00",
+        "originalOG": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/13073644/NL_20261012_L-WESTKL-261012-2300.jpg",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/13073644/NL_20261012_L-WESTKL-261012-2300.jpg",
+          "matchesOG": true,
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 62889,
+          "magic": "ffd8ffe000104a4649460001020001d0",
+          "format": "JPEG",
+          "size": [
+            930,
+            522
+          ],
+          "sha256": "7d39f081febfeaedd659f438f2aa7b99d11f6f1b7dfc6353cbdc2508c0bf9055",
+          "file": "scratch\\am-20261013\\ep-image-westkowloon.bin"
+        }
+      },
+      {
+        "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/512244/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%97%85%E5%AE%A2%E8%AE%9A%E5%AF%AC%E9%97%8A-%E6%96%B9%E4%BE%BF%E7%9C%81%E6%99%82-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E9%81%8B",
+        "refs": [
+          {
+            "g": "hkp",
+            "i": 2,
+            "image": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/12182648/vlcsnap-2026-10-12-10h26m34s260.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:40:23.436291+08:00",
+        "originalOG": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/12182648/vlcsnap-2026-10-12-10h26m34s260.jpg",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/12182648/vlcsnap-2026-10-12-10h26m34s260.jpg",
+          "matchesOG": true,
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 459459,
+          "magic": "ffd8ffe000104a464946000101000001",
+          "format": "JPEG",
+          "size": [
+            1920,
+            1080
+          ],
+          "sha256": "decd61831f2c7e6086db2a32c5f695ba76de74e5ec4c07eb8c9fc4f3d828c2b5",
+          "file": "scratch\\am-20261013\\ep-image-huanggang.bin"
+        }
+      },
+      {
+        "url": "https://www.epochtimes.com/b5/26/10/12/n14868659.htm",
+        "refs": [
+          {
+            "g": "cn",
+            "i": 0,
+            "image": "https://i.epochtimes.com/assets/uploads/2023/06/id14023011-26_id13995721-GettyImages-1353338463-700x359.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://i.epochtimes.com/assets/uploads/2023/06/id14023011-26_id13995721-GettyImages-1353338463-700x359.jpg",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 78520,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            700,
+            359
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-00.bin",
+          "sha256": "b78392f377debaf6fbfb0dbdba176577c02f142e5a97cca1b6f6ef001c078745"
+        },
+        "originalPublished": "2026-10-12T23:57:12.000Z",
+        "originalModified": "2026-10-12T23:57:13.000Z"
+      },
+      {
+        "url": "https://www.epochtimes.com/b5/26/10/12/n14868674.htm",
+        "refs": [
+          {
+            "g": "cn",
+            "i": 1,
+            "image": "https://i.epochtimes.com/assets/uploads/2024/08/id14321123-GettyImages-2032318621-700x359.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://i.epochtimes.com/assets/uploads/2024/08/id14321123-GettyImages-2032318621-700x359.jpg",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 314769,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            700,
+            359
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-03.bin",
+          "sha256": "16956b13276c43e53bebe959ead78976ffe06f0432adc1e363aff02a5c8cc955"
+        },
+        "originalPublished": "2026-10-12T22:49:38.000Z",
+        "originalModified": "2026-10-12T23:07:04.000Z"
+      },
+      {
+        "url": "https://www.epochtimes.com/b5/26/10/12/n14868519.htm",
+        "refs": [
+          {
+            "g": "cn",
+            "i": 2,
+            "image": "https://i.epochtimes.com/assets/uploads/2026/04/id14751163-844813-700x359.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://i.epochtimes.com/assets/uploads/2026/04/id14751163-844813-700x359.jpg",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 212385,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            700,
+            359
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-04.bin",
+          "sha256": "a6e57e25cb9decfe9981d0b3e7e6a102f90957e44edc7ad6b571b9db299aff0f"
+        },
+        "originalPublished": "2026-10-12T20:13:10.000Z",
+        "originalModified": "2026-10-12T20:13:10.000Z"
+      },
+      {
+        "url": "https://www.epochtimes.com/b5/26/10/12/n14868548.htm",
+        "refs": [
+          {
+            "g": "cn",
+            "i": 3,
+            "image": "https://i.epochtimes.com/assets/uploads/2018/10/GettyImages-978471694-700x359.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://i.epochtimes.com/assets/uploads/2018/10/GettyImages-978471694-700x359.jpg",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 109669,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            700,
+            359
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-09.bin",
+          "sha256": "c3f0de6b36edb6dd62dfa54b42c606b0bbff085d5b905da398fbdc4a3c9f67dc"
+        },
+        "originalPublished": "2026-10-12T17:58:35.000Z",
+        "originalModified": "2026-10-12T17:58:35.000Z"
+      },
+      {
+        "url": "https://www.hk01.com/article/60398930",
+        "refs": [
+          {
+            "g": "cn",
+            "i": 4,
+            "image": "https://cdn.hk01.com/di/media/images/dw/20261012/1186453681113927680859014.jpeg/mHDdZRLV5ljlP0Re4nlwSkt0UdlUNITOzoNtRs6DbUY"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://cdn.hk01.com/di/media/images/dw/20261012/1186453681113927680859014.jpeg/mHDdZRLV5ljlP0Re4nlwSkt0UdlUNITOzoNtRs6DbUY",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 239844,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            1200,
+            675
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-40.bin",
+          "sha256": "fe5d6cde0dda49afe934a103d853b0c1fd31006b56f35ca77c6a99076040d8f5"
+        },
+        "originalPublished": "2026-10-12T22:42:48+08:00",
+        "originalModified": "2026-10-12T22:42:48+08:00"
+      },
+      {
+        "url": "https://www.epochtimes.com/b5/26/10/12/n14868546.htm",
+        "refs": [
+          {
+            "g": "cn",
+            "i": 5,
+            "image": "https://i.epochtimes.com/assets/uploads/2026/06/id14792962-2606200445592378-700x359.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://i.epochtimes.com/assets/uploads/2026/06/id14792962-2606200445592378-700x359.jpg",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 113628,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            700,
+            359
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-10.bin",
+          "sha256": "228c7a2e3a8815b44b28b833beb5e4c74df7810de3e183174188a3b20e1c4c80"
+        },
+        "originalPublished": "2026-10-12T17:49:51.000Z",
+        "originalModified": "2026-10-12T17:49:51.000Z"
+      },
+      {
+        "url": "https://www.straitstimes.com/business/global-smartphone-shipments-record-worst-third-quarter-in-14-years-amid-memory-shortage",
+        "refs": [
+          {
+            "g": "cn",
+            "i": 6,
+            "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8f419f2b05fb0e2b6d5c2897d1640fe10f6bd9a66d1a0488249ad81349a0e9bb?w=1200"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:40:22.879655+08:00",
+        "originalOG": "https://cassette.sphdigital.com.sg/image/straitstimes/8f419f2b05fb0e2b6d5c2897d1640fe10f6bd9a66d1a0488249ad81349a0e9bb?w=1200",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cassette.sphdigital.com.sg/image/straitstimes/8f419f2b05fb0e2b6d5c2897d1640fe10f6bd9a66d1a0488249ad81349a0e9bb?w=1200",
+          "matchesOG": true,
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 65587,
+          "magic": "ffd8ffdb004300050304040403050404",
+          "format": "JPEG",
+          "size": [
+            1200,
+            630
+          ],
+          "sha256": "e76c2a97da00974629bb070abc2126e3f4a74c93f374079b1b83984536fe980a",
+          "file": "scratch\\am-20261013\\ep-image-phone.bin"
+        }
+      },
+      {
+        "url": "https://www.zaobao.com.sg/news/china/story20261013-9826784",
+        "refs": [
+          {
+            "g": "cn",
+            "i": 7,
+            "image": "https://cassette.sphdigital.com.sg/image/zaobao/3fe26f1fe8a974d26814f05dbde9485117006315307320f4bc42dd2a3715233c"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:55:42.391712+08:00",
+        "originalOG": "https://cassette.sphdigital.com.sg/image/zaobao/3fe26f1fe8a974d26814f05dbde9485117006315307320f4bc42dd2a3715233c",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://cassette.sphdigital.com.sg/image/zaobao/3fe26f1fe8a974d26814f05dbde9485117006315307320f4bc42dd2a3715233c",
+          "matchesLiteralOG": true,
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 74792,
+          "magic": "52494646202401005745425056503820",
+          "format": "WEBP",
+          "size": [
+            1023,
+            682
+          ],
+          "sha256": "df5267edd3b251a9461a78656c359a0ebb1b09885edafe35e8d3b722dfe26721",
+          "visualVerification": "已用view_image目視：巴黎車展小鵬G9L SUV與觀眾，車頭可見G9L標識，符合原文AFP圖註。"
+        }
+      },
+      {
+        "url": "https://www.hk01.com/article/60398964",
+        "refs": [
+          {
+            "g": "us",
+            "i": 0,
+            "image": "https://cdn.hk01.com/di/media/images/dw/20261013/1186555643192938496138096.jpeg/IzdIGhhjZwrIvpdrTwHmSZehYtjZHrZcWL6Y81i-mPM?v=w1280r16_9"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://cdn.hk01.com/di/media/images/dw/20261013/1186555643192938496138096.jpeg/IzdIGhhjZwrIvpdrTwHmSZehYtjZHrZcWL6Y81i-mPM?v=w1280r16_9",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 159909,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            1280,
+            720
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-42.bin",
+          "sha256": "1b1dae2cb0367ab11f748b9325259b775499e258d6a1f0bfab8ee79188a7aab4"
+        },
+        "originalPublished": "2026-10-13T07:25:17+08:00",
+        "originalModified": "2026-10-13T07:25:20+08:00"
+      },
+      {
+        "url": "https://www.epochtimes.com/b5/26/10/12/n14868635.htm",
+        "refs": [
+          {
+            "g": "us",
+            "i": 1,
+            "image": "https://i.epochtimes.com/assets/uploads/2026/07/id14819194-EpochImages-4045391887-l-700x359.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://i.epochtimes.com/assets/uploads/2026/07/id14819194-EpochImages-4045391887-l-700x359.jpg",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 140599,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            700,
+            359
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-25.bin",
+          "sha256": "979c35185356e92fe8ce01733514edafde7d1c46d09ce26a604d9ea50e9f066c"
+        },
+        "originalPublished": "2026-10-12T21:01:44.000Z",
+        "originalModified": "2026-10-12T21:01:44.000Z"
+      },
+      {
+        "url": "https://www.epochtimes.com/b5/26/10/12/n14868642.htm",
+        "refs": [
+          {
+            "g": "us",
+            "i": 2,
+            "image": "https://i.epochtimes.com/assets/uploads/2026/10/id14868643-AFP__20261012__2299339617__v1__MidRes__53rdAnnualWorldChampionshipPumpkinWeighOffHel-700x359.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://i.epochtimes.com/assets/uploads/2026/10/id14868643-AFP__20261012__2299339617__v1__MidRes__53rdAnnualWorldChampionshipPumpkinWeighOffHel-700x359.jpg",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 194732,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            700,
+            359
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-27.bin",
+          "sha256": "6e4551d9cfcdd28119c7bfaa45acf2f2c299a51a69bd5f526eb5cc19513c8a82"
+        },
+        "originalPublished": "2026-10-12T19:28:48.000Z",
+        "originalModified": "2026-10-12T19:39:04.000Z"
+      },
+      {
+        "url": "https://udn.com/news/story/7314/9803064",
+        "refs": [
+          {
+            "g": "tw",
+            "i": 0,
+            "image": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35402822.jpg&M=1&x=&y=&sw=&sh=&exp=3600"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35402822.jpg&M=1&x=&y=&sw=&sh=&exp=3600",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 213330,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            1280,
+            942
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-60.bin",
+          "sha256": "d67e669738c935b58004681d017bfa6e4b0d4d53d47b785b843305509d67c49f"
+        },
+        "originalPublished": "2026-10-13T06:00:32+08:00",
+        "originalModified": "2026-10-13T08:36:57+08:00"
+      },
+      {
+        "url": "https://www.threads.com/@weiwensheva/post/DeaIB7DEwPO",
+        "refs": [
+          {
+            "g": "tw",
+            "i": 1,
+            "image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/846504374_4114919048638311_3475734177238779546_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b7w8n0bkH9QQ7kNvwFj1v9g&_nc_oc=Adp6F4PAmWEq96LB7JPXLbN9fWM6FJidiEb5lVsAfM74WETTAKfWt0IHYFLK9XQQKRQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=eRhawWYL-wWfGvLHDtDG1A&_nc_ss=722a8&oh=00_AQO8YsGDHFsDmB3xXnehaq0DWpyhJHFsLdu1WYnX1ZvMRA&oe=6AD3661A"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": true,
+        "checkedAt": "2026-10-13T09:40:11.126404+08:00",
+        "originalOG": "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/846504374_4114919048638311_3475734177238779546_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b7w8n0bkH9QQ7kNvwFj1v9g&_nc_oc=Adp6F4PAmWEq96LB7JPXLbN9fWM6FJidiEb5lVsAfM74WETTAKfWt0IHYFLK9XQQKRQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=eRhawWYL-wWfGvLHDtDG1A&_nc_ss=722a8&oh=00_AQO8YsGDHFsDmB3xXnehaq0DWpyhJHFsLdu1WYnX1ZvMRA&oe=6AD3661A",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/846504374_4114919048638311_3475734177238779546_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b7w8n0bkH9QQ7kNvwFj1v9g&_nc_oc=Adp6F4PAmWEq96LB7JPXLbN9fWM6FJidiEb5lVsAfM74WETTAKfWt0IHYFLK9XQQKRQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=eRhawWYL-wWfGvLHDtDG1A&_nc_ss=722a8&oh=00_AQO8YsGDHFsDmB3xXnehaq0DWpyhJHFsLdu1WYnX1ZvMRA&oe=6AD3661A",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 27573,
+          "magic": "ffd8ffe000104a4649460001",
+          "format": "JPEG",
+          "size": [
+            361,
+            640
+          ],
+          "decoded": true,
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\tw-fire.jpg",
+          "sha256": "bac7e14f7a61b5f2b014e484068516f3b56c6d97e38c3b813557bb6bfd360cbe",
+          "ogMatchesOriginal": true
+        },
+        "authorVerification": {
+          "type": "個人生活及旅遊影片作者，現場目擊者；非新聞池傳媒",
+          "relationship": "第一身回家看到火警，附17.179909秒原片。台視記者公開詢問其所拍攝畫面授權，作者以同handle明確答可以，非只由別人提問推定原創。",
+          "basis": "root讀公開profile貓跪妃/weiwensheva，4121followers，日常/開箱/旅遊/美食及本人CatQTV連結；前帖高雄小港實地餐廳。原帖答覆稱仍未睡，與凌晨現場一致；真名未知。採用內容為公共安全現場，非純娛樂或商業推廣。",
+          "replyUrl": "https://www.threads.com/@weiwensheva/post/DeaKnCwk10O"
+        },
+        "visualCheck": {
+          "passed": true,
+          "description": "root在指定Chrome實播17秒原片，觀察到火焰、濃煙、消防車及持續變動警示燈，讀DOM currentTime10.440399 pausedfalse並兩次截圖；沒有只驗封面或宣稱下載/聽聲成功。",
+          "limits": "只描述可見火勢及消防車、作者自述路口，不採留言官方報告的傷者、門牌、火因或救援人數。"
+        },
+        "originalPublished": "2026-10-12T20:47:10.000Z"
+      },
+      {
+        "url": "https://news.ltn.com.tw/news/life/breakingnews/5604259",
+        "refs": [
+          {
+            "g": "tw",
+            "i": 2,
+            "image": "https://img.ltn.com.tw/Upload/news/600/2026/10/13/5604259_1_1.jpg"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://img.ltn.com.tw/Upload/news/600/2026/10/13/5604259_1_1.jpg",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 136807,
+          "magic": "ffd8ffe000104a4649460001",
+          "decoded": true,
+          "size": [
+            800,
+            600
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-49.bin",
+          "sha256": "d09d29eb5a5f16884c5db5c77a831fe111405c46d16dcd68b24c58e4cf5f59eb"
+        },
+        "originalPublished": "2026-10-13T08:18:11+08:00",
+        "originalModified": "2026-10-13T08:18:11+08:00"
+      },
+      {
+        "url": "https://www.channelnewsasia.com/world/saudi-arabia-riyadh-airport-closed-attacks-6454251",
+        "refs": [
+          {
+            "g": "war",
+            "i": 0,
+            "image": "https://dam.mediacorp.sg/image/upload/s--OCtcCNTN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-12T132132Z_1_LYNXMPEM9B14H_RTROPTP_3_IRAN-CRISIS-SAUDI-RIYADH.JPG?itok=AelXRaXM"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://dam.mediacorp.sg/image/upload/s--OCtcCNTN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-12T132132Z_1_LYNXMPEM9B14H_RTROPTP_3_IRAN-CRISIS-SAUDI-RIYADH.JPG?itok=AelXRaXM",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://dam.mediacorp.sg/image/upload/s--OCtcCNTN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-12T132132Z_1_LYNXMPEM9B14H_RTROPTP_3_IRAN-CRISIS-SAUDI-RIYADH.JPG?itok=AelXRaXM",
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 71460,
+          "magic": "ffd8ffe000104a4649460001",
+          "size": [
+            1200,
+            676
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-followup-cna.bin",
+          "sha256": "c354669136fa7d90d2b44fb3ed3ecee0677539f1d9b73a94ff442eb9016eb35d",
+          "ogMatchesOriginal": true,
+          "visuallyChecked": true,
+          "caption": "General view of the highway leading to the King Khalid International Airport in Riyadh, Saudi Arabia, on Oct 12, 2026. (Photo: Reuters)",
+          "noGovernmentHandoutCredit": true
+        },
+        "originalPublished": "2026-10-13T04:27:00+08:00",
+        "originalModified": "2026-10-13T06:30:38+08:00"
+      },
+      {
+        "url": "https://www.iranintl.com/en/202610124072",
+        "refs": [
+          {
+            "g": "war",
+            "i": 1,
+            "image": "https://i.iranintl.com/images/rdk9umy0/production/800049be883c7d2b5c7ab29de97007bec437f15d-1080x608.avif?rect=0,21,1080,567&w=1200&h=630&q=66&fit=max&auto=format"
+          },
+          {
+            "g": "warb",
+            "i": 1
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://i.iranintl.com/images/rdk9umy0/production/800049be883c7d2b5c7ab29de97007bec437f15d-1080x608.avif?rect=0,21,1080,567&w=1200&h=630&q=66&fit=max&auto=format",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/avif",
+          "bytes": 31171,
+          "magic": "0000001c6674797061766966",
+          "decoded": true,
+          "size": [
+            1080,
+            567
+          ],
+          "format": "AVIF",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-52.bin",
+          "sha256": "b92ca1b491fe269f5d31300b023a5842d2994c6395fab252aa5a18b85a24fe7a"
+        },
+        "originalPublished": "2026-10-12T16:28:57.587Z",
+        "originalModified": "2026-10-12T17:33:33Z"
+      },
+      {
+        "url": "https://www.iranintl.com/en/202610126090",
+        "refs": [
+          {
+            "g": "war",
+            "i": 2,
+            "image": "https://i.iranintl.com/images/rdk9umy0/production/61816d60410d49031db91715ecedbd3f6a944ac6-1600x1066.jpg?rect=0,113,1600,840&w=1200&h=630&q=66&fit=max&auto=format"
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "originalOG": "https://i.iranintl.com/images/rdk9umy0/production/61816d60410d49031db91715ecedbd3f6a944ac6-1600x1066.jpg?rect=0,113,1600,840&w=1200&h=630&q=66&fit=max&auto=format",
+        "adoptedImage": true,
+        "image": {
+          "http": 200,
+          "mime": "image/jpeg",
+          "bytes": 134510,
+          "magic": "ffd8ffdb0043000b07080a08",
+          "decoded": true,
+          "size": [
+            1200,
+            630
+          ],
+          "format": "JPEG",
+          "file": "D:\\Projects\\Daily News 20260907\\scratch\\am-20261013\\world-image-51.bin",
+          "sha256": "20de80b1f42d2c73de1196acb3e71d98026b8b6e951203fdc4aa71595afd66c1"
+        },
+        "originalPublished": "2026-10-12T22:59:46.670Z",
+        "originalModified": "2026-10-12T23:01:02Z"
+      },
+      {
+        "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+        "refs": [
+          {
+            "g": "ai",
+            "i": 0
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:43.419649+08:00",
+        "originalOG": "https://the-decoder.com/wp-content/uploads/2026/10/muse_wonder.png",
+        "adoptedImage": true,
+        "image": {
+          "url": "https://the-decoder.com/wp-content/uploads/2026/10/muse_wonder.png",
+          "matchesOG": true,
+          "status": 200,
+          "mime": "image/png",
+          "bytes": 176636,
+          "magic": "89504e470d0a1a0a0000000d49484452",
+          "format": "PNG",
+          "size": [
+            1430,
+            853
+          ],
+          "sha256": "3914b896ec503200cddd7524605f627b5e6c8a080ba7dc3cef1c6ac6e02ff6a7",
+          "file": "scratch\\am-20261013\\brief-image-meta.bin"
+        }
+      },
+      {
+        "url": "https://www.threads.com/@zuck/post/DeZgeQhm6RW",
+        "refs": [
+          {
+            "g": "ai",
+            "i": 1
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:37:29.688954+08:00",
+        "originalOG": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JVSTbKY91WgQ7kNvwGhEx9n&_nc_oc=Adq1CfZv8x2H8s-k_0W42vjZDhrtd-dr0E2X0tT-Je6nJA71nkEeljov8IRj9HZsKEg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=88cV-8KFWTTmBwmunAkFwQ&_nc_ss=7a22e&oh=00_AQNyT--OjdpjGUI8btAcvscpjMQDV7-pL2Z99KhdB0xNmg&oe=6AD33C28",
+        "adoptedImage": false,
+        "image": {
+          "url": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843592055_17991691623103224_8086321653765802754_n.webp?_nc_cat=102&ig_cache_key=NDAwNjM3NjE2MDMzOTE0MTcxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JVSTbKY91WgQ7kNvwGhEx9n&_nc_oc=Adq1CfZv8x2H8s-k_0W42vjZDhrtd-dr0E2X0tT-Je6nJA71nkEeljov8IRj9HZsKEg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=88cV-8KFWTTmBwmunAkFwQ&_nc_ss=7a22e&oh=00_AQNyT--OjdpjGUI8btAcvscpjMQDV7-pL2Z99KhdB0xNmg&oe=6AD33C28",
+          "matchesOG": true,
+          "status": 200,
+          "mime": "image/webp",
+          "bytes": 247170,
+          "magic": "524946467ac503005745425056503858",
+          "format": "WEBP",
+          "size": [
+            1500,
+            2000
+          ],
+          "sha256": "08363ee6428dd4adcb1795b4f463c687adcf8b1883b2fac9e16a2c3f20c0c620",
+          "file": "scratch\\am-20261013\\brief-image-zuck.bin"
+        },
+        "authorVerification": {
+          "type": "產品負責人",
+          "relationship": "Meta行政總裁，自述旗下Muse使用情況",
+          "basis": "主agent browser核實公開原帖及已知Meta創辦人官方帳戶；不是獨立測試",
+          "originalContent": "Muse ordered me 🍉 how thoughtful!"
+        },
+        "originalPublished": "2026-10-12T15:01:17Z"
+      },
+      {
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "refs": [
+          {
+            "g": "ai",
+            "i": 2
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:42.621505+08:00",
+        "originalOG": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
+        "adoptedImage": false,
+        "image": {}
+      },
+      {
+        "url": "https://www.theguardian.com/technology/2026/oct/12/cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister",
+        "refs": [
+          {
+            "g": "ai",
+            "i": 3
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:42.987722+08:00",
+        "originalOG": "https://i.guim.co.uk/img/media/06f9d7c04e510b72eb3f0e4ac2d578efa4d417b1/911_0_4529_3624/master/4529.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=571495a0869d12cdef828ffdc9e970d8",
+        "adoptedImage": false,
+        "image": {}
+      },
+      {
+        "url": "https://www.threads.com/@aimaster3658/post/DeZ3os5gT1P",
+        "refs": [
+          {
+            "g": "ai",
+            "i": 4
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T09:02:01.957662+08:00",
+        "originalOG": "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/841166454_1122567936958453_5572756789329277717_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5S7jmwsMGbgQ7kNvwFtFye3&_nc_oc=AdqXZu2SFI5oHhw9qE0U2_jCi0s5dpWt4yrRztf2IdnQuR-m9UI1W8VKLQHDthjzBx8&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=LAOX3ZGSTlM5eVuu_xdWgg&_nc_ss=7f20f&oh=00_AQO4TUGxeCS8ndE6EyTEMAmnwke9-od1Lx3y_LhqvFt3ag&oe=6AD3417B",
+        "adoptedImage": false,
+        "image": {
+          "url": "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/841166454_1122567936958453_5572756789329277717_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5S7jmwsMGbgQ7kNvwFtFye3&_nc_oc=AdqXZu2SFI5oHhw9qE0U2_jCi0s5dpWt4yrRztf2IdnQuR-m9UI1W8VKLQHDthjzBx8&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=LAOX3ZGSTlM5eVuu_xdWgg&_nc_ss=7f20f&oh=00_AQO4TUGxeCS8ndE6EyTEMAmnwke9-od1Lx3y_LhqvFt3ag&oe=6AD3417B",
+          "matchesLiteralOG": true,
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 28029,
+          "magic": "ffd8ffe000104a464946000101000001",
+          "format": "JPEG",
+          "size": [
+            640,
+            382
+          ],
+          "sha256": "6c7407f9b7e4702d3f0a1bab663884252ba4b16322bb5a3dfe824d84388a49b2",
+          "visualVerification": "view_image已目視Mario 1-1遊戲首幀，非頭像logo。"
+        },
+        "authorVerification": {
+          "type": "獨立遊戲／AI開發者",
+          "name": "오현석",
+          "relationship": "自己發布模型遊戲測試及比較，非轉述新聞",
+          "basis": "Browser公開簡介EPYC+256GB SERVER、OmO開發sessions、OpenRPGMaker，自有tokenblackhole.space；原帖及作者回覆So we can fairly compare it with other models。沒有新聞機構或Meta職員關係證據。",
+          "originalContent": "Muse Wonder 1.0 High Mario / Just another Muse 1.3. 💀",
+          "limits": "未核實提示詞、原始程式或模型後台；只描述作者標示的遊戲錄影，不能推成通關benchmark。"
+        },
+        "visualCheck": "已Browser看見45.396秒Mario風1-1關卡側滾遊戲、人物跳躍過水管及金幣；作者留言說用同一關公平比較其他模型。",
+        "originalPublished": "2026-10-12T18:24:04.000Z"
+      },
+      {
+        "url": "https://www.threads.com/@ojigineko_sisho/post/DealAbvHRKc",
+        "refs": [
+          {
+            "g": "ai",
+            "i": 5
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T09:04:43.256276+08:00",
+        "originalOG": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/845288291_18127648132840592_4268771078551388521_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwNjY3NzU3NjAwMTg1MjA2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IIQ2DeURGwgQ7kNvwGnh2Fd&_nc_oc=Adqji2vkeKSEEtIIBWfwOlO2K5jVbtEvQjM5O8afZrfiGaVqmElZlzLiNqEJTEUO3so&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=t7h_Rdhfm2jp1Cyz4nPHqA&_nc_ss=7a22e&oh=00_AQN1kQuVgaHjTarxRc-p10AFRE8cfe4uwN0l3d8v0vlZjw&oe=6AD36D8B",
+        "adoptedImage": false,
+        "image": {
+          "url": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/845288291_18127648132840592_4268771078551388521_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwNjY3NzU3NjAwMTg1MjA2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IIQ2DeURGwgQ7kNvwGnh2Fd&_nc_oc=Adqji2vkeKSEEtIIBWfwOlO2K5jVbtEvQjM5O8afZrfiGaVqmElZlzLiNqEJTEUO3so&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=t7h_Rdhfm2jp1Cyz4nPHqA&_nc_ss=7a22e&oh=00_AQN1kQuVgaHjTarxRc-p10AFRE8cfe4uwN0l3d8v0vlZjw&oe=6AD36D8B",
+          "matchesLiteralOG": true,
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 153853,
+          "magic": "ffd8ffe000104a464946000101000001",
+          "format": "JPEG",
+          "size": [
+            1440,
+            810
+          ],
+          "sha256": "954696ed856749410f957726928133f9707d3a20c28539864a2716bcfa933f11",
+          "visualVerification": "view_image已目視本人六平台dashboard，列Typefully定時/API發布與計量，資料日期10/12，非頭像logo。"
+        },
+        "authorVerification": {
+          "type": "獨立上班族／AI內容及工具從業者（自述）",
+          "name": "おじぎねこ ししょー",
+          "relationship": "原作者自述本人Claude Code六平台操作及數據記錄，附自家dashboard；商業宣傳內容清楚歸屬，非外部證實效能",
+          "basis": "Browser公開profile同一handle/name，dashboard列本人平台handles；Threads目前1follower與dashboard一致；profile置頂自家AI影片工具介紹。沒有獨立核實真名／公司僱用身份。",
+          "originalContent": "上班族副業，一人運作六個SNS；幾乎所有發帖及數字記錄由Claude Code完成；只有平日晚上操作；圖片列Typefully/API取得等流程。",
+          "limits": "可作原作者具體自用流程示例，不能當普遍效能證明或肯定其收入／產品品質。讀到的dashboard是10/12本機資料，自述發帖為10/13新公開。"
+        },
+        "originalPublished": "2026-10-13T01:00:15.000Z"
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row",
+        "refs": [
+          {
+            "g": "warb",
+            "i": 0
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:42.896102+08:00",
+        "originalOG": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6acd5b82e036-1791843202.jpg?resize=1920%2C1440",
+        "adoptedImage": false,
+        "image": {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6acd5b82e036-1791843202.jpg?resize=1920%2C1440",
+          "matchesOG": true,
+          "status": 200,
+          "mime": "image/jpeg",
+          "bytes": 303267,
+          "magic": "ffd8ffe000104a464946000101000001",
+          "format": "JPEG",
+          "size": [
+            1920,
+            1440
+          ],
+          "sha256": "1f2cd2c6b23a70b16c2f0cfd03e888dc8100d65f82d8f3432dc13290083a0625",
+          "file": "scratch\\am-20261013\\brief-image-aj.bin"
+        }
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals",
+        "refs": [
+          {
+            "g": "warb",
+            "i": 2
+          }
+        ],
+        "sourceHttp": 200,
+        "browserReadSuccessful": false,
+        "checkedAt": "2026-10-13T08:34:43.459618+08:00",
+        "originalOG": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6acd19cf88-1791826383.jpg?resize=1920%2C1440",
+        "adoptedImage": false,
+        "image": {}
+      }
+    ],
+    "errors": []
+  },
+  "review": {
+    "reviewedAt": "2026-10-13T09:41:19.631762+08:00",
+    "candidateSHA256": "0adde95f4ce48ea79d7914c720ccb8f4079b417bb35768088e107c36078222d1",
+    "counts": {
+      "hks": 8,
+      "hkl": 8,
+      "hke": 3,
+      "hkp": 3,
+      "cn": 8,
+      "us": 3,
+      "tw": 3,
+      "war": 3
+    },
+    "mechanicalErrors": [],
+    "trackRetention": {
+      "previous": 367,
+      "candidate": 398,
+      "missing": [],
+      "new": 31
+    },
+    "social": {
+      "hks": {
+        "actual": 1,
+        "required": 4
+      },
+      "hkl": {
+        "actual": 4,
+        "required": 4
+      },
+      "hke": {
+        "actual": 0,
+        "required": 2
+      },
+      "hkp": {
+        "actual": 0,
+        "required": 2
+      },
+      "cn": {
+        "actual": 0,
+        "required": 4
+      },
+      "us": {
+        "actual": 0,
+        "required": 2
+      },
+      "tw": {
+        "actual": 1,
+        "required": 2
+      },
+      "war": {
+        "actual": 0,
+        "required": 2
+      }
+    },
+    "briefSocial": {
+      "ai": {
+        "actual": 3,
+        "required": 3,
+        "sources": 6
+      },
+      "warb": {
+        "actual": 0,
+        "required": 2,
+        "sources": 3
+      }
+    },
+    "briefTrack": [
+      "美·英國AI安全測試政策",
+      "監管及產品新報道",
+      "13日午報：衛報引英國AI大臣指正考慮強制事故通報，並恢復對最新前沿模型安全測試；以澳洲Medicare事件警告風險，並非英國已發生同類入侵。"
+    ],
+    "resolvedPriorFindings": [
+      "全球手機出貨卡已從hke移至cn，標題明寫小米全球出貨；並非香港數據。中國汽車國內零售與中國品牌全球手機出貨是不同產品、地理口徑和新數據，selfcheck共同詞屬誤配。",
+      "美·英國AI安全測試政策已寫今版新進展、事故通報仍屬考慮，並明示澳洲Medicare事件不是英國新入侵；Meta及開發者工作流程新track已加入。"
+    ],
+    "editorialChecks": {
+      "attribution": "兒童宿舍指控與否認並列，涉嫌犯罪未稱定罪；按揭回贈歸屬市場消息；B10扣款只稱作者學生卡自述，未說正式折扣、系統bug或普遍故障；73X只記個別乘客所見，不斷言違反休息法；Luka為家長現場安全提醒，未採高度面積、違例或受傷事實。",
+      "feelLane": "帳戶以第一身宣佈社區計劃，專屬海報/profile與文字吻合，社聯名單另確認西環共融實驗室計劃存在。仍未能完全獨立認證新帳戶運作者，故題目只稱帳戶預告、撮要稱十一至十二月及詳日未公布；不能冒稱散戶個人或明愛授權帳戶。未發現反證。",
+      "Huanggang": "hkp今版截止17時流量新增數據；cn口岸近食肆與較遠超市實訪客流分化；hkl作者B10實扣紀錄是個別新費用見聞。三者可共用皇崗總事件線，但各有不同實質，與上一版聯合查驗制度/導航問題不同。",
+      "previousEditionDedup": "逐組讀完12日pm所有標題撮要：電車本版增加一個月調查期限及車長停職；巴拉圭本版制裁後部長訪問；利雅得本版停運延長及第三晚事件而非只重播10日影像。未見同事實翻炒。",
+      "sourceImageBan": "原先香港01戰爭卡Saudi Ministry of Media handout已換CNA公路Reuters攝影；cn小鵬圖為AFP巴黎車展，先前新華圖排除。台灣LTN政府供圖不屬總規則所指被禁政府範圍。沒有發現現候選卡禁源或被禁政府官媒圖。",
+      "briefs": "AI保留產品展示與獨立測試區分，三個Threads原帖時間皆窗內，附原圖及作者/關係證據；오현석錄影無完整提示詞不可當完整benchmark，おじぎねこ效能未獨立證實。戰爭14死屬前兩日，不當第三晚新增傷亡；英國基地案歸因及制裁是今版新增，涉案者未定罪。",
+      "trackNodes": "367條舊線索全保留。四項超40版警告均有既定未來節點：碧瑤灣10/21、蘇信恩12/17、施駿興10/27、杏花邨12/11，保留低頻正確，不能因版數而刪。",
+      "robotaxi": "Browser原文及證據已讀，09:03:07窗內，10/21–11/3實日和600實體票為新事實；離島居民須持票、車內後備員表述正確，不稱現已隨到隨乘或政府安全結論獨立證實。本人另目視robotaxi-image.bin，確為兩乘客及前座人員的車內圖、DD水印，非錯誤頁。",
+      "newImageReview": "本人另目視world-followup-cna.bin，利雅得機場公路指示牌及Reuters水印，與原文圖註一致，無官媒handout圖註。",
+      "TaiwanNewFire": "新TW卡與tw-fire-evidence.card逐欄相符，DOM2026-10-12T20:47:10Z為今04:47:10HKT，窗內；caption本人回家見火警，作者同handle公開答記者可以授權，有第一手拍攝依據，非新聞池傳媒。卡只歸屬路口目擊，未採留言傷亡/火因。本人另目視tw-fire.jpg：火光濃煙、消防車、七賢路口指示，與root原片觀察相符。本人沒有重播完整原片，使用root17秒實播紀錄。"
+    },
+    "hkShortageEvidence": {
+      "hks": {
+        "actual": 1,
+        "required": 4,
+        "missing": 3,
+        "queries": [
+          "火警",
+          "慈正邨",
+          "報警",
+          "報咗警",
+          "新蒲崗",
+          "馬鞍山",
+          "撞車",
+          "地盤",
+          "欠薪",
+          "漏水",
+          "停電"
+        ],
+        "representatives": [
+          {
+            "url": "https://www.threads.com/@chi_waiiii/post/DeYrAYqm62s",
+            "reason": "AirPods失竊原帖12日15:14:05，早於21時硬窗；晚間媒體轉載不重置首次時間。"
+          },
+          {
+            "url": "https://www.threads.com/@k9h5.17/post/DeafnSzkh1M",
+            "reason": "13日08:13:01自述足球群毆參與者的純文字回覆無原圖；被回覆影片12日15:11:31窗外，不能拼接舊原圖填配額。"
+          },
+          {
+            "url": "https://www.threads.com/@1304_jxq/post/DeZ0s6JkmQy",
+            "reason": "13日01:58:03石門食客原片已讀，但未熟/威嚇指控缺獨立交叉核實；肉色不足證熟度，不能刊單方重大指控湊數。"
+          },
+          {
+            "url": "https://www.threads.com/@hkbackupkid/post/DeZqsWyGt7c",
+            "reason": "一田巨鼠帖明示backup已刪原帖，非現場原作者；只作線索，不計第一手。"
+          }
+        ]
+      },
+      "hke": {
+        "actual": 0,
+        "required": 2,
+        "missing": 2,
+        "queries": [
+          "滙豐",
+          "恒生",
+          "拖糧",
+          "欠薪",
+          "結業",
+          "生意"
+        ],
+        "representatives": [
+          {
+            "url": "https://www.threads.com/@haoling/post/DealWeAD3Dq",
+            "reason": "新帖轉述Visual Capitalist全球企業盈利圖，並非香港經濟第一手資料。"
+          },
+          {
+            "url": "https://www.threads.com/@aromaenergyhk/post/DYWKN2NgDx5",
+            "reason": "5月創業互助群招募，窗外且屬招募宣傳。"
+          }
+        ],
+        "otherObservedExclusions": "拖糧搜尋見舊洗衣工65K欠薪約22hAgo、電影業4d舊帖、標明故事創作的虛構帖；結業有同文iPad/排球贈送假廣告。銀行搜尋多舊信用卡/旅行/iHerb手續費及拍賣宣傳，未找到窗內可核新香港經濟事件原帖。FeelLane屬公益社區活動已按hkl採納，不能跨組重複。"
+      },
+      "hkp": {
+        "actual": 0,
+        "required": 2,
+        "missing": 2,
+        "queries": [
+          "新皇崗",
+          "皇崗",
+          "西九"
+        ],
+        "representatives": [
+          {
+            "url": "https://www.threads.com/@0.0xhi/post/DeZTgfkCV-F",
+            "reason": "第一身22分鐘過關/B11見聞全文讀到，但HTTP OG只頭像，缺合格原圖；近窗邊首次時間未完成精確核實，不採。"
+          },
+          {
+            "url": "https://www.threads.com/@fifigo11/post/DealZwNHYeR",
+            "reason": "西九Recent新帖僅個人財赤/薪酬評論，無原始新資料或調查，亦無原圖。"
+          },
+          {
+            "url": "https://www.threads.com/@gstock888/post/DeLNgn2Dxau",
+            "reason": "五日前財報二手分析，窗外；不是當事人新原始資料。"
+          },
+          {
+            "url": "https://www.threads.com/@nownewshk/post/DeLtdOBGj0-",
+            "reason": "五日前Now新聞報道，既窗外亦新聞池傳媒帳戶，不能填散戶原帖配額。"
+          }
+        ]
+      }
+    },
+    "reviewLimits": "HK初始16及本人新增四帖已親自讀全文/原圖；最新世界及簡報其餘圖依同組原始證據及主agent目視，未聲稱本人獨立重看所有41圖。候選若在此SHA之後改動，需重跑機械覆核並對新增卡另核原文。",
+    "conclusion": "除已記錄Threads配額不足外，現已審內容未發現可證明不能刊出的事實、日期、禁源、圖片或去重錯誤。這不是selfcheck合格認證；午報例外須逐組揭露不足及原因。",
+    "trackRobotaxi": [
+      [
+        "港·東涌自動駕駛試乘",
+        "新增報道待續",
+        "13日午報：百度東涌試乘本月廿一日起開放：離島居民須持票，車內仍有後備員（Dimsum Daily；2026-10-13 09:03:07）；DD13日09:03新報道公布10月21日至11月3日每日14至18時、離島居民免費試乘，共600張實體票，其中540張交議員分發，每車最多兩人且仍有後備員；不同10日僅預告體驗活動、未公布實日。未稱今日已可隨到隨乘。"
+      ]
+    ],
+    "requiredBeforePublish": [],
+    "sourceCoverage": {
+      "sources": 47,
+      "existingErrors": [],
+      "cardCrosscheckIssues": [],
+      "note": "核對主agent原始證據彙整；不是本人重新下載全部來源。"
+    },
+    "socialShortages": {
+      "hks": 3,
+      "hke": 2,
+      "hkp": 2,
+      "cn": 4,
+      "us": 2,
+      "tw": 1,
+      "war": 2,
+      "warb": 2
+    },
+    "totalMissingThreads": 18,
+    "lockedSnapshotNote": "Parent09:40已聲明最後重砌後鎖稿；本覆核只適用記錄SHA。票數已實際核對修正，requiredBeforePublish清空；不代表社交配額合格。"
+  },
+  "editorialNotes": [
+    "小米數據為品牌全球出貨，放中國組，不當香港或內地市場銷量。",
+    "新皇崗CN訪食肆分化與HK政治通關流量為不同新事實，合併同一追蹤。",
+    "巴拉圭制裁後訪問有別上一版制裁前雙十賀辭。",
+    "73X只採乘客個別見聞，不推斷完整工時、違法或全線脫班。",
+    "四條逾40版線索有10/21、10/27、12/11、12/17等既定庭期，保留低頻。",
+    "利雅得政府供圖候選已整條換CNA原文及Reuters公路圖。"
+  ],
+  "researchLimitations": {
+    "root-social-exclusions.json": {
+      "edition": "2026-10-13 am",
+      "checked": [
+        {
+          "url": "https://www.threads.com/@k_j.immy/post/DeZf8H1mRDY",
+          "reason": "實際開原帖目視附圖，係am730手機新聞通知截圖，caption只有又一間啦；非商戶/從業者/現場第一手料，不計hke原帖配額。"
+        },
+        {
+          "url": "https://www.threads.com/@0.0xhi/post/DeZTgfkCV-F",
+          "publishedDOM": "2026-10-12T13:08:00.000Z",
+          "reason": "可讀到旅客皇崗通關第一身全文，但純文字原帖，原OG僅150px匿名profile picture，不能作新聞圖；不採，不計配額。"
+        },
+        {
+          "url": "https://www.threads.com/@dimasrimantikto/post/DeaiyR2EwB7",
+          "reason": "原帖及第二段全文可讀，自述生日旅遊曾因中東衝突取消航班、現已遊畢新加坡；未列航班、取消日子或受影響路線，不能確認與本輪利雅得最新事件關係。沒有把旅遊回顧寫成今日新取消航班，不採。"
+        },
+        {
+          "url": "https://www.threads.com/@horse103ai/post/DeZhdSsD7ZB",
+          "reason": "數碼港指控評論，未提供本人參與或原始證據，不當第一手原帖。"
+        },
+        {
+          "url": "https://www.threads.com/@9upkongmovie/post/DeahEP9oyCl",
+          "reason": "西九評論笑話，沒有原始新聞資訊，不採。"
+        },
+        {
+          "url": "https://www.threads.com/@hkgerholidaylab/post/DeaiY7bk0KX",
+          "reason": "付費交友野餐宣傳，不屬所需新聞原帖。"
+        }
+      ]
+    },
+    "hk-social-supplement.json": {
+      "checkedAt": "2026-10-13T09:07:42.559764+08:00",
+      "cards": [
+        {
+          "group": "hkl",
+          "card": [
+            "乘客記錄二七八X早班車程",
+            "自述上水至和宜合道五十五分鐘，屬單程記錄",
+            "KMB Route 235（乘客記錄）",
+            "https://www.threads.com/@kmb_route_235/post/DeabX85E2ms",
+            "2026-10-13 07:35:58",
+            "2026-10-13 07:35:58",
+            "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/840464564_17909644575479243_7040017798759908575_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwNjYzNTIxMTY4NTMyNTIyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Lp-1stXacXkQ7kNvwEDjZ-9&_nc_oc=Adoe9mdOfu3ABnOGI9YuDAptwaDyxO9bM0KQh1Ik3buj8Oyk5I4b-UK7oLyPDFpoUDg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=e802S9fBenTFnnMbdkmcbA&_nc_ss=7a22e&oh=00_AQOnwEw9plCs8newSWGmVCa0mqqk57OUHHu9ltXHqSBXrg&oe=6AD36867"
+          ],
+          "evidence": {
+            "url": "https://www.threads.com/@kmb_route_235/post/DeabX85E2ms",
+            "status": 200,
+            "meta": {
+              "bingbot": "noarchive",
+              "viewport": "width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=2, shrink-to-fit=no",
+              "al:android:app_name": "Threads",
+              "al:android:package": "com.instagram.barcelona",
+              "al:android:url": "https://www.threads.com/@kmb_route_235/post/DeabX85E2ms",
+              "al:ios:app_name": "Threads",
+              "al:ios:app_store_id": "6446901002",
+              "al:ios:url": "barcelona://media?shortcode=DeabX85E2ms",
+              "apple-itunes-app": "app-id=6446901002, app-argument=barcelona://media?shortcode=DeabX85E2ms",
+              "og:site_name": "Threads",
+              "og:type": "article",
+              "og:title": "KMB Route 235 (@kmb_route_235) on Threads",
+              "og:description": "每日記錄278X/W3用車\n13/10/2026 Day 210‼️\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n- 路線：九巴278X\n- 方向：往 荃灣如心廣場\n- 中之被收車費：$14.7\n- 用車資料：ATENU1605 VT516 🤗\n- 本線掛牌車？❎\n- 司機：梁車長\n- 上車點：上水總站\n- 上車時間：06:35\n- 落車點：和宜合道運動場\n- 落車時間：07:30\n- 行車時間：55分鐘 👌🏻\n\n- 評分：3/5\n- 扣分事項：爆棚(-2)￼",
+              "og:url": "https://www.threads.com/@kmb_route_235/post/DeabX85E2ms",
+              "og:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/840464564_17909644575479243_7040017798759908575_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwNjYzNTIxMTY4NTMyNTIyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Lp-1stXacXkQ7kNvwEDjZ-9&_nc_oc=Adoe9mdOfu3ABnOGI9YuDAptwaDyxO9bM0KQh1Ik3buj8Oyk5I4b-UK7oLyPDFpoUDg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=e802S9fBenTFnnMbdkmcbA&_nc_ss=7a22e&oh=00_AQOnwEw9plCs8newSWGmVCa0mqqk57OUHHu9ltXHqSBXrg&oe=6AD36867",
+              "og:image:width": "1920",
+              "og:image:height": "1440",
+              "referrer": "default",
+              "description": "每日記錄278X/W3用車\n13/10/2026 Day 210‼️\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n- 路線：九巴278X\n- 方向：往 荃灣如心廣場\n- 中之被收車費：$14.7\n- 用車資料：ATENU1605 VT516 🤗\n- 本線掛牌車？❎\n- 司機：梁車長\n- 上車點：上水總站\n-...",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "KMB Route 235 (@kmb_route_235) on Threads",
+              "twitter:description": "每日記錄278X/W3用車\n13/10/2026 Day 210‼️\n⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯\n- 路線：九巴278X\n- 方向：往 荃灣如心廣場\n- 中之被收車費：$14.7\n- 用車資料：ATENU1605 VT516 🤗\n- 本線掛牌車？❎\n- 司機：梁車長\n- 上車點：上水總站\n- 上車時間：06:35\n- 落車點：和宜合道運動場\n- 落車時間：07:30\n-...",
+              "twitter:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/840464564_17909644575479243_7040017798759908575_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwNjYzNTIxMTY4NTMyNTIyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Lp-1stXacXkQ7kNvwEDjZ-9&_nc_oc=Adoe9mdOfu3ABnOGI9YuDAptwaDyxO9bM0KQh1Ik3buj8Oyk5I4b-UK7oLyPDFpoUDg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=e802S9fBenTFnnMbdkmcbA&_nc_ss=7a22e&oh=00_AQOnwEw9plCs8newSWGmVCa0mqqk57OUHHu9ltXHqSBXrg&oe=6AD36867",
+              "application-title": "Threads"
+            },
+            "checkedAt": "2026-10-13T09:07:42.559764+08:00",
+            "firstPublishedDom": "2026-10-12T23:35:58.000Z",
+            "profile": {
+              "url": "https://www.threads.com/@kmb_route_235",
+              "status": 200,
+              "meta": {
+                "bingbot": "noarchive",
+                "viewport": "width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=2, shrink-to-fit=no",
+                "al:android:app_name": "Threads",
+                "al:android:package": "com.instagram.barcelona",
+                "al:android:url": "https://www.threads.com/@kmb_route_235",
+                "al:ios:app_name": "Threads",
+                "al:ios:app_store_id": "6446901002",
+                "al:ios:url": "barcelona://user?username=kmb_route_235",
+                "apple-itunes-app": "app-id=6446901002, app-argument=barcelona://user?username=kmb_route_235",
+                "og:site_name": "Threads",
+                "og:type": "article",
+                "og:title": "KMB Route 235 (@kmb_route_235) • Threads, Say more",
+                "og:description": "281 Followers • 175 Threads • 235係安蔭石蔭主要往來荃灣嘅路線\n行車時間大約係一個鐘頭（成程）\n落荃灣嘅話15-20分鐘，返安蔭就30-35分鐘左右\n而家主要做31/235同埋278X/W3用車報告～. See the latest conversations with @kmb_route_235.",
+                "og:url": "https://www.threads.com/@kmb_route_235",
+                "og:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-19/703376809_17889572073479243_7052860240617491261_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=ePiocqa_CZMQ7kNvwEl2c_R&_nc_oc=AdpfNt00QcIBF7clw6EV-bOdOngzh7HG5fk6NU7JE3K7r99V_cH6BE2y9YEHpx5b8Gs&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=IpvAvN78FKRTp664RiUDeA&_nc_ss=7f20f&oh=00_AQM5h2r2XO_cHqnLIM_2C3BSYcTy_P5PiLMUhXrSgiGnqQ&oe=6AD3507F",
+                "referrer": "default",
+                "description": "281 Followers • 175 Threads • 235係安蔭石蔭主要往來荃灣嘅路線\n行車時間大約係一個鐘頭（成程）\n落荃灣嘅話15-20分鐘，返安蔭就30-35分鐘左右\n而家主要做31/235同埋278X/W3用車報告～. See the latest conversations with...",
+                "twitter:card": "summary",
+                "twitter:title": "KMB Route 235 (@kmb_route_235) • Threads, Say more",
+                "twitter:description": "281 Followers • 175 Threads • 235係安蔭石蔭主要往來荃灣嘅路線\n行車時間大約係一個鐘頭（成程）\n落荃灣嘅話15-20分鐘，返安蔭就30-35分鐘左右\n而家主要做31/235同埋278X/W3用車報告～. See the latest conversations with @kmb_route_235.",
+                "twitter:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-19/703376809_17889572073479243_7052860240617491261_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=ePiocqa_CZMQ7kNvwEl2c_R&_nc_oc=AdpfNt00QcIBF7clw6EV-bOdOngzh7HG5fk6NU7JE3K7r99V_cH6BE2y9YEHpx5b8Gs&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=IpvAvN78FKRTp664RiUDeA&_nc_ss=7f20f&oh=00_AQM5h2r2XO_cHqnLIM_2C3BSYcTy_P5PiLMUhXrSgiGnqQ&oe=6AD3507F",
+                "application-title": "Threads"
+              }
+            },
+            "image": {
+              "url": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/840464564_17909644575479243_7040017798759908575_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwNjYzNTIxMTY4NTMyNTIyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Lp-1stXacXkQ7kNvwEDjZ-9&_nc_oc=Adoe9mdOfu3ABnOGI9YuDAptwaDyxO9bM0KQh1Ik3buj8Oyk5I4b-UK7oLyPDFpoUDg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=e802S9fBenTFnnMbdkmcbA&_nc_ss=7a22e&oh=00_AQOnwEw9plCs8newSWGmVCa0mqqk57OUHHu9ltXHqSBXrg&oe=6AD36867",
+              "status": 200,
+              "mime": "image/jpeg",
+              "bytes": 266659,
+              "magic": "ffd8ffe000104a4649460001",
+              "size": [
+                1920,
+                1440
+              ],
+              "format": "JPEG",
+              "decoded": true,
+              "file": "scratch\\am-20261013\\hk-thread-278x.jpg",
+              "sha256": "c55fcdfdf9c9fdf9fa9578d31717c0a7d25fb24289697d579e2eb5bc7289962e",
+              "ogMatchesOriginal": true
+            },
+            "visualCheck": {
+              "passed": true,
+              "description": "原圖係九巴上層車廂及上水總站278X站牌，非頭像/通用logo；可見乘客但尚有空座，圖片本身不證明全程爆棚。",
+              "limits": "07:30及55分鐘為作者記錄，未由營辦商獨立證實。"
+            },
+            "authorCheck": {
+              "type": "獨立巴士迷／日常乘客記錄",
+              "relationship": "自述當日上車落車時地、車牌及車費；profile長期用車報告與原圖符合",
+              "basis": "公開profile281followers175Threads，bio主要做31/235及278X/W3用車報告；置頂將路線擬人化，非九巴官方媒體帳號。真實姓名未知。"
+            }
+          },
+          "editorialNote": "新聞價值較弱，普通通勤實況。不可寫全線延誤，或以圖片聲稱爆棚；由總編按內容價值選用。 總編覆核屬通常55分鐘正常日記，無新增公共影響，不採不計配額。",
+          "eligible": false
+        },
+        {
+          "group": "hkl",
+          "card": [
+            "家長實遊領達廣場提醒滑梯安全",
+            "自述幼童難緊貼照顧，籲勿站滑梯出口",
+            "Luka Wan",
+            "https://www.threads.com/@luka._.wan/post/DeZcA1gE1QN",
+            "2026-10-12 22:22:21",
+            "2026-10-12 22:22:21",
+            "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/846449402_18632431345001868_2669918432774783291_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EBkOxTklpiAQ7kNvwG_tNsT&_nc_oc=AdqJZP3ZLYPjOBRnl9YypFD8D23UGTuMIHL9gRjaDXHLZEFj_2jXwz677eKRZUvbRi0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=RuipvCrki-utoMWXse96tg&_nc_ss=7f20f&oh=00_AQOs0PKhPBgtC5ghHhCUi38Hd4w_jatpeDwY8TsQ9g-6JA&oe=6AD353B1"
+          ],
+          "evidence": {
+            "url": "https://www.threads.com/@luka._.wan/post/DeZcA1gE1QN",
+            "status": 200,
+            "meta": {
+              "bingbot": "noarchive",
+              "viewport": "width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=2, shrink-to-fit=no",
+              "al:android:app_name": "Threads",
+              "al:android:package": "com.instagram.barcelona",
+              "al:android:url": "https://www.threads.com/@luka._.wan/post/DeZcA1gE1QN",
+              "al:ios:app_name": "Threads",
+              "al:ios:app_store_id": "6446901002",
+              "al:ios:url": "barcelona://media?shortcode=DeZcA1gE1QN",
+              "apple-itunes-app": "app-id=6446901002, app-argument=barcelona://media?shortcode=DeZcA1gE1QN",
+              "og:site_name": "Threads",
+              "og:type": "article",
+              "og:title": "Luka Wan (@luka._.wan) on Threads",
+              "og:description": "🐾25,000 呎免費天台動物遊樂園🐾\n到此一遊\n環境整體係幾靚幾涼爽\n但係唔算多野玩\n尤其是D遊樂設施都係要捐黎捐去\n空間較窄 如果多人玩就會更加迫\n對於低幼BB黎講 大人都難d傍實\n另外要注意 唔好比小朋友企喺 6 米高滑梯嘅出口附近\n因為人地一衝落黎就好容易會撞親\n\n📍 地點：爪爪童樂園\n觀塘安達臣道新發展區「領達廣場」頂層天台",
+              "og:url": "https://www.threads.com/@luka._.wan/post/DeZcA1gE1QN",
+              "og:image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/846449402_18632431345001868_2669918432774783291_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EBkOxTklpiAQ7kNvwG_tNsT&_nc_oc=AdqJZP3ZLYPjOBRnl9YypFD8D23UGTuMIHL9gRjaDXHLZEFj_2jXwz677eKRZUvbRi0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=RuipvCrki-utoMWXse96tg&_nc_ss=7f20f&oh=00_AQOs0PKhPBgtC5ghHhCUi38Hd4w_jatpeDwY8TsQ9g-6JA&oe=6AD353B1",
+              "og:image:width": "1179",
+              "og:image:height": "2096",
+              "referrer": "default",
+              "description": "🐾25,000 呎免費天台動物遊樂園🐾\n到此一遊\n環境整體係幾靚幾涼爽\n但係唔算多野玩\n尤其是D遊樂設施都係要捐黎捐去\n空間較窄 如果多人玩就會更加迫\n對於低幼BB黎講 大人都難d傍實\n另外要注意 唔好比小朋友企喺 6 米高滑梯嘅出口附近\n因為人地一衝落黎就好容易會撞親\n\n📍 地點：爪爪童樂園...",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "Luka Wan (@luka._.wan) on Threads",
+              "twitter:description": "🐾25,000 呎免費天台動物遊樂園🐾\n到此一遊\n環境整體係幾靚幾涼爽\n但係唔算多野玩\n尤其是D遊樂設施都係要捐黎捐去\n空間較窄 如果多人玩就會更加迫\n對於低幼BB黎講 大人都難d傍實\n另外要注意 唔好比小朋友企喺 6 米高滑梯嘅出口附近\n因為人地一衝落黎就好容易會撞親\n\n📍 地點：爪爪童樂園\n觀塘安達臣道新發展區「領達廣場」頂層天台",
+              "twitter:image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/846449402_18632431345001868_2669918432774783291_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EBkOxTklpiAQ7kNvwG_tNsT&_nc_oc=AdqJZP3ZLYPjOBRnl9YypFD8D23UGTuMIHL9gRjaDXHLZEFj_2jXwz677eKRZUvbRi0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=RuipvCrki-utoMWXse96tg&_nc_ss=7f20f&oh=00_AQOs0PKhPBgtC5ghHhCUi38Hd4w_jatpeDwY8TsQ9g-6JA&oe=6AD353B1",
+              "application-title": "Threads"
+            },
+            "checkedAt": "2026-10-13T09:09:47.867143+08:00",
+            "firstPublishedDom": "2026-10-12T14:22:21.000Z",
+            "profile": {
+              "url": "https://www.threads.com/@luka._.wan",
+              "status": 200,
+              "meta": {
+                "bingbot": "noarchive",
+                "viewport": "width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=2, shrink-to-fit=no",
+                "al:android:app_name": "Threads",
+                "al:android:package": "com.instagram.barcelona",
+                "al:android:url": "https://www.threads.com/@luka._.wan",
+                "al:ios:app_name": "Threads",
+                "al:ios:app_store_id": "6446901002",
+                "al:ios:url": "barcelona://user?username=luka._.wan",
+                "apple-itunes-app": "app-id=6446901002, app-argument=barcelona://user?username=luka._.wan",
+                "og:site_name": "Threads",
+                "og:type": "article",
+                "og:title": "Luka Wan (@luka._.wan) • Threads, Say more",
+                "og:description": "249 Followers • 34 Threads. See the latest conversations with @luka._.wan.",
+                "og:url": "https://www.threads.com/@luka._.wan",
+                "og:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-19/543044087_17860735131471804_2166723283310504999_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=-A8iSiEpgzAQ7kNvwG6cOfN&_nc_oc=AdrYRPEBveIB8IG7k4VLGmgv6XV3dn-AswLuKFqd6AS2L-fjv-aQTAozm9fQZJDHmdU&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=BiUiqErwx7nELnnAs5_TVA&_nc_ss=7f20f&oh=00_AQMR7pzjZoZwLWaZuRmvU6RVeROSGrkInGbr_Zc6LyFq6g&oe=6AD36F23",
+                "referrer": "default",
+                "description": "249 Followers • 34 Threads. See the latest conversations with @luka._.wan.",
+                "twitter:card": "summary",
+                "twitter:title": "Luka Wan (@luka._.wan) • Threads, Say more",
+                "twitter:description": "249 Followers • 34 Threads. See the latest conversations with @luka._.wan.",
+                "twitter:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-19/543044087_17860735131471804_2166723283310504999_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=-A8iSiEpgzAQ7kNvwG6cOfN&_nc_oc=AdrYRPEBveIB8IG7k4VLGmgv6XV3dn-AswLuKFqd6AS2L-fjv-aQTAozm9fQZJDHmdU&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=BiUiqErwx7nELnnAs5_TVA&_nc_ss=7f20f&oh=00_AQMR7pzjZoZwLWaZuRmvU6RVeROSGrkInGbr_Zc6LyFq6g&oe=6AD36F23",
+                "application-title": "Threads"
+              }
+            },
+            "image": {
+              "url": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/846449402_18632431345001868_2669918432774783291_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EBkOxTklpiAQ7kNvwG_tNsT&_nc_oc=AdqJZP3ZLYPjOBRnl9YypFD8D23UGTuMIHL9gRjaDXHLZEFj_2jXwz677eKRZUvbRi0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=RuipvCrki-utoMWXse96tg&_nc_ss=7f20f&oh=00_AQOs0PKhPBgtC5ghHhCUi38Hd4w_jatpeDwY8TsQ9g-6JA&oe=6AD353B1",
+              "status": 200,
+              "mime": "image/jpeg",
+              "bytes": 47525,
+              "magic": "ffd8ffe000104a4649460001",
+              "size": [
+                360,
+                640
+              ],
+              "format": "JPEG",
+              "decoded": true,
+              "file": "scratch\\am-20261013\\hk-thread-playground.jpg",
+              "sha256": "80113d704d4564631968803820addc8d765699e88ad8abe4f1e55a234e8b8a47",
+              "ogMatchesOriginal": true
+            },
+            "visualCheck": {
+              "passed": true,
+              "description": "OG為原影片封面，見領達廣場戶外天台多角形黃色遊樂塔及藍色滑梯，寫安達臣領達廣場，非通用logo；browser播放實景可見幼童爬筒及成人陪伴，與到此一遊全文相符。",
+              "limits": "未獨立量度面積或滑梯高度；不以貼文推斷設施違規或已發生碰撞。"
+            },
+            "authorCheck": {
+              "type": "個人家長／親子生活記錄",
+              "relationship": "到此一遊第一身描述並附幼童實地遊玩影片；公開profile名Luka Wan，約250followers34Threads，其他貼文亦記孩子及公園活動",
+              "basis": "實際browser讀profile與原帖影片；沒有傳媒身份、商業聯絡或贊助標示；真實法定身份及利益關係不能完全證實。"
+            }
+          },
+          "editorialNote": "建議替換領達廣場開幕傳媒卡，同一地點避免兩卡。內容明確歸屬家長觀察，不採其未獨立量度面積高度，也不聲稱設施違規。",
+          "eligible": true
+        },
+        {
+          "group": "hkl",
+          "card": [
+            "乘客曬B十扣款稱實收九元一",
+            "自述學生卡少付三元，折扣原因未證實",
+            "WU Chih-Hsi",
+            "https://www.threads.com/@chihhsiwu/post/DeZfuHpE0d7",
+            "2026-10-12 22:54:43",
+            "2026-10-12 22:54:43",
+            "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843161486_17913474015537891_4547666322078637412_n.webp?_nc_cat=111&ig_cache_key=NDAwNjM3MjczNTk4NjgyMjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TdF82NVDiAsQ7kNvwHrbfTu&_nc_oc=AdqiQ3JQVFChFhdDJE-4HLNCB5ejQqj9NFbUbMYuEj1FCcidCtIS2ZmZ6ViaDf5TCF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=mpD38ek2453sh3ESa_hlkw&_nc_ss=7a22e&oh=00_AQMIcVwZ4DU86qbvPDpOVU03MXnHP5oOSb5-eDIcQXdGrQ&oe=6AD33EBC"
+          ],
+          "evidence": {
+            "url": "https://www.threads.com/@chihhsiwu/post/DeZfuHpE0d7",
+            "status": 200,
+            "meta": {
+              "bingbot": "noarchive",
+              "viewport": "width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=2, shrink-to-fit=no",
+              "al:android:app_name": "Threads",
+              "al:android:package": "com.instagram.barcelona",
+              "al:android:url": "https://www.threads.com/@chihhsiwu/post/DeZfuHpE0d7",
+              "al:ios:app_name": "Threads",
+              "al:ios:app_store_id": "6446901002",
+              "al:ios:url": "barcelona://media?shortcode=DeZfuHpE0d7",
+              "apple-itunes-app": "app-id=6446901002, app-argument=barcelona://media?shortcode=DeZfuHpE0d7",
+              "og:site_name": "Threads",
+              "og:type": "article",
+              "og:title": "WU Chih-Hsi (@chihhsiwu) on Threads",
+              "og:description": "今天新皇崗口岸出咗bug？新口岸未開時，喺7號線皇崗口岸站見到一個八達通優惠站，用我嘅學生八達通拍卡，顯示無法領取優惠。結果之後過關搭B10，只需9.1（正價車資係12.1），優惠咗3蚊。港鐵减$3變九巴减$3，幾好😁",
+              "og:url": "https://www.threads.com/@chihhsiwu/post/DeZfuHpE0d7",
+              "og:image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843161486_17913474015537891_4547666322078637412_n.webp?_nc_cat=111&ig_cache_key=NDAwNjM3MjczNTk4NjgyMjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TdF82NVDiAsQ7kNvwHrbfTu&_nc_oc=AdqiQ3JQVFChFhdDJE-4HLNCB5ejQqj9NFbUbMYuEj1FCcidCtIS2ZmZ6ViaDf5TCF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=mpD38ek2453sh3ESa_hlkw&_nc_ss=7a22e&oh=00_AQMIcVwZ4DU86qbvPDpOVU03MXnHP5oOSb5-eDIcQXdGrQ&oe=6AD33EBC",
+              "og:image:width": "1080",
+              "og:image:height": "1799",
+              "referrer": "default",
+              "description": "今天新皇崗口岸出咗bug？新口岸未開時，喺7號線皇崗口岸站見到一個八達通優惠站，用我嘅學生八達通拍卡，顯示無法領取優惠。結果之後過關搭B10，只需9.1（正價車資係12.1），優惠咗3蚊。港鐵减$3變九巴减$3，幾好😁",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "WU Chih-Hsi (@chihhsiwu) on Threads",
+              "twitter:description": "今天新皇崗口岸出咗bug？新口岸未開時，喺7號線皇崗口岸站見到一個八達通優惠站，用我嘅學生八達通拍卡，顯示無法領取優惠。結果之後過關搭B10，只需9.1（正價車資係12.1），優惠咗3蚊。港鐵减$3變九巴减$3，幾好😁",
+              "twitter:image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843161486_17913474015537891_4547666322078637412_n.webp?_nc_cat=111&ig_cache_key=NDAwNjM3MjczNTk4NjgyMjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TdF82NVDiAsQ7kNvwHrbfTu&_nc_oc=AdqiQ3JQVFChFhdDJE-4HLNCB5ejQqj9NFbUbMYuEj1FCcidCtIS2ZmZ6ViaDf5TCF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=mpD38ek2453sh3ESa_hlkw&_nc_ss=7a22e&oh=00_AQMIcVwZ4DU86qbvPDpOVU03MXnHP5oOSb5-eDIcQXdGrQ&oe=6AD33EBC",
+              "application-title": "Threads"
+            },
+            "checkedAt": "2026-10-13T09:14:30.300597+08:00",
+            "firstPublishedDom": "2026-10-12T14:54:43.000Z",
+            "profile": {
+              "url": "https://www.threads.com/@chihhsiwu",
+              "status": 200,
+              "meta": {
+                "bingbot": "noarchive",
+                "viewport": "width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=2, shrink-to-fit=no",
+                "al:android:app_name": "Threads",
+                "al:android:package": "com.instagram.barcelona",
+                "al:android:url": "https://www.threads.com/@chihhsiwu",
+                "al:ios:app_name": "Threads",
+                "al:ios:app_store_id": "6446901002",
+                "al:ios:url": "barcelona://user?username=chihhsiwu",
+                "apple-itunes-app": "app-id=6446901002, app-argument=barcelona://user?username=chihhsiwu",
+                "og:site_name": "Threads",
+                "og:type": "article",
+                "og:title": "WU Chih-Hsi (@chihhsiwu) • Threads, Say more",
+                "og:description": "10 Followers • 2 Threads • 你好，我正在不使用threads. See the latest conversations with @chihhsiwu.",
+                "og:url": "https://www.threads.com/@chihhsiwu",
+                "og:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-19/519528139_17847054840521446_374466210509484696_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=-WHYxMT9ENEQ7kNvwE0ssSr&_nc_oc=Adryg_dtqGNLWXUUSsJa1wXVscLkel8OY48bCChPDxyacSVAP2TZpNoiqYAx4Tlu3EA&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=sHctT7LdQSWOgFpqLS62tA&_nc_ss=7f20f&oh=00_AQOuquoYpw42uKjnuFoDZhLn6TEixhvElbHoNASkbYRZQw&oe=6AD35940",
+                "referrer": "default",
+                "description": "10 Followers • 2 Threads • 你好，我正在不使用threads. See the latest conversations with @chihhsiwu.",
+                "twitter:card": "summary",
+                "twitter:title": "WU Chih-Hsi (@chihhsiwu) • Threads, Say more",
+                "twitter:description": "10 Followers • 2 Threads • 你好，我正在不使用threads. See the latest conversations with @chihhsiwu.",
+                "twitter:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-19/519528139_17847054840521446_374466210509484696_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=-WHYxMT9ENEQ7kNvwE0ssSr&_nc_oc=Adryg_dtqGNLWXUUSsJa1wXVscLkel8OY48bCChPDxyacSVAP2TZpNoiqYAx4Tlu3EA&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=sHctT7LdQSWOgFpqLS62tA&_nc_ss=7f20f&oh=00_AQOuquoYpw42uKjnuFoDZhLn6TEixhvElbHoNASkbYRZQw&oe=6AD35940",
+                "application-title": "Threads"
+              }
+            },
+            "image": {
+              "url": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843161486_17913474015537891_4547666322078637412_n.webp?_nc_cat=111&ig_cache_key=NDAwNjM3MjczNTk4NjgyMjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TdF82NVDiAsQ7kNvwHrbfTu&_nc_oc=AdqiQ3JQVFChFhdDJE-4HLNCB5ejQqj9NFbUbMYuEj1FCcidCtIS2ZmZ6ViaDf5TCF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=mpD38ek2453sh3ESa_hlkw&_nc_ss=7a22e&oh=00_AQMIcVwZ4DU86qbvPDpOVU03MXnHP5oOSb5-eDIcQXdGrQ&oe=6AD33EBC",
+              "status": 200,
+              "mime": "image/webp",
+              "bytes": 60428,
+              "magic": "5249464604ec000057454250",
+              "size": [
+                1080,
+                1799
+              ],
+              "format": "WEBP",
+              "decoded": true,
+              "file": "scratch\\am-20261013\\hk-thread-b10.jpg",
+              "sha256": "12c20b12bd198ad0a8119e2fcd82159a40d740159df41f26b5f972c67cbf4f0c",
+              "ogMatchesOriginal": true
+            },
+            "visualCheck": {
+              "passed": true,
+              "description": "原帖OG為八達通交易紀錄截圖，見2026-10-12 06:53 九巴/龍運 -9.1，另有巴士0.0及其他扣款；非通用logo或傳媒截圖。",
+              "limits": "交易紀錄只顯示九巴/龍運而非路線B10；路線、學生身份、正價12.1及折扣原因來自作者自述，不能獨立證實bug或一般優惠政策。圖片時鐘時區不明，不用圖片時間當發帖時間。"
+            },
+            "authorCheck": {
+              "type": "獨立個人乘客／自述學生",
+              "relationship": "第一身描述本人學生八達通拍優惠站和過關乘搭B10，附交易紀錄及優惠站照片，回覆又解釋皇巴轉乘情況",
+              "basis": "公開profile名WU Chih-Hsi，10followers2Threads，train標籤，無傳媒/商業介紹；真實姓名及學生身份未獨立確認。"
+            }
+          },
+          "eligible": true,
+          "editorialNote": "個別乘客扣款紀錄，不能稱系統bug、公布優惠或鼓勵利用；總編按未獨立確認原因決定採用。建議保留新皇崗hkp/CN既有卡各自獨立實質。"
+        },
+        {
+          "group": "hkl",
+          "card": [
+            "感里賞店預告西環跨代社區探索",
+            "計劃十一至十二月辦三活動，詳日未公布",
+            "感里賞店 Feel Lane",
+            "https://www.threads.com/@feel.lane/post/DeahY3pFHsZ",
+            "2026-10-13 08:28:32",
+            "2026-10-13 08:28:32",
+            "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/840070062_18125572960747065_7478574416452428361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNjY2MTY2MzA0Njc5NDAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzI3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5MvynrrHCzAQ7kNvwENdiVh&_nc_oc=AdpPAHislofQ-Ot0gP5vEpOXO6hlPDRvf5ufVUTxYqNdCTSiyn_HlbNbDZGg3e9n_TU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=IV8Oez9Y5VoCkGimBHUzKQ&_nc_ss=7a22e&oh=00_AQNWfV9DfqiCbt6OWIUQUwnKi7ZHH6vQ7tWSyhA6T_cI7Q&oe=6AD34BCA"
+          ],
+          "evidence": {
+            "url": "https://www.threads.com/@feel.lane/post/DeahY3pFHsZ",
+            "status": 200,
+            "meta": {
+              "bingbot": "noarchive",
+              "viewport": "width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=2, shrink-to-fit=no",
+              "al:android:app_name": "Threads",
+              "al:android:package": "com.instagram.barcelona",
+              "al:android:url": "https://www.threads.com/@feel.lane/post/DeahY3pFHsZ",
+              "al:ios:app_name": "Threads",
+              "al:ios:app_store_id": "6446901002",
+              "al:ios:url": "barcelona://media?shortcode=DeahY3pFHsZ",
+              "apple-itunes-app": "app-id=6446901002, app-argument=barcelona://media?shortcode=DeahY3pFHsZ",
+              "og:site_name": "Threads",
+              "og:type": "article",
+              "og:title": "感里賞店 Feel Lane (@feel.lane) on Threads",
+              "og:description": "「咁你想點」嘅英文係？⋯⋯我都唔知。\n\n但我知道，西環有好多小店正喺度消失。當熟悉的街角一間間換成打卡連鎖店，我哋不禁想問大家，更想問自己：「咁你想點？」 呢個亦係我哋計劃嘅名稱——「感里賞店」 ❤️\n\n🔥 我哋想搞咩？\n👴 老友記行過新 Cafe： 「要掃 QR Code？啲英文咁難睇？我入去好奇怪啫⋯⋯」 \n🧑‍🦱 年輕人行過老藥材店： 「唔識藥材又唔買紙紮，入去好尷尬⋯⋯」\n我哋就係想打破呢道隱形牆！🧱\n透過「五感體驗」帶年輕人走入老店 Healing，帶老友記踩入新店玩大冒險，將西環最珍貴嘅人情味留低！\n\n✨ 三大亮點活動搶先睇：\n1️⃣ 【西環飄飄處處聞】🌿 \n2️⃣ 【迎新營 GOldCamp】🚩\n3️⃣ 【西環狂舞派】💃🕺 \n🗺️ 社區地圖 In The Making \n\n我哋未必可以阻止西環嘅改變，但可以選擇點樣去參與改變！\n🗓️ 今個 11-12 月，跟住我哋重新發現西環！ \n👀 Stay Tuned！\n 👉 即刻 Follow @feel.lane，睇下我哋下一步點部署！\n.\n#滙豐 #滙豐銀行慈善基金 #滙豐香港社區夥伴計劃2025",
+              "og:url": "https://www.threads.com/@feel.lane/post/DeahY3pFHsZ",
+              "og:image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/840070062_18125572960747065_7478574416452428361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNjY2MTY2MzA0Njc5NDAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzI3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5MvynrrHCzAQ7kNvwENdiVh&_nc_oc=AdpPAHislofQ-Ot0gP5vEpOXO6hlPDRvf5ufVUTxYqNdCTSiyn_HlbNbDZGg3e9n_TU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=IV8Oez9Y5VoCkGimBHUzKQ&_nc_ss=7a22e&oh=00_AQNWfV9DfqiCbt6OWIUQUwnKi7ZHH6vQ7tWSyhA6T_cI7Q&oe=6AD34BCA",
+              "og:image:width": "3274",
+              "og:image:height": "4096",
+              "referrer": "default",
+              "description": "「咁你想點」嘅英文係？⋯⋯我都唔知。\n\n但我知道，西環有好多小店正喺度消失。當熟悉的街角一間間換成打卡連鎖店，我哋不禁想問大家，更想問自己：「咁你想點？」 呢個亦係我哋計劃嘅名稱——「感里賞店」 ❤️\n\n🔥 我哋想搞咩？\n👴 老友記行過新 Cafe： 「要掃 QR...",
+              "twitter:card": "summary_large_image",
+              "twitter:title": "感里賞店 Feel Lane (@feel.lane) on Threads",
+              "twitter:description": "「咁你想點」嘅英文係？⋯⋯我都唔知。\n\n但我知道，西環有好多小店正喺度消失。當熟悉的街角一間間換成打卡連鎖店，我哋不禁想問大家，更想問自己：「咁你想點？」 呢個亦係我哋計劃嘅名稱——「感里賞店」 ❤️\n\n🔥 我哋想搞咩？\n👴 老友記行過新 Cafe： 「要掃 QR Code？啲英文咁難睇？我入去好奇怪啫⋯⋯」 \n🧑‍🦱 年輕人行過老藥材店： 「唔識藥材又唔買紙紮，入去好尷尬⋯⋯」...",
+              "twitter:image": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/840070062_18125572960747065_7478574416452428361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNjY2MTY2MzA0Njc5NDAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzI3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5MvynrrHCzAQ7kNvwENdiVh&_nc_oc=AdpPAHislofQ-Ot0gP5vEpOXO6hlPDRvf5ufVUTxYqNdCTSiyn_HlbNbDZGg3e9n_TU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=IV8Oez9Y5VoCkGimBHUzKQ&_nc_ss=7a22e&oh=00_AQNWfV9DfqiCbt6OWIUQUwnKi7ZHH6vQ7tWSyhA6T_cI7Q&oe=6AD34BCA",
+              "application-title": "Threads"
+            },
+            "checkedAt": "2026-10-13T09:19:13.269027+08:00",
+            "firstPublishedDom": "2026-10-13T00:28:32.000Z",
+            "profile": {
+              "url": "https://www.threads.com/@feel.lane",
+              "status": 200,
+              "meta": {
+                "bingbot": "noarchive",
+                "viewport": "width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=2, shrink-to-fit=no",
+                "al:android:app_name": "Threads",
+                "al:android:package": "com.instagram.barcelona",
+                "al:android:url": "https://www.threads.com/@feel.lane",
+                "al:ios:app_name": "Threads",
+                "al:ios:app_store_id": "6446901002",
+                "al:ios:url": "barcelona://user?username=feel.lane",
+                "apple-itunes-app": "app-id=6446901002, app-argument=barcelona://user?username=feel.lane",
+                "og:site_name": "Threads",
+                "og:type": "article",
+                "og:title": "感里賞店 Feel Lane (@feel.lane) • Threads, Say more",
+                "og:description": "0 Followers • 2 Threads • 🎏 「咁你想點？⋯⋯我哋想感里、賞店！」\n🫰🏼 五感 X 社區探索 X 三場西環活動\n.\n🪄 十一、十二月，西環見！\nNov 2026 – Dec 2026\n.\n西環共融實驗室 sai_wan_co_creation_lab\n.\n本計劃由滙豐香港社區夥伴計劃支持. See the latest conversations with...",
+                "og:url": "https://www.threads.com/@feel.lane",
+                "og:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-19/840116620_18142731079530474_9131957491263312754_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=d9LOEm931qUQ7kNvwH_4bsZ&_nc_oc=AdpFmgKk6jaK0gDivmW1PVdUWVIIAPdFc3HRsyj5kq4a4MVj7Otluzx_GKbeX3TSmOA&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=IEJD9bjp4_bVxqh8D6BNOg&_nc_ss=7f20f&oh=00_AQOl32FubKO6vL4tx6HKymKxaed9N_Bmbhq0qlTfyP-Q6A&oe=6AD354C5",
+                "referrer": "default",
+                "description": "0 Followers • 2 Threads • 🎏 「咁你想點？⋯⋯我哋想感里、賞店！」\n🫰🏼 五感 X 社區探索 X 三場西環活動\n.\n🪄 十一、十二月，西環見！\nNov 2026 – Dec 2026\n.\n西環共融實驗室 sai_wan_co_creation_lab\n....",
+                "twitter:card": "summary",
+                "twitter:title": "感里賞店 Feel Lane (@feel.lane) • Threads, Say more",
+                "twitter:description": "0 Followers • 2 Threads • 🎏 「咁你想點？⋯⋯我哋想感里、賞店！」\n🫰🏼 五感 X 社區探索 X 三場西環活動\n.\n🪄 十一、十二月，西環見！\nNov 2026 – Dec 2026\n.\n西環共融實驗室 sai_wan_co_creation_lab\n.\n本計劃由滙豐香港社區夥伴計劃支持. See the latest conversations with...",
+                "twitter:image": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-19/840116620_18142731079530474_9131957491263312754_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=d9LOEm931qUQ7kNvwH_4bsZ&_nc_oc=AdpFmgKk6jaK0gDivmW1PVdUWVIIAPdFc3HRsyj5kq4a4MVj7Otluzx_GKbeX3TSmOA&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=IEJD9bjp4_bVxqh8D6BNOg&_nc_ss=7f20f&oh=00_AQOl32FubKO6vL4tx6HKymKxaed9N_Bmbhq0qlTfyP-Q6A&oe=6AD354C5",
+                "application-title": "Threads"
+              }
+            },
+            "image": {
+              "url": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/840070062_18125572960747065_7478574416452428361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNjY2MTY2MzA0Njc5NDAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzI3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5MvynrrHCzAQ7kNvwENdiVh&_nc_oc=AdpPAHislofQ-Ot0gP5vEpOXO6hlPDRvf5ufVUTxYqNdCTSiyn_HlbNbDZGg3e9n_TU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=IV8Oez9Y5VoCkGimBHUzKQ&_nc_ss=7a22e&oh=00_AQNWfV9DfqiCbt6OWIUQUwnKi7ZHH6vQ7tWSyhA6T_cI7Q&oe=6AD34BCA",
+              "status": 200,
+              "mime": "image/jpeg",
+              "bytes": 3391817,
+              "magic": "ffd8ffe000104a4649460001",
+              "size": [
+                3274,
+                4096
+              ],
+              "format": "JPEG",
+              "decoded": true,
+              "file": "scratch\\am-20261013\\hk-thread-feellane.jpg",
+              "sha256": "d15de3577279053ad7a53b3cd8ba46df8326614c3a629f4cf5cf0529189fbb1c",
+              "ogMatchesOriginal": true
+            },
+            "visualCheck": {
+              "passed": true,
+              "description": "OG為專屬感里賞店綠色活動海報，寫2026十一至十二月、西環社區記憶、五感鄰里欣賞小店、三場活動，與全文逐項相符，非通用logo。海報有滙豐香港社區夥伴計劃支持標示。",
+              "limits": "沒有確實場次日子、場地、報名方法、名額或免費字眼，不能補寫。"
+            },
+            "authorCheck": {
+              "type": "社區計劃組織帳戶，非散戶個人",
+              "relationship": "原帖第一身我哋宣佈自辦感里賞店計劃，profile明示西環共融實驗室及滙豐支持，圖與文均為專屬計劃預告",
+              "basis": "browser公開profile約2followers，計劃新帳戶；社聯官方2025資助名單可獨立核實香港明愛西環共融實驗室計劃存在，不能單憑名單完全證明此新帳戶運作者身份。",
+              "crosscheckUrl": "https://www.hkcss.org.hk/%E3%80%8C%E6%BB%99%E8%B1%90%E9%A6%99%E6%B8%AF%E7%A4%BE%E5%8D%80%E5%A4%A5%E4%BC%B4%E8%A8%88%E5%8A%832025%E3%80%8D%E7%94%B3%E8%AB%8B%E7%B5%90%E6%9E%9C/"
+            }
+          },
+          "eligible": true,
+          "editorialNote": "社區第一手服務計劃預告，非商業售賣；清楚寫計劃未舉行、詳日未公布。屬組織非散戶個人，不能冒稱身份已全面確認，總編最終判定。"
+        }
+      ],
+      "excluded": [
+        {
+          "url": "https://www.threads.com/@chi_waiiii/post/DeYrAYqm62s",
+          "reason": "AirPods失竊原帖首次發佈2026-10-12T07:14:05Z＝15:14:05HKT，窗外；傳媒窗內轉載不能重置原帖時間。"
+        },
+        {
+          "url": "https://www.threads.com/@1304_jxq/post/DeZ0s6JkmQy",
+          "firstPublishedDom": "2026-10-12T17:58:03.000Z",
+          "type": "自述食客；公開profile0followers無背景介紹，身份未獨立證實",
+          "observed": "browser讀全文並看原片食物及龍德潮汕美食店牌，影片見夾開雲吞豬肉；原帖稱本人到店消費、報食環及被威嚇",
+          "reason": "重大店舖未熟/威嚇爭議缺獨立核實；web同帳戶日期關鍵詞未找到交叉報道，肉色不能證明熟度，不採不用填配額。保留待核線索，不聯絡作者店舖。"
+        },
+        {
+          "url": "https://www.threads.com/@k9h5.17/post/DeafnSzkh1M",
+          "firstPublishedDom": "2026-10-13T00:13:01.000Z",
+          "type": "自述足球群毆參與者",
+          "reason": "純文字回覆無原圖；被回覆原影片simonchuiball/DeYp7rIEiv0首次12/10 15:11:31HKT窗外，不能取舊原帖影片配新的回覆或憑自稱判責。"
+        },
+        {
+          "url": "https://www.threads.com/@hkbackupkid/post/DeZqsWyGt7c",
+          "reason": "新蒲崗一田巨鼠明示原帖已刪後backup，轉載非第一手作者，不能填配額。"
+        },
+        {
+          "url": "https://www.threads.com/@s.h.c.chloeeee/post/DeZFLAxn_UM",
+          "reason": "馬鞍山巴士站街頭唱歌原帖約14hAgo早於21時，窗外，不採。"
+        }
+      ]
+    },
+    "world-social-supplement.json": {
+      "edition": "2026-10-13 am",
+      "windowHKT": [
+        "2026-10-12 21:00:00",
+        "2026-10-13 09:30:00"
+      ],
+      "browser": "Chrome extension 7ce5bab7-5ed0-4a16-90cf-1524c44a0c0d; only own new tabs; no CDP",
+      "groups": {
+        "cn": {
+          "cards": [],
+          "required": 4
+        },
+        "us": {
+          "cards": [],
+          "required": 2
+        },
+        "tw": {
+          "cards": [],
+          "required": 2
+        },
+        "war": {
+          "cards": [],
+          "required": 2
+        }
+      },
+      "candidates": [
+        {
+          "group": "tw",
+          "accepted": false,
+          "url": "https://www.threads.com/@_.winyuoc/post/DeZ4NZ_Ejgz",
+          "author": "_.winyuoc",
+          "authorType": "個人；profile自述大二生，台南/南應大標籤",
+          "firstPublishedISO": "2026-10-12T18:29:54.000Z",
+          "firstPublishedHKT": "2026-10-13 02:29:54",
+          "fullText": "我怎麼感覺我一直遇到車禍",
+          "mediaVisual": "本人原帖20秒行車影片，目視道路及機車跌倒，片上燒錄2026/10/12 19:11:02–19:11:12；無圖像傷者細節。事件晚間19:11早於原帖發放，不能稱今早事故。",
+          "relationshipEvidence": "caption自述一直遇到車禍；profile舊帖有自家機車被撞CCTV及修復照片；但舊片係CCTV，不能比對新行車攝錄車型或設備。",
+          "commentsChecked": "中視/三立留言要求作者確認原創及授權，未見作者答覆確認；作者回覆另一人不明機制『我也不知道』。",
+          "reason": "發帖時間合格、完整影片已目視，但此新片本人原創拍攝關係仍未充分核實，不能由傳媒授權提問當原創確認；具體路段未知，不猜。"
+        },
+        {
+          "group": "us",
+          "accepted": false,
+          "pending": "原創影片關係最終判斷",
+          "url": "https://www.threads.com/@johndepetro_show/post/DeZxyBhCOJm",
+          "author": "John DePetro",
+          "authorType": "新聞池之外的個人現場直播者／自由主播，非普通街坊",
+          "firstPublishedISO": "2026-10-12T17:32:36.000Z",
+          "firstPublishedHKT": "2026-10-13 01:32:36",
+          "fullText": "ICE raid in Cranston RI",
+          "locationTag": "Cranston, Rhode Island",
+          "identityChecked": "Threads profile自述On-the-scene-Live-stream並連depetro.com；網站about明載John為Rhode Patrol Live creator/host及independent journalist，現場警務直播；網站連johndepetro_show同名IG但未打開FB/IG。",
+          "identityURL": "https://depetro.com/about/",
+          "mediaVisual": "原帖影片目視路邊數名穿背心人員、黑色SUV，字幕ICE activity Cranston RI Comstock parkway；沒有別人新聞轉播畫框。影片字幕含SUPPORT YOU等講述但未實際辨識聲音身份，不能冒稱已聽到本人。",
+          "image": {
+            "url": "https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/847690389_18631580902024552_8870394747353861820_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zF26_YHxO9oQ7kNvwGLQDE0&_nc_oc=AdqrB3uQXhmVdH3HhfgUXf9xbUvzhHdJImYejV1n87tGdMX3e5XVO46cguipVGqH2cA&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=ijXsgYVrx6usx4tIVtE94g&_nc_ss=722a8&oh=00_AQNmty-mFEybV0IxXPWAuj0anFywMgmUYTtXgGVib5wwbA&oe=6AD370CA",
+            "ogReadFrom": "原帖DOM meta[property=og:image]",
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 48572,
+            "magic": "ffd8ffe000104a4649460001",
+            "decoded": true,
+            "format": "JPEG",
+            "size": [
+              360,
+              640
+            ],
+            "sha256": "8f6ef3856de00637880b20f243af2eb014fc7e9c8693162b1a5dfc0d6da00bdb",
+            "originalMediaVisuallyChecked": true,
+            "ogVisuallyChecked": true,
+            "visual": "指定Chrome獨立新tab直開原OG：路邊執法人員及SUV，ICE activity Cranston RI Comstock parkway字幕，非logo/avatar"
+          },
+          "reason": "身份及本人現場直播業務可核，但尚未見本片原創水印／明確自述拍攝，待核。只可歸屬其caption稱ICE活動，不認定逮捕人數或執法合法性。"
+        }
+      ],
+      "searchEvidence": [
+        {
+          "query": "公托",
+          "sort": "Recent",
+          "result": "yuchien0425 DeYhCqsCSMK 19h超窗；dara160.c Deaf391EoBy44m講8/10舊事及無圖；___joice914___ DeaWHFFksdb2h候補經驗無圖，未採。"
+        },
+        {
+          "query": "垃圾場",
+          "sort": "Top/Recent",
+          "result": "dimoalan DeQepS_iaCU3日前綠島火片超窗；cyt_nian42 DeakJ8mk-Rn居民改善道路評論無圖；Meta AI生成內容排除。"
+        },
+        {
+          "query": "車禍",
+          "sort": "Recent",
+          "result": "有_.winyuoc候選；其餘傳媒轉貼/舊片或無第一手實質新消息。"
+        },
+        {
+          "query": "Riyadh",
+          "sort": "Top/Recent",
+          "result": "the.bizreporter DeQTPC6EoPa3日前片超窗；johnny_soda DeaKKXVFK4k3h為多片綜合轉貼非第一手；_middleeastreport DeaaSUxDhU6亦轉貼並提醒2025舊片錯標；junesa237 DealVjjjQGj祈願無圖無具體新現場；mohammediqbal526 DealIyEgR9l只寫Flights cancelled無圖及個人受影響關係。"
+        },
+        {
+          "query": "Riyadh airport",
+          "sort": "Top/Recent",
+          "result": "mubashir_sandrana DePd4jeFIlG4日、rahat2778khan DeU0cytkyMO2日超窗；davegershman DealVgEjLaG只稱先前第一輪自己在場、對今次無現場資料及無圖；rawfeednews/middleeasteye/hindustantimes為新聞帳戶，未填配額。"
+        },
+        {
+          "query": "poll worker",
+          "sort": "Top/Recent",
+          "result": "Top九月舊帖全超窗；Recent grism_13/jennhssy訓練申請問題、christinbarbara投票經歷、marvinm.here交票經歷均無圖；itsrancerob23h超窗。"
+        },
+        {
+          "query": "strike nurses",
+          "sort": "Top",
+          "result": "香港舊帖及英國Nottingham護士課程罷工，不屬本US/CN/TW/WAR組。"
+        },
+        {
+          "query": "深圳 欠薪",
+          "sort": "Top/Recent",
+          "result": "Threads結果似按詞混合；0.0xhi11h新皇崗過關22分鐘自述無圖；liucyu__97巨城LOVFEE退款見聞11h無圖。"
+        },
+        {
+          "query": "廣州 地鐵",
+          "sort": "Top/Recent",
+          "result": "Top全舊；Recent uuoo_aa_/fromkoizumi單句氣味評論無圖；kimiisahappybrother1日前數據帖超窗。"
+        },
+        {
+          "query": "欠薪",
+          "sort": "Top/Recent",
+          "result": "Top大樹支票6日/中國廠倒閉新聞池5日/香港散工4日超窗；Recent多評論及無圖，無合格中國第一手原帖。"
+        },
+        {
+          "query": "ICE raid",
+          "sort": "Top/Recent",
+          "result": "找到John DePetro候選；Omar事件其餘皆評論/新聞轉貼；Polymarket投注業務並非個人第一手。"
+        },
+        {
+          "query": "北京 火災",
+          "sort": "Top/Recent",
+          "result": "Top舊帖及傳媒超窗；Recent合詞噪音、轉述外媒，無中國個人窗內現場。"
+        },
+        {
+          "query": "中国",
+          "sort": "Top/Recent",
+          "result": "多政治評論/舊片；不採轉述未核死亡指控。Recent意外見前總統回台第一手，但自動審批拒絕只讀其profile，未繞過未採用。"
+        }
+      ],
+      "state": "已停止新增搜尋；0張已接受卡。John影片downloadMedia長時間未返回而中止，沒有成功下載或辨聲證據。高雄三帖未操作，由root接手核實。",
+      "checkedAtLocal": "2026-10-13T09:38:12.965891",
+      "unverifiedLeads": [
+        "https://www.threads.com/@lgd_jhin/post/DeaHGNVk9xm",
+        "https://www.threads.com/@weiwensheva/post/DeaIB7DEwPO",
+        "https://www.threads.com/@junyi6075/post/DeaNiXQkzjE"
+      ]
+    },
+    "briefs-social-supplement.json": {
+      "checkedAt": "2026-10-13T09:05:25.032321+08:00",
+      "ai": [
+        {
+          "url": "https://www.threads.com/@aimaster3658/post/DeZ3os5gT1P",
+          "qualifiedWithAttribution": true,
+          "evidence": "brief-social-aimaster-evidence.json",
+          "summary": "獨立開發者展示Muse Wonder標示的Mario風遊戲實測錄影；只描述可見內容及作者自述，不作通關benchmark結論。"
+        },
+        {
+          "url": "https://www.threads.com/@ojigineko_sisho/post/DealAbvHRKc",
+          "qualifiedWithAttribution": true,
+          "editorialLimit": "自家商業用途介紹；真名及僱用身份未獨立證實，只按公開handle與本人dashboard歸屬。",
+          "evidence": "brief-social-ojigi-evidence.json",
+          "summary": "自述Claude Code管理六平台發帖與數字記錄；具體本人dashboard，非空泛產品推廣。"
+        }
+      ],
+      "warb": [],
+      "rejected": [
+        {
+          "url": "https://www.threads.com/@saul_canina/post/DeZ6V0QDBfe",
+          "reason": "作者明講未試Muse，僅發布資訊轉述，不當第一手。"
+        },
+        {
+          "url": "https://www.threads.com/@micro_workerai/post/DealIMFGwUk",
+          "reason": "Hooks通知測試第一手，但原帖OG為頭像，無合格圖片。"
+        },
+        {
+          "url": "https://www.threads.com/@fayplayai/post/Deakyt4mnWB",
+          "reason": "模型發布資訊整理，沒有本人實測。"
+        },
+        {
+          "url": "https://www.threads.com/@n_asilahhar/post/DeZR-21ALpe",
+          "firstPublishedRaw": "2026-10-12T12:54:40.000Z",
+          "firstPublishedHKT": "2026-10-12 20:54:40",
+          "reason": "第一手取消航班回報，但早過21:00硬窗5分20秒，不因修改或稍後讀取變窗內。"
+        },
+        {
+          "url": "https://www.threads.com/@samiraumroh.malang/post/DeallgUkWwn",
+          "firstPublishedRaw": "2026-10-13T01:05:15.000Z",
+          "reason": "旅行業者抵達團員影片，片頭可見團員及Samira標識；底部日期疑似舊旅行，未能核清拍攝日期，不能當今次戰事新進展。browser downloadMedia卡住後被中止，沒有完成全片核實，未採用。"
+        }
+      ],
+      "warbStatus": {
+        "qualifiedThreads": 0,
+        "required": 2,
+        "shortfall": 2,
+        "checkedAt": "2026-10-13T09:37:27.607783+08:00",
+        "blocker": "Jeddah旅客原帖超窗；新抵達影片未能確立拍攝日期，下載工具卡住後被中止，未採用。"
+      }
+    }
+  },
+  "adoptedImageCount": 41,
+  "liveServerVerification": {
+    "url": "http://127.0.0.1:8080/",
+    "date": "2026-10-13",
+    "edition": "am",
+    "updated": "2026-10-13 09:45 HKT（午報）",
+    "result": "HTTP index及本版JSON已讀到；Chrome DOM顯示13日午報及Threads標籤"
+  },
+  "displayLimitation": "現有網頁時間窗標示至09:00，與機器規則09:30不一致；本次保留既有index.html改動，未趁出稿改程式。"
+}

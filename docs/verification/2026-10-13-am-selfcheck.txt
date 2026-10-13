@@ -1,0 +1,70 @@
+社交來源配額：hks=1/8（至少4）｜hkl=4/8（至少4）｜hke=0/3（至少2）｜hkp=0/3（至少2）｜cn=0/8（至少4）｜us=0/3（至少2）｜tw=1/3（至少2）｜war=0/3（至少2）｜ai=3/6（至少3）｜warb=0/3（至少2）
+── 自檢報告 2026-10-13（午報，12小時窗 2026-10-12 21:00 起）──
+香港社會=8｜民生=8｜經濟=3｜政治=3｜中國=8｜美國=3｜台灣=3｜美伊戰爭=3
+事件追蹤=398｜AI簡報=384字｜美伊簡報=338字
+總卡數=39｜缺圖=0
+
+⚠ 提提你（唔會 fail，但盡量換返新料）共 6 項：
+  • 疑似同一單事：中國[1]「中國九月乘用車零售按年跌兩成八」⟷ 中國[6]「小米全球手機出貨按年跌逾三成」（共通詞：按年、年跌、兩成）→ 只留最新最全嗰條，另一條換第二單
+  • 疑似同一單事：美伊戰爭[0]「利雅得機場延長關閉航班受阻」⟷ 噚日夜報（2026-10-12）·美伊戰爭[0]「利雅得機場十日遇襲閉路片曝光」（共通詞：利雅、雅得、得機）→ 只留最新最全嗰條，另一條換第二單
+  • 「港·碧瑤灣斬人案」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·大律師蘇信恩非禮案」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·區議員施駿興性侵案」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·杏花邨婦人頸傷命案」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+
+🖼 驗圖（共 41 條，全部要驗，冇豁免）——**兩步都要做**：
+   ① WebFetch「文章」攞 og:image，同「現用圖」逐字比對（捉抄錯；星島 hkhl 只可以靠呢步）
+   ② WebFetch「現用圖」本身：回 404 ＝ 一定錯（hk01 只可以靠呢步，因為讀 og:image 會隨機讀錯簽名）
+  • 香港社會[0] 文章=https://www.threads.com/@hungunited/post/DeaSLY2GoM3  現用圖=https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/847225997_17935272657403684_9153943745046141692_n.heic?stp=dst-jpg_e35_sh2.08_tt6&_nc_cat=102&ig_cache_key=NDAwNjU5NDc2NTkyODQzMjQzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=R9H7upnWIHMQ7kNvwFiJ5zx&_nc_oc=Adr1-4YmpDFu64u01NuoPq1bB1GcujbZOQsRwwCtBYSAslE336jl7m7Ql1Wp9NQiuCY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=SVNVgUoYLqjWf98N7zsClQ&_nc_ss=7a22e&oh=00_AQPDP9oKfpg197qICNaIk9j8o_Nhr2gc28qOU83JE4LL4g&oe=6AD33C8C
+  • 香港社會[1] 文章=https://www.hk01.com/article/60398731  現用圖=https://cdn.hk01.com/di/media/images/dw/20261012/1186407894375993344170534.jpeg/DVP5kaY80_-x3BZk4XaIJTHYlr1GHXLcDkpgAg5KYAI
+  • 香港社會[2] 文章=https://www.hk01.com/article/60398967  現用圖=https://cdn.hk01.com/di/media/images/dw/20261013/1186579179445948416128459.jpeg/F54WsmcFDRe3lLzkv3P6rvyPLRpnM_USSIbi50iG4uc?v=w1280r16_9
+  • 香港社會[3] 文章=https://www.hk01.com/article/60398958  現用圖=https://cdn.hk01.com/di/media/images/dw/20261013/1186504827937492992035642.jpeg/I4iqQv7w7ZDgdZvmHYIDA-k8fNewV_HrjzKk9qUypPY?v=w1280r16_9
+  • 香港社會[4] 文章=https://www.dimsumdaily.hk/man-arrested-after-police-seize-suspected-crack-cocaine-worth-hk34000-in-tsing-yi-flat/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13075837/Tsing-Yi-2-2-32.webp
+  • 香港社會[5] 文章=https://www.dimsumdaily.hk/police-arrest-woman-over-alleged-fake-andy-hui-concert-tickets-as-6-buyers-lose-about-hk20000-for-14-seats/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13003129/Andy-Hui-concert-tickets.webp
+  • 香港社會[6] 文章=https://www.hk01.com/article/60398966  現用圖=https://cdn.hk01.com/di/media/images/dw/20261013/1186579928666083328058691.jpeg/XkazdqkxUb_B-k9UNGaK04IUXkY8UTAE16-N1devjdU?v=w1280r16_9
+  • 香港社會[7] 文章=https://www.hk01.com/article/60398934  現用圖=https://cdn.hk01.com/di/media/images/dw/20261012/1186438720878809088348271.png/YogPJuZxLZEyrYfDy_BOCA3Ne9JG6qbwRBGWjEQRlow?v=w1280r16_9
+  • 民生[0] 文章=https://www.threads.com/@luka._.wan/post/DeZcA1gE1QN  現用圖=https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/846449402_18632431345001868_2669918432774783291_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EBkOxTklpiAQ7kNvwG_tNsT&_nc_oc=AdqJZP3ZLYPjOBRnl9YypFD8D23UGTuMIHL9gRjaDXHLZEFj_2jXwz677eKRZUvbRi0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=RuipvCrki-utoMWXse96tg&_nc_ss=7f20f&oh=00_AQOs0PKhPBgtC5ghHhCUi38Hd4w_jatpeDwY8TsQ9g-6JA&oe=6AD353B1
+  • 民生[1] 文章=https://www.dimsumdaily.hk/yata-apologises-after-rat-seen-on-produce-shelves-at-san-po-kong-store-as-fehd-issues-notice/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13081659/YATA-234222.webp
+  • 民生[2] 文章=https://www.dimsumdaily.hk/cfs-finds-excessive-bacillus-cereus-in-preserved-bean-curd-sample-from-kung-wo-beancurd-factory/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13001638/Kung-Wo-223.webp
+  • 民生[3] 文章=https://www.dimsumdaily.hk/kennedy-bay-residential-project-sees-wage-dispute-as-construction-workers-stage-protest-in-kennedy-town/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/12212304/Kennedy-Bay-22.webp
+  • 民生[4] 文章=https://www.hk01.com/article/60398937  現用圖=https://cdn.hk01.com/di/media/images/dw/20261012/1186134444458119168289075.jpeg/A_Id_iRyeTb2y6JOVoUDr65nSKKplfmRqpFiPICRYjw?v=w1280r16_9
+  • 民生[5] 文章=https://www.threads.com/@feel.lane/post/DeahY3pFHsZ  現用圖=https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/840070062_18125572960747065_7478574416452428361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNjY2MTY2MzA0Njc5NDAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzI3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5MvynrrHCzAQ7kNvwENdiVh&_nc_oc=AdpPAHislofQ-Ot0gP5vEpOXO6hlPDRvf5ufVUTxYqNdCTSiyn_HlbNbDZGg3e9n_TU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=IV8Oez9Y5VoCkGimBHUzKQ&_nc_ss=7a22e&oh=00_AQNWfV9DfqiCbt6OWIUQUwnKi7ZHH6vQ7tWSyhA6T_cI7Q&oe=6AD34BCA
+  • 民生[6] 文章=https://www.threads.com/@chihhsiwu/post/DeZfuHpE0d7  現用圖=https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843161486_17913474015537891_4547666322078637412_n.webp?_nc_cat=111&ig_cache_key=NDAwNjM3MjczNTk4NjgyMjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TdF82NVDiAsQ7kNvwHrbfTu&_nc_oc=AdqiQ3JQVFChFhdDJE-4HLNCB5ejQqj9NFbUbMYuEj1FCcidCtIS2ZmZ6ViaDf5TCF4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=mpD38ek2453sh3ESa_hlkw&_nc_ss=7a22e&oh=00_AQMIcVwZ4DU86qbvPDpOVU03MXnHP5oOSb5-eDIcQXdGrQ&oe=6AD33EBC
+  • 民生[7] 文章=https://www.threads.com/@yankit_ko/post/DeZqf0Fj59c  現用圖=https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/844757919_17968503342179250_6814967755032025564_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAwNjQyMDI0NzcwNzg4NTQwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjMwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=24qtGJPZwiMQ7kNvwEFlbEX&_nc_oc=Adp8r7QDtAysqCAfTBh_tUhkdbVQ4mCGtlfxagyKYT6PxzX6FSmdkYYvd7EN0ln10s8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=2gJFaQd8Y3-YCFLULiwN_Q&_nc_ss=7a22e&oh=00_AQPS-rLTjmFC9s9wkEe1jB9IRhNhRn3NoIUTtgeq37txUA&oe=6AD35CD3
+  • 經濟[0] 文章=https://www.straitstimes.com/business/hsbc-moves-to-wall-street-bonus-model-cuts-fixed-pay-deals  現用圖=https://cassette.sphdigital.com.sg/image/straitstimes/168818341e07181f0e7518e96665b0466fb9cda40bc587836ab699f3d4629a00?w=1200
+  • 經濟[1] 文章=https://www.dimsumdaily.hk/big-banks-heat-up-year-end-mortgage-competition/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/12214146/HSBC-2-2-2.webp
+  • 經濟[2] 文章=https://www.dimsumdaily.hk/baidu-opens-free-tung-chung-robotaxi-trials/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/13090044/Apollog-Go1-1-21.webp
+  • 政治[0] 文章=https://www.hk01.com/article/60398502  現用圖=https://cdn.hk01.com/di/media/images/dw/20261011/1186027765586071552061823.jpeg/D4GPkJU11OFUqdBjCRC4eDgVxO3T1g2l33j6Nfp4-jU?v=w1280r16_9
+  • 政治[1] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/512478/%E8%A5%BF%E4%B9%9D%E8%B2%A1%E8%B5%A4-%E6%8C%87-%E4%B8%96%E7%95%8C%E7%B4%9A-%E8%96%AA%E9%85%AC%E6%9C%89%E6%A0%B9%E6%93%9A%E9%87%90%E5%AE%9A-%E9%99%B3%E6%99%BA%E6%80%9D  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/13073644/NL_20261012_L-WESTKL-261012-2300.jpg
+  • 政治[2] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/512244/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E6%97%85%E5%AE%A2%E8%AE%9A%E5%AF%AC%E9%97%8A-%E6%96%B9%E4%BE%BF%E7%9C%81%E6%99%82-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E9%81%8B  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/12182648/vlcsnap-2026-10-12-10h26m34s260.jpg
+  • 中國[0] 文章=https://www.epochtimes.com/b5/26/10/12/n14868659.htm  現用圖=https://i.epochtimes.com/assets/uploads/2023/06/id14023011-26_id13995721-GettyImages-1353338463-700x359.jpg
+  • 中國[1] 文章=https://www.epochtimes.com/b5/26/10/12/n14868674.htm  現用圖=https://i.epochtimes.com/assets/uploads/2024/08/id14321123-GettyImages-2032318621-700x359.jpg
+  • 中國[2] 文章=https://www.epochtimes.com/b5/26/10/12/n14868519.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/04/id14751163-844813-700x359.jpg
+  • 中國[3] 文章=https://www.epochtimes.com/b5/26/10/12/n14868548.htm  現用圖=https://i.epochtimes.com/assets/uploads/2018/10/GettyImages-978471694-700x359.jpg
+  • 中國[4] 文章=https://www.hk01.com/article/60398930  現用圖=https://cdn.hk01.com/di/media/images/dw/20261012/1186453681113927680859014.jpeg/mHDdZRLV5ljlP0Re4nlwSkt0UdlUNITOzoNtRs6DbUY
+  • 中國[5] 文章=https://www.epochtimes.com/b5/26/10/12/n14868546.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/06/id14792962-2606200445592378-700x359.jpg
+  • 中國[6] 文章=https://www.straitstimes.com/business/global-smartphone-shipments-record-worst-third-quarter-in-14-years-amid-memory-shortage  現用圖=https://cassette.sphdigital.com.sg/image/straitstimes/8f419f2b05fb0e2b6d5c2897d1640fe10f6bd9a66d1a0488249ad81349a0e9bb?w=1200
+  • 中國[7] 文章=https://www.zaobao.com.sg/news/china/story20261013-9826784  現用圖=https://cassette.sphdigital.com.sg/image/zaobao/3fe26f1fe8a974d26814f05dbde9485117006315307320f4bc42dd2a3715233c
+  • 美國[0] 文章=https://www.hk01.com/article/60398964  現用圖=https://cdn.hk01.com/di/media/images/dw/20261013/1186555643192938496138096.jpeg/IzdIGhhjZwrIvpdrTwHmSZehYtjZHrZcWL6Y81i-mPM?v=w1280r16_9
+  • 美國[1] 文章=https://www.epochtimes.com/b5/26/10/12/n14868635.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/07/id14819194-EpochImages-4045391887-l-700x359.jpg
+  • 美國[2] 文章=https://www.epochtimes.com/b5/26/10/12/n14868642.htm  現用圖=https://i.epochtimes.com/assets/uploads/2026/10/id14868643-AFP__20261012__2299339617__v1__MidRes__53rdAnnualWorldChampionshipPumpkinWeighOffHel-700x359.jpg
+  • 台灣[0] 文章=https://udn.com/news/story/7314/9803064  現用圖=https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/08/35402822.jpg&M=1&x=&y=&sw=&sh=&exp=3600
+  • 台灣[1] 文章=https://www.threads.com/@weiwensheva/post/DeaIB7DEwPO  現用圖=https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/846504374_4114919048638311_3475734177238779546_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b7w8n0bkH9QQ7kNvwFj1v9g&_nc_oc=Adp6F4PAmWEq96LB7JPXLbN9fWM6FJidiEb5lVsAfM74WETTAKfWt0IHYFLK9XQQKRQ&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=eRhawWYL-wWfGvLHDtDG1A&_nc_ss=722a8&oh=00_AQO8YsGDHFsDmB3xXnehaq0DWpyhJHFsLdu1WYnX1ZvMRA&oe=6AD3661A
+  • 台灣[2] 文章=https://news.ltn.com.tw/news/life/breakingnews/5604259  現用圖=https://img.ltn.com.tw/Upload/news/600/2026/10/13/5604259_1_1.jpg
+  • 美伊戰爭[0] 文章=https://www.channelnewsasia.com/world/saudi-arabia-riyadh-airport-closed-attacks-6454251  現用圖=https://dam.mediacorp.sg/image/upload/s--OCtcCNTN--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-12T132132Z_1_LYNXMPEM9B14H_RTROPTP_3_IRAN-CRISIS-SAUDI-RIYADH.JPG?itok=AelXRaXM
+  • 美伊戰爭[1] 文章=https://www.iranintl.com/en/202610124072  現用圖=https://i.iranintl.com/images/rdk9umy0/production/800049be883c7d2b5c7ab29de97007bec437f15d-1080x608.avif?rect=0,21,1080,567&w=1200&h=630&q=66&fit=max&auto=format
+  • 美伊戰爭[2] 文章=https://www.iranintl.com/en/202610126090  現用圖=https://i.iranintl.com/images/rdk9umy0/production/61816d60410d49031db91715ecedbd3f6a944ac6-1600x1066.jpg?rect=0,113,1600,840&w=1200&h=630&q=66&fit=max&auto=format
+  • AI 動向簡報插圖 文章=https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/  現用圖=https://the-decoder.com/wp-content/uploads/2026/10/muse_wonder.png
+  • 美伊戰爭簡報插圖 文章=https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row  現用圖=https://i.iranintl.com/images/rdk9umy0/production/800049be883c7d2b5c7ab29de97007bec437f15d-1080x608.avif?rect=0,21,1080,567&w=1200&h=630&q=66&fit=max&auto=format
+
+✖ 唔合格，共 8 項問題：
+  • hks 社交原帖只有 1/8（至少 4，50%）
+  • hke 社交原帖只有 0/3（至少 2，50%）
+  • hkp 社交原帖只有 0/3（至少 2，50%）
+  • cn 社交原帖只有 0/8（至少 4，50%）
+  • us 社交原帖只有 0/3（至少 2，50%）
+  • tw 社交原帖只有 1/3（至少 2，50%）
+  • war 社交原帖只有 0/3（至少 2，50%）
+  • warb 社交原帖只有 0/3（至少 2，50%）
+
+→ 唔准 push，要修好再跑一次。
