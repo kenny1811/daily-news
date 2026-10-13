@@ -2675,5 +2675,155 @@
       "unproven links from Jeddah flight disruptions to attacks"
     ],
     "uniqueSourceCount": 48
+  },
+  "followUpCorrection": {
+    "authorizedBy": "Kenny: 只限本版准按已核實新聞完成更正，逐組標明 Threads 差額",
+    "checkedAt": "2026-10-13T16:35:40.149340+08:00",
+    "publicationQuality": {
+      "status": "am-exception",
+      "selfcheckExit": 1,
+      "issues": [
+        "hks Threads 原帖只有 2/8（至少 4）",
+        "hke Threads 原帖只有 0/3（至少 2）",
+        "hkp Threads 原帖只有 1/3（至少 2）",
+        "cn Threads 原帖只有 2/8（至少 4）",
+        "us Threads 原帖只有 1/3（至少 2）",
+        "war Threads 原帖只有 0/3（至少 2）"
+      ],
+      "socialCounts": {
+        "hks": {
+          "total": 8,
+          "social": 2,
+          "required": 4
+        },
+        "hkl": {
+          "total": 8,
+          "social": 4,
+          "required": 4
+        },
+        "hke": {
+          "total": 3,
+          "social": 0,
+          "required": 2
+        },
+        "hkp": {
+          "total": 3,
+          "social": 1,
+          "required": 2
+        },
+        "cn": {
+          "total": 8,
+          "social": 2,
+          "required": 4
+        },
+        "us": {
+          "total": 3,
+          "social": 1,
+          "required": 2
+        },
+        "tw": {
+          "total": 3,
+          "social": 2,
+          "required": 2
+        },
+        "war": {
+          "total": 3,
+          "social": 0,
+          "required": 2
+        },
+        "ai": {
+          "total": 6,
+          "social": 3,
+          "required": 3
+        },
+        "warb": {
+          "total": 4,
+          "social": 2,
+          "required": 2
+        }
+      },
+      "validatedAt": "2026-10-13T16:35:40.149340+08:00",
+      "note": "Kenny只批准13日午報以已核實新聞作一次性更正，逐組標明Threads差額。本版仍為午報缺料例外，自檢仍有六組社交來源不足；未改長期規則。"
+    },
+    "replacedCard": {
+      "group": "hks",
+      "index": 7,
+      "previousTitle": "炮台山珠寶失竊女傭涉案被捕",
+      "card": [
+        "訪客記錄吉澳清醮候船人潮",
+        "訪客稱11日沙頭角碼頭候船人多，警方在場維持秩序",
+        "Yanny（Threads）",
+        "https://www.threads.com/@yanny_hy_s/post/DeZjLt9EtJx",
+        "2026-10-12 23:24:58",
+        "2026-10-12 23:24:58",
+        "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/845543275_922726920702636_6001413020940507008_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Fb8p_PjLaKQQ7kNvwEfKLxG&_nc_oc=AdrLHblW6GyIwXDNWSGASDSRM8R57oE2Gzmb-jPpwZF8PMaJG_tcHS-_8QBTzXONR-Y&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=ieVaRiLZNLPj7a7J6oc47Q&_nc_ss=7f20f&oh=00_AQP8kaVk_lBdQa5-1cYchvdAZH2_H4z_DCCd2Px-1urMLA&oe=6AD3BFED"
+      ]
+    },
+    "originalPost": {
+      "authorType": "independent individual visitor",
+      "authorRelationship": "personal visitor to Kat O festival on 11 October, firsthand ferry and crowd account published on 12 October",
+      "firstPublishedUTC": "2026-10-12T15:24:58.000Z",
+      "firstPublishedHKT": "2026-10-12 23:24:58",
+      "textAndAuthorChecked": true,
+      "image": {
+        "sourceHttp": 200,
+        "ogMatchesCard": true,
+        "http": 200,
+        "mime": "image/jpeg",
+        "bytes": 35240,
+        "magic": "ffd8ffe000104a464946000101000001",
+        "format": "JPEG",
+        "size": [
+          361,
+          640
+        ],
+        "sha256": "a42f86a019b5d4d393ac54b228a8a92225072f1175fbbfea45445e513fbd3c25",
+        "decoded": true,
+        "visuallyChecked": true
+      },
+      "evidencePath": "scratch/am-20261013-correction/root/kau-evidence.json"
+    },
+    "socialCardShortfall": {
+      "hks": 2,
+      "hke": 2,
+      "hkp": 1,
+      "cn": 2,
+      "us": 1,
+      "war": 2
+    },
+    "socialCardShortfallTotal": 10,
+    "amCardCount": 39,
+    "trackCount": 398,
+    "otherEditionAndDateFilesPreserved": true,
+    "rulesAndScheduleUnchanged": true,
+    "selfcheckExit": 1,
+    "finalValidation": {
+      "checkedAt": "2026-10-13T16:37:44.475678+08:00",
+      "selfcheckExit": 1,
+      "selfcheckFatalIssuesExactly": [
+        "hks 社交原帖只有 2/8（至少 4，50%）",
+        "hke 社交原帖只有 0/3（至少 2，50%）",
+        "hkp 社交原帖只有 1/3（至少 2，50%）",
+        "cn 社交原帖只有 2/8（至少 4，50%）",
+        "us 社交原帖只有 1/3（至少 2，50%）",
+        "war 社交原帖只有 0/3（至少 2，50%）"
+      ],
+      "selfcheckOtherFatalIssues": [],
+      "selfcheckWarnings": {
+        "cnCarVsPhone": "不同產品與市場口徑，並非同一事件；既有review已人工覆核",
+        "paraguay": "本版為制裁後部長受訪新表態，有別上一版宣布制裁",
+        "riyadh": "本版為機場延長關閉與新停航安排，有別上一版十日舊片曝光",
+        "fourOldTracks": "碧瑤灣、蘇信恩、施駿興、杏花邨均有已知未來庭期，保留低頻；詳既有review"
+      },
+      "imagesRechecked": 41,
+      "imageHttp200Decoded": 41,
+      "sourceOgLimitations": "Later article revisions changed two HK01 and one i-CABLE current OG; the saved AM images still return HTTP 200 and decode. Dimsum source HTML currently returns 403 to direct requests; prior publication evidence is retained. Threads CDN query signatures may rotate while image bytes stay identical.",
+      "newCardImageSha256": "a42f86a019b5d4d393ac54b228a8a92225072f1175fbbfea45445e513fbd3c25",
+      "serverHttp": 200,
+      "serverBytesMatchEdition": true,
+      "editionSha256": "6d8225338c18aeb7658588f96e7b7ce941e52abc5c3a56dfd931ca4719c4e508",
+      "selfcheckEvidencePath": "scratch/am-20261013-correction/root/authorized-followup-selfcheck.txt",
+      "imageAuditEvidencePath": "scratch/am-20261013-correction/root/image-audit.json"
+    }
   }
 }
