@@ -2482,5 +2482,198 @@
     "updated": "2026-10-13 09:45 HKT（午報）",
     "result": "HTTP index及本版JSON已讀到；Chrome DOM顯示13日午報及Threads標籤"
   },
-  "displayLimitation": "現有網頁時間窗標示至09:00，與機器規則09:30不一致；本次保留既有index.html改動，未趁出稿改程式。"
+  "displayLimitation": "現有網頁時間窗標示至09:00，與機器規則09:30不一致；本次保留既有index.html改動，未趁出稿改程式。",
+  "correction": {
+    "authorizedBy": "Kenny explicitly approved same-day AM source correction with ga",
+    "checkedAt": "2026-10-13T07:41:45.520863Z",
+    "supersedesInitialQualityAndSourceCoverage": true,
+    "publicationQuality": {
+      "status": "am-exception",
+      "selfcheckExit": 1,
+      "issues": [
+        "hks Threads 原帖只有 1/8（至少 4）",
+        "hke Threads 原帖只有 0/3（至少 2）",
+        "hkp Threads 原帖只有 1/3（至少 2）",
+        "cn Threads 原帖只有 2/8（至少 4）",
+        "us Threads 原帖只有 1/3（至少 2）",
+        "war Threads 原帖只有 0/3（至少 2）"
+      ],
+      "socialCounts": {
+        "hks": {
+          "total": 8,
+          "social": 1,
+          "required": 4
+        },
+        "hkl": {
+          "total": 8,
+          "social": 4,
+          "required": 4
+        },
+        "hke": {
+          "total": 3,
+          "social": 0,
+          "required": 2
+        },
+        "hkp": {
+          "total": 3,
+          "social": 1,
+          "required": 2
+        },
+        "cn": {
+          "total": 8,
+          "social": 2,
+          "required": 4
+        },
+        "us": {
+          "total": 3,
+          "social": 1,
+          "required": 2
+        },
+        "tw": {
+          "total": 3,
+          "social": 2,
+          "required": 2
+        },
+        "war": {
+          "total": 3,
+          "social": 0,
+          "required": 2
+        },
+        "ai": {
+          "total": 6,
+          "social": 3,
+          "required": 3
+        },
+        "warb": {
+          "total": 4,
+          "social": 2,
+          "required": 2
+        }
+      },
+      "validatedAt": "2026-10-13T07:39:35.775240Z",
+      "note": "Kenny明確授權同日更正。只採已核實首發時窗、原帖、圖片及身份關係；餘下Threads配額未達，仍按午報缺料例外標示，不能稱自檢通過。"
+    },
+    "selfcheckExit": 1,
+    "selfcheckFatalIssues": [
+      "hks Threads 原帖只有 1/8（至少 4）",
+      "hke Threads 原帖只有 0/3（至少 2）",
+      "hkp Threads 原帖只有 1/3（至少 2）",
+      "cn Threads 原帖只有 2/8（至少 4）",
+      "us Threads 原帖只有 1/3（至少 2）",
+      "war Threads 原帖只有 0/3（至少 2）"
+    ],
+    "directCardReplacements": [
+      {
+        "group": "hkp",
+        "title": "旅客自述皇崗過關快候車久",
+        "sourceUrl": "https://www.threads.com/@miculabing/post/DeZ16U3H6ew",
+        "firstPublishedHKT": "2026-10-13 02:08:38",
+        "ogImage": "https://scontent-tpe1-1.cdninstagram.com/v/t39.30808-6/843533899_10164862238739812_7118231143698729252_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAwNjQ3MDQ0ODExNzE2Mzk1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjA0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wr-RV_HduykQ7kNvwE5AzTx&_nc_oc=Ado2cOgPhkUbpLzYCyeUBdNeOVSgaUO3atjAfdj6BnX8xrrLWGdFkYiLqoimbxOLehU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=rq7v6J16aBjgM6_EDdcuLQ&_nc_ss=7a22e&oh=00_AQMmfPsME4EwRhsrZNuyi5tkZwu69pXeG4QKoXP5_KQnOA&oe=6AD3B54A",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 299919,
+        "imageMagic": "ffd8ffe000104a4649460001",
+        "imageDecoded": true,
+        "ogMatchesSource": true,
+        "evidencePath": "scratch/am-20261013-correction/hk/cards.json"
+      },
+      {
+        "group": "cn",
+        "title": "旅客稱內地酒店預付後被再收費",
+        "sourceUrl": "https://www.threads.com/@bb.bbb.80/post/DeZdFOZD4NM",
+        "firstPublishedHKT": "2026-10-12 22:31:39",
+        "ogImage": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/843533743_18162332677512793_442593134375759438_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAwNjM2MTIzODUxNDY0MTYwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8P6KKZaV0OEQ7kNvwFSL8Zp&_nc_oc=Ado0ujLCcdIFpaLB5H9-ZE2ZYR4775on0ZuSQfqAgsI1gVdr5aqWQHYhNkra0d_A0Jg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=e4TUseNfky_fmnmozIQ0yw&_nc_ss=7a22e&oh=00_AQNUkdRFyAIIIFldljwgEDvJcHfeEhOvRn8WEQjlnbp_2g&oe=6AD39E92",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 92301,
+        "imageMagic": "ffd8ffe000104a464946000101000001",
+        "imageDecoded": true,
+        "ogMatchesSource": true,
+        "evidencePath": "scratch/am-20261013-correction/cn/cards.json"
+      },
+      {
+        "group": "cn",
+        "title": "用戶以十年前硬件實測Qwen模型",
+        "sourceUrl": "https://www.threads.com/@castlen3/post/DeZhqBuCTlX",
+        "firstPublishedHKT": "2026-10-12 23:11:38",
+        "ogImage": "https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/848570201_17976278037137321_4946020965655079118_n.webp?_nc_cat=111&ig_cache_key=NDAwNjM4MTM2NzEyMTc1NDQ1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjM4Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=EFIni17obDIQ7kNvwFwqRMR&_nc_oc=AdopjWnahStpLUiwhI5TN1KKbeWYwejgAZgfuX8TSLBeGihqWGNjsm2yaJQOb-jTDzI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=BZYhBZjvgJbZ1kJ9WNXoSw&_nc_ss=7a22e&oh=00_AQOqxOFIBBgWbidiTL3fyeS3aIiyWaQigwk6KA1ttGI69Q&oe=6AD3BDF5",
+        "imageHttp": 200,
+        "imageMime": "image/webp",
+        "imageBytes": 340720,
+        "imageMagic": "52494646e83205005745425056503858",
+        "imageDecoded": true,
+        "ogMatchesSource": true,
+        "evidencePath": "scratch/am-20261013-correction/cn/cards.json"
+      },
+      {
+        "group": "tw",
+        "title": "騎士分享昨晚機車倒地行車片",
+        "sourceUrl": "https://www.threads.com/@_.winyuoc/post/DeZ4NZ_Ejgz",
+        "firstPublishedHKT": "2026-10-13 02:29:54",
+        "ogImage": "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/841903339_2274621900027021_2554726884455535113_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bi5zO612yfcQ7kNvwEC-Aws&_nc_oc=AdoEOuGsVDxNvqnoeiWdZvzbCd2rUrzavg5mLqB5L7QA027Z4xp1ZwTEyqc-TXK4M0U&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=lOcUmkY04n-qKz2Klg4HsQ&_nc_ss=722a8&oh=00_AQNI6iFEy4bg6LXX3VqMCYhpZOBIKurnJyi1eY2vC3HVSg&oe=6AD3AA05",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 19612,
+        "imageMagic": "ffd8ffe000104a4649460001",
+        "imageDecoded": true,
+        "ogMatchesSource": true,
+        "evidencePath": "scratch\\am-20261013-correction\\world\\tw-crash-evidence.json"
+      },
+      {
+        "group": "us",
+        "title": "彭薩科拉居民自述風暴損毀圍欄",
+        "sourceUrl": "https://www.threads.com/@michellerhudson33/post/DeZlDhEDXoc",
+        "firstPublishedHKT": "2026-10-12 23:44:08",
+        "ogImage": "https://scontent-tpe5-1.cdninstagram.com/v/t51.71878-15/845738666_2065833374053123_7810570411200845149_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JmjZWTcVlhsQ7kNvwGTaREu&_nc_oc=AdqXsp_C5G7LZO-qNlsgVSHsn71IcGnGp18iLYn_5RsYQb_fWk_W_XZx66M_5Fe4DVc&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=AqH2ho2W7ef2d_a9871bmQ&_nc_ss=722a8&oh=00_AQNGnxdQywzElwYFFwqRbHxV-jG5zVExm-1NWvcc0I9hnA&oe=6AD3B5FC",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 40031,
+        "imageMagic": "ffd8ffe000104a4649460001",
+        "imageDecoded": true,
+        "ogMatchesSource": true,
+        "evidencePath": "scratch\\am-20261013-correction\\world\\us-storm-evidence.json"
+      }
+    ],
+    "brief": {
+      "warbSources": [
+        {
+          "title": "Al Jazeera — 利雅得第三晚受襲及機場延長關閉",
+          "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row"
+        },
+        {
+          "title": "Iran International — 英國就基地圖謀制裁兩人",
+          "url": "https://www.iranintl.com/en/202610124072"
+        },
+        {
+          "title": "Farhan Raz — 一家五口轉經吉達後航班取消自述",
+          "url": "https://www.threads.com/@farhan.raz.only/post/DeZXaHdANAC"
+        },
+        {
+          "title": "Erica — 自述利雅得航班取消",
+          "url": "https://www.threads.com/@eusoj.erica/post/DeZjniDgv2E"
+        }
+      ],
+      "threads": 2,
+      "totalSources": 4,
+      "threadsTextPostsUsedForAttributionOnly": true,
+      "coverImageUnchangedFromCitedIranInternationalArticle": true,
+      "sourceEvidence": [
+        "scratch/am-20261013-correction/root/farhan-evidence.json",
+        "scratch/am-20261013-correction/root/eusoj-erica-evidence.json"
+      ]
+    },
+    "unchanged": {
+      "amCardCount": 39,
+      "trackCount": 398,
+      "pmPreserved": true,
+      "otherDateFilesPreserved": true
+    },
+    "excluded": [
+      "Posts outside AM release window",
+      "media or repost accounts",
+      "generic-avatar Threads posts as direct cards",
+      "unproven links from Jeddah flight disruptions to attacks"
+    ],
+    "uniqueSourceCount": 48
+  }
 }
