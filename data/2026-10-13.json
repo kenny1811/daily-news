@@ -2484,13 +2484,13 @@
   "pm": {
     "hks": [
       [
-        "司機拍觀塘道路貨車疑逆線行駛",
-        "個人帳戶上載行車短片，稱路面交通受阻；成因未核實",
-        "Meme（Threads）",
-        "https://www.threads.com/@memebox.hkg/post/DebuYXyj-_D/",
-        "2026-10-13 19:49:09",
-        "2026-10-13 19:49:09",
-        "https://scontent-tpe1-1.cdninstagram.com/v/t51.71878-15/844977298_2863821900656966_6266315689430483328_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=P6mOQ38Yf68Q7kNvwEywh7P&_nc_oc=AdqiR3PPW0ZIywlQ_tBP92Ek2uBRCxBfGoE8spaLva6zELWBFEGXR_6eFNlqz4FBbiU&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=ZDtVhZaJkXYC-L2aHxHipQ&_nc_ss=7f20f&oh=00_AQPJhmvC8-EAMzF3DaNMKCIcDMDuUfesRebF1wWi0zYMEw&oe=6AD4356A"
+        "上水男涉偷十萬元金鏈遭途人截獲",
+        "男子疑扮客試戴金鏈後逃走，警方其後拘捕",
+        "香港01",
+        "https://www.hk01.com/article/60399058",
+        "2026-10-13 13:18:32",
+        "2026-10-13 17:42:26",
+        "https://cdn.hk01.com/di/media/images/dw/20261013/1186677595211567104915832.jpeg/hDbNtHJvHU7ujGGqXCmd_78DcZpPuG0tsm-dObJvnTk"
       ],
       [
         "將軍澳道巴士私家車相撞市民拍現場",
@@ -4895,10 +4895,11 @@
         "13日午報：오현석展示Muse Wonder標示嘅遊戲錄影，未公開完整提示詞，不當完整benchmark；おじぎねこ展示本人六平台儀表板，自述用Claude Code處理發帖及數字記錄，未獨立證實效能。"
       ]
     ],
-    "_updated": "2026-10-13 26:34 HKT（夜報補稿）",
+    "_updated": "2026-10-13 26:49 HKT（夜報去重更正）",
     "_quality": {
       "status": "verified-with-social-target-shortfall",
       "issues": [
+        "hks Threads 3/8，目標 4，差 1",
         "hkl Threads 3/8，目標 4，差 1",
         "hke Threads 1/3，目標 2，差 1",
         "hkp Threads 1/3，目標 2，差 1",
