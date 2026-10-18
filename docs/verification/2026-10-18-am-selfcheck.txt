@@ -1,0 +1,135 @@
+社交來源目標：hks=0/7（目標4）｜hkl=0/8（目標4）｜hke=1/3（目標2）｜hkp=0/3（目標2）｜cn=0/8（目標4）｜us=1/3（目標2）｜tw=0/3（目標2）｜war=0/3（目標2）｜ai=0/4（目標2）｜warb=0/3（目標2）
+── 自檢報告 2026-10-18（午報，12小時窗 2026-10-17 21:00 起）──
+香港社會=7｜民生=8｜經濟=3｜政治=3｜中國=8｜美國=3｜台灣=3｜美伊戰爭=3
+事件追蹤=407｜AI簡報=401字｜美伊簡報=310字
+總卡數=38｜缺圖=0
+
+⚠ 提提你（唔會 fail，但盡量換返新料）共 79 項：
+  • hks 社交原帖只有 0/7（目標 4，50%；差 4）
+  • hkl 社交原帖只有 0/8（目標 4，50%；差 4）
+  • hke 社交原帖只有 1/3（目標 2，50%；差 1）
+  • hkp 社交原帖只有 0/3（目標 2，50%；差 2）
+  • cn 社交原帖只有 0/8（目標 4，50%；差 4）
+  • us 社交原帖只有 1/3（目標 2，50%；差 1）
+  • tw 社交原帖只有 0/3（目標 2，50%；差 2）
+  • war 社交原帖只有 0/3（目標 2，50%；差 2）
+  • ai 社交原帖只有 0/4（目標 2，50%；差 2）
+  • warb 社交原帖只有 0/3（目標 2，50%；差 2）
+  • 疑似同一單事：美國[2]「特朗普暫緩對俄制裁惹兩黨批評」⟷ 噚日夜報（2026-10-17）·美國[1]「特朗普暫緩執行對俄新制裁」（共通詞：特朗、朗普、普暫、對俄、制裁）→ 只留最新最全嗰條，另一條換第二單
+  • 「港·元朗狗咬狗案」已經連續 35 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·尖沙咀酒吧血案」已經連續 43 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·黎智英案」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·碧瑤灣斬人案」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·黃笏南中學偷拍案」已經連續 43 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·大律師蘇信恩非禮案」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·董建華逝世」已經連續 43 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·東涌公屋石屎未達標」已經連續 45 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·區議員施駿興性侵案」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·杏花邨婦人頸傷命案」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·威爾斯醫院誤派餐事故」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·斧山道校運會飲品事件」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·粉嶺高球場用地爭議」已經連續 46 版無新進展（≥41）→ 按 2026-08-31 用戶定案可以除名，加入 tools/retired.json。⚠ 但凡有已知後續節點（開庭／聆訊／報告發表／正式開通嘅實日子）一律唔准除名，改為續低頻
+  • 「港·沙田健身室偷拍案」已經連續 25 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·Hotstone Yoga結業」已經連續 27 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·破邊洲預約制」已經連續 21 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「中·東航空姐被逼下跪事件」已經連續 23 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·葉維晉專業失當除牌案」已經連續 27 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·外籍家居照顧員試行計劃」已經連續 27 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·啟德醫院分階段啟用」已經連續 24 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·長沙灣半業權拍賣」已經連續 27 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「美·康奈爾性侵案獨立審查」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·鑽石山持刀指嚇案」已經連續 26 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·簡樸房規管安置爭議」已經連續 24 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「美·喬州街區聚會槍擊」已經連續 26 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·先施中環店結業」已經連續 25 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·屈臣氏上市延期」已經連續 25 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·希愈胚胎樣本調亂」已經連續 25 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·兒童流感嚴重個案」已經連續 21 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「中·雅居樂境外債務重組」已經連續 25 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「中·中國電信前員工貪腐舉報」已經連續 25 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「美·賴清德家屬涉遭監視案」已經連續 25 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「台·張俊傑棄保逃亡案」已經連續 25 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「台·端木正政治獻金申報案」已經連續 25 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·北角蝦仁禁用獸藥」已經連續 24 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「中·重慶盜礦七人溺亡案」已經連續 24 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「美·孫雯涉中共代理案」已經連續 24 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·滙控AI中心監管詢問」已經連續 23 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·漁船一船兩用試行」已經連續 23 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·公屋瞞報物業案件」已經連續 23 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·HX017轉降宿霧」已經連續 23 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「台·矢板明夫事件」已經連續 23 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「台·退役費姓軍官涉洩情報案」已經連續 23 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·集森高山細筍標籤回收」已經連續 23 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·東涌綫十一月提早收車」已經連續 22 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·HKBN舊數據機QR碼風險」已經連續 22 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·安柏苑外牆修繕」已經連續 22 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·城巴五八一不雅行為案」已經連續 22 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「台·陽信銀行疑詐貸案」已經連續 22 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「美·沖繩駐軍涉劫殺及宵禁」已經連續 22 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·撞車索償詐騙調查」已經連續 21 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·荔枝角依托咪酯粉末案」已經連續 21 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·東涌匯東街致命工傷」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·公院收費改革及未取藥單」已經連續 21 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「美·CIA前高官詐騙認罪案」已經連續 21 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「台·沈伯洋遭監控案」已經連續 21 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「台·桃園校園行動載具立法」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「中·澳洲調查中國AI眼鏡」已經連續 21 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「中·內地航線燃油附加費」已經連續 21 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·翠屏北邨火警虐兒調查」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·九龍城外傭疑虐兒案」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·啟業邨持刀漢案」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·法國芝士污染回收」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·黃錦輝顧問開支查詢」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「港·秀茂坪議辦淋紅油案」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「中·微牛數據風險調查」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「中·英國二氧化鈦反傾銷案」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+  • 「台·輕型巡防艦原型艦」已經連續 20 版無新進展（≥20）→ 按 2026-08-31 用戶定案直接轉低頻跟蹤，加入 tools/lowfreq.json，唔使問用戶、唔准除名
+
+🖼 驗圖（共 40 條，全部要驗，冇豁免）——**兩步都要做**：
+   ① WebFetch「文章」攞 og:image，同「現用圖」逐字比對（捉抄錯；星島 hkhl 只可以靠呢步）
+   ② WebFetch「現用圖」本身：回 404 ＝ 一定錯（hk01 只可以靠呢步，因為讀 og:image 會隨機讀錯簽名）
+  • 香港社會[0] 文章=https://www.stheadline.com/breaking-news/3627223/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/b48032a0f35019d6ff6fa8088699ec91/2026-10/KF_me_6.png
+  • 香港社會[1] 文章=https://www.hk01.com/article/60400801  現用圖=https://cdn.hk01.com/di/media/images/dw/20261018/1188299426045628416680974.jpeg/6XcOF-bcKO8vxP9cUpcv7CUpSu_9_HtXP3yxuD98sbg
+  • 香港社會[2] 文章=https://www.hk01.com/article/60400836  現用圖=https://cdn.hk01.com/di/media/images/dw/20260917/1177163586779222016496183.jpeg/jpDW-FDNlyg9lxQqdoCA2uGOL1Ln9SFzvAPw0rwD8NI?v=w1280r16_9
+  • 香港社會[3] 文章=https://www.hk01.com/article/60400850  現用圖=https://cdn.hk01.com/di/media/images/dw/20261018/1188393649151414272367124.jpeg/nMqXRIst47A6x4Ix9K7-xBRiiueqPC3FP1hbdT9YW3U
+  • 香港社會[4] 文章=https://www.hk01.com/article/60400848  現用圖=https://cdn.hk01.com/di/media/images/dw/20261018/1188326463951081472327954.jpeg/zQvX9JBh_kl7JLLKuf0ZuPlXeu9z0Ic5LQyuvS0Mrr0?v=w1280r16_9
+  • 香港社會[5] 文章=https://www.hk01.com/article/60400854  現用圖=https://cdn.hk01.com/di/media/images/dw/20261018/1188358985728659456958712.jpeg/ek2CFjOVfXtrMMLX4aNiwxfrBqqoK3TDbl9tlG5fbZQ?v=w1280r16_9
+  • 香港社會[6] 文章=https://www.dimsumdaily.hk/central-minivan-driver-berates-traffic-officer-after-ignoring-three-parking-warnings/  現用圖=https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/17220448/Central-minivan-driver.webp
+  • 民生[0] 文章=https://www.hk01.com/article/60400840  現用圖=https://cdn.hk01.com/di/media/images/dw/20261018/1188297180889223168948230.jpeg/7PDLToeHAPpBw9-CSMIUyWvmexI1x3mJdHFtk3RxbZM
+  • 民生[1] 文章=https://www.hk01.com/article/60400858  現用圖=https://cdn.hk01.com/di/media/images/dw/20261018/1188369310653878272791203.jpeg/wPAp5cu_YOMDdjdTwmK2gJjhz7LTUkWipk-GhpxPhoY?v=w1280r16_9
+  • 民生[2] 文章=https://www.hk01.com/article/60400834  現用圖=https://cdn.hk01.com/di/media/images/dw/20261017/1188258257395781632926301.jpeg/EhD3ogVYNW3SRD1Gy3giTGrnPLbghUd8VXEbF1VxGxc?v=w1280r16_9
+  • 民生[3] 文章=https://theinitium.com/20261018-hongkong-coral-restoration-crisis-hope/  現用圖=https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/size/w1280/2026/10/TKH20261001W121-W_1-3.jpg
+  • 民生[4] 文章=https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/513458/%E6%99%BA%E5%89%B5%E6%9C%AA%E4%BE%86-%E8%B5%B0%E5%A1%91%E6%B0%B4%E6%BA%B6%E5%B8%83  現用圖=https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/16011441/TECH-WENDY.jpg
+  • 民生[5] 文章=https://www.hk01.com/article/60400825  現用圖=https://cdn.hk01.com/di/media/images/dw/20261017/1188244401944530944580932.jpeg/VXWQnn1DGN2ZEuemvD5BVCZDkzgCIw3L7zYa0O82GtA?v=w1280r16_9
+  • 民生[6] 文章=https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20261018/s00005/1792254176980/%e6%9c%aa%e4%be%86%e5%9f%8e%e5%b8%82-%e4%bd%8e%e5%83%b9%e6%90%b6%e6%a8%99%e5%89%8a%e7%9b%a3%e5%b7%a5%e8%b3%87%e6%ba%90-%e6%a5%ad%e7%95%8c%e5%80%a1%e7%9b%a3%e7%9d%a3%e8%b2%bb%e7%8d%a8%e7%ab%8b%e7%ab%b6%e6%8a%95  現用圖=https://fs.mingpao.com/pns/20261018/s00183/6ecc24291efe4365a2f762c056046d7b.jpg
+  • 民生[7] 文章=https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20261018/s00002/1792260251894/%e8%a5%bf%e4%b9%9d%e6%93%ac%e5%bb%ba%e9%a6%96%e5%80%8b%e5%88%86%e6%8b%86%e5%a4%a7%e5%9e%8b%e5%9b%ba%e5%bb%a2%e8%a8%ad%e6%96%bd-%e8%a9%a6%e9%a9%97%e6%8f%90%e5%8f%96%e6%9c%89%e5%83%b9%e5%80%bc%e5%9b%9e%e6%94%b6%e7%89%a9%e6%96%99-%e6%9c%80%e5%bf%ab2028%e5%b9%b4%e9%81%8b%e4%bd%9c  現用圖=https://fs.mingpao.com/pns/20261018/s00007/4cca928785bb4640af189a124a3f6142.jpg
+  • 經濟[0] 文章=https://www.threads.com/@danshari.living.store/post/Dej6d0tGkE_  現用圖=https://scontent-tpe5-1.cdninstagram.com/v/t51.82787-15/851375809_18117539470963431_3629451166600382302_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAwOTMwNTIwNjA1Nzg4NzM0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=L4GgCqAQHAwQ7kNvwEc2Eba&_nc_oc=AdrzpCzV38nK8M4OUrP3w91n-xgI6ib-hiESa7JorCcl3STjw8YNMBKxpf92104v9TM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe5-1.cdninstagram.com&_nc_gid=J2fJ5-yCHMLF0TqRDd9Iwg&_nc_ss=7a22e&oh=00_AQNHQG38LRSN70baRvkP1UI9MFf9fouvS4q9NLE48jE7cg&oe=6AD9FD7B
+  • 經濟[1] 文章=https://greenbean.media/%e9%8b%bc%e7%ad%8b%e8%a2%ab%e7%9f%b3%e5%b1%8e%e8%93%8b%e9%81%8e%e4%b9%8b%e5%89%8d%ef%bc%9aone-stanley%e8%aa%b0%e6%9b%be%e6%8a%8a%e9%97%9c%ef%bc%9f%ef%bd%9c%e5%b1%8b%e5%ae%87%e7%bd%b2%e5%8f%ab%e7%99%bc/  現用圖=https://greenbean.media/wp-content/uploads/2026/10/One-Stanley-1017.png
+  • 經濟[2] 文章=https://www.edigest.hk/%e6%9c%80%e6%96%b0%e8%b2%a1%e7%b6%93%e6%b6%88%e6%81%af/%e6%96%b0%e5%9c%b0%e8%a5%bf%e6%b2%99sierra-sea-2c%e6%9c%9f142%e4%bc%99%e9%a6%96%e8%bc%aa%e9%8a%b7%e5%94%ae%e5%85%a8%e6%b2%bd%e6%b8%85-2045842/  現用圖=https://images.edigest.hk/wp-content/uploads/2026/05/ed-social-share_19873850955e4e5ab66fb9a_27499425069f836787b3ab.jpg
+  • 政治[0] 文章=https://thecollectivehk.com/%e8%87%ba%e6%97%a5%e9%9b%bb%e6%a2%af%e3%80%8c%e5%81%87%e8%a3%9d%e3%80%8d%ef%bd%9c%e8%87%ba%e6%97%a5%e6%b6%89%e5%ab%8c-%e5%9c%a8-78-%e5%b9%a2%e6%a8%93%e3%80%8c%e5%81%87%e8%a3%9d%e7%b5%84%e4%bb%b6/  現用圖=https://thecollectivehk.com/wp-content/uploads/2026/10/20261016-YIK_9444-1-e1792252926438.jpeg
+  • 政治[1] 文章=https://thecollectivehk.com/%e8%90%bd%e9%a6%ac%e6%b4%b2%e8%ae%8a%e5%a4%a9-%e6%9d%91%e9%95%b7%e5%8d%b8%e4%bb%bb%e5%89%8d-%e4%b8%8b%e7%81%a3%e6%9d%91%e5%80%92%e6%95%b8-%e9%83%ad%e6%b5%b7%e8%b3%a2/  現用圖=https://thecollectivehk.com/wp-content/uploads/2026/10/hawanchuencover.jpeg
+  • 政治[2] 文章=https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20261018/s00002/1792260255550/%e6%87%bf%e5%b1%85%e4%ba%8c%e6%9c%9f%e3%80%8c%e9%a6%96%e7%bd%ae%e3%80%8d%e8%b2%a8%e5%b0%be-%e6%98%8e%e5%b9%b4%e5%85%ac%e5%b8%83%e9%8a%b7%e5%94%ae-%e5%ae%89%e9%81%94%e8%87%a3%e7%9b%a4%e8%a3%9c%e6%95%91%e5%be%8c%e6%8f%80%e5%8d%83%e4%bc%99%e6%8e%a8-%e8%ad%b0%e5%93%a1%e4%bf%83%e7%a0%94%e5%ae%9a%e4%bd%8d  現用圖=https://fs.mingpao.com/pns/20261018/s00046/a03ddc8bee8247cdba5be998dfcfb4e0.jpg
+  • 中國[0] 文章=https://www.zaobao.com.sg/news/china/story20261018-9854437  現用圖=https://cassette.sphdigital.com.sg/image/zaobao/58bf20bbebdc4c657c620ce38813685a8f85100207ba1b1cff639bc3f850747b
+  • 中國[1] 文章=https://www.zaobao.com.sg/news/china/story20261018-9854351  現用圖=https://cassette.sphdigital.com.sg/image/zaobao/fb8b7bc30d594d417238c3d8739c8f91d176b8a1d2c7dff2d6a7dca1a09f58fa
+  • 中國[2] 文章=https://www.zaobao.com.sg/news/china/story20261018-9820542  現用圖=https://cassette.sphdigital.com.sg/image/zaobao/acf9fd878d2bb26c5c52964e624e10c41a2a9ecfcca10584b2f6ba0e8e707ef4
+  • 中國[3] 文章=https://www.dw.com/zh/a-79688398  現用圖=https://static.dw.com/image/56085587_6.jpg
+  • 中國[4] 文章=https://www.dw.com/zh/a-79688210  現用圖=https://static.dw.com/image/74641245_6.jpg
+  • 中國[5] 文章=https://www.stheadline.com/realtime-china/3627302/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/d8bec8f91f4cca88c929cd26ac3d30aa/2026-10/Clipboard01_6.jpg
+  • 中國[6] 文章=https://www.stheadline.com/realtime-china/3627161/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/5278ec42cb30d6616c073a479bc56ede/2026-10/20261017_NEWS___0.png
+  • 中國[7] 文章=https://www.hk01.com/article/60400830  現用圖=https://cdn.hk01.com/di/media/images/dw/20261017/1188246156585472000570298.jpeg/EIs5__SSsy6OMG00pH46BDc9zns9TmQt-0RxL_tEcS8?v=w1280r16_9
+  • 美國[0] 文章=https://www.stheadline.com/realtime-world/3627294/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/a82d06c7ec163a160bc16d325b3d0dac/2026-10/AP26290695794369.jpg
+  • 美國[1] 文章=https://www.threads.com/@dankurtzmanphotography/post/DenUdXhmUmH  現用圖=https://scontent-tpe1-1.cdninstagram.com/v/t51.82787-15/852355929_17986155462096414_558902325949104232_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxMDI2Mzk3MjI1MTUxOTM2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTYzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OCb95NawkHoQ7kNvwEcU_AQ&_nc_oc=AdpQMdVa1nBEB4QADENQW3PkwgE_TaMxkP-X3wAJ8BtNajIK_PYWf4Vfjp4XusfAqis&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=78omzzRdDlytBmS7bPhFHg&_nc_ss=7a22e&oh=00_AQOrAdeBgw8QslbtjSxi_dLmAPHYr-CQaxILSHOdW0s53w&oe=6AD9EEE9
+  • 美國[2] 文章=https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver  現用圖=https://www.aljazeera.com/wp-content/uploads/2026/10/AP26210003703860-1792256125.jpg?resize=1920%2C1440
+  • 台灣[0] 文章=https://news.ltn.com.tw/news/politics/breakingnews/5609962  現用圖=https://img.ltn.com.tw/Upload/news/600/2026/10/18/5609962_1_1.jpg
+  • 台灣[1] 文章=https://udn.com/news/story/7326/9821366  現用圖=https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/17/35430430.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600
+  • 台灣[2] 文章=https://news.ltn.com.tw/news/life/breakingnews/5609980  現用圖=https://img.ltn.com.tw/Upload/news/600/2026/10/18/5609980_1_1.jpg
+  • 美伊戰爭[0] 文章=https://www.stheadline.com/realtime-world/3627244/  現用圖=https://image.hkhl.hk/f/1200p0/0x0/100/none/c9c63640e0870401be578cc455ef3953/2026-10/IMG_1400.jpeg
+  • 美伊戰爭[1] 文章=https://www.iranintl.com/en/202610176185  現用圖=https://i.iranintl.com/images/rdk9umy0/production/9b055844ad0b0f93c5fb6f75324c28bb7f95f98f-1280x853.jpg?rect=0,91,1280,672&w=1200&h=630&q=66&fit=max&auto=format
+  • 美伊戰爭[2] 文章=https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help  現用圖=https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0f89f0355-1792080031.jpg?resize=1920%2C1440
+  • AI 動向簡報插圖 文章=https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/  現用圖=https://the-decoder.com/wp-content/uploads/2026/07/openai_kraken_cyber.png
+  • 美伊戰爭簡報插圖 文章=https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help  現用圖=https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad0f89f0355-1792080031.jpg?resize=1920%2C1440
+
+✖ 唔合格，共 1 項問題：
+  • 香港社會(hks) 只有 7 條（要 8 條）
+
+→ 唔准 push，要修好再跑一次。
