@@ -1,21 +1,32 @@
 {
-  "_說明": "出稿規矩嘅唯一機器版（2026-09-21 起）。selfcheck.js 直接讀呢個檔；CLAUDE.md 對應段落只係人睇嘅抄本，兩邊要一致。改規矩：改呢度 → 跑 `node tools/selfcheck.js --print-rules` 睇返 → 同步 CLAUDE.md 嘅文字。regex 用 JS 寫法（re＝pattern，flags＝i 等），name＝報錯時顯示嘅名。",
+  "_說明": "出稿規矩嘅唯一機器版（2026-09-21 起）。selfcheck.js 直接讀呢個檔；AGENTS.md 對應段落只係人睇嘅抄本，兩邊要一致。改規矩：改呢度 → 跑 `node tools/selfcheck.js --print-rules` 睇返 → 同步 AGENTS.md 嘅文字。regex 用 JS 寫法（re＝pattern，flags＝i 等），name＝報錯時顯示嘅名。",
 
   "window": {
-    "_說明": "時間窗＝硬底線（CLAUDE.md 第 2 節）。floor／ceil 全部 HKT；day=prev 即係噚日、same 即係出稿當日。strictFrom：由呢日（含）起嘅版先用新規則（parse 做 epoch、驗上限、驗未來）；之前嘅舊版照舊只用字串比較驗下限，免得舊資料（08-01～08-27 嘅 T 格式、非 +08 offset）被翻舊帳。",
-    "am": { "floor": { "day": "prev", "time": "21:00" }, "ceil": { "day": "same", "time": "09:30" } },
-    "pm": { "floor": { "day": "same", "time": "09:00" }, "ceil": { "day": "same", "time": "21:30" } },
+    "_說明": "時間窗＝硬底線（AGENTS.md 第 2 節）。floor／ceil 全部 HKT；day=prev 即係噚日、same 即係出稿當日。strictFrom：由呢日（含）起嘅版先用新規則（parse 做 epoch、驗上限、驗未來）；之前嘅舊版照舊只用字串比較驗下限，免得舊資料（08-01～08-27 嘅 T 格式、非 +08 offset）被翻舊帳。",
+    "am": { "floor": { "day": "prev", "time": "21:00" }, "ceil": { "day": "same", "time": "09:45" } },
+    "pm": { "floor": { "day": "same", "time": "09:00" }, "ceil": { "day": "same", "time": "21:55" } },
     "tz": "+08:00",
     "strictFrom": "2026-09-21"
   },
 
   "mins": {
-    "_說明": "每組最少條數（CLAUDE.md 第 6 節）。",
+    "_說明": "每組最少條數（AGENTS.md 第 6 節）。",
     "hks": 8, "hkl": 8, "hke": 3, "hkp": 3, "cn": 8, "us": 3, "tw": 3, "war": 3
   },
 
+  "social": {
+    "_說明": "由 2026-10-13 pm 起只採用 Threads 社交原帖（Facebook 及 Instagram 停用）；每組及每篇簡報 50%（奇數向上取整）為搜料目標，逐組記錄差額但唔因差額阻止出稿。舊 Threads 原帖例外由 2026-10-14 am 起生效。",
+    "effectiveFrom": "2026-10-13 pm",
+    "minRatio": 0.5,
+    "platforms": ["Threads"],
+    "briefs": true,
+    "excludeOtherSocialPlatforms": true,
+    "targetOnly": true,
+    "lateOriginalPostFrom": "2026-10-14 am"
+  },
+
   "ban": {
-    "_說明": "全組禁用來源（CLAUDE.md 第 11 節「禁用」）。來源名或 URL 中一個就 fatal。",
+    "_說明": "全組禁用來源（AGENTS.md 第 11 節「禁用」）。來源名或 URL 中一個就 fatal。",
     "list": [
       { "re": "on\\.cc", "flags": "i", "name": "東網 on.cc" }, { "re": "東網", "flags": "", "name": "東網" },
       { "re": "tvb\\.com", "flags": "i", "name": "TVB" }, { "re": "無綫|TVB", "flags": "i", "name": "TVB" },
@@ -31,7 +42,7 @@
   },
 
   "hkeBan": {
-    "_說明": "經濟組 hke 額外禁用（CLAUDE.md 第 4 節①）。",
+    "_說明": "經濟組 hke 額外禁用（AGENTS.md 第 4 節①）。",
     "list": [
       { "re": "hk01\\.com", "flags": "i", "name": "香港01" }, { "re": "^香港01$", "flags": "", "name": "香港01" },
       { "re": "stheadline\\.com", "flags": "i", "name": "星島" }, { "re": "星島", "flags": "", "name": "星島" },
@@ -41,7 +52,7 @@
   },
 
   "indie": {
-    "_說明": "hke 合資格獨立來源（CLAUDE.md 第 4 節②），每版最少一條要中呢張清單任何一間。路透社 reuters 已於 2026-09-19 剔除（全站 401）。",
+    "_說明": "hke 合資格獨立來源（AGENTS.md 第 4 節②），每版最少一條要中呢張清單任何一間。路透社 reuters 已於 2026-09-19 剔除（全站 401）。",
     "list": [
       { "re": "theinitium\\.com", "flags": "i", "name": "端傳媒" }, { "re": "端傳媒", "flags": "", "name": "端傳媒" },
       { "re": "greenbean\\.media", "flags": "i", "name": "綠豆" }, { "re": "^綠豆$", "flags": "", "name": "綠豆" },
@@ -68,23 +79,23 @@
   },
 
   "hk01": {
-    "_說明": "hk01 CDN 圖片簽名段（CLAUDE.md 第 7 節）：cdn.hk01.com 嘅圖一定要帶簽名段，長度固定 43 個字元。",
+    "_說明": "hk01 CDN 圖片簽名段（AGENTS.md 第 7 節）：cdn.hk01.com 嘅圖一定要帶簽名段，長度固定 43 個字元。",
     "cdnRe": "cdn\\.hk01\\.com/",
     "sigLen": 43
   },
 
   "brief": {
-    "_說明": "兩篇簡報（CLAUDE.md 第 10 節）：minSrc＝最少來源數、minOutlets＝最少唔同媒體數、minLen＝正文最少字數。",
+    "_說明": "兩篇簡報（AGENTS.md 第 10 節）：minSrc＝最少來源數、minOutlets＝最少唔同媒體數、minLen＝正文最少字數。",
     "ai":   { "minSrc": 4, "minOutlets": 3, "minLen": 200 },
     "warb": { "minSrc": 3, "minOutlets": 2, "minLen": 200 }
   },
 
   "track": {
-    "_說明": "事件追蹤（CLAUDE.md 第 8 節）：每條一定要 cols 欄；最少 minRows 條；連續 lowfreqAfter 版無新進展→直接轉低頻（唔使問）；連續 retireAfter 版→可除名（有已知後續節點除外）；lookback＝回望幾多版。nop＝「無新進展」字眼嘅 regex（同 index.html 嘅 NOP 一模一樣，改要兩邊一齊改）。",
+    "_說明": "事件追蹤（AGENTS.md 第 8 節）：每條一定要 cols 欄；最少 minRows 條；連續 lowfreqAfter 版無新進展→直接轉低頻（唔使問）；連續 retireAfter 版→可除名（有已知後續節點除外）；lookback＝回望幾多版。nop＝「無新進展」字眼嘅 regex（同 index.html 嘅 NOP 一模一樣，改要兩邊一齊改）。",
     "cols": 3,
     "minRows": 3,
     "lowfreqAfter": 20,
-    "retireAfter": 40,
+    "retireAfter": 41,
     "lookback": 45,
     "nop": "今日無新進展|今日未見新|未見新進展|未見新報道|無新進展|冇新進展|暫無新進展|暫未見新"
   }

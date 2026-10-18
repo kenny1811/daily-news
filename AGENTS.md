@@ -1,9 +1,11 @@
-# Codex 接手須知（2026-09-28）
+# Antigravity / Codex 接手須知（2026-10-18 更新）
 
-呢個項目由 Codex 接手 AI 編採及排程。AGENTS.md 係現行操作規矩；CLAUDE.md 只保留兼容入口。
+文件讀取頻率：同一個 chat 首次讀取適用規則一次；已自動載入或實際讀過嘅相同內容視為已讀。規則有更新先重讀有更新嗰份，唔因新任務或追問重讀全文。README、project 摘要、歷史及其他參考資料只喺當前工作有需要時讀相關部分。
+
+呢個項目（`D:\Projects\Daily News`）由 Antigravity 接手 AI 編採及排程（舊 Codex 排程已停用）。AGENTS.md 係現行操作規矩；CLAUDE.md 只保留兼容入口。
 - 每次先讀本機時間，唔准估時間。回應時間格式跟 `D:\Projects\AGENTS.md` 總規則。
 - 明確要求改程式嘅任務（包括今次遷移）已授權相關修改；日常出稿只改新聞資料、工作紀錄及必要追蹤清單。唔好趁出稿改程式。
-- 新聞生產排程見 docs/codex-schedule.md。唔用 Claude 排程工具，唔等待 Claude 任務。
+- 新聞生產排程見 docs/codex-schedule.md（Antigravity sidecars：`daily-news-am`、`daily-news-pm-draft`、`daily-news-pm-refresh`）。唔用舊 Claude 或舊 Codex 排程工具。
 - 出稿前讀 docs/source-notes/README.md；所附來源筆記係舊經驗，實際文章時間、圖片同可用性要當次核實。
 - 以下來源限制及配額保留；機器檢查以 tools/rules.json 為準。規則文字如有衝突，要報告，唔好為過關靜靜改 selfcheck。
 - 四組編採係工作分工，唔要求同時有四個子 agent。遵守當次 agent 容量；總容量四個時，最多三個子 agent 加主 agent。
@@ -24,7 +26,7 @@
 
 ## 工作規矩
 共通規矩統一寫喺上一層嘅
-[`D:\Projects\AGENTS.md`](../AGENTS.md) —— Codex 每次開始工作要主動讀取呢份共通規矩；本項目嘅 Codex 特別規則見下文。
+[`D:\Projects\AGENTS.md`](../AGENTS.md) —— 同一個 chat 首次讀一次共通規矩，規則有更新先重讀；本項目嘅 Codex 特別規則見下文。
 
 ## 0. 講嘢方式（唔跟＝做錯）
 - **唔好用匪語**。
@@ -48,10 +50,11 @@
 | 版 | 只收呢個時段發放（HKT）嘅新聞 |
 |---|---|
 | 午報 am | **噚日 21:00 之後、今日 09:30 之前** |
-| 夜報 pm | **今日 09:00 之後、今日 21:30 之前** |
+| 夜報 pm | **今日 09:00 之後、今日 21:55 之前** |
 
 香港組（hks/hkl/hke/hkp）同國際組（cn/us/tw/war）**完全相同**。早過底線一秒都唔要，selfcheck 會 exit 1。
 條數唔夠**唔准放寬時間**，要去搵多啲來源；真係夠唔到就報俾用戶知邊組唔夠，都唔准出超窗嘅料。
+**2026-10-14 am 起嘅 Threads 原帖例外**：當窗內單篇報道首次披露／核實舊原帖所涉新聞，卡可連較早嘅散戶第一手 Threads 原帖，但要保留原帖真實發放時間，並喺第九欄 `freshReport` 附上窗內單篇報道嘅來源、URL、首次發放時間及新增資訊。時間窗檢查改用該報道嘅首發時間；原帖本身唔假裝係窗內，亦唔設任意「更新時間」重置。只係舊聞翻炒、轉載舊帖或兩者冇直接關係，一律唔適用；兩條連結都要核實，舊原帖仍須符合第一手、圖片、禁用及去重要求。13 日及之前嘅版唔追溯改規則。
 ★ 收 subagent 料之前、同埋任何「趕唔切」嘅判斷之前，**重讀一次時鐘**，唔好一路推算。
 
 ## 3. 出稿流程（本機直出，唔經 GitHub）
@@ -177,9 +180,10 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
 
 ## 7. 新聞卡格式
 7 欄 `[標題, 撮要, 來源, URL, 發放時間, 更新時間, og:image]`；熱卡可加第 8 欄 `1`。
+上述舊 Threads 例外用第 9 欄物件：`{"freshReport":{"source":"新報道媒體","url":"https://...單篇","publishedAt":"YYYY-MM-DD HH:MM","newInformation":"窗內首次披露／核實嘅內容"}}`。第 5、6 欄仍係原帖真實時間；網頁同時顯示原帖與新報道連結及兩個時間。
 
 - 全部繁體中文（非中文來源要譯）；標題 10–20 字，撮要約 20 字，唔好同標題重複。
-- 只可以用**單篇文章 URL**（有 ID），唔准首頁／分類頁／list／tag／liveblog。
+- 只可以用**單篇文章 URL**（有 ID），或第 11 節容許嘅**單一社交平台原帖永久連結**（有 post ID）；唔准首頁／個人檔案頁／分類頁／list／tag／liveblog。
 - **URL 寫法**：hk01 一律 `https://www.hk01.com/article/<id>`（**唔准帶中文 slug**）；星島一律 `https://www.stheadline.com/<版面>/<純ID>/`（**帶中文 slug 會 403**）。
   ⚠ 例外：i-CABLE 個「新聞資訊」「財經資訊」係固定路徑段要留；集誌社／edigest 嘅中文 slug 唔會 403，照抄。
   ★★ **i-CABLE 單篇一定要用完整 percent-encoded URL**（由首頁 grep 返嗰條原文照抄）：**未 encode 嘅中文 slug curl 會回 404**（2026-09-19 兩條都中招）。
@@ -219,7 +223,7 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
    |---|---|---|
    | < 20 版 | 照正常跟進 | — |
    | **≥ 20 版** | **直接轉低頻**，加入 `tools/lowfreq.json` | **唔使問** |
-   | **≥ 40 版** | 可以除名，加入 `tools/retired.json` | — |
+   | **> 40 版（至少41版）** | 可以直接除名，加入 `tools/retired.json`；低頻亦要檢查，唔好因低頻而一直保留 | **唔使再問**（Kenny 2026-10-12 確認） |
    | 任何版數但**有已知後續節點** | **一律唔准除名**，改為續低頻 | — |
    「有已知後續」＝有既定未來實日子（開庭／聆訊／再訊／判刑／報告發表／正式開通／合約屆滿）。**優先於 40 版門檻。**
    ⚠ 出現時嘅**預設反應係「查有冇既定未來節點 → 有就轉低頻」，唔係除名**。
@@ -252,6 +256,20 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
 
 ## 11. 來源池
 來源可以係任何語言，出稿自己譯做繁體中文。
+
+### 社交平台來源（Kenny 2026-10-11 批准）
+- **Threads 搜料對象（2026-10-13 am 起）**：唔以新聞來源池已有嘅傳媒帳戶作 Threads 搜料對象；要按事件、地點、行業及當事人關鍵詞搵「散戶」原帖，例如現場目擊者、受影響市民、事件當事人、從業者及獨立個人。唔只係將同一批傳媒網站換成佢哋嘅 Threads 連結。傳媒報道可另作交叉核實。轉貼新聞、抄標題、冇原始資訊嘅評論唔當第一手料；純娛樂／KOL仍不收。記錄作者類型、與事件關係、第一手內容及身份核對依據，唔以 URL 係 Threads 就聲稱完成呢項人手核實。其他真實性、時間窗、圖片及來源數要求不變；唔夠合格散戶原帖要報實際差額，唔偷偷改用傳媒帳戶填數。
+- **現行指示：Kenny 2026-10-14 特別批准追溯 2026-10-13 pm 補稿；由該版起，每個 topic 同兩篇簡報各自以至少一半合格 Threads 原帖作搜料目標，奇數向上取整；達唔到唔會單憑差額阻止出稿。** 只限 13 日 pm 准過死線補稿，仍須完成原文、真實時間、逐圖及其餘自檢；唔自動補其他歷史版。每組同每篇簡報喺 `簡報/每日簡報_YYYYMMDD.md` 記錄「實際採用／目標／差額」及主要排除原因；冇合格帖就寫 0，唔可以湊數。自檢會列出差額提示，其他條數、時間窗、去重、來源、媒體數、圖片與原帖核實要求全部仍係硬規矩。夜報只因其餘硬規矩唔合格先放棄。機器版見 `tools/rules.json` → `social.nextPolicy.targetOnlyFrom`。
+- **歷史規則：2026-10-13 am 只用 Threads 作社交來源，停止搜料及採用 Facebook、Instagram；每組及兩篇簡報至少一半合格原帖仍係硬配額。13 日午報及之前唔追溯改。**
+- **2026-10-12 Kenny 更新，由當晚 pm 起生效**：每個 topic（hks/hkl/hke/hkp/cn/us/tw/war）至少一半新聞卡須直接採用 Threads、Facebook、IG 合格原帖；奇數向上取整，所以8條組至少4條、3條組至少2條。原有條數不增加，三平台須在全版新聞卡齊備，毋須每組三平台各一條。兩篇簡報各自至少一半採用來源亦須為合格原帖（ai4來源至少2、warb3來源至少2）。機器規則見 `tools/rules.json` → `social`，`tools/selfcheck.js` 強制核對；歷史及12日午報不追溯套用。
+- **只有實際採用原帖永久連結先計入 Threads 目標**；只搜尋、當線索、交叉查證後改用傳媒網站出卡，都唔計。逐組先搜合格散戶原帖，再以其他可核實來源補新聞；缺帖要記實際差額同排除原因，唔可以將傳媒報道冒充原帖，亦唔可以降低時間或驗圖門檻。2026-10-12 pm 嘅三平台 50% 硬配額只屬歷史規則。
+- **Threads、Facebook、Instagram（IG）加入所有相關組別及兩篇簡報嘅來源池**，可用作搜料、第一手資料及合格新聞卡來源；按題材分組，唔限於傳統傳媒帳戶。每次出稿主動搜相關公開原帖，操作見 `docs/source-notes/social-platforms.md`。
+- 採用前實際讀取原帖全文及相關圖片／影片，核對發帖者身份、原帖永久連結、首次發放時間及時區。轉載、截圖或剪輯要追返原始來源；聲稱、指控及商業宣傳須清楚歸屬，唔當獨立證實嘅事實。重大爭議內容要交叉查證。
+- **原有時間窗、去重、禁用來源、hke 獨立來源配額、簡報媒體數及逐圖核實規矩全部照守**。禁用機構及政府／官媒嘅社交帳戶同樣禁用，唔可以借平台域名繞過限制；純娛樂／KOL內容仍不收。
+- 卡嘅來源名寫實際作者或機構，平台記喺核實紀錄；同一作者／機構跨平台只算一個來源，唔將 Threads、Facebook、IG 當三間媒體。個人或企業帳戶唔自動算簡報嘅媒體數，亦唔自動變成 hke 合資格獨立來源。
+- 直接出卡仍須有可核實嘅首次發放時間、原帖 `og:image` 及可實際讀取嘅圖片，沿用第 7、9 節。登入牆、相對時間不足以確定硬窗、通用平台 logo、已刪帖或圖片無法核實，只作線索，另找可核實報道出卡；唔估時間、唔砌圖片 URL、唔為平台改自檢門檻。
+
+### 傳媒來源
 
 - **香港 hks／hkl**：香港01（/zone/1 港聞、/channel/6 突發、/channel/2 社會、/zone/23 教育、/zone/10 18區、/channel/421 天氣，可直接掃 /article/<id>；⚠ **/latest 會回舊 cache，唔可以做第一入口**）、星島（**第一入口 https://www.stheadline.com/realtimenews**、/breaking-news、/voice-topics/ 申訴王、/realtime-property/、/lifetips/、/society/；⚠ /rss 回舊 cache）、有線新聞 https://www.i-cable.com/（首頁）、法庭線 thewitnesshk.com、大紀元
   **★★ 2026-09-19 新加（全部實測合格）**：
@@ -325,7 +343,14 @@ selfcheck 出呢個 ⚠ **唔可以照出街，一定要打開兩條比對內容
 - 左欄下半有「⚙️ 設定」盒：Kenny 輸入想幾點睇到午報／夜報（`hh:mm` 或 `hhmm` 都收）。
 - 儲存去本資料夾 `settings.json`（`{"amView":"10:00","pmView":"22:00","updated":...}`），經 `serve_news.ps1` 嘅 `GET/POST …/api/settings` 寫檔；冇 server 就 fallback localStorage。`settings.json` 唔入 git（範本 `settings.example.json`）。
 - **server 行為（2026-09-21 起）**：只 serve `index.html`、root 嘅 `*.png`／`*.svg`／`*.ico`、`data/index.json`、`data/YYYY-MM-DD.json` 同 `/api/settings`，其他路徑一律 404（`data/` 入面除咗嗰兩種檔名格式，其他一律 404，唔係成個 folder 任讀）；POST 只收 JSON object，key 只准 `amView`／`pmView`（`HH:MM`）／`updated`，唔合格回 400；每次 POST 後嘅 `sync_open_times.ps1` 同一分鐘內只跑一次；`server_log.txt` 超過 500 行自動只留最後 250 行。
-- 排程任務 `daily-news-am`／`daily-news-pm`／`daily-news-sync` 開工時讀 `settings.json`：死線＝睇報時間 −15 分鐘，開工＝睇報時間 −90 分鐘（用 Codex automation_update 同步，見 docs/codex-schedule.md）。
+- 排程任務 `daily-news-am`／`daily-news-pm-draft`／`daily-news-pm-refresh` 開工時讀 `settings.json`：死線＝睇報時間 −15 分鐘，開工＝睇報時間 −90 分鐘（由 `sync_open_times.ps1` 同步更新 Antigravity sidecars，見 docs/codex-schedule.md）。
 - **出稿時唔准郁**設定盒嗰組 HTML／CSS／JS（`setbox`、`parseHM`、`saveSettings`、`loadSettings`），亦唔好郁 `settings.json`。
-- **自動開網頁**：Windows 排程 `DailyNews-Open-AM`／`DailyNews-Open-PM` 喺睇報時間跑 `open_news.ps1`（開 http://localhost:8080/）。每次 POST settings 後 server 會背景跑 `sync_open_times.ps1` 重新註冊兩個 task 嘅時間（唔使 admin，即時生效）。
-- 改咗 `serve_news.ps1` 要重啟 `DailyNewsServer` 排程工作（要 admin）先生效；另外要先殺舊 process，否則 8080 會俾舊 server 霸住。
+- **自動開網頁**：Windows 排程 `DailyNews-Open-AM`／`DailyNews-Open-PM` 喺睇報時間跑 `open_news.ps1`（開 http://localhost:8080/）。每次 POST settings 後 server 會背景跑 `sync_open_times.ps1` 重新註冊兩個 task 嘅時間並同步更新 Antigravity sidecars 嘅 cron 時間（唔使 admin，即時生效）。
+- 改咗 `serve_news.ps1` 要重啟 `DailyNewsServer` 排程工作先生效；另外要先殺舊 process，否則 8080 會俾舊 server 霸住。
+
+
+## 晚報最後刷新（2026-10-03 批准）
+
+閱讀前 90 分鐘起草；閱讀前 15 分鐘增量刷新及核對更正；目標閱讀前 5 分鐘定稿。22:00 閱讀時即 20:30／21:45／21:55。只有最後核實成功才可標示定稿；無新消息也記錄查核結果。兩階段處理同一日 pm，保留 am、不補歷史，通知最多一次；失敗不能假稱刷新完成。實際排程由 Antigravity sidecars（`daily-news-pm-draft`、`daily-news-pm-refresh`）負責。
+
+晚報即日新聞時間上限跟 pmView 減5分鐘；22:00 閱讀即21:55。草稿及刷新須先完成啟用關卡；正常重跑跳過已定稿，更正須獲授權並留舊版本。

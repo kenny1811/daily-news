@@ -13,6 +13,12 @@ server_log.txt
 # index.html 嘅每日 archive 副本（26MB+，可由 index.html 重生）
 /archive/
 
+# 臨時工作目錄（只保留兩階段夜報開關 enabled.json）
+/scratch/*
+!/scratch/pm-refresh/
+/scratch/pm-refresh/*
+!/scratch/pm-refresh/enabled.json
+
 # OS/editor
 Thumbs.db
 .DS_Store

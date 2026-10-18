@@ -71,6 +71,9 @@
   .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
   .card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit}
   .card:hover{border-color:var(--accent)}
+  .card-main{display:flex;flex-direction:column;text-decoration:none;color:inherit}
+  .cfresh{border-top:1px solid var(--border);padding:8px 12px 10px;color:var(--muted);font-size:13px}
+  .cfresh a{color:var(--accent);text-decoration:none}
   .thumb{aspect-ratio:16/9;background:#0f1620;overflow:hidden}
   .thumb img{width:100%;height:100%;object-fit:cover;display:block}
   .thumb.ph{display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1b2330,#141a24)}
@@ -142,7 +145,7 @@ const SEC=[["hk","🇭🇰 香港"],["hks","🇭🇰 香港 · 社會"],["hkl","
 const WD=["日","一","二","三","四","五","六"];
 const pad=n=>String(n).padStart(2,"0");
 const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
-function todayHK(){return new Date().toLocaleString("en-CA",{timeZone:"Asia/Hong_Kong",year:"numeric",month:"2-digit",day:"2-digit"}).slice(0,10);}
+function todayHK(){const p=new Intl.DateTimeFormat("en",{timeZone:"Asia/Hong_Kong",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(new Date());return ["year","month","day"].map(k=>p.find(x=>x.type===k).value).join("-");}
 let TODAY, selDate, viewY, viewM;
 let curTab="news";
 let selEd=null;
@@ -167,9 +170,12 @@ function edBar(dd){const es=eds(dd);if(!es.length)return"";const c=curEd(dd);
     return '<button'+(have?'':' disabled')+(k===c?' class="on"':'')+(have?' onclick="setEd(\''+k+'\')"':'')+'>'+EDOF(selDate,k).lab+'</button>';}).join("")+'</span>';}
 function card(it){
   const t=it[0],de=it[1],src=it[2],url=it[3],pub=it[4]||"",upd=it[5]||"",img=it[6]||"";
+  const fresh=it[8]&&it[8].freshReport;
   const thumb=img?('<div class="thumb"><img loading="lazy" referrerpolicy="no-referrer" src="'+esc(imgFix(img))+'" onerror="this.onerror=null;var p=this.parentNode;p.classList.add(\'ph\');p.innerHTML=\'<span>'+esc(src)+'</span>\'"></div>'):('<div class="thumb ph"><span>'+esc(src)+'</span></div>');
-  const times='🕒 發放：'+esc(fmtT(pub))+(upd?' ｜ 更新：'+esc(fmtT(upd)):'');
-  return '<a class="card" href="'+esc(url)+'" target="_blank" rel="noopener">'+thumb+'<div class="cbody"><div class="ctitle">'+(it[7]?'🔥 ':'')+esc(t)+'</div><div class="cmeta">'+times+'</div><div class="cdesc">'+esc(de)+'</div><div class="csrc">'+esc(src)+'</div></div></a>';
+  const times='🕒 '+(fresh?'原帖':'發放')+'：'+esc(fmtT(pub))+(upd?' ｜ 更新：'+esc(fmtT(upd)):'');
+  const body=thumb+'<div class="cbody"><div class="ctitle">'+(it[7]?'🔥 ':'')+esc(t)+'</div><div class="cmeta">'+times+'</div><div class="cdesc">'+esc(de)+'</div><div class="csrc">'+esc(src)+'</div></div>';
+  if(!fresh)return '<a class="card" href="'+esc(url)+'" target="_blank" rel="noopener">'+body+'</a>';
+  return '<div class="card"><a class="card-main" href="'+esc(url)+'" target="_blank" rel="noopener">'+body+'</a><div class="cfresh">窗內新報道：<a href="'+esc(fresh.url)+'" target="_blank" rel="noopener">'+esc(fresh.source)+'</a> · '+esc(fmtT(fresh.publishedAt))+'<br>'+esc(fresh.newInformation)+'</div></div>';
 }
 function renderNews(dd){
   const data=edData(dd,selEd);
@@ -243,11 +249,14 @@ function hl(str,ts){
 }
 function scard(r,ts){
   const it=r.it,img=it[6]||"",src=it[2]||"";
+  const fresh=it[8]&&it[8].freshReport;
   const thumb=img?('<div class="thumb"><img loading="lazy" referrerpolicy="no-referrer" src="'+esc(imgFix(img))+'" onerror="this.onerror=null;var p=this.parentNode;p.classList.add(\'ph\');p.innerHTML=\'<span>'+esc(src)+'</span>\'"></div>'):('<div class="thumb ph"><span>'+esc(src)+'</span></div>');
   const dt=r.dd.slice(8,10)+"/"+r.dd.slice(5,7)+"/"+r.dd.slice(0,4);
   const edl=r.ed?EDOF(r.dd,r.ed).lab:"";
   const tag='<div class="stag">'+esc(dt)+(edl?" · "+edl:"")+" · "+esc(r.sec)+'</div>';
-  return '<a class="card" href="'+esc(it[3])+'" target="_blank" rel="noopener">'+thumb+'<div class="cbody">'+tag+'<div class="ctitle">'+hl(it[0],ts)+'</div><div class="cmeta">🕒 '+esc(fmtT(it[4]||""))+'</div><div class="cdesc">'+hl(it[1]||"",ts)+'</div><div class="csrc">'+hl(src,ts)+'</div></div></a>';
+  const body=thumb+'<div class="cbody">'+tag+'<div class="ctitle">'+hl(it[0],ts)+'</div><div class="cmeta">🕒 '+(fresh?'原帖：':'')+esc(fmtT(it[4]||""))+'</div><div class="cdesc">'+hl(it[1]||"",ts)+'</div><div class="csrc">'+hl(src,ts)+'</div></div>';
+  if(!fresh)return '<a class="card" href="'+esc(it[3])+'" target="_blank" rel="noopener">'+body+'</a>';
+  return '<div class="card"><a class="card-main" href="'+esc(it[3])+'" target="_blank" rel="noopener">'+body+'</a><div class="cfresh">窗內新報道：<a href="'+esc(fresh.url)+'" target="_blank" rel="noopener">'+esc(fresh.source)+'</a> · '+esc(fmtT(fresh.publishedAt))+'<br>'+esc(fresh.newInformation)+'</div></div>';
 }
 function renderSearch(){
   const el=document.getElementById("q");
@@ -332,33 +341,84 @@ async function fetchJSON(u){
   if(!r.ok)throw new Error("HTTP "+r.status+" "+u);
   return r.json();
 }
-async function boot(){
-  const panel=document.getElementById("panel");
-  panel.innerHTML='<div class="empty">載入緊新聞資料…</div>';
-  let dates;
-  try{
-    dates=await fetchJSON("data/index.json");
-    if(!Array.isArray(dates)||!dates.length)throw new Error("data/index.json 格式錯誤或者冇資料");
-  }catch(e){
-    panel.innerHTML='<div class="empty">⚠ 讀取新聞清單失敗（'+esc(e.message)+'）<br>如果用 file:// 直接開檔案，瀏覽器會擋咗呢個 fetch；請用 serve_news.ps1 開嘅 http://localhost:8080/ 嚟睇，或者重新整理頁面。</div>';
-    return;
-  }
-  const results=await Promise.allSettled(dates.map(dd=>fetchJSON("data/"+dd+".json").then(j=>[dd,j])));
-  const failed=[];
-  results.forEach((r,i)=>{ if(r.status==="fulfilled")DB[r.value[0]]=r.value[1]; else failed.push(dates[i]); });
-  if(failed.length){
-    panel.innerHTML='<div class="empty">⚠ 有 '+failed.length+' 日資料讀取失敗：'+esc(failed.join("、"))+'<br>請檢查 server 有冇開，或者重新整理頁面（避免漏料，暫時唔顯示新聞）</div>';
-    return;
-  }
-  TODAY=todayHK();
-  const keys=Object.keys(DB).sort();
-  selDate=DB[TODAY]?TODAY:(keys[keys.length-1]||TODAY);
-  viewY=+selDate.slice(0,4);viewM=+selDate.slice(5,7);
-  renderCal();renderPanel();
-  loadSettings();
-  (function(){var n=buildIdx().length,d=Object.keys(DB).length;
-   var e=document.getElementById("shint");if(e)e.textContent="藍色日子＝有內容　·　可搜尋 "+d+" 日、"+n+" 條新聞";})();
+function updateSearchHint(){
+  SIDX=null;
+  var n=buildIdx().length,d=Object.keys(DB).length;
+  var e=document.getElementById("shint");if(e)e.textContent="藍色日子＝有內容　·　可搜尋 "+d+" 日、"+n+" 條新聞";
 }
+let newsLoading=false, lastNewsLoad=0;
+async function boot(){
+  if(newsLoading)return;
+  newsLoading=true;
+  try{
+    const panel=document.getElementById("panel");
+    panel.innerHTML='<div class="empty">載入緊新聞資料…</div>';
+    let dates;
+    try{
+      dates=await fetchJSON("data/index.json");
+      if(!Array.isArray(dates)||!dates.length)throw new Error("data/index.json 格式錯誤或者冇資料");
+    }catch(e){
+      panel.innerHTML='<div class="empty">⚠ 讀取新聞清單失敗（'+esc(e.message)+'）<br>如果用 file:// 直接開檔案，瀏覽器會擋咗呢個 fetch；請用 serve_news.ps1 開嘅 http://localhost:8080/ 嚟睇，或者重新整理頁面。</div>';
+      return;
+    }
+    const fastDates=dates.slice(0,7), restDates=dates.slice(7);
+    const fastRes=await Promise.allSettled(fastDates.map(dd=>fetchJSON("data/"+dd+".json").then(j=>[dd,j])));
+    const nextDB={};
+    fastRes.forEach(r=>{ if(r.status==="fulfilled")nextDB[r.value[0]]=r.value[1]; });
+    if(!Object.keys(nextDB).length){
+      panel.innerHTML='<div class="empty">⚠ 讀取最新新聞資料失敗，請檢查 server 有冇開，或者重新整理頁面</div>';
+      return;
+    }
+    DB=nextDB;
+    TODAY=todayHK();
+    const keys=Object.keys(DB).filter(dd=>dd<=TODAY).sort();
+    selDate=DB[TODAY]?TODAY:(keys[keys.length-1]||TODAY);
+    selEd=null;
+    viewY=+selDate.slice(0,4);viewM=+selDate.slice(5,7);
+    renderCal();renderPanel();
+    loadSettings();
+    updateSearchHint();
+    for(let i=0;i<restDates.length;i+=15){
+      const batch=restDates.slice(i,i+15);
+      const res=await Promise.allSettled(batch.map(dd=>fetchJSON("data/"+dd+".json").then(j=>[dd,j])));
+      res.forEach(r=>{ if(r.status==="fulfilled")DB[r.value[0]]=r.value[1]; });
+    }
+    renderCal();
+    updateSearchHint();
+    if(curTab==="search")renderSearch();
+  }finally{newsLoading=false;lastNewsLoad=Date.now();}
+}
+async function refreshNewsOnReturn(){
+  if(newsLoading||document.visibilityState!=="visible"||Date.now()-lastNewsLoad<=5000)return;
+  newsLoading=true;
+  try{
+    const dates=await fetchJSON("data/index.json");
+    if(!Array.isArray(dates)||!dates.length)return;
+    const checkSet=new Set(dates.slice(0,2));
+    if(selDate)checkSet.add(selDate);
+    let changed=false;
+    for(const dd of checkSet){
+      try{
+        const fresh=await fetchJSON("data/"+dd+".json");
+        if(JSON.stringify(DB[dd])!==JSON.stringify(fresh)){
+          const wasNewest=(selDate===Object.keys(DB).sort().slice(-1)[0]);
+          DB[dd]=fresh;
+          changed=true;
+          if(wasNewest&&dd>=selDate){selDate=dd;selEd=null;viewY=+dd.slice(0,4);viewM=+dd.slice(5,7);}
+        }
+      }catch(_){}
+    }
+    if(changed){
+      TODAY=todayHK();
+      updateSearchHint();
+      renderCal();
+      renderPanel();
+    }
+  }catch(_){}finally{newsLoading=false;lastNewsLoad=Date.now();}
+}
+window.addEventListener("focus",refreshNewsOnReturn);
+window.addEventListener("pageshow",function(e){if(e.persisted)refreshNewsOnReturn();});
+document.addEventListener("visibilitychange",refreshNewsOnReturn);
 boot();
 </script>
 </body>

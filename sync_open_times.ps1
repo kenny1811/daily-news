@@ -1,4 +1,4 @@
-﻿# sync_open_times.ps1 - (re)register DailyNews-Open-AM / DailyNews-Open-PM Windows tasks
+# sync_open_times.ps1 - (re)register DailyNews-Open-AM / DailyNews-Open-PM Windows tasks
 # so they fire at amView / pmView from settings.json (defaults 10:00 / 22:00).
 # Runs as the current user, no admin needed. Called by serve_news.ps1 after every settings POST,
 # and can be run by hand.
@@ -22,6 +22,39 @@ foreach($e in @(@{n='DailyNews-Open-AM';t=$am},@{n='DailyNews-Open-PM';t=$pm})){
   try{
     $tr=New-ScheduledTaskTrigger -Daily -At $e.t
     Register-ScheduledTask -TaskName $e.n -Action $action -Trigger $tr -Settings $settings -Force | Out-Null
+    Enable-ScheduledTask -TaskName $e.n | Out-Null
     Log ("sync: {0} -> {1}" -f $e.n,$e.t)
   }catch{ Log ("sync: {0} FAILED: {1}" -f $e.n,$_.Exception.Message) }
+}
+
+# Sync Antigravity scheduled sidecars (amView - 90m, pmView - 90m, pmView - 15m)
+function OffsetHM([string]$hm,[int]$deltaMinutes){
+  $parts=$hm.Split(':')
+  $total=(([int]$parts[0])*60 + [int]$parts[1] + $deltaMinutes) % 1440
+  if($total -lt 0){ $total += 1440 }
+  return @{ H=[int][math]::Floor($total / 60); M=($total % 60) }
+}
+$sidecarRoot=Join-Path $env:USERPROFILE '.gemini\config\sidecars'
+$amStart=OffsetHM $am -90
+$pmDraft=OffsetHM $pm -90
+$pmRefresh=OffsetHM $pm -15
+$sidecarTargets=@(
+  @{ id='daily-news-am'; h=$amStart.H; m=$amStart.M },
+  @{ id='daily-news-pm-draft'; h=$pmDraft.H; m=$pmDraft.M },
+  @{ id='daily-news-pm-refresh'; h=$pmRefresh.H; m=$pmRefresh.M }
+)
+foreach($s in $sidecarTargets){
+  $sp=Join-Path (Join-Path $sidecarRoot $s.id) 'sidecar.json'
+  if(Test-Path -LiteralPath $sp){
+    try{
+      $so=[IO.File]::ReadAllText($sp,[Text.Encoding]::UTF8)|ConvertFrom-Json
+      $cron=('CRON_TZ=Asia/Hong_Kong {0} {1} * * *' -f $s.m,$s.h)
+      if($so.args -and $so.args.Count -ge 1 -and $so.args[0] -ne $cron){
+        $so.args[0]=$cron
+        $jsonOut=($so|ConvertTo-Json -Depth 10) + "`n"
+        [IO.File]::WriteAllText($sp,$jsonOut,(New-Object Text.UTF8Encoding($false)))
+        Log ("sync sidecar: {0} -> {1}" -f $s.id,$cron)
+      }
+    }catch{ Log ("sync sidecar: {0} FAILED: {1}" -f $s.id,$_.Exception.Message) }
+  }
 }
