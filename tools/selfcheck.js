@@ -6,6 +6,7 @@ const fs = require("fs");
 const path = require("path");
 const socialPolicy = require('./social-policy');
 const { validateLateThreads } = require('./late-threads');
+const { verifyAllImages } = require('./image-verifier');
 
 // ── 規矩唯一來源：tools/rules.json（2026-09-21 起）────────────────────
 // 時間窗、每組條數、禁用清單、hke 禁用＋合資格獨立來源、hk01 簽名、簡報來源數、track 門檻，
@@ -40,6 +41,9 @@ if (process.argv.includes("--print-rules")) {
     console.log(`9. 社交來源：由 ${RULES.social.effectiveFrom} 起，只採用 ${RULES.social.platforms.join('、')} 社交原帖（Facebook 及 Instagram 停用）；每組及每篇簡報 ${RULES.social.minRatio * 100}%（向上取整）為${RULES.social.targetOnly ? '搜料目標（記錄差額，唔因差額阻止出稿）' : '硬配額'}。`);
     const lateFrom = RULES.social.lateOriginalPostFrom || RULES.social?.nextPolicy?.lateOriginalPostFrom;
     if (lateFrom) console.log(`   舊 Threads 原帖例外由 ${lateFrom} 起：必須另附窗內首次發佈嘅單篇新報道及兩個真實時間。`);
+  }
+  if (RULES.image) {
+    console.log(`10. 圖片硬性驗證：全部圖片經 HTTP GET 實測，回傳 HTTP 200 且為有效圖片格式（大小 ≥ ${RULES.image.minBytes} bytes；404 或死圖直接 exit 1 唔准出街）。`);
   }
   process.exit(0);
 }
@@ -457,54 +461,93 @@ else {
 if (!d._updated) bad.push("_updated 冇填");
 // 2026-09-21：archive/ 快照已由 git commit 取代（出稿流程第 8 步取消），唔再驗 archive 檔存在。
 
-console.log("── 自檢報告 " + date + "（" + (mode === "pm" ? "夜報" : "午報") + "，12小時窗 " + WANT + " 起）──");
-console.log(G.map(k => `${NAME[k]}=${(d[k] || []).length}`).join("｜"));
-console.log(`事件追蹤=${(d.track || []).length}｜AI簡報=${((d.ai || {}).t || "").length}字｜美伊簡報=${((d.warb || {}).t || "").length}字`);
-let noimg = 0; G.forEach(k => (d[k] || []).forEach(x => { if (!x[6]) noimg++; }));
-console.log(`總卡數=${all.length}｜缺圖=${noimg}`);
-if (warn.length) {
-  console.log("\n⚠ 提提你（唔會 fail，但盡量換返新料）共 " + warn.length + " 項：");
-  warn.forEach(x => console.log("  • " + x));
-}
-// ── 🖼 驗圖：兩步走（2026-08-27 定版）────────────────────────────
-// 三次甩圖教訓，兩種 CDN 行為完全相反，所以兩步缺一不可：
-//   ① image.hkhl.hk（星島）對「任何」hash 都回「Image content is not supported」，
-//      連 000000… 都係 → fetch 張圖驗唔到嘢，只可以同原文對字串。
-//   ② cdn.hk01.com 對錯 hash 一定回 404 → fetch 張圖驗得到；
-//      但 **WebFetch 讀 hk01 og:image 會隨機讀錯簽名段**：同一頁問三次，
-//      同一個位置分別讀出 D／P／Y 三個唔同字母（2026-08-27 實測，60384010）。
-//      即係「對字串」對 hk01 反而唔可信，一定要 fetch 張圖做最終裁決。
-// ★ 做法：
-//   第一步（全部圖）：WebFetch 篇「文章」攞 og:image，同「現用圖」逐字比對。唔同就換原文嗰條。
-//   第二步（全部圖）：WebFetch「張圖」本身。
-//       回 404              → 一定錯，唔准 push
-//       回「Image content is not supported」→ hk01／一般站＝存在 OK；hkhl 就當冇檢查過（睇第一步）
-//   hk01 第二步 404 嘅話，唔好自己估個字：換個問法再讀一次篇文
-//   （例如叫佢「列出頁面上所有 cdn.hk01.com 開頭嘅完整 URL」），再 fetch 張圖驗，直到唔係 404。
-{
+(async () => {
+  console.log("── 自檢報告 " + date + "（" + (mode === "pm" ? "夜報" : "午報") + "，12小時窗 " + WANT + " 起）──");
+  console.log(G.map(k => `${NAME[k]}=${(d[k] || []).length}`).join("｜"));
+  console.log(`事件追蹤=${(d.track || []).length}｜AI簡報=${((d.ai || {}).t || "").length}字｜美伊簡報=${((d.warb || {}).t || "").length}字`);
+  let noimg = 0; G.forEach(k => (d[k] || []).forEach(x => { if (!x[6]) noimg++; }));
+  console.log(`總卡數=${all.length}｜缺圖=${noimg}`);
+  if (warn.length) {
+    console.log("\n⚠ 提提你（唔會 fail，但盡量換返新料）共 " + warn.length + " 項：");
+    warn.forEach(x => console.log("  • " + x));
+  }
+
+  // ── 🖼 驗圖：強制 HTTP GET 實測（2026-10-19 升級為強制 blocking）────
   const need = [];
   G.forEach(k => (d[k] || []).forEach((x, i) => {
     const u = x[6] || "";
     if (!u) return;
-    need.push(`${NAME[k]}[${i}] 文章=${x[3]}  現用圖=${u}`);
+    need.push({
+      group: k,
+      tag: `${NAME[k]}[${i}]`,
+      title: x[0] || "",
+      source: x[2] || "",
+      articleUrl: x[3] || "",
+      url: u
+    });
   }));
   [["ai", "AI 動向"], ["warb", "美伊戰爭"]].forEach(([k, n]) => {
     const b = d[k] || {}; const u = b.img || "";
     const from = (b.src && b.src[0] && b.src[0][1]) || "（來源見 src）";
-    if (u) need.push(`${n}簡報插圖 文章=${from}  現用圖=${u}`);
+    if (u) need.push({
+      group: k,
+      tag: `${n}簡報插圖`,
+      title: `${n}封面`,
+      source: (b.src && b.src[0] && b.src[0][0]) || "",
+      articleUrl: from,
+      url: u
+    });
   });
-  if (need.length) {
-    console.log(`\n🖼 驗圖（共 ${need.length} 條，全部要驗，冇豁免）——**兩步都要做**：`);
-    console.log(`   ① WebFetch「文章」攞 og:image，同「現用圖」逐字比對（捉抄錯；星島 hkhl 只可以靠呢步）`);
-    console.log(`   ② WebFetch「現用圖」本身：回 404 ＝ 一定錯（hk01 只可以靠呢步，因為讀 og:image 會隨機讀錯簽名）`);
-    need.forEach(x => console.log("  • " + x));
-  }
-}
 
-if (bad.length) {
-  console.log("\n✖ 唔合格，共 " + bad.length + " 項問題：");
-  bad.forEach(x => console.log("  • " + x));
-  console.log("\n→ 唔准 push，要修好再跑一次。");
+  const skipFetch = process.argv.includes("--skip-image-fetch");
+  if (need.length && !skipFetch) {
+    console.log(`\n🖼 正在實測驗圖（共 ${need.length} 條，發送 HTTP GET 實測並檢查二進制格式）...`);
+    const imgRule = RULES.image || { concurrency: 8, minBytes: 80, timeoutMs: 15000 };
+    const { results, failures } = await verifyAllImages(need, imgRule.concurrency);
+
+    if (failures.length > 0) {
+      console.log(`\n❌ 發現 ${failures.length} 條圖片實測失敗（404 或格式無效）：`);
+      failures.forEach(f => {
+        const msg = `${f.tag}「${f.title}」圖片無效：${f.verification.reason}（URL: ${f.url}）`;
+        console.log(`  • ❌ ${msg}`);
+        bad.push(`🖼 [驗圖失敗] ${msg}`);
+      });
+    } else {
+      console.log(`✅ 圖片實測全部通過：${need.length} 條圖片全部 HTTP 200 且為有效圖片格式。`);
+    }
+
+    // 當非候選檔且全部通過時，自動將逐圖驗證證據保存至 docs/verification/
+    if (!candidateFile && failures.length === 0) {
+      const verDir = path.join(ROOT, "docs", "verification");
+      try {
+        if (!fs.existsSync(verDir)) fs.mkdirSync(verDir, { recursive: true });
+        const verPath = path.join(verDir, `${date}-${mode}.json`);
+        const verOutput = results.map(r => ({
+          group: r.group,
+          title: r.title,
+          source: r.source,
+          url: r.articleUrl,
+          ogImage: r.url,
+          verification: r.verification
+        }));
+        fs.writeFileSync(verPath, JSON.stringify(verOutput, null, 2) + "\n", "utf8");
+        console.log(`📁 逐圖驗證紀錄已自動同步寫入：docs/verification/${date}-${mode}.json`);
+      } catch (e) {
+        console.warn(`⚠ 寫入 docs/verification 失敗：${e.message}`);
+      }
+    }
+  } else if (skipFetch) {
+    console.log(`\n⚠ 已跳過實測驗圖（指定咗 --skip-image-fetch）`);
+  }
+
+  if (bad.length) {
+    console.log("\n✖ 唔合格，共 " + bad.length + " 項問題：");
+    bad.forEach(x => console.log("  • " + x));
+    console.log("\n→ 唔准 push，要修好再跑一次。");
+    process.exit(1);
+  }
+  console.log("\n✅ 全部通過，可以 push。");
+})().catch(err => {
+  console.error("✖ 自檢執行出錯：", err);
   process.exit(1);
-}
-console.log("\n✅ 全部通過，可以 push。");
+});

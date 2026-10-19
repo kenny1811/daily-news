@@ -27,7 +27,7 @@ foreach($e in @(@{n='DailyNews-Open-AM';t=$am},@{n='DailyNews-Open-PM';t=$pm})){
   }catch{ Log ("sync: {0} FAILED: {1}" -f $e.n,$_.Exception.Message) }
 }
 
-# Sync Antigravity scheduled sidecars (amView - 90m, pmView - 90m, pmView - 15m)
+# Sync Antigravity scheduled sidecar (amView - 90m, pmView - 90m)
 function OffsetHM([string]$hm,[int]$deltaMinutes){
   $parts=$hm.Split(':')
   $total=(([int]$parts[0])*60 + [int]$parts[1] + $deltaMinutes) % 1440
@@ -36,25 +36,22 @@ function OffsetHM([string]$hm,[int]$deltaMinutes){
 }
 $sidecarRoot=Join-Path $env:USERPROFILE '.gemini\config\sidecars'
 $amStart=OffsetHM $am -90
-$pmDraft=OffsetHM $pm -90
-$pmRefresh=OffsetHM $pm -15
-$sidecarTargets=@(
-  @{ id='daily-news-am'; h=$amStart.H; m=$amStart.M },
-  @{ id='daily-news-pm-draft'; h=$pmDraft.H; m=$pmDraft.M },
-  @{ id='daily-news-pm-refresh'; h=$pmRefresh.H; m=$pmRefresh.M }
-)
-foreach($s in $sidecarTargets){
-  $sp=Join-Path (Join-Path $sidecarRoot $s.id) 'sidecar.json'
-  if(Test-Path -LiteralPath $sp){
-    try{
-      $so=[IO.File]::ReadAllText($sp,[Text.Encoding]::UTF8)|ConvertFrom-Json
-      $cron=('CRON_TZ=Asia/Hong_Kong {0} {1} * * *' -f $s.m,$s.h)
-      if($so.args -and $so.args.Count -ge 1 -and $so.args[0] -ne $cron){
-        $so.args[0]=$cron
-        $jsonOut=($so|ConvertTo-Json -Depth 10) + "`n"
-        [IO.File]::WriteAllText($sp,$jsonOut,(New-Object Text.UTF8Encoding($false)))
-        Log ("sync sidecar: {0} -> {1}" -f $s.id,$cron)
-      }
-    }catch{ Log ("sync sidecar: {0} FAILED: {1}" -f $s.id,$_.Exception.Message) }
-  }
+$pmStart=OffsetHM $pm -90
+
+$sp=Join-Path (Join-Path $sidecarRoot 'daily-news') 'sidecar.json'
+if(Test-Path -LiteralPath $sp){
+  try{
+    $so=[IO.File]::ReadAllText($sp,[Text.Encoding]::UTF8)|ConvertFrom-Json
+    if($amStart.M -eq $pmStart.M){
+      $cron=('CRON_TZ=Asia/Hong_Kong {0} {1},{2} * * *' -f $amStart.M,$amStart.H,$pmStart.H)
+    }else{
+      $cron=('CRON_TZ=Asia/Hong_Kong {0},{1} {2},{3} * * *' -f $amStart.M,$pmStart.M,$amStart.H,$pmStart.H)
+    }
+    if($so.args -and $so.args.Count -ge 1 -and $so.args[0] -ne $cron){
+      $so.args[0]=$cron
+      $jsonOut=($so|ConvertTo-Json -Depth 10) + "`n"
+      [IO.File]::WriteAllText($sp,$jsonOut,(New-Object Text.UTF8Encoding($false)))
+      Log ("sync sidecar: daily-news -> {0}" -f $cron)
+    }
+  }catch{ Log ("sync sidecar: daily-news FAILED: {0}" -f $_.Exception.Message) }
 }

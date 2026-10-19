@@ -98,5 +98,12 @@
     "retireAfter": 41,
     "lookback": 45,
     "nop": "今日無新進展|今日未見新|未見新進展|未見新報道|無新進展|冇新進展|暫無新進展|暫未見新"
+  },
+
+  "image": {
+    "_說明": "圖片硬性驗證（AGENTS.md 第 9 節）：全部圖片必須經 HTTP GET 實測，回傳 HTTP 200，且為有效二進制圖片格式（JPEG/PNG/WEBP/GIF/SVG），檔案大小必須 ≥ minBytes。404 或格式無效直接 exit 1。",
+    "minBytes": 80,
+    "concurrency": 8,
+    "timeoutMs": 15000
   }
 }

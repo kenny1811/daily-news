@@ -229,8 +229,8 @@
     "verification": {
       "valid": true,
       "status": 200,
-      "type": "jpeg",
-      "bytes": 109069
+      "type": "avif",
+      "bytes": 59942
     }
   },
   {
@@ -242,8 +242,8 @@
     "verification": {
       "valid": true,
       "status": 200,
-      "type": "jpeg",
-      "bytes": 53494
+      "type": "avif",
+      "bytes": 20460
     }
   },
   {
@@ -476,8 +476,8 @@
     "verification": {
       "valid": true,
       "status": 200,
-      "type": "jpeg",
-      "bytes": 531457
+      "type": "webp",
+      "bytes": 216788
     }
   },
   {
@@ -489,8 +489,8 @@
     "verification": {
       "valid": true,
       "status": 200,
-      "type": "jpeg",
-      "bytes": 88809
+      "type": "avif",
+      "bytes": 33489
     }
   },
   {
@@ -502,14 +502,14 @@
     "verification": {
       "valid": true,
       "status": 200,
-      "type": "jpeg",
-      "bytes": 364256
+      "type": "webp",
+      "bytes": 136416
     }
   },
   {
     "group": "ai",
-    "title": "AI 動向簡報插圖",
-    "source": "聯合早報",
+    "title": "AI 動向封面",
+    "source": "聯合早報 — DeepSeek发布新版AI模型 性能提升且运行成本降低",
     "url": "https://www.zaobao.com.sg/news/china/story20261018-9855608",
     "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/fbe2cf51e54248deff8131ad48da5ae8961e977d14f523f0047dba54ee8572be",
     "verification": {
@@ -521,15 +521,15 @@
   },
   {
     "group": "warb",
-    "title": "美伊戰爭簡報插圖",
-    "source": "The National",
+    "title": "美伊戰爭封面",
+    "source": "The National — GCC urges Russia to press Iran on regional de-escalation",
     "url": "https://www.thenationalnews.com/world/mena/2026/10/18/gcc-urges-russia-to-press-iran-to-halt-attacks-as-lavrov-proposes-gulf-security-framework/",
     "ogImage": "https://www.thenationalnews.com/resizer/v2/NBZZV5YQ6L7XFJSETCVRFJTA3U.jpg?auth=0c260ea0e90a78d7b3417f083145d1ed1bed0e2ba31e5d6e9f32346ee2ef0f33&smart=true&width=1200&height=630",
     "verification": {
       "valid": true,
       "status": 200,
-      "type": "jpeg",
-      "bytes": 88809
+      "type": "avif",
+      "bytes": 33489
     }
   }
 ]

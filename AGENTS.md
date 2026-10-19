@@ -5,7 +5,7 @@
 呢個項目（`D:\Projects\Daily News`）由 Antigravity 接手 AI 編採及排程（舊 Codex 排程已停用）。AGENTS.md 係現行操作規矩；CLAUDE.md 只保留兼容入口。
 - 每次先讀本機時間，唔准估時間。回應時間格式跟 `D:\Projects\AGENTS.md` 總規則。
 - 明確要求改程式嘅任務（包括今次遷移）已授權相關修改；日常出稿只改新聞資料、工作紀錄及必要追蹤清單。唔好趁出稿改程式。
-- 新聞生產排程見 docs/codex-schedule.md（Antigravity sidecars：`daily-news-am`、`daily-news-pm-draft`、`daily-news-pm-refresh`）。唔用舊 Claude 或舊 Codex 排程工具。
+- 新聞生產排程見 docs/codex-schedule.md（Antigravity sidecar：`daily-news`，一日兩次）。唔用舊 Claude 或舊 Codex 排程工具。
 - 出稿前讀 docs/source-notes/README.md；所附來源筆記係舊經驗，實際文章時間、圖片同可用性要當次核實。
 - 以下來源限制及配額保留；機器檢查以 tools/rules.json 為準。規則文字如有衝突，要報告，唔好為過關靜靜改 selfcheck。
 - 四組編採係工作分工，唔要求同時有四個子 agent。遵守當次 agent 容量；總容量四個時，最多三個子 agent 加主 agent。
@@ -70,8 +70,8 @@
    - **唔准郁**：`data/` 入面其他日子嘅檔案、`index.html` 嘅 CSS、tab、favicon 標籤、`fmtT`、早晚切換嗰組 function（`ED`／`ED2`／`EDOF`）、搜尋嗰組 function（呢啲而家全部喺 `index.html`，出稿日常完全唔使掂佢）。
    - 更新 `data/index.json`：今日日期未喺清單就加去**最前面**（`[今日, ...原本清單]`，由新到舊排）；已經存在（今日第二版）就唔使再加，淨係改返 `data/<今日>.json` 個內容就夠。
    - 兩個檔（`data/<今日>.json` 同 `data/index.json`）都要驗 `JSON.parse` 過到先算。
-6. 跑自檢：`node tools/selfcheck.js <今日日期> <am|pm>`（selfcheck 而家直接讀 `data/index.json` + `data/*.json`，唔再讀 `index.html`），**exit 0 先可以出街**。
-7. 跟自檢個 🖼 清單**逐條驗圖**（第 9 節，兩步都要做）。
+6. 跑自檢：`node tools/selfcheck.js <今日日期> <am|pm>`（selfcheck 而家直接讀 `data/index.json` + `data/*.json`；**2026-10-19 起已整合強制 HTTP GET 逐圖實測與二進制檢查，404 或死圖直接 exit 1 唔准出街，全部通過時自動寫入 docs/verification/**），**exit 0 先可以出街**。
+7. ~~跟自檢個 🖼 清單逐條驗圖~~ **已整合入 selfcheck（2026-10-19）**：`selfcheck.js` 會自動對全部圖片執行 HTTP GET 實測與 magic bytes 檢驗，死圖直接 exit 1，杜絕人為跳步。
 8. ~~`cp index.html archive/YYYYMMDD.html`~~ **已取消（2026-09-21）**：快照由第 11 步嘅 git commit 取代，唔使再 cp；`archive/` 舊檔留住、已 gitignore，selfcheck 亦唔再驗 archive 檔。
 9. **發佈**：唔使做任何嘢。8080 server（`serve_news.ps1`）就係直接讀呢個資料夾嘅 `index.html` 同 `data/*.json`，寫完即刻生效（瀏覽器開住個頁重新整理就 fetch 返新 `data/<今日>.json`），Meshnet 睇嘅就係佢。
 10. 寫 `簡報/每日簡報_YYYYMMDD.md`（各組條數、自檢結果、遇到嘅問題）。
@@ -234,16 +234,13 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
 
 詳細背景見 `docs/事件追蹤.md`。
 
-## 9. ★★ 驗圖：兩步走，缺一必漏
-兩隻 CDN 行為**啱啱相反**：
-- `image.hkhl.hk`（星島）：錯 hash 都照回「Image content is not supported」→ **fetch 張圖驗唔到嘢**，只可以對字串。
-- `cdn.hk01.com`：錯 hash 一定 404 → fetch 張圖驗得到；**但舊 Claude WebFetch 曾經讀錯 hk01 og:image 簽名段**（實測同一頁三次讀出 D／P／Y 三個唔同字母）→ **對字串反而唔可信**。
-
-所以：
-- **第一步（全部圖）**：讀取原文／圖片工具（curl.exe、瀏覽器或 web 工具） **篇文章**攞 og:image，同現用圖**逐字比對**。唔同就用原文嗰條。
-- **第二步（全部圖）**：讀取原文／圖片工具（curl.exe、瀏覽器或 web 工具） **張圖本身**。回 404 ＝ 一定錯，唔准出街；回「Image content is not supported」＝ hk01／一般站存在 OK，hkhl 就當冇檢查過（睇返第一步）。
-- hk01 第二步 404 → **唔好自己估個字**：換個問法再讀篇文（例如「列出頁面上所有 `cdn.hk01.com` 開頭嘅完整 URL」），再 fetch 張圖驗，直到唔係 404。
-- 條數多可以開幾個 subagent 分批驗。
+## 9. ★★ 驗圖：強制程式碼 Blocking 檢驗（2026-10-19 升級）
+2026-10-19 起，驗圖已由 `tools/selfcheck.js` ＋ `tools/image-verifier.js` 機械化強制執行，唔再依賴人工／AI 自律：
+- 執行 selfcheck 嗰陣，會對當版全部 41 條圖片平行發送真實 HTTP GET 請求。
+- 嚴格核對 HTTP 200、檔案大小 ≥ 80 bytes、以及合法二進制 magic bytes（JPEG `\xFF\xD8\xFF`、PNG `\x89PNG`、WebP `RIFF...WEBP`、GIF、SVG）。
+- 但凡有任何一張圖 404、timeout、或二進制格式無效，`selfcheck.js` 直接報出失敗卡片並 **exit 1 終止**，任何人或 AI 都無法跳步偷雞。
+- 通過時，自動將 41 條實測證據寫入 `docs/verification/YYYY-MM-DD-[am|pm].json`。
+- 星島系 CDN 特殊行為：`image.hkhl.hk` 錯 hash 都回 200（返回 91 bytes 佔位圖），對此類站點仍須在搜料時核對原文 `og:image` 字串。
 
 ## 10. 兩篇簡報
 來源數／媒體數以 `tools/rules.json` → `brief` 為準，內容如下：
