@@ -35,7 +35,7 @@
       "valid": true,
       "status": 200,
       "type": "jpeg",
-      "bytes": 73437
+      "bytes": 76781
     }
   },
   {
@@ -53,15 +53,14 @@
   },
   {
     "group": "hks",
-    "title": "警方元朗村屋破獲逾二千萬毒品案",
-    "source": "Dimsum Daily",
-    "url": "https://www.dimsumdaily.hk/hong-kong-police-seize-hk22m-of-drugs-in-yuen-long-village-house-and-arrest-pakistani-couple/",
-    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/18231344/Pakistani-couple-3-3.webp",
+    "title": "天文台料今日日間乾燥最高約三十二度",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60401077",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261019/1188716301648850944061803.jpeg/kQhHjX7P-v1Xy3l5g_iP1Wk9m_qZ4hS_GZ0HwRmNB8E?v=w1280r16_9",
     "verification": {
-      "valid": true,
-      "status": 200,
-      "type": "webp",
-      "bytes": 325076
+      "valid": false,
+      "status": 404,
+      "reason": "HTTP not 200"
     }
   },
   {
@@ -92,15 +91,15 @@
   },
   {
     "group": "hks",
-    "title": "小腦萎縮症患者辦生前告別派對",
-    "source": "集誌社",
-    "url": "https://thecollectivehk.com/%e7%94%9f%e5%89%8d%e5%91%8a%e5%88%a5%ef%bd%9c33-%e6%ad%b2%e7%94%9f%e6%97%a5%e5%89%8d%e8%be%a6%e5%91%8a%e5%88%a5%e6%b4%be%e5%b0%8d%e3%80%80%e5%b0%8f%e8%85%a6%e8%90%8e%e7%b8%ae%e7%97%87%e6%82%a3/",
-    "ogImage": "https://thecollectivehk.com/wp-content/uploads/2026/10/20261018-YIK_0039-1-e1792336808109.jpeg",
+    "title": "葡萄牙爆發大規模示威抗議住屋成本高",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/portugal-sees-mass-protests-over-housing-and-cost-of-living/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/18225147/LISBON2-2-2.webp",
     "verification": {
       "valid": true,
       "status": 200,
-      "type": "jpeg",
-      "bytes": 88232
+      "type": "webp",
+      "bytes": 156948
     }
   },
   {
@@ -183,15 +182,14 @@
   },
   {
     "group": "hkl",
-    "title": "Keeta搶單機制潛在安全盲點引關注",
+    "title": "學者倡特殊教育須結合家庭與社區支援",
     "source": "香港01",
-    "url": "https://www.hk01.com/article/60399527",
-    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261018/1188578577143042048210365.jpeg/amR-X07nWySLfXBpg-s7GrQ0cdhwfARUpcfJV6XHyVc",
+    "url": "https://www.hk01.com/article/60400039",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261018/1188200676451192832049102.jpeg/4qjS36h3cT_20e2eB205q0q5f1T8T_P8T_08T_08T_0?v=w1280r16_9",
     "verification": {
-      "valid": true,
-      "status": 200,
-      "type": "jpeg",
-      "bytes": 241875
+      "valid": false,
+      "status": 404,
+      "reason": "HTTP not 200"
     }
   },
   {
@@ -274,28 +272,27 @@
   },
   {
     "group": "hkp",
-    "title": "早報評論指宏福苑火警考驗問責制",
-    "source": "聯合早報",
-    "url": "https://www.zaobao.com.sg/news/china/story20261019-9855815",
-    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/2a1abc32e8c750fdce73189504a639190ce88ab7b6432b31ebdc43bc2e5fed5e",
+    "title": "何立峰會見中投國際諮詢委員",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60401063",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20250810/1031169642569142272731402.jpeg/0qFtVhWmKvis2ijMlfie0gB3hXlqgpYUrA52zawOds0?v=w1280r16_9",
     "verification": {
       "valid": true,
       "status": 200,
-      "type": "webp",
-      "bytes": 126786
+      "type": "jpeg",
+      "bytes": 106515
     }
   },
   {
     "group": "cn",
-    "title": "廣西政協前主席黃日波落馬被查",
+    "title": "貴州副省長張敬平履新省委統戰部部長",
     "source": "聯合早報",
-    "url": "https://www.zaobao.com.sg/news/china/story20261018-9856939",
-    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/a92c9de4832f7e498fbdca836d514155438abe9c8725ad2fc98a4edc73ead072",
+    "url": "https://www.zaobao.com.sg/news/china/story20261019-9857952",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/56886e37fe512866cfda608670bf7efd03704944d1822a10d94f2bb1eeb12a4b",
     "verification": {
-      "valid": true,
-      "status": 200,
-      "type": "webp",
-      "bytes": 43160
+      "valid": false,
+      "status": 403,
+      "reason": "HTTP not 200"
     }
   },
   {
@@ -404,15 +401,15 @@
   },
   {
     "group": "us",
-    "title": "澤連斯基批美施壓促俄烏停火談判",
+    "title": "意大利米蘭蒙面示威者搶掠多間名店",
     "source": "香港01",
-    "url": "https://www.hk01.com/article/60401078",
-    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261016/1187606179841314816754362.jpeg/BdCzK3FIc_rxB_ZXcCXLdHO1npVkKXmD61cYyOtXGMg",
+    "url": "https://www.hk01.com/article/60401076",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261019/1188679450275876864648395.png/gYC8a8sXv-kyRWNHsPGW_4wZjqG6y66kBqZ0UQamdFE",
     "verification": {
       "valid": true,
       "status": 200,
       "type": "jpeg",
-      "bytes": 1222809
+      "bytes": 42594
     }
   },
   {
@@ -494,15 +491,14 @@
   },
   {
     "group": "war",
-    "title": "海合會譴責胡塞武裝襲擊沙特",
-    "source": "半島電視台",
-    "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-    "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad50ccd8e4f-1792347341.jpg?resize=1920%2C1440",
+    "title": "美官員巡視約旦河西岸遇襲巴勒斯坦村落",
+    "source": "海峽時報",
+    "url": "https://www.straitstimes.com/world/middle-east/us-officials-visit-palestinian-town-hit-by-settler-attack",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/ca622f9aa7e84efdcfcb663dbb4d0089851e360fbc51a2d58adfe7ea3834164b",
     "verification": {
-      "valid": true,
-      "status": 200,
-      "type": "jpeg",
-      "bytes": 364256
+      "valid": false,
+      "status": 403,
+      "reason": "HTTP not 200"
     }
   },
   {
