@@ -198,6 +198,7 @@ G.forEach(k => {
     if (!x[0]) bad.push(`${tag} 冇標題`);
     else if (!/[一-鿿]/.test(x[0])) bad.push(`${tag} 標題唔係中文：${x[0].slice(0, 30)}`);
     if (!x[1]) bad.push(`${tag} 冇摘要`);
+    else if (!/[一-鿿]/.test(x[1])) bad.push(`${tag} 摘要唔係中文：${x[1].slice(0, 40)}`);
     if (!x[2]) bad.push(`${tag} 冇來源名`);
     if (!/^https:\/\/\S+$/.test(x[3] || "")) bad.push(`${tag} URL 有問題：${x[3]}`);
     if (/^https?:\/\/[^\/]+\/?$/.test(x[3] || "")) bad.push(`${tag} 用咗首頁／列表頁做連結`);
