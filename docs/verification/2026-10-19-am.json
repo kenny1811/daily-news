@@ -35,7 +35,7 @@
       "valid": true,
       "status": 200,
       "type": "jpeg",
-      "bytes": 76781
+      "bytes": 73437
     }
   },
   {
@@ -56,11 +56,12 @@
     "title": "天文台料今日日間乾燥最高約三十二度",
     "source": "香港01",
     "url": "https://www.hk01.com/article/60401077",
-    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261019/1188716301648850944061803.jpeg/kQhHjX7P-v1Xy3l5g_iP1Wk9m_qZ4hS_GZ0HwRmNB8E?v=w1280r16_9",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261019/1188731575953657856491687.jpeg/OF_CK7MH-_kJsoYps_BU1JEY5x51OPtQ1Rahv9UWob8?v=w1280r16_9",
     "verification": {
-      "valid": false,
-      "status": 404,
-      "reason": "HTTP not 200"
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 145106
     }
   },
   {
@@ -185,11 +186,12 @@
     "title": "學者倡特殊教育須結合家庭與社區支援",
     "source": "香港01",
     "url": "https://www.hk01.com/article/60400039",
-    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261018/1188200676451192832049102.jpeg/4qjS36h3cT_20e2eB205q0q5f1T8T_P8T_08T_08T_0?v=w1280r16_9",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261015/1187425504681005056762450.jpeg/dwYz8TLaxpAJ_tXksKb_of8tgIzCMdtIExEwAhMRMAI?v=w1280r16_9",
     "verification": {
-      "valid": false,
-      "status": 404,
-      "reason": "HTTP not 200"
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 99023
     }
   },
   {
@@ -285,14 +287,15 @@
   },
   {
     "group": "cn",
-    "title": "貴州副省長張敬平履新省委統戰部部長",
+    "title": "官媒批留學生身披旭日旗上課令人憤慨",
     "source": "聯合早報",
-    "url": "https://www.zaobao.com.sg/news/china/story20261019-9857952",
-    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/56886e37fe512866cfda608670bf7efd03704944d1822a10d94f2bb1eeb12a4b",
+    "url": "https://www.zaobao.com.sg/news/china/story20261019-9857794",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/05a135725d3a063fe51c7aca7b5f522107d8c136b82396399748e4333187dc92",
     "verification": {
-      "valid": false,
-      "status": 403,
-      "reason": "HTTP not 200"
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 51488
     }
   },
   {
@@ -466,14 +469,15 @@
   },
   {
     "group": "war",
-    "title": "迪拜客機紅海上空險遭無人機撞",
-    "source": "海峽時報",
-    "url": "https://www.straitstimes.com/world/middle-east/captain-of-flydubai-plane-describes-near-miss-with-drone-over-red-sea",
-    "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/7b63f538fa8026ce2189d023b01a2f6432b00ee12f9ce8e0018f3a38808933b9",
+    "title": "以色列客機接炸彈恐嚇迫降保加利亞",
+    "source": "半島電視台",
+    "url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+    "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2018-01-09T000000Z_498499034_RC1D134EE5B0_RTRMADP_3_GLOBAL-AIRLINES-1792365018.jpg?resize=1920%2C1440",
     "verification": {
-      "valid": false,
-      "status": 403,
-      "reason": "HTTP not 200"
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 531457
     }
   },
   {
@@ -491,14 +495,15 @@
   },
   {
     "group": "war",
-    "title": "美官員巡視約旦河西岸遇襲巴勒斯坦村落",
-    "source": "海峽時報",
-    "url": "https://www.straitstimes.com/world/middle-east/us-officials-visit-palestinian-town-hit-by-settler-attack",
-    "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/ca622f9aa7e84efdcfcb663dbb4d0089851e360fbc51a2d58adfe7ea3834164b",
+    "title": "海合會促停止跨界武裝衝突",
+    "source": "半島電視台",
+    "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
+    "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad50ccd8e4f-1792347341.jpg?resize=1920%2C1440",
     "verification": {
-      "valid": false,
-      "status": 403,
-      "reason": "HTTP not 200"
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 364256
     }
   },
   {
