@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="favicon-16.png" sizes="16x16" type="image/png">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#0d1117">
+<title>門前直樹每日新聞 · 目錄</title>
+<style>
+  :root{--bg:#0d1117;--card:#161b22;--border:#242c38;--txt:#e6edf3;--muted:#8b949e;--accent:#58a6ff;--hk:#f0883e;--cn:#f85149;--us:#3fb950;--tw:#d2a8ff;--war:#ff7b72}
+  *{box-sizing:border-box}
+  html,body{height:auto}
+  body{margin:0;background:var(--bg);color:var(--txt);font-family:-apple-system,"PingFang HK","Noto Sans HK","Microsoft JhengHei",sans-serif;line-height:1.6;font-size:17px}
+  .wrap{display:flex;gap:20px;max-width:1720px;margin:0 auto;padding:18px 22px 120px;align-items:flex-start}
+  .side{flex:0 0 240px;position:sticky;top:18px}
+  .cal{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:14px}
+  .cal .hd{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+  .cal .hd b{font-size:17px}
+  .cal button.nav{background:#21262d;border:1px solid var(--border);color:var(--txt);border-radius:8px;width:32px;height:32px;font-size:17px;cursor:pointer}
+  .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px;text-align:center}
+  .grid .wd{color:var(--muted);font-size:12.5px;padding:3px 0}
+  .grid .day{padding:7px 0;border-radius:8px;font-size:14.5px;color:#586069}
+  .grid .day.has{color:var(--txt);background:#1f2733;cursor:pointer;font-weight:600}
+  .grid .day.has:hover{background:#2b3a4d}
+  .grid .day.sel{background:var(--accent);color:#04101f;font-weight:700}
+  .grid .day.today{outline:1px solid var(--accent)}
+  .sbox{margin-top:12px}
+  .sbox input{width:100%;padding:9px 12px;border-radius:10px;border:1px solid var(--border);background:var(--card);color:var(--txt);font-size:15px;font-family:inherit}
+  .sbox input::placeholder{color:#5b6673}
+  .sbox input:focus{outline:none;border-color:var(--accent)}
+  .shint{color:var(--muted);font-size:12.5px;margin-top:7px;text-align:center;line-height:1.45}
+  .stag{color:#6e7b8a;font-size:12.5px;font-weight:600}
+  /* ⚙️ 設定盒（web app 設定，左欄下半） */
+  .setbox{margin-top:12px;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px 14px}
+  .setbox .sh{display:flex;justify-content:space-between;align-items:center;font-size:14.5px;font-weight:700;color:var(--muted);margin-bottom:6px}
+  .setrow{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:7px 0}
+  .setrow label{font-size:14.5px;color:var(--txt)}
+  .setrow input{width:82px;padding:6px 8px;border-radius:8px;border:1px solid var(--border);background:#0f1620;color:var(--txt);font-size:15.5px;font-family:inherit;text-align:center;letter-spacing:.5px}
+  .setrow input::placeholder{color:#5b6673}
+  .setrow input:focus{outline:none;border-color:var(--accent)}
+  .setrow input.bad{border-color:var(--cn);background:#2a1516}
+  .setbtn{margin-top:8px;width:100%;padding:7px;border-radius:9px;border:1px solid var(--border);background:#21262d;color:var(--txt);font-size:14.5px;font-weight:600;font-family:inherit;cursor:pointer}
+  .setbtn:hover{background:#2b3a4d}
+  .setmsg{color:var(--muted);font-size:12.5px;margin-top:6px;text-align:center;line-height:1.45;min-height:1.45em}
+  .setmsg.ok{color:#3fb950}.setmsg.err{color:#ff7b72}
+  mark{background:#4a3a00;color:#ffd866;padding:0 2px;border-radius:3px}
+  .main{flex:1;min-width:0}
+  .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+  .tab{padding:9px 17px;border-radius:10px;background:var(--card);border:1px solid var(--border);color:var(--muted);cursor:pointer;font-size:16px;font-weight:600}
+  .tab:hover{background:#1f2733}
+  .tab.on{background:#1f2733;color:var(--txt);border-color:var(--accent)}
+  header{padding:0 2px 8px}
+  header h1{font-size:24px;margin:0}
+  header .date{color:var(--muted);font-size:15px;margin-top:2px}
+  .edsw{display:inline-flex;gap:6px;margin-top:6px}
+  .edsw-wrap{max-width:980px;margin:0 0 10px}
+  .edsw button{font-family:inherit;font-size:14px;padding:5px 14px;border-radius:999px;border:1px solid var(--border);background:var(--card);color:var(--muted);cursor:pointer}
+  .edsw button:hover:not(:disabled){background:#1f2733}
+  .edsw button.on{background:#1f2733;color:var(--txt);border-color:var(--accent)}
+  .edsw button:disabled{opacity:.3;cursor:default}
+  header .row2{display:flex;gap:14px;flex-wrap:wrap;margin-top:2px}
+  header .win{color:var(--accent);font-size:14px}
+  header .upd{color:var(--muted);font-size:14px}
+  .sec{margin:18px 0 6px}
+  .sec h2{font-size:19px;margin:0 0 12px;padding-left:10px;border-left:4px solid var(--accent);display:inline-block}
+  .hk h2{border-color:var(--hk)}.hks h2{border-color:#f0883e}.hkl h2{border-color:#2dd4bf}.hke h2{border-color:#3fb950}.hkp h2{border-color:#d2a8ff}.cn h2{border-color:var(--cn)}.us h2{border-color:var(--us)}.tw h2{border-color:var(--tw)}.war h2{border-color:var(--war)}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit}
+  .card:hover{border-color:var(--accent)}
+  .card-main{display:flex;flex-direction:column;text-decoration:none;color:inherit}
+  .cfresh{border-top:1px solid var(--border);padding:8px 12px 10px;color:var(--muted);font-size:13px}
+  .cfresh a{color:var(--accent);text-decoration:none}
+  .thumb{aspect-ratio:16/9;background:#0f1620;overflow:hidden}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb.ph{display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1b2330,#141a24)}
+  .thumb.ph span{color:#4a5768;font-size:13.5px;font-weight:600}
+  .cbody{padding:10px 12px 12px;display:flex;flex-direction:column;gap:5px}
+  .ctitle{font-weight:700;font-size:16.5px;line-height:1.34}
+  .cmeta{color:#6e7b8a;font-size:12.5px}
+  .cdesc{color:var(--muted);font-size:14.5px}
+  .csrc{margin-top:3px;font-size:14px;color:var(--accent)}
+  .csrc:after{content:" \2197";font-size:11px}
+  .war .card{border-color:#3d2020}
+  .track{background:#101418;border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin-top:12px}
+  .track h2{font-size:17px;margin:0 0 8px;padding-left:10px;border-left:4px solid #58a6ff}
+  .trow{padding:7px 0;border-bottom:1px dashed var(--border)}.trow:last-child{border-bottom:none}
+  .badge{display:inline-block;font-size:12.5px;padding:1px 8px;border-radius:20px;background:#21262d;color:var(--muted);margin-left:6px}
+  .tnote{color:var(--muted);font-size:15px}
+  .trow.tdim{opacity:.58}
+  .trow.tdim .tnote{font-size:14px}
+  .tcount{font-size:13px;color:var(--muted);font-weight:400;margin-left:8px}
+  /* 簡報 tab */
+  .brief{background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden;max-width:980px}
+  .brief .bimg{width:100%;max-height:340px;object-fit:cover;display:block;background:#0f1620}
+  .brief .bhd{padding:14px 20px 0}
+  .brief h2{font-size:22px;margin:0}
+  .brief .bupd{color:var(--muted);font-size:14px;margin-top:3px}
+  .brief .btxt{padding:12px 22px 4px;font-size:17px;line-height:1.85}
+  .brief .btxt p{margin:0 0 12px}
+  .brief .bsrc{padding:4px 22px 18px;font-size:15px;color:var(--muted)}
+  .brief .bsrc a{color:var(--accent);text-decoration:none;margin-right:14px}
+  .brief .bsrc a:after{content:" \2197";font-size:10px}
+  .empty{color:var(--muted);text-align:center;padding:50px 10px}
+  footer{color:var(--muted);font-size:13.5px;padding:16px 2px;text-align:center}
+  @media(max-width:900px){.wrap{flex-direction:column}.side{flex:none;width:100%;position:static}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="side">
+    <div class="cal">
+      <div class="hd"><button class="nav" onclick="shiftMonth(-1)">‹</button><b id="calTitle"></b><button class="nav" onclick="shiftMonth(1)">›</button></div>
+      <div class="grid" id="calGrid"></div>
+    </div>
+    <div class="sbox">
+      <input id="q" type="search" placeholder="🔍 搵新聞…" oninput="onSearch()" autocomplete="off" spellcheck="false">
+      <div class="shint" id="shint"></div>
+    </div>
+    <div class="setbox" id="setbox">
+      <div class="sh"><span>⚙️ 設定</span><span class="stag" id="setsrc"></span></div>
+      <div class="setrow"><label for="setAm">☀️ 午報 睇報時間</label><input id="setAm" inputmode="numeric" placeholder="10:00" maxlength="5" autocomplete="off" onfocus="this.select()" onblur="fmtHM(this)" onkeydown="if(event.key==='Enter')saveSettings()"></div>
+      <div class="setrow"><label for="setPm">🌙 夜報 睇報時間</label><input id="setPm" inputmode="numeric" placeholder="22:00" maxlength="5" autocomplete="off" onfocus="this.select()" onblur="fmtHM(this)" onkeydown="if(event.key==='Enter')saveSettings()"></div>
+      <button class="setbtn" onclick="saveSettings()">儲存</button>
+      <div class="setmsg" id="setmsg"></div>
+      <div class="shint">輸入 hh:mm 或 hhmm 都得。到時會自動開網頁；出稿喺睇報時間前約 90 分鐘開工、前 15 分鐘截稿（出稿時間嘅改動由下一次排程起生效）。</div>
+    </div>
+  </div>
+  <div class="main">
+    <div class="tabs">
+      <div class="tab" id="tab-news" onclick="setTab('news')">📰 每日新聞</div>
+      <div class="tab" id="tab-ai" onclick="setTab('ai')">🤖 AI 動向</div>
+      <div class="tab" id="tab-war" onclick="setTab('war')">🔥 美伊戰爭</div>
+    </div>
+    <div id="panel"></div>
+    <footer>門前直樹每日新聞 · 目錄頁</footer>
+  </div>
+</div>
+<script>
+let DB={};
+const SEC=[["hk","🇭🇰 香港"],["hks","🇭🇰 香港 · 社會"],["hkl","🇭🇰 香港 · 民生"],["hke","🇭🇰 香港 · 經濟"],["hkp","🇭🇰 香港 · 政治"],["cn","🇨🇳 中國大陸"],["us","🇺🇸 美國"],["tw","🇹🇼 台灣"],["war","🔥 專題 · 美伊戰爭（2026）"]];
+const WD=["日","一","二","三","四","五","六"];
+const pad=n=>String(n).padStart(2,"0");
+const esc=s=>String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+function todayHK(){const p=new Intl.DateTimeFormat("en",{timeZone:"Asia/Hong_Kong",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(new Date());return ["year","month","day"].map(k=>p.find(x=>x.type===k).value).join("-");}
+let TODAY, selDate, viewY, viewM;
+let curTab="news";
+let selEd=null;
+function fmtT(s){s=String(s||"");var m=s.match(/^(\d{4})-(\d{2})-(\d{2})[T ](\d{2}):(\d{2})(?::(\d{2}))?/);return m?m[3]+"/"+m[2]+"/"+m[1]+" "+m[4]+":"+m[5]+":"+(m[6]||"00"):s;}
+function imgFix(u){if(!u)return u;
+  // 2026-08-09：NPR 等 Brightspot 站嘅 og:image 係 dims3 轉檔連結（.../format/jpeg/?url=<原圖>），
+  // 喺我哋個站 hotlink 會失敗變灰底。拆返入面嗰條原圖直接用，順手 http→https。
+  // 2026-09-21：只對 dims 轉檔連結做嘢；其他 URL（例如 FT images.ft.com/v3/image/raw/<encoded>）原樣照用，唔再亂解 %2F／%3A。
+  var mm=u.match(/[?&]url=([^&]+)/);
+  if(mm&&/\/dims[0-9]?\//.test(u)){try{var inner=decodeURIComponent(mm[1]);if(/^https?:\/\//.test(inner))u=inner.replace(/^http:/,"https:");}catch(e){}}
+  return u;}
+const ED={am:{lab:"☀️ 早報",win:"涵蓋前晚 18:00 至今朝 06:00"},pm:{lab:"🌙 晚報",win:"涵蓋今日 06:00 至 18:00"}};
+const ED2={am:{lab:"☀️ 午報",win:"涵蓋噚晚 21:00 至今朝 09:30"},pm:{lab:"🌙 夜報",win:"涵蓋今日 09:00 至 21:55"}};
+const ED2START="2026-08-15";
+function EDOF(dd,e){return (dd>=ED2START?ED2:ED)[e];}
+function eds(dd){const d=DB[dd];if(!d)return[];const r=[];if(d.am)r.push("am");if(d.pm)r.push("pm");return r;}
+function edData(dd,e){const d=DB[dd];if(!d)return null;const es=eds(dd);if(!es.length)return d;return d[e&&d[e]?e:es[es.length-1]]||null;}
+function curEd(dd){const es=eds(dd);if(!es.length)return null;return (selEd&&es.indexOf(selEd)>=0)?selEd:es[es.length-1];}
+function setEd(e){selEd=e;renderPanel();window.scrollTo(0,0);}
+function edBar(dd){const es=eds(dd);if(!es.length)return"";const c=curEd(dd);
+  return '<span class="edsw">'+["am","pm"].map(function(k){var have=es.indexOf(k)>=0;
+    return '<button'+(have?'':' disabled')+(k===c?' class="on"':'')+(have?' onclick="setEd(\''+k+'\')"':'')+'>'+EDOF(selDate,k).lab+'</button>';}).join("")+'</span>';}
+function card(it){
+  const t=it[0],de=it[1],src=it[2],url=it[3],pub=it[4]||"",upd=it[5]||"",img=it[6]||"";
+  const fresh=it[8]&&it[8].freshReport;
+  const thumb=img?('<div class="thumb"><img loading="lazy" referrerpolicy="no-referrer" src="'+esc(imgFix(img))+'" onerror="this.onerror=null;var p=this.parentNode;p.classList.add(\'ph\');p.innerHTML=\'<span>'+esc(src)+'</span>\'"></div>'):('<div class="thumb ph"><span>'+esc(src)+'</span></div>');
+  const times='🕒 '+(fresh?'原帖':'發放')+'：'+esc(fmtT(pub))+(upd?' ｜ 更新：'+esc(fmtT(upd)):'');
+  const body=thumb+'<div class="cbody"><div class="ctitle">'+(it[7]?'🔥 ':'')+esc(t)+'</div><div class="cmeta">'+times+'</div><div class="cdesc">'+esc(de)+'</div><div class="csrc">'+esc(src)+'</div></div>';
+  if(!fresh)return '<a class="card" href="'+esc(url)+'" target="_blank" rel="noopener">'+body+'</a>';
+  return '<div class="card"><a class="card-main" href="'+esc(url)+'" target="_blank" rel="noopener">'+body+'</a><div class="cfresh">窗內新報道：<a href="'+esc(fresh.url)+'" target="_blank" rel="noopener">'+esc(fresh.source)+'</a> · '+esc(fmtT(fresh.publishedAt))+'<br>'+esc(fresh.newInformation)+'</div></div>';
+}
+function renderNews(dd){
+  const data=edData(dd,selEd);
+  let h="";
+  if(!data){document.getElementById("panel").innerHTML='<div class="empty">呢日暫時未有新聞紀錄 🗒️</div>';return;}
+  const dt=new Date(dd+"T00:00:00");
+  h+='<header><h1>📰 門前直樹每日新聞</h1><div class="date">'+dd.slice(0,4)+"年"+(+dd.slice(5,7))+"月"+(+dd.slice(8,10))+"日（週"+WD[dt.getDay()]+"）· 香港時間</div>";
+  const _c=curEd(dd);
+  h+=edBar(dd);
+  h+='<div class="row2"><span class="win">'+(_c?EDOF(selDate,_c).win:'涵蓋過去 24 小時內最新新聞')+'</span>'+(data._updated?'<span class="upd">最後更新：'+esc(data._updated)+'</span>':'')+'</div></header>';
+  for(const [k,title] of SEC){
+    const arr=data[k]||[];if(!arr.length)continue;
+    h+='<div class="sec '+k+'"><h2>'+title+'</h2><div class="cards">'+arr.map(card).join("")+'</div></div>';
+  }
+  if((data.track||[]).length){
+    const NOP=/今日無新進展|今日未見新|未見新進展|未見新報道|無新進展|冇新進展|暫無新進展|暫未見新/;
+    const rows=data.track.filter(function(r){return Array.isArray(r)&&r[0];}).map(function(r){
+      var a=r[1]==null?"":String(r[1]), b=r[2]==null?"":String(r[2]);
+      if(r.length>=7) b="";                              // 舊日子誤用 7 欄新聞卡格式
+      if(/^\d{4}-\d{2}-\d{2}$/.test(b)) b="";           // 舊日子第三欄淨係日期
+      var isB=a&&a.length<=12;                           // 短嘅先做狀態標籤，長嘅當進展
+      return {n:r[0], badge:isB?a:"", note:isB?b:(b?a+"　→　"+b:a), dim:NOP.test(a+b)};
+    });
+    rows.sort(function(x,y){return (x.dim?1:0)-(y.dim?1:0);});
+    const nn=rows.filter(function(x){return !x.dim;}).length;
+    h+='<div class="track"><h2>🧭 事件追蹤（持續更新）<span class="tcount">'+rows.length+' 條追蹤中・'+nn+' 條今日有進展</span></h2>';
+    for(const r of rows){h+='<div class="trow'+(r.dim?" tdim":"")+'"><b>'+esc(r.n)+'</b>'+(r.badge?'<span class="badge">'+esc(r.badge)+'</span>':'')+'<div class="tnote">'+esc(r.note)+'</div></div>';}
+    h+='</div>';
+  }
+  document.getElementById("panel").innerHTML=h;
+}
+function renderBrief(key,label){
+  let d=selDate, _e=edData(selDate,selEd), data=_e&&_e[key];
+  if(!data&&!eds(selDate).length){ const ks=Object.keys(DB).filter(function(x){var z=edData(x,null);return z&&z[key];}).sort(); if(ks.length){d=ks[ks.length-1];data=edData(d,null)[key];} }
+  const box=document.getElementById("panel");
+  const _bar=edBar(d), _barh=_bar?'<div class="edsw-wrap">'+_bar+'</div>':"";
+  if(!data){ box.innerHTML=_barh+'<div class="empty">呢版未有'+esc(label)+'簡報 🗒️</div>'; return; }
+  const paras=String(data.t).split("\n").filter(x=>x.trim()).map(p=>'<p>'+esc(p)+'</p>').join("");
+  const img=data.img?'<img class="bimg" src="'+esc(imgFix(data.img))+'" onerror="this.style.display=\'none\'">':'';
+  const srcs=(data.src||[]).map(s=>'<a href="'+esc(s[1])+'" target="_blank" rel="noopener">'+esc(s[0])+'</a>').join("");
+  box.innerHTML=_barh+'<div class="brief">'+img+'<div class="bhd"><h2>'+esc(label)+'</h2><div class="bupd">更新：'+esc(data.upd||d)+'　·　約 300 字簡報</div></div><div class="btxt">'+paras+'</div><div class="bsrc">來源：'+srcs+'</div></div>';
+}
+let SIDX=null,prevTab="news",sTimer=null;
+function buildIdx(){
+  if(SIDX)return SIDX;
+  const out=[],seen={};
+  const ds=Object.keys(DB).sort().reverse();
+  for(const dd of ds){
+    const d=DB[dd];if(!d)continue;
+    const es=eds(dd);
+    const parts=es.length?es.map(e=>[e,d[e]]):[[null,d]];
+    for(const pe of parts){
+      const e=pe[0],data=pe[1];if(!data)continue;
+      for(const kt of SEC){
+        const k=kt[0],title=kt[1],arr=data[k]||[];
+        for(const it of arr){
+          const u=it[3];if(!u||seen[u])continue;seen[u]=1;
+          out.push({it:it,dd:dd,ed:e,sec:title,hay:((it[0]||"")+" "+(it[1]||"")+" "+(it[2]||"")).toLowerCase()});
+        }
+      }
+    }
+  }
+  SIDX=out;return out;
+}
+function hl(str,ts){
+  // 2026-09-21：先用關鍵字 split 原文，再逐段 esc，唔會切開 &amp; 之類 HTML entity；搜含 & 嘅字亦配得中。
+  const s=String(str||"");
+  if(!ts.length)return esc(s);
+  const r=new RegExp("("+ts.map(x=>x.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")).join("|")+")","gi");
+  return s.split(r).map(function(seg,i){return i%2?'<mark>'+esc(seg)+'</mark>':esc(seg);}).join("");
+}
+function scard(r,ts){
+  const it=r.it,img=it[6]||"",src=it[2]||"";
+  const fresh=it[8]&&it[8].freshReport;
+  const thumb=img?('<div class="thumb"><img loading="lazy" referrerpolicy="no-referrer" src="'+esc(imgFix(img))+'" onerror="this.onerror=null;var p=this.parentNode;p.classList.add(\'ph\');p.innerHTML=\'<span>'+esc(src)+'</span>\'"></div>'):('<div class="thumb ph"><span>'+esc(src)+'</span></div>');
+  const dt=r.dd.slice(8,10)+"/"+r.dd.slice(5,7)+"/"+r.dd.slice(0,4);
+  const edl=r.ed?EDOF(r.dd,r.ed).lab:"";
+  const tag='<div class="stag">'+esc(dt)+(edl?" · "+edl:"")+" · "+esc(r.sec)+'</div>';
+  const body=thumb+'<div class="cbody">'+tag+'<div class="ctitle">'+hl(it[0],ts)+'</div><div class="cmeta">🕒 '+(fresh?'原帖：':'')+esc(fmtT(it[4]||""))+'</div><div class="cdesc">'+hl(it[1]||"",ts)+'</div><div class="csrc">'+hl(src,ts)+'</div></div>';
+  if(!fresh)return '<a class="card" href="'+esc(it[3])+'" target="_blank" rel="noopener">'+body+'</a>';
+  return '<div class="card"><a class="card-main" href="'+esc(it[3])+'" target="_blank" rel="noopener">'+body+'</a><div class="cfresh">窗內新報道：<a href="'+esc(fresh.url)+'" target="_blank" rel="noopener">'+esc(fresh.source)+'</a> · '+esc(fmtT(fresh.publishedAt))+'<br>'+esc(fresh.newInformation)+'</div></div>';
+}
+function renderSearch(){
+  const el=document.getElementById("q");
+  const q=((el&&el.value)||"").trim();
+  const ts=q.split(/\s+/).filter(Boolean);
+  const low=ts.map(t=>t.toLowerCase());
+  const box=document.getElementById("panel");
+  let res=buildIdx().filter(r=>low.every(t=>r.hay.indexOf(t)>=0));
+  const total=res.length,MAX=300;
+  if(res.length>MAX)res=res.slice(0,MAX);
+  let h='<header><h1>🔍 搜尋結果</h1><div class="date">關鍵字：'+esc(q)+'　·　搵到 '+total+' 條'+(total>MAX?'（只顯示最新 '+MAX+' 條）':'')+'</div></header>';
+  if(!total){box.innerHTML=h+'<div class="empty">搵唔到相關新聞 🙈<br>試下少打幾個字，或者換個講法</div>';return;}
+  box.innerHTML=h+'<div class="cards">'+res.map(r=>scard(r,ts)).join("")+'</div>';
+}
+function onSearch(){clearTimeout(sTimer);sTimer=setTimeout(doSearch,130);}
+function doSearch(){
+  const el=document.getElementById("q");
+  const q=((el&&el.value)||"").trim();
+  if(!q){if(curTab==="search")curTab=prevTab||"news";renderPanel();return;}
+  if(curTab!=="search"){prevTab=curTab;curTab="search";}
+  renderPanel();
+}
+function renderPanel(){
+  document.getElementById("tab-news").classList.toggle("on",curTab==="news");
+  document.getElementById("tab-ai").classList.toggle("on",curTab==="ai");
+  document.getElementById("tab-war").classList.toggle("on",curTab==="war");
+  if(curTab==="search"){renderSearch();return;}
+  if(curTab==="news") renderNews(selDate);
+  else if(curTab==="ai") renderBrief("ai","🤖 AI 動向（Claude／ChatGPT／Gemini）");
+  else renderBrief("warb","🔥 美伊戰爭最新情況");
+}
+function setTab(t){const el=document.getElementById("q");if(el)el.value="";prevTab=t;curTab=t;renderPanel();window.scrollTo(0,0);}
+function renderCal(){
+  document.getElementById("calTitle").textContent=viewY+"年"+viewM+"月";
+  const grid=document.getElementById("calGrid");
+  let h=WD.map(w=>'<div class="wd">'+w+'</div>').join("");
+  const first=new Date(viewY,viewM-1,1).getDay();
+  const days=new Date(viewY,viewM,0).getDate();
+  for(let i=0;i<first;i++)h+="<div></div>";
+  for(let dn=1;dn<=days;dn++){
+    const key=viewY+"-"+pad(viewM)+"-"+pad(dn);
+    const cls=["day"];if(DB[key])cls.push("has");if(key===selDate)cls.push("sel");if(key===TODAY)cls.push("today");
+    const click=DB[key]?" onclick=\"pick('"+key+"')\"":"";
+    h+='<div class="'+cls.join(" ")+'"'+click+'>'+dn+"</div>";
+  }
+  grid.innerHTML=h;
+}
+function pick(dd){const _q=document.getElementById("q");if(_q)_q.value="";if(curTab==="search")curTab=prevTab||"news";selDate=dd;selEd=null;viewY=+dd.slice(0,4);viewM=+dd.slice(5,7);renderCal();renderPanel();}
+function shiftMonth(n){viewM+=n;if(viewM<1){viewM=12;viewY--}if(viewM>12){viewM=1;viewY++}renderCal();}
+/* ⚙️ 設定：睇報時間。儲存去 settings.json（經 api/settings，由 serve_news.ps1 寫檔）；冇 server 就 fallback localStorage。
+   排程任務（daily-news-am / daily-news-pm）開工時會讀 settings.json 對返自己嘅時間。 */
+const SET_DEF={amView:"10:00",pmView:"22:00"};
+let SET=Object.assign({},SET_DEF);
+function parseHM(s){s=String(s||"").trim().replace(/[０-９]/g,function(c){return String.fromCharCode(c.charCodeAt(0)-0xFEE0)}).replace(/：/g,":").replace(/\s+/g,"");if(!s)return null;
+  var m=s.match(/^(\d{1,2}):(\d{2})$/);
+  if(!m){if(/^\d{3,4}$/.test(s)){var d=s.padStart(4,"0");m=[0,d.slice(0,2),d.slice(2)];}else if(/^\d{1,2}$/.test(s)){m=[0,s,"00"];}else return null;}
+  var h=+m[1],mi=+m[2];if(h>23||mi>59)return null;return pad(h)+":"+pad(mi);}
+function fmtHM(el){if(!el.value.trim()){el.classList.remove("bad");return;}var v=parseHM(el.value);if(v){el.value=v;el.classList.remove("bad");}else el.classList.add("bad");}
+function setMsg(t,cls){var m=document.getElementById("setmsg");if(!m)return;m.textContent=t;m.className="setmsg"+(cls?" "+cls:"");}
+function applySettingsUI(src){var a=document.getElementById("setAm"),p=document.getElementById("setPm"),s=document.getElementById("setsrc");
+  if(a)a.value=SET.amView||"";if(p)p.value=SET.pmView||"";if(s)s.textContent=src||"";}
+async function loadSettings(){var src="預設";
+  try{var ls=localStorage.getItem("dn_settings");if(ls){Object.assign(SET,JSON.parse(ls));src="本機";}}catch(e){}
+  try{var r=await fetch("api/settings",{cache:"no-store"});if(r.ok){var j=await r.json();if(j&&typeof j==="object"&&(j.amView||j.pmView)){Object.assign(SET,j);src="伺服器";}}}catch(e){}
+  applySettingsUI(src);}
+async function saveSettings(){var a=document.getElementById("setAm"),p=document.getElementById("setPm");
+  var av=parseHM(a.value),pv=parseHM(p.value);
+  a.classList.toggle("bad",!av);p.classList.toggle("bad",!pv);
+  if(!av||!pv){setMsg("時間格式唔對：請輸入 hh:mm 或 hhmm（例如 10:00 或 2200）","err");return;}
+  a.value=av;p.value=pv;
+  var body={amView:av,pmView:pv,updated:new Date().toISOString()};
+  Object.assign(SET,body);
+  try{localStorage.setItem("dn_settings",JSON.stringify(SET));}catch(e){}
+  setMsg("儲存中…");
+  try{var r=await fetch("api/settings",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+    if(!r.ok)throw new Error("HTTP "+r.status);
+    setMsg("✅ 已儲存到伺服器：午報 "+av+"、夜報 "+pv+" 前出好","ok");applySettingsUI("伺服器");
+  }catch(e){setMsg("⚠ 伺服器儲存失敗（"+e.message+"），只儲存喺本機瀏覽器","err");applySettingsUI("本機");}}
+
+async function fetchJSON(u){
+  const r=await fetch(u,{cache:"no-store"});
+  if(!r.ok)throw new Error("HTTP "+r.status+" "+u);
+  return r.json();
+}
+function updateSearchHint(){
+  SIDX=null;
+  var n=buildIdx().length,d=Object.keys(DB).length;
+  var e=document.getElementById("shint");if(e)e.textContent="藍色日子＝有內容　·　可搜尋 "+d+" 日、"+n+" 條新聞";
+}
+let newsLoading=false, lastNewsLoad=0;
+async function boot(){
+  if(newsLoading)return;
+  newsLoading=true;
+  try{
+    const panel=document.getElementById("panel");
+    panel.innerHTML='<div class="empty">載入緊新聞資料…</div>';
+    let dates;
+    try{
+      dates=await fetchJSON("data/index.json");
+      if(!Array.isArray(dates)||!dates.length)throw new Error("data/index.json 格式錯誤或者冇資料");
+    }catch(e){
+      panel.innerHTML='<div class="empty">⚠ 讀取新聞清單失敗（'+esc(e.message)+'）<br>如果用 file:// 直接開檔案，瀏覽器會擋咗呢個 fetch；請用 serve_news.ps1 開嘅 http://localhost:8080/ 嚟睇，或者重新整理頁面。</div>';
+      return;
+    }
+    const fastDates=dates.slice(0,7), restDates=dates.slice(7);
+    const fastRes=await Promise.allSettled(fastDates.map(dd=>fetchJSON("data/"+dd+".json").then(j=>[dd,j])));
+    const nextDB={};
+    fastRes.forEach(r=>{ if(r.status==="fulfilled")nextDB[r.value[0]]=r.value[1]; });
+    const nowHK=todayHK();
+    if(fastDates.includes(nowHK)&&!nextDB[nowHK]){
+      panel.innerHTML='<div class="empty">⚠ 今日新聞資料讀取失敗（'+esc(nowHK)+'），請重新整理頁面；暫不顯示舊版以免誤當今日新聞。</div>';
+      return;
+    }
+    if(!Object.keys(nextDB).length){
+      panel.innerHTML='<div class="empty">⚠ 讀取最新新聞資料失敗，請檢查 server 有冇開，或者重新整理頁面</div>';
+      return;
+    }
+    DB=nextDB;
+    TODAY=nowHK;
+    const keys=Object.keys(DB).filter(dd=>dd<=TODAY).sort();
+    selDate=DB[TODAY]?TODAY:(keys[keys.length-1]||TODAY);
+    selEd=null;
+    viewY=+selDate.slice(0,4);viewM=+selDate.slice(5,7);
+    renderCal();renderPanel();
+    loadSettings();
+    updateSearchHint();
+    for(let i=0;i<restDates.length;i+=15){
+      const batch=restDates.slice(i,i+15);
+      const res=await Promise.allSettled(batch.map(dd=>fetchJSON("data/"+dd+".json").then(j=>[dd,j])));
+      res.forEach(r=>{ if(r.status==="fulfilled")DB[r.value[0]]=r.value[1]; });
+    }
+    renderCal();
+    updateSearchHint();
+    if(curTab==="search")renderSearch();
+  }finally{newsLoading=false;lastNewsLoad=Date.now();}
+}
+async function refreshNewsOnReturn(){
+  if(newsLoading||document.visibilityState!=="visible"||Date.now()-lastNewsLoad<=5000)return;
+  newsLoading=true;
+  try{
+    const dates=await fetchJSON("data/index.json");
+    if(!Array.isArray(dates)||!dates.length)return;
+    const checkSet=new Set(dates.slice(0,2));
+    if(selDate)checkSet.add(selDate);
+    let changed=false;
+    for(const dd of checkSet){
+      try{
+        const fresh=await fetchJSON("data/"+dd+".json");
+        if(JSON.stringify(DB[dd])!==JSON.stringify(fresh)){
+          const wasNewest=(selDate===Object.keys(DB).sort().slice(-1)[0]);
+          DB[dd]=fresh;
+          changed=true;
+          if(wasNewest&&dd>=selDate){selDate=dd;selEd=null;viewY=+dd.slice(0,4);viewM=+dd.slice(5,7);}
+        }
+      }catch(_){}
+    }
+    if(changed){
+      TODAY=todayHK();
+      updateSearchHint();
+      renderCal();
+      renderPanel();
+    }
+  }catch(_){}finally{newsLoading=false;lastNewsLoad=Date.now();}
+}
+window.addEventListener("focus",refreshNewsOnReturn);
+window.addEventListener("pageshow",function(e){if(e.persisted)refreshNewsOnReturn();});
+document.addEventListener("visibilitychange",refreshNewsOnReturn);
+boot();
+</script>
+</body>
+</html>
