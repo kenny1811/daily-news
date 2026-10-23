@@ -3,7 +3,7 @@
 
   "window": {
     "_說明": "時間窗＝硬底線（AGENTS.md 第 2 節）。floor／ceil 全部 HKT；day=prev 即係噚日、same 即係出稿當日。strictFrom：由呢日（含）起嘅版先用新規則（parse 做 epoch、驗上限、驗未來）；之前嘅舊版照舊只用字串比較驗下限，免得舊資料（08-01～08-27 嘅 T 格式、非 +08 offset）被翻舊帳。",
-    "am": { "floor": { "day": "prev", "time": "21:00" }, "ceil": { "day": "same", "time": "09:45" } },
+    "am": { "floor": { "day": "prev", "time": "21:00" }, "ceil": { "day": "same", "time": "09:30" } },
     "pm": { "floor": { "day": "same", "time": "09:00" }, "ceil": { "day": "same", "time": "21:55" } },
     "tz": "+08:00",
     "strictFrom": "2026-09-21"
@@ -101,7 +101,7 @@
   },
 
   "image": {
-    "_說明": "圖片硬性驗證（AGENTS.md 第 9 節）：全部圖片必須經 HTTP GET 實測，回傳 HTTP 200，且為有效二進制圖片格式（JPEG/PNG/WEBP/GIF/SVG），檔案大小必須 ≥ minBytes。404 或格式無效直接 exit 1。",
+    "_說明": "圖片硬性驗證（AGENTS.md 第 9 節）：全部圖片必須經 HTTP GET 實測，回傳 HTTP 200，格式可識別並可完整解碼（JPEG/PNG/WebP/GIF/SVG/AVIF），檔案大小必須 ≥ minBytes。原文 og:image 另須人工逐張比對。",
     "minBytes": 80,
     "concurrency": 8,
     "timeoutMs": 15000

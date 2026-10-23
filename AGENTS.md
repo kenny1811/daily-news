@@ -1,11 +1,11 @@
-# Antigravity / Codex 接手須知（2026-10-18 更新）
+# Codex 接手須知（2026-10-23 更新）
 
 文件讀取頻率：同一個 chat 首次讀取適用規則一次；已自動載入或實際讀過嘅相同內容視為已讀。規則有更新先重讀有更新嗰份，唔因新任務或追問重讀全文。README、project 摘要、歷史及其他參考資料只喺當前工作有需要時讀相關部分。
 
-呢個項目（`D:\Projects\Daily News`）由 Antigravity 接手 AI 編採及排程（舊 Codex 排程已停用）。AGENTS.md 係現行操作規矩；CLAUDE.md 只保留兼容入口。
+呢個項目（`D:\Projects\Daily News`）由 Codex 執行 AI 編採及排程；Gemini Daily News sidecar 已停用。AGENTS.md 係現行操作規矩；CLAUDE.md 只保留兼容入口。
 - 每次先讀本機時間，唔准估時間。回應時間格式跟 `D:\Projects\AGENTS.md` 總規則。
 - 明確要求改程式嘅任務（包括今次遷移）已授權相關修改；日常出稿只改新聞資料、工作紀錄及必要追蹤清單。唔好趁出稿改程式。
-- 新聞生產排程見 docs/codex-schedule.md（Antigravity sidecar：`daily-news`，一日兩次）。唔用舊 Claude 或舊 Codex 排程工具。
+- 新聞生產排程見 docs/codex-schedule.md（Codex 午報 `automation`、晚報 `automation-2`、同步 `automation-3`）。唔用 Gemini sidecar 或舊 Claude 排程。
 - 出稿前讀 docs/source-notes/README.md；所附來源筆記係舊經驗，實際文章時間、圖片同可用性要當次核實。
 - 以下來源限制及配額保留；機器檢查以 tools/rules.json 為準。規則文字如有衝突，要報告，唔好為過關靜靜改 selfcheck。
 - 四組編採係工作分工，唔要求同時有四個子 agent。遵守當次 agent 容量；總容量四個時，最多三個子 agent 加主 agent。
@@ -70,8 +70,8 @@
    - **唔准郁**：`data/` 入面其他日子嘅檔案、`index.html` 嘅 CSS、tab、favicon 標籤、`fmtT`、早晚切換嗰組 function（`ED`／`ED2`／`EDOF`）、搜尋嗰組 function（呢啲而家全部喺 `index.html`，出稿日常完全唔使掂佢）。
    - 更新 `data/index.json`：今日日期未喺清單就加去**最前面**（`[今日, ...原本清單]`，由新到舊排）；已經存在（今日第二版）就唔使再加，淨係改返 `data/<今日>.json` 個內容就夠。
    - 兩個檔（`data/<今日>.json` 同 `data/index.json`）都要驗 `JSON.parse` 過到先算。
-6. 跑自檢：`node tools/selfcheck.js <今日日期> <am|pm>`（selfcheck 而家直接讀 `data/index.json` + `data/*.json`；**2026-10-19 起已整合強制 HTTP GET 逐圖實測與二進制檢查，404 或死圖直接 exit 1 唔准出街，全部通過時自動寫入 docs/verification/**），**exit 0 先可以出街**。
-7. ~~跟自檢個 🖼 清單逐條驗圖~~ **已整合入 selfcheck（2026-10-19）**：`selfcheck.js` 會自動對全部圖片執行 HTTP GET 實測與 magic bytes 檢驗，死圖直接 exit 1，杜絕人為跳步。
+6. 跑自檢：`node tools/selfcheck.js <今日日期> <am|pm>`（selfcheck 直接讀 `data/index.json` + `data/*.json`；已整合 HTTP GET 逐圖實測及完整解碼，404 或死圖直接 exit 1，全部通過時自動寫入 docs/verification/；原文 `og:image` 仍須另行逐張比對），**exit 0 先可以出街**。
+7. `selfcheck.js` 會自動對全部圖片執行 HTTP GET、格式識別及完整解碼，死圖直接 exit 1；編採仍須逐張將卡片圖片 URL 同原文 `og:image` 比對，記錄結果。自檢只驗圖片檔，唔會代替原文比對。
 8. ~~`cp index.html archive/YYYYMMDD.html`~~ **已取消（2026-09-21）**：快照由第 11 步嘅 git commit 取代，唔使再 cp；`archive/` 舊檔留住、已 gitignore，selfcheck 亦唔再驗 archive 檔。
 9. **發佈**：唔使做任何嘢。8080 server（`serve_news.ps1`）就係直接讀呢個資料夾嘅 `index.html` 同 `data/*.json`，寫完即刻生效（瀏覽器開住個頁重新整理就 fetch 返新 `data/<今日>.json`），Meshnet 睇嘅就係佢。
 10. 寫 `簡報/每日簡報_YYYYMMDD.md`（各組條數、自檢結果、遇到嘅問題）。
@@ -237,9 +237,9 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
 ## 9. ★★ 驗圖：強制程式碼 Blocking 檢驗（2026-10-19 升級）
 2026-10-19 起，驗圖已由 `tools/selfcheck.js` ＋ `tools/image-verifier.js` 機械化強制執行，唔再依賴人工／AI 自律：
 - 執行 selfcheck 嗰陣，會對當版全部 41 條圖片平行發送真實 HTTP GET 請求。
-- 嚴格核對 HTTP 200、檔案大小 ≥ 80 bytes、以及合法二進制 magic bytes（JPEG `\xFF\xD8\xFF`、PNG `\x89PNG`、WebP `RIFF...WEBP`、GIF、SVG）。
+- 嚴格核對 HTTP 200、檔案大小 ≥ 80 bytes、合法二進制格式及完整解碼（JPEG、PNG、WebP、GIF、SVG、AVIF）；解碼使用本機 Python Pillow。
 - 但凡有任何一張圖 404、timeout、或二進制格式無效，`selfcheck.js` 直接報出失敗卡片並 **exit 1 終止**，任何人或 AI 都無法跳步偷雞。
-- 通過時，自動將 41 條實測證據寫入 `docs/verification/YYYY-MM-DD-[am|pm].json`。
+- 通過時，自動將實測證據寫入 `docs/verification/YYYY-MM-DD-[am|pm].json`；原文 `og:image` 逐張比對仍由編採核實及記錄，唔可以將呢份機器紀錄當成原文比對證據。
 - 星島系 CDN 特殊行為：`image.hkhl.hk` 錯 hash 都回 200（返回 91 bytes 佔位圖），對此類站點仍須在搜料時核對原文 `og:image` 字串。
 
 ## 10. 兩篇簡報
@@ -340,14 +340,14 @@ selfcheck 出呢個 ⚠ **唔可以照出街，一定要打開兩條比對內容
 - 左欄下半有「⚙️ 設定」盒：Kenny 輸入想幾點睇到午報／夜報（`hh:mm` 或 `hhmm` 都收）。
 - 儲存去本資料夾 `settings.json`（`{"amView":"10:00","pmView":"22:00","updated":...}`），經 `serve_news.ps1` 嘅 `GET/POST …/api/settings` 寫檔；冇 server 就 fallback localStorage。`settings.json` 唔入 git（範本 `settings.example.json`）。
 - **server 行為（2026-09-21 起）**：只 serve `index.html`、root 嘅 `*.png`／`*.svg`／`*.ico`、`data/index.json`、`data/YYYY-MM-DD.json` 同 `/api/settings`，其他路徑一律 404（`data/` 入面除咗嗰兩種檔名格式，其他一律 404，唔係成個 folder 任讀）；POST 只收 JSON object，key 只准 `amView`／`pmView`（`HH:MM`）／`updated`，唔合格回 400；每次 POST 後嘅 `sync_open_times.ps1` 同一分鐘內只跑一次；`server_log.txt` 超過 500 行自動只留最後 250 行。
-- 排程任務 `daily-news-am`／`daily-news-pm-draft`／`daily-news-pm-refresh` 開工時讀 `settings.json`：死線＝睇報時間 −15 分鐘，開工＝睇報時間 −90 分鐘（由 `sync_open_times.ps1` 同步更新 Antigravity sidecars，見 docs/codex-schedule.md）。
+- Codex `automation`／`automation-2` 開工時讀 `settings.json`：死線＝睇報時間 −15 分鐘，開工＝睇報時間 −90 分鐘；排程時間由 `automation-3` 同步，見 `docs/codex-schedule.md`。
 - **出稿時唔准郁**設定盒嗰組 HTML／CSS／JS（`setbox`、`parseHM`、`saveSettings`、`loadSettings`），亦唔好郁 `settings.json`。
-- **自動開網頁**：Windows 排程 `DailyNews-Open-AM`／`DailyNews-Open-PM` 喺睇報時間跑 `open_news.ps1`（開 http://localhost:8080/）。每次 POST settings 後 server 會背景跑 `sync_open_times.ps1` 重新註冊兩個 task 嘅時間並同步更新 Antigravity sidecars 嘅 cron 時間（唔使 admin，即時生效）。
+- **自動開網頁**：Windows 排程 `DailyNews-Open-AM`／`DailyNews-Open-PM` 喺睇報時間跑 `open_news.ps1`（開 http://localhost:8080/）。每次 POST settings 後 server 會背景跑 `sync_open_times.ps1` 即時重設 Windows 開報時間；Codex 編採開工時間由 `automation-3` 同步，詳見 `docs/codex-schedule.md`。
 - 改咗 `serve_news.ps1` 要重啟 `DailyNewsServer` 排程工作先生效；另外要先殺舊 process，否則 8080 會俾舊 server 霸住。
 
 
-## 晚報最後刷新（2026-10-03 批准）
+## 晚報核實及定稿
 
-閱讀前 90 分鐘起草；閱讀前 15 分鐘增量刷新及核對更正；目標閱讀前 5 分鐘定稿。22:00 閱讀時即 20:30／21:45／21:55。只有最後核實成功才可標示定稿；無新消息也記錄查核結果。兩階段處理同一日 pm，保留 am、不補歷史，通知最多一次；失敗不能假稱刷新完成。實際排程由 Antigravity sidecars（`daily-news-pm-draft`、`daily-news-pm-refresh`）負責。
+閱讀前 90 分鐘由 `automation-2` 一次起稿、增量核實最新消息及更正，死線為閱讀前 15 分鐘。22:00 閱讀時即 20:30 開工、21:45 死線。只有最後核實成功才可標示定稿；無新消息也記錄查核結果。只處理同一日 pm，保留 am、不補歷史，通知最多一次；失敗不能假稱刷新完成。舊獨立刷新 `automation-4` 保持停用。
 
-晚報即日新聞時間上限跟 pmView 減5分鐘；22:00 閱讀即21:55。草稿及刷新須先完成啟用關卡；正常重跑跳過已定稿，更正須獲授權並留舊版本。
+晚報即日新聞時間上限固定 21:55，唔隨 `pmView` 改變。定稿前須先核對啟用關卡；正常重跑跳過已定稿，更正須獲授權並留舊版本。

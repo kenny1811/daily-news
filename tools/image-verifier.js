@@ -1,5 +1,7 @@
 const https = require('https');
 const http = require('http');
+const path = require('path');
+const { spawnSync } = require('child_process');
 
 function fetchBuffer(url, options = {}) {
   const { headers = {}, timeout = 15000, maxRedirects = 5 } = options;
@@ -82,7 +84,8 @@ async function verifyImage(url, options = {}) {
   }
 
   const buf = res.buffer;
-  if (!buf || buf.length < 80) {
+  const minBytes = Number.isFinite(options.minBytes) ? options.minBytes : 80;
+  if (!buf || buf.length < minBytes) {
     return {
       valid: false,
       status: res.status,
@@ -101,15 +104,36 @@ async function verifyImage(url, options = {}) {
     };
   }
 
+  const decoded = spawnSync('python', [path.join(__dirname, 'decode-image.py'), type], {
+    input: buf,
+    encoding: 'utf8',
+    maxBuffer: 1024 * 1024,
+    timeout: 15000
+  });
+  let details;
+  try { details = JSON.parse(decoded.stdout || ''); } catch (_) {}
+  if (decoded.status !== 0 || !details || details.format !== type) {
+    return {
+      valid: false,
+      status: res.status,
+      type,
+      bytes: buf.length,
+      reason: `圖片解碼失敗或實際類型不符: ${(decoded.stderr || decoded.error?.message || '').trim().slice(0, 180) || 'unknown'}`
+    };
+  }
+
   return {
     valid: true,
     status: 200,
     type,
-    bytes: buf.length
+    bytes: buf.length,
+    width: details.width || null,
+    height: details.height || null,
+    contentType: res.headers?.['content-type'] || null
   };
 }
 
-async function verifyAllImages(items, concurrency = 8) {
+async function verifyAllImages(items, concurrency = 8, options = {}) {
   const results = new Array(items.length);
   let cursor = 0;
 
@@ -117,7 +141,7 @@ async function verifyAllImages(items, concurrency = 8) {
     while (cursor < items.length) {
       const idx = cursor++;
       const item = items[idx];
-      const ver = await verifyImage(item.url);
+      const ver = await verifyImage(item.url, options);
       results[idx] = { ...item, verification: ver };
     }
   }

@@ -1,7 +1,7 @@
 {
   "status": "active",
-  "taskId": "daily-news",
-  "draftTaskId": "daily-news",
-  "refreshTaskId": "daily-news",
-  "syncTaskId": "sync_open_times.ps1"
+  "taskId": "automation-2",
+  "draftTaskId": "automation-2",
+  "refreshTaskId": "automation-2",
+  "syncTaskId": "automation-3"
 }

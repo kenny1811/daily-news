@@ -158,7 +158,7 @@ function imgFix(u){if(!u)return u;
   if(mm&&/\/dims[0-9]?\//.test(u)){try{var inner=decodeURIComponent(mm[1]);if(/^https?:\/\//.test(inner))u=inner.replace(/^http:/,"https:");}catch(e){}}
   return u;}
 const ED={am:{lab:"☀️ 早報",win:"涵蓋前晚 18:00 至今朝 06:00"},pm:{lab:"🌙 晚報",win:"涵蓋今日 06:00 至 18:00"}};
-const ED2={am:{lab:"☀️ 午報",win:"涵蓋噚晚 21:00 至今朝 09:00"},pm:{lab:"🌙 夜報",win:"涵蓋今日 09:00 至 21:00"}};
+const ED2={am:{lab:"☀️ 午報",win:"涵蓋噚晚 21:00 至今朝 09:30"},pm:{lab:"🌙 夜報",win:"涵蓋今日 09:00 至 21:55"}};
 const ED2START="2026-08-15";
 function EDOF(dd,e){return (dd>=ED2START?ED2:ED)[e];}
 function eds(dd){const d=DB[dd];if(!d)return[];const r=[];if(d.am)r.push("am");if(d.pm)r.push("pm");return r;}
@@ -365,12 +365,17 @@ async function boot(){
     const fastRes=await Promise.allSettled(fastDates.map(dd=>fetchJSON("data/"+dd+".json").then(j=>[dd,j])));
     const nextDB={};
     fastRes.forEach(r=>{ if(r.status==="fulfilled")nextDB[r.value[0]]=r.value[1]; });
+    const nowHK=todayHK();
+    if(fastDates.includes(nowHK)&&!nextDB[nowHK]){
+      panel.innerHTML='<div class="empty">⚠ 今日新聞資料讀取失敗（'+esc(nowHK)+'），請重新整理頁面；暫不顯示舊版以免誤當今日新聞。</div>';
+      return;
+    }
     if(!Object.keys(nextDB).length){
       panel.innerHTML='<div class="empty">⚠ 讀取最新新聞資料失敗，請檢查 server 有冇開，或者重新整理頁面</div>';
       return;
     }
     DB=nextDB;
-    TODAY=todayHK();
+    TODAY=nowHK;
     const keys=Object.keys(DB).filter(dd=>dd<=TODAY).sort();
     selDate=DB[TODAY]?TODAY:(keys[keys.length-1]||TODAY);
     selEd=null;

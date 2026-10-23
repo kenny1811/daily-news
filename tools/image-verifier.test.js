@@ -1,5 +1,7 @@
 const assert = require('assert');
 const http = require('http');
+const fs = require('fs');
+const path = require('path');
 const { detectImageType, verifyImage, verifyAllImages } = require('./image-verifier');
 
 async function runTests() {
@@ -26,21 +28,20 @@ async function runTests() {
 
   // 2. HTTP Server mock tests
   const server = http.createServer((req, res) => {
-    if (req.url === '/valid.jpg') {
-      res.writeHead(200, { 'Content-Type': 'image/jpeg' });
-      // 100 bytes of dummy JPEG
-      const b = Buffer.alloc(120);
-      b[0] = 0xff; b[1] = 0xd8; b[2] = 0xff; b[3] = 0xe0;
-      res.end(b);
+    if (req.url === '/valid.png') {
+      res.writeHead(200, { 'Content-Type': 'image/png' });
+      res.end(fs.readFileSync(path.join(__dirname, '..', 'favicon-32.png')));
     } else if (req.url === '/redirect') {
-      res.writeHead(302, { 'Location': '/valid.jpg' });
+      res.writeHead(302, { 'Location': '/valid.png' });
       res.end();
     } else if (req.url === '/notfound.jpg') {
       res.writeHead(404);
       res.end('Not Found');
     } else if (req.url === '/corrupt.jpg') {
       res.writeHead(200, { 'Content-Type': 'image/jpeg' });
-      res.end(Buffer.alloc(120, 'A'));
+      const b = Buffer.alloc(120);
+      b[0] = 0xff; b[1] = 0xd8; b[2] = 0xff; b[3] = 0xe0;
+      res.end(b);
     } else if (req.url === '/toosmall.jpg') {
       res.writeHead(200);
       res.end('tiny');
@@ -56,10 +57,13 @@ async function runTests() {
 
   try {
     // Test valid image
-    const v1 = await verifyImage(`${baseUrl}/valid.jpg`);
+    const v1 = await verifyImage(`${baseUrl}/valid.png`);
     assert.strictEqual(v1.valid, true);
     assert.strictEqual(v1.status, 200);
-    assert.strictEqual(v1.type, 'jpeg');
+    assert.strictEqual(v1.type, 'png');
+    assert.strictEqual(v1.width, 32);
+    assert.strictEqual(v1.height, 32);
+    assert.strictEqual((await verifyImage(`${baseUrl}/valid.png`, { minBytes: 2000 })).valid, false);
 
     // Test redirect to valid image
     const v2 = await verifyImage(`${baseUrl}/redirect`);
@@ -74,7 +78,7 @@ async function runTests() {
     // Test corrupt
     const v4 = await verifyImage(`${baseUrl}/corrupt.jpg`);
     assert.strictEqual(v4.valid, false);
-    assert.ok(v4.reason.includes('二進制格式檢查失敗'));
+    assert.ok(v4.reason.includes('圖片解碼失敗'));
 
     // Test too small
     const v5 = await verifyImage(`${baseUrl}/toosmall.jpg`);
@@ -83,7 +87,7 @@ async function runTests() {
 
     // Test verifyAllImages
     const batch = [
-      { tag: 'card1', url: `${baseUrl}/valid.jpg` },
+      { tag: 'card1', url: `${baseUrl}/valid.png` },
       { tag: 'card2', url: `${baseUrl}/notfound.jpg` }
     ];
     const { results, failures } = await verifyAllImages(batch);

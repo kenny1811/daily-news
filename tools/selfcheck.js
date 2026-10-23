@@ -43,7 +43,7 @@ if (process.argv.includes("--print-rules")) {
     if (lateFrom) console.log(`   舊 Threads 原帖例外由 ${lateFrom} 起：必須另附窗內首次發佈嘅單篇新報道及兩個真實時間。`);
   }
   if (RULES.image) {
-    console.log(`10. 圖片硬性驗證：全部圖片經 HTTP GET 實測，回傳 HTTP 200 且為有效圖片格式（大小 ≥ ${RULES.image.minBytes} bytes；404 或死圖直接 exit 1 唔准出街）。`);
+    console.log(`10. 圖片硬性驗證：全部圖片經 HTTP GET 實測，回傳 HTTP 200 且可完整解碼（大小 ≥ ${RULES.image.minBytes} bytes；404 或死圖直接 exit 1 唔准出街）。原文 og:image 另須逐張比對。`);
   }
   process.exit(0);
 }
@@ -140,18 +140,8 @@ const prevDay = prev.toISOString().slice(0, 10);
 const WIN = RULES.window[mode];
 const winDay = spec => (spec.day === "prev" ? prevDay : date) + " " + spec.time;
 const WANT      = winDay(WIN.floor);
-const CEIL      = (() => {
-  const todayHK = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Hong_Kong', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
-  if (date !== todayHK) return winDay(WIN.ceil);
-  const prop = mode === 'pm' ? 'pmView' : 'amView';
-  const defView = mode === 'pm' ? '22:00' : '10:00';
-  const offsetMin = mode === 'pm' ? 5 : 15;
-  let view = defView;
-  try { view = JSON.parse(fs.readFileSync(path.join(ROOT, 'settings.json'), 'utf8'))[prop] || view; } catch (_) {}
-  if (!/^([01]\d|2[0-3]):[0-5]\d$/.test(view)) throw Error(`Invalid ${prop} setting`);
-  const [hour, minute] = view.split(':').map(Number);
-  return new Date(Date.parse(date + 'T00:00:00Z') + (hour * 60 + minute - offsetMin) * 60000).toISOString().slice(0, 16).replace('T', ' ');
-})();
+// 新聞硬時間窗唔隨睇報時間或出稿死線變動。
+const CEIL      = winDay(WIN.ceil);
 const FLOOR_HK  = WANT;
 const FLOOR_INT = WANT;
 const HKG = ["hks", "hkl", "hke", "hkp"];
@@ -500,11 +490,14 @@ if (!d._updated) bad.push("_updated 冇填");
     });
   });
 
-  const skipFetch = process.argv.includes("--skip-image-fetch");
-  if (need.length && !skipFetch) {
-    console.log(`\n🖼 正在實測驗圖（共 ${need.length} 條，發送 HTTP GET 實測並檢查二進制格式）...`);
+  if (process.argv.includes("--skip-image-fetch")) {
+    console.error('✖ --skip-image-fetch 已停用；出稿自檢必須實際驗圖。');
+    process.exit(1);
+  }
+  if (need.length) {
+    console.log(`\n🖼 正在實測驗圖（共 ${need.length} 條，發送 HTTP GET 並解碼圖片）...`);
     const imgRule = RULES.image || { concurrency: 8, minBytes: 80, timeoutMs: 15000 };
-    const { results, failures } = await verifyAllImages(need, imgRule.concurrency);
+    const { results, failures } = await verifyAllImages(need, imgRule.concurrency, imgRule);
 
     if (failures.length > 0) {
       console.log(`\n❌ 發現 ${failures.length} 條圖片實測失敗（404 或格式無效）：`);
@@ -514,7 +507,7 @@ if (!d._updated) bad.push("_updated 冇填");
         bad.push(`🖼 [驗圖失敗] ${msg}`);
       });
     } else {
-      console.log(`✅ 圖片實測全部通過：${need.length} 條圖片全部 HTTP 200 且為有效圖片格式。`);
+      console.log(`✅ 圖片實測全部通過：${need.length} 條圖片全部 HTTP 200 且成功解碼。原文 og:image 仍須另外核對。`);
     }
 
     // 當非候選檔且全部通過時，自動將逐圖驗證證據保存至 docs/verification/
@@ -537,8 +530,6 @@ if (!d._updated) bad.push("_updated 冇填");
         console.warn(`⚠ 寫入 docs/verification 失敗：${e.message}`);
       }
     }
-  } else if (skipFetch) {
-    console.log(`\n⚠ 已跳過實測驗圖（指定咗 --skip-image-fetch）`);
   }
 
   if (bad.length) {
