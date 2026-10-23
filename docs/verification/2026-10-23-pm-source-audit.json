@@ -1,0 +1,886 @@
+{
+  "edition": "2026-10-23 pm",
+  "recordedAtHKT": "2026-10-23T20:48:03+08:00",
+  "scope": "原文首發時間、原文 og:image 字串、圖片目視主題；圖片 HTTP 與完整解碼另見同日 pm 機器驗證紀錄",
+  "cards": [
+    {
+      "group": "hks",
+      "index": 0,
+      "title": "三歲男童染甲流併發腦病變危殆",
+      "articleUrl": "https://www.dimsumdaily.hk/3-year-old-boy-in-critical-condition-with-severe-influenza-a-complications-at-tuen-mun-hospital/",
+      "publishedAtHKT": "2026-10-23 18:50",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/23184839/Tuen-Mun-Hospital-2310.webp",
+      "sourceEvidence": {
+        "bytes": 85054,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:33:49.7662828Z",
+        "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/23184839/Tuen-Mun-Hospital-2310.webp",
+        "mime": "image/webp",
+        "magic": "52494646364C0100",
+        "url": "https://www.dimsumdaily.hk/3-year-old-boy-in-critical-condition-with-severe-influenza-a-complications-at-tuen-mun-hospital/",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hks",
+      "index": 1,
+      "title": "女童拍片求救社工跟進安排檢查",
+      "articleUrl": "https://www.hk01.com/article/60402988",
+      "publishedAtHKT": "2026-10-23 17:59",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261022/1190023213359304704941260.jpeg/D_Hvrt65K2jREekJ_DNHaCGHdoELEabBAIjsNgCI7DY?v=w1280r16_9",
+      "sourceEvidence": {
+        "bytes": 73959,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:33:50.7111491Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261022/1190023213359304704941260.jpeg/D_Hvrt65K2jREekJ_DNHaCGHdoELEabBAIjsNgCI7DY?v=w1280r16_9",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402988",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hks",
+      "index": 2,
+      "title": "借錢開鎖騙案兩受害人失九十萬",
+      "articleUrl": "https://www.hk01.com/article/60402847",
+      "publishedAtHKT": "2026-10-23 14:53",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190326564085043200632497.jpeg/fgOai8xgZy778YgtQHIr8aWfvCdvLNW_LtUUtC7VFLQ",
+      "sourceEvidence": {
+        "bytes": 254107,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:33:51.8513932Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190326564085043200632497.jpeg/fgOai8xgZy778YgtQHIr8aWfvCdvLNW_LtUUtC7VFLQ",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402847",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hks",
+      "index": 3,
+      "title": "酒店刷單招聘騙案外籍女失二百萬",
+      "articleUrl": "https://www.hk01.com/article/60402816",
+      "publishedAtHKT": "2026-10-23 14:42",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190285764009660416981720.jpeg/EQ_zLptYjjU73yGXcSlP9jBP912fsVfxmVmXDplZlw4?v=w1280r16_9",
+      "sourceEvidence": {
+        "bytes": 121451,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:33:52.8068341Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190285764009660416981720.jpeg/EQ_zLptYjjU73yGXcSlP9jBP912fsVfxmVmXDplZlw4?v=w1280r16_9",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402816",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hks",
+      "index": 4,
+      "title": "分判商賄機電署工程師四萬元罪成",
+      "articleUrl": "https://www.hk01.com/article/60402981",
+      "publishedAtHKT": "2026-10-23 17:59",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20220516/602906781932326912287465.jpeg/s450SLsSOtMRlmkiuDuCqswbRzijwg_Qc2eVI3NnlSM?v=w1280r16_9",
+      "sourceEvidence": {
+        "bytes": 163969,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:33:53.9955813Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20220516/602906781932326912287465.jpeg/s450SLsSOtMRlmkiuDuCqswbRzijwg_Qc2eVI3NnlSM?v=w1280r16_9",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402981",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hks",
+      "index": 5,
+      "title": "技工性侵十一歲男童認罪判囚九年",
+      "articleUrl": "https://www.hk01.com/article/60402904",
+      "publishedAtHKT": "2026-10-23 15:47",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190338746059329536690731.jpeg/CUB1ClkEiinYacEaBPaeX5JoVtGlIXIlZN69lmTevZY",
+      "sourceEvidence": {
+        "bytes": 192398,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:33:54.9254085Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190338746059329536690731.jpeg/CUB1ClkEiinYacEaBPaeX5JoVtGlIXIlZN69lmTevZY",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402904",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hks",
+      "index": 6,
+      "title": "男子隱瞞性別性交案須賠三十六萬",
+      "articleUrl": "https://www.hk01.com/article/60403047",
+      "publishedAtHKT": "2026-10-23 20:25",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "相關法庭照片；照片本身不能證明人物身分",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20210927/519247041101041664513974.jpeg/zMu0JvEIwwVRy-ly_eECt3dflOZghNcqMc7lghTO5YI?v=w1280r16_9",
+      "sourceEvidence": {
+        "bytes": 147974,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:33:55.8267895Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20210927/519247041101041664513974.jpeg/zMu0JvEIwwVRy-ly_eECt3dflOZghNcqMc7lghTO5YI?v=w1280r16_9",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60403047",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hks",
+      "index": 7,
+      "title": "公司涉未註冊大額鐘錶現金交易",
+      "articleUrl": "https://www.hk01.com/article/60403031",
+      "publishedAtHKT": "2026-10-23 19:23",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20221208/677574973581168640283657.jpeg/Gv0oOGLCxLlVddmi7cZjrcy1TjyAsS-Prtubma7bm5k?v=w1280r16_9",
+      "sourceEvidence": {
+        "bytes": 192625,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:33:56.8928599Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20221208/677574973581168640283657.jpeg/Gv0oOGLCxLlVddmi7cZjrcy1TjyAsS-Prtubma7bm5k?v=w1280r16_9",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60403031",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 0,
+      "title": "調查指港打工仔願減薪換彈性工作",
+      "articleUrl": "https://www.dimsumdaily.hk/two-thirds-of-office-staff-in-hk-would-trade-salary-for-flexibility/",
+      "publishedAtHKT": "2026-10-23 19:07",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "街景配圖；非調查受訪者照片",
+      "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/23190607/HK-Crowd-2-2322.webp",
+      "sourceEvidence": {
+        "bytes": 260456,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:33:59.7384768Z",
+        "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/23190607/HK-Crowd-2-2322.webp",
+        "mime": "image/webp",
+        "magic": "5249464660F90300",
+        "url": "https://www.dimsumdaily.hk/two-thirds-of-office-staff-in-hk-would-trade-salary-for-flexibility/",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 1,
+      "title": "社區藥房月底試行四區率先配對",
+      "articleUrl": "https://www.hk01.com/article/60402838",
+      "publishedAtHKT": "2026-10-23 17:04",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20250529/1004776896921079808408639.jpeg/3Cn-ALNq1Bp48x9CPr-ahuudqnyPgPZoaH62WWh-tlk?v=w1280r16_9",
+      "sourceEvidence": {
+        "bytes": 175247,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:34:00.9645723Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20250529/1004776896921079808408639.jpeg/3Cn-ALNq1Bp48x9CPr-ahuudqnyPgPZoaH62WWh-tlk?v=w1280r16_9",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402838",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 2,
+      "title": "新皇崗口岸旁商場步行一分鐘可達",
+      "articleUrl": "https://www.hk01.com/article/60402946",
+      "publishedAtHKT": "2026-10-23 18:34",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190377049156489216615874.jpeg/7g1RlBmGCNwb71jMHoVeiogQHLihAJTwZpd6jWaXeo0",
+      "sourceEvidence": {
+        "bytes": 133769,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:44:52.2377460Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190377049156489216615874.jpeg/7g1RlBmGCNwb71jMHoVeiogQHLihAJTwZpd6jWaXeo0",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402946",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 3,
+      "title": "九龍城潮玩夜市開鑼連辦三日",
+      "articleUrl": "https://www.hk01.com/article/60402762",
+      "publishedAtHKT": "2026-10-23 16:26",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190366379451092992394570.jpeg/gwQUrBDGveJDvcPdyV9JXYfGqLf5dquR2nanTNp2p0w",
+      "sourceEvidence": {
+        "bytes": 277887,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:34:02.6541472Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190366379451092992394570.jpeg/gwQUrBDGveJDvcPdyV9JXYfGqLf5dquR2nanTNp2p0w",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402762",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 4,
+      "title": "九十年鉅利醬園受收地影響結業",
+      "articleUrl": "https://www.hk01.com/article/60402941",
+      "publishedAtHKT": "2026-10-23 17:38",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190378007034859520042316.jpeg/s6F1p3fRvgx6Pbz5_COX51vIZTxHAocFlvgcTJb4HEw",
+      "sourceEvidence": {
+        "bytes": 253164,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:34:03.5171836Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190378007034859520042316.jpeg/s6F1p3fRvgx6Pbz5_COX51vIZTxHAocFlvgcTJb4HEw",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402941",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 5,
+      "title": "Big C荃灣千色匯店下月結業",
+      "articleUrl": "https://www.hk01.com/article/60402825",
+      "publishedAtHKT": "2026-10-23 19:15",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190383873356206080723496.png/Rc1C3UNvk-wNttrX7UU6zLMvIOv5dk2PYaRayGGkWsg?v=w1280r16_9",
+      "sourceEvidence": {
+        "bytes": 86750,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:34:04.3393072Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190383873356206080723496.png/Rc1C3UNvk-wNttrX7UU6zLMvIOv5dk2PYaRayGGkWsg?v=w1280r16_9",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402825",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 6,
+      "title": "臺日升降機涉事樓宇開始補裝門框",
+      "articleUrl": "https://www.hk01.com/article/60403045",
+      "publishedAtHKT": "2026-10-23 20:24",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261016/1187729945904812032580491.jpeg/v5k2KwvG6zqTqrcAXPfFTawQjwRulLY20qxMktKsTJI?v=w1280r16_9",
+      "sourceEvidence": {
+        "bytes": 159020,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:34:05.1548949Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261016/1187729945904812032580491.jpeg/v5k2KwvG6zqTqrcAXPfFTawQjwRulLY20qxMktKsTJI?v=w1280r16_9",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60403045",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 7,
+      "title": "網約車平台牌照未批先搶司機",
+      "articleUrl": "https://www.hk01.com/article/60402940",
+      "publishedAtHKT": "2026-10-23 18:45",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "相關的士平台配圖；非司機課程現場",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190339758845333504471328.jpeg/zRMMw5_mhCex3H2qaz9-eJKSF3Z1VTukuH3LT7h9y08?v=w1280r16_9",
+      "sourceEvidence": {
+        "bytes": 87060,
+        "ogExactCopied": true,
+        "checkedAt": "2026-10-23T12:34:05.9727827Z",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190339758845333504471328.jpeg/zRMMw5_mhCex3H2qaz9-eJKSF3Z1VTukuH3LT7h9y08?v=w1280r16_9",
+        "mime": "image/jpeg",
+        "magic": "FFD8FFE000104A46",
+        "url": "https://www.hk01.com/article/60402940",
+        "httpStatus": 200
+      }
+    },
+    {
+      "group": "hke",
+      "index": 0,
+      "title": "恒指一周跌逾千點 創四個月最大單周跌幅",
+      "articleUrl": "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/515801/%E6%81%92%E6%8C%87%E4%BB%8A%E5%91%A8%E6%8C%AB%E9%80%BE%E5%8D%83%E9%BB%9E%E5%9B%9B%E5%80%8B%E6%9C%88%E6%9C%80%E5%A4%A7%E5%96%AE%E5%91%A8%E8%B7%8C%E5%B9%85-%E5%88%86%E6%9E%90-%E6%B8%AF",
+      "publishedAtHKT": "2026-10-23 18:42:50",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/24024220/STK-CLOSE-261023-1630S_frame_0.jpg",
+      "sourceEvidence": {
+        "group": "hke",
+        "card": 0,
+        "ogImageExact": true,
+        "httpStatus": 200,
+        "mime": "image/jpeg",
+        "bytes": 570395,
+        "decoded": "JPEG 1920x1080",
+        "visual": "港交所招牌及交易所大樓實景，與恒指題材相符"
+      }
+    },
+    {
+      "group": "hke",
+      "index": 1,
+      "title": "滙豐RedCoin登陸PayMe 逾330萬用戶將可啟用",
+      "articleUrl": "https://hongkongbusiness.hk/news/hsbc-launches-hong-kong-dollar-stablecoin-payme",
+      "publishedAtHKT": "2026-10-23 09:43:04",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://hongkongbusiness.hk/s3/files/styles/opengraph/public/2026-10/image001_1.jpg?h=75e50aba&itok=-CKk8DPU",
+      "sourceEvidence": {
+        "group": "hke",
+        "card": 1,
+        "ogImageExact": true,
+        "httpStatus": 200,
+        "mime": "image/jpeg",
+        "bytes": 474127,
+        "decoded": "JPEG 1200x630"
+      }
+    },
+    {
+      "group": "hke",
+      "index": 2,
+      "title": "投資推廣署首九個月助550企來港開業 料投資逾700億",
+      "articleUrl": "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/515745/%E8%A8%B1%E6%AD%A3%E5%AE%87-%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%91%A8%E5%B1%95%E7%A4%BA%E9%A6%99%E6%B8%AF%E7%A7%91%E5%89%B5%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87-%E6%8A%95%E8%B3%87",
+      "publishedAtHKT": "2026-10-23 15:46:17",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/23234546/FINTECH-PC-261023-1400_frame_549.jpeg",
+      "sourceEvidence": {
+        "group": "hke",
+        "card": 2,
+        "ogImageExact": true,
+        "httpStatus": 200,
+        "mime": "image/jpeg",
+        "bytes": 262886,
+        "decoded": "JPEG 1920x1080",
+        "visual": "香港金融科技周發布會合照，背景字樣與主題相符"
+      }
+    },
+    {
+      "group": "hkp",
+      "index": 0,
+      "title": "財委會通過增撥16億延長新生嬰兒獎勵金",
+      "articleUrl": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/515869/%E6%96%B0%E7%94%9F%E5%AC%B0%E5%85%92%E7%8D%8E%E5%8B%B5%E9%87%91-%E8%AD%B0%E5%93%A1%E9%97%9C%E6%B3%A8%E6%9C%AA%E5%8C%85%E9%AB%98%E6%89%8D-%E5%84%AA%E6%89%8D-%E5%80%A1%E6%B4%BE",
+      "publishedAtHKT": "2026-10-23 19:33:25",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/24042805/BABY2.jpg",
+      "sourceEvidence": {
+        "group": "hkp",
+        "card": 0,
+        "ogImageExact": true,
+        "httpStatus": 200,
+        "mime": "image/jpeg",
+        "bytes": 229308,
+        "decoded": "JPEG 1920x1080"
+      }
+    },
+    {
+      "group": "hkp",
+      "index": 1,
+      "title": "新田科技城首期第二階段擬申撥逾271億",
+      "articleUrl": "https://www.stheadline.com/politics/3629238/",
+      "publishedAtHKT": "2026-10-23 15:55:14",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/5f6d81fb806d395a67462cec6d141f53/2026-10/WhatsApp_Image_2026-08-17_at_20_42_55_0.jpeg",
+      "sourceEvidence": {
+        "group": "hkp",
+        "card": 1,
+        "ogImageExact": true,
+        "httpStatus": 200,
+        "mime": "image/jpeg; charset=UTF-8",
+        "bytes": 157165,
+        "decoded": "JPEG 758x426"
+      }
+    },
+    {
+      "group": "hkp",
+      "index": 2,
+      "title": "私營醫療擬公開收費預算 議員憂藥物明細太繁",
+      "articleUrl": "https://www.stheadline.com/politics/3629141/",
+      "publishedAtHKT": "2026-10-23 12:33:40",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/ul/sthl_square/01ae9d0aa9536760c2b06f710b7a0bef/2026-10/NE250319HA06.jpg",
+      "sourceEvidence": {
+        "group": "hkp",
+        "card": 2,
+        "ogImageExact": true,
+        "httpStatus": 200,
+        "mime": "image/jpeg; charset=UTF-8",
+        "bytes": 172422,
+        "decoded": "JPEG 1200x676"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 0,
+      "title": "蘇杭低價遊變強制購物旅客遭困店內",
+      "articleUrl": "https://www.stheadline.com/realtime-china/3629253/",
+      "publishedAtHKT": "2026-10-23 16:40:28",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/c3d5cc99a274a525c84e3fac85fb2b1c/2026-10/KF_-Sam_69_.png",
+      "sourceEvidence": {
+        "article": "https://www.stheadline.com/realtime-china/3629253/",
+        "ogMatch": true,
+        "http": 200,
+        "mime": "image/png",
+        "bytes": 573563,
+        "decoded": "PNG 1200x675"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 1,
+      "title": "神探李昌鈺揚州安葬骨灰一半留美",
+      "articleUrl": "https://www.stheadline.com/realtime-china/3629250/",
+      "publishedAtHKT": "2026-10-23 17:30:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/8e695a03b7cafa8bb024d4a6422edb56/2026-10/Clipboard40_10.jpg",
+      "sourceEvidence": {
+        "article": "https://www.stheadline.com/realtime-china/3629250/",
+        "ogMatch": true,
+        "http": 200,
+        "mime": "image/jpeg",
+        "bytes": 293647,
+        "decoded": "JPEG 640x360"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 2,
+      "title": "政治局會議要求保持反腐高壓態勢",
+      "articleUrl": "https://www.stheadline.com/realtime-china/3629184/",
+      "publishedAtHKT": "2026-10-23 13:46:39",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/d57101a18eb9ae54b6668dd0c7c25e44/2026-10/New_Project_-_2026-10-23T134355_954.jpg",
+      "sourceEvidence": {
+        "article": "https://www.stheadline.com/realtime-china/3629184/",
+        "ogMatch": true,
+        "http": 200,
+        "mime": "image/jpeg",
+        "bytes": 303949,
+        "decoded": "JPEG 1000x564"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 3,
+      "title": "江蘇超市生肉遭貓啃食全店豬肉查封",
+      "articleUrl": "https://www.stheadline.com/realtime-china/3629135/",
+      "publishedAtHKT": "2026-10-23 12:13:32",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/c8d39408ddc48851fc092b5a126c5c8e/2026-10/Clipboard14_10.jpg",
+      "sourceEvidence": {
+        "article": "https://www.stheadline.com/realtime-china/3629135/",
+        "ogMatch": true,
+        "http": 200,
+        "mime": "image/jpeg",
+        "bytes": 364672,
+        "decoded": "JPEG 1200x675"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 4,
+      "title": "廣州地鐵閱讀角看書乘客遭扣超時費",
+      "articleUrl": "https://www.stheadline.com/realtime-china/3629155/",
+      "publishedAtHKT": "2026-10-23 13:00:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/b34f17948970f2bbe3c91255cdcf6c03/2026-10/Clipboard21_12.jpg",
+      "sourceEvidence": {
+        "article": "https://www.stheadline.com/realtime-china/3629155/",
+        "ogMatch": true,
+        "http": 200,
+        "mime": "image/jpeg",
+        "bytes": 455074,
+        "decoded": "JPEG 1200x675"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 5,
+      "title": "湖南中醫藥大學前黨委書記戴愛國被查",
+      "articleUrl": "https://www.zaobao.com.sg/news/china/story20261023-9885392",
+      "publishedAtHKT": "2026-10-23 19:58:42",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/76c078f90d958faa1e7253cbd61246b4e25c6bf24fea0f5b2ce56f0216c0b021",
+      "sourceEvidence": {
+        "article": "https://www.zaobao.com.sg/news/china/story20261023-9885392",
+        "ogMatch": true,
+        "http": 200,
+        "mime": "image/webp",
+        "bytes": 33006,
+        "decoded": "WEBP 1008x672"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 6,
+      "title": "德國總統下周訪華相隔八年再度成行",
+      "articleUrl": "https://www.zaobao.com.sg/news/china/story20261023-9883779",
+      "publishedAtHKT": "2026-10-23 16:08:22",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/2a4fe23ec5b15a53f1fca905316ea8428b197039bd50e6c3f70b457950e585da",
+      "sourceEvidence": {
+        "article": "https://www.zaobao.com.sg/news/china/story20261023-9883779",
+        "ogMatch": true,
+        "http": 200,
+        "mime": "image/webp",
+        "bytes": 73364,
+        "decoded": "WEBP 1023x682"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 7,
+      "title": "美大學終止逾八十科研合作中方促停限制",
+      "articleUrl": "https://www.zaobao.com.sg/news/china/story20261023-9883663",
+      "publishedAtHKT": "2026-10-23 15:42:40",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/fa202502ac5ea979ce5f3386b2fec4dcce5cdfa5f83c1ffebbcfd49834ea038a",
+      "sourceEvidence": {
+        "article": "https://www.zaobao.com.sg/news/china/story20261023-9883663",
+        "ogMatch": true,
+        "http": 200,
+        "mime": "image/webp",
+        "bytes": 45158,
+        "decoded": "WEBP 1023x682"
+      }
+    },
+    {
+      "group": "us",
+      "index": 0,
+      "title": "華府質疑加拿大干預美國期中選舉",
+      "articleUrl": "https://news.ltn.com.tw/news/world/breakingnews/5616769",
+      "publishedAtHKT": "2026-10-23 20:20:17",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616769_1_1.jpg",
+      "sourceEvidence": {
+        "title": "華府質疑加拿大干預美國期中選舉",
+        "articleStatus": 200,
+        "ogMatch": true,
+        "imageStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 40096,
+        "format": "JPEG",
+        "dimensions": [
+          800,
+          533
+        ],
+        "path": "D:\\Projects\\Daily News\\scratch\\pm23-images\\us-1.jpeg",
+        "checkedAt": "2026-10-23T20:37:54.019892+08:00"
+      }
+    },
+    {
+      "group": "us",
+      "index": 1,
+      "title": "美軍禁比亞迪車進入沖繩嘉手納基地",
+      "articleUrl": "https://news.ltn.com.tw/news/world/breakingnews/5616667",
+      "publishedAtHKT": "2026-10-23 18:33:40",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616667_1_1.jpg",
+      "sourceEvidence": {
+        "title": "美軍禁比亞迪車進入沖繩嘉手納基地",
+        "articleStatus": 200,
+        "ogMatch": true,
+        "imageStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 45150,
+        "format": "JPEG",
+        "dimensions": [
+          800,
+          533
+        ],
+        "path": "D:\\Projects\\Daily News\\scratch\\pm23-images\\us-2.jpeg",
+        "checkedAt": "2026-10-23T20:37:55.539826+08:00"
+      }
+    },
+    {
+      "group": "us",
+      "index": 2,
+      "title": "俄羅斯柴油油輪赴紐約美制裁放寬惹議",
+      "articleUrl": "https://udn.com/news/story/6809/9833870",
+      "publishedAtHKT": "2026-10-23 20:23:25",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449394.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+      "sourceEvidence": {
+        "title": "俄羅斯柴油油輪赴紐約美制裁放寬惹議",
+        "articleStatus": 200,
+        "ogMatch": true,
+        "imageStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 141471,
+        "format": "JPEG",
+        "dimensions": [
+          1280,
+          854
+        ],
+        "path": "D:\\Projects\\Daily News\\scratch\\pm23-images\\us-3.jpeg",
+        "checkedAt": "2026-10-23T20:37:58.957396+08:00"
+      }
+    },
+    {
+      "group": "tw",
+      "index": 0,
+      "title": "薔琵強風吹斷電線苗栗三千戶停電",
+      "articleUrl": "https://news.ltn.com.tw/news/life/breakingnews/5616777",
+      "publishedAtHKT": "2026-10-23 20:28:52",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616777_1_1.jpg",
+      "sourceEvidence": {
+        "title": "薔琵強風吹斷電線苗栗三千戶停電",
+        "articleStatus": 200,
+        "ogMatch": true,
+        "imageStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 242629,
+        "format": "JPEG",
+        "dimensions": [
+          800,
+          1066
+        ],
+        "path": "D:\\Projects\\Daily News\\scratch\\pm23-images\\tw-1.jpeg",
+        "checkedAt": "2026-10-23T20:38:00.495337+08:00"
+      }
+    },
+    {
+      "group": "tw",
+      "index": 1,
+      "title": "金門議員候選人涉賄選遭羈押禁見",
+      "articleUrl": "https://udn.com/news/story/7321/9833774",
+      "publishedAtHKT": "2026-10-23 18:13:08",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35449207.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=854&exp=3600",
+      "sourceEvidence": {
+        "title": "金門議員候選人涉賄選遭羈押禁見",
+        "articleStatus": 200,
+        "ogMatch": true,
+        "imageStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 262489,
+        "format": "JPEG",
+        "dimensions": [
+          1280,
+          854
+        ],
+        "path": "D:\\Projects\\Daily News\\scratch\\pm23-images\\tw-2.jpeg",
+        "checkedAt": "2026-10-23T20:38:04.027226+08:00"
+      }
+    },
+    {
+      "group": "tw",
+      "index": 2,
+      "title": "工業氧冒充醫療氧供五家醫護機構",
+      "articleUrl": "https://udn.com/news/story/7321/9833538",
+      "publishedAtHKT": "2026-10-23 15:40:36",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/23/35448812.png&M=1&s=Y&x=0&y=0&sw=786&sh=524&exp=3600",
+      "sourceEvidence": {
+        "title": "工業氧冒充醫療氧供五家醫護機構",
+        "articleStatus": 200,
+        "ogMatch": true,
+        "imageStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 588069,
+        "format": "PNG",
+        "dimensions": [
+          786,
+          524
+        ],
+        "path": "D:\\Projects\\Daily News\\scratch\\pm23-images\\tw-3.png",
+        "checkedAt": "2026-10-23T20:38:07.433380+08:00"
+      }
+    },
+    {
+      "group": "war",
+      "index": 0,
+      "title": "德外長警告伊朗胡塞勿挾持全球貿易",
+      "articleUrl": "https://ir.voanews.com/a/german-foreign-minister-iran-and-houthis-must-stop-threatening-global-trade/8214429.html",
+      "publishedAtHKT": "2026-10-23 17:46:54",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://gdb.voanews.com/cfc3b359-449e-4bc1-b4ac-a1a6b5596b94_cx0_cy19_cw84_w1200_h630.jpg",
+      "sourceEvidence": {
+        "title": "德外長警告伊朗胡塞勿挾持全球貿易",
+        "articleStatus": 200,
+        "ogMatch": true,
+        "imageStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 91297,
+        "format": "JPEG",
+        "dimensions": [
+          1200,
+          630
+        ],
+        "path": "D:\\Projects\\Daily News\\scratch\\pm23-images\\war-1.jpeg",
+        "checkedAt": "2026-10-23T20:38:09.752906+08:00"
+      }
+    },
+    {
+      "group": "war",
+      "index": 1,
+      "title": "沙特擴建導彈廠應對伊朗襲擊威脅",
+      "articleUrl": "https://ir.voanews.com/a/saudi-missile-plant-expansion-may-produce-more-powerful-missiles/8214435.html",
+      "publishedAtHKT": "2026-10-23 19:40:22",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://gdb.voanews.com/97557a90-3b27-43d0-a6a7-a0321ed4494e_w1200_h630.jpg",
+      "sourceEvidence": {
+        "title": "沙特擴建導彈廠應對伊朗襲擊威脅",
+        "articleStatus": 200,
+        "ogMatch": true,
+        "imageStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 165419,
+        "format": "JPEG",
+        "dimensions": [
+          1200,
+          630
+        ],
+        "path": "D:\\Projects\\Daily News\\scratch\\pm23-images\\war-2.jpeg",
+        "checkedAt": "2026-10-23T20:38:13.211537+08:00"
+      }
+    },
+    {
+      "group": "war",
+      "index": 2,
+      "title": "美稱可長期封鎖伊朗港口或再空襲",
+      "articleUrl": "https://www.iranintl.com/en/202610234921",
+      "publishedAtHKT": "2026-10-23 19:32:09",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "原圖與報道主題相符",
+      "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/b915bf0f9691c0c8f5d0d7947c8fc7783849578e-3966x2644.jpg?rect=0,281,3966,2082&w=1200&h=630&q=66&fit=max&auto=format",
+      "sourceEvidence": {
+        "title": "美稱可長期封鎖伊朗港口或再空襲",
+        "articleStatus": 200,
+        "ogMatch": true,
+        "imageStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 51212,
+        "format": "JPEG",
+        "dimensions": [
+          1200,
+          629
+        ],
+        "path": "D:\\Projects\\Daily News\\scratch\\pm23-images\\war-3.jpeg",
+        "checkedAt": "2026-10-23T20:38:16.197120+08:00"
+      }
+    }
+  ],
+  "briefImages": [
+    {
+      "group": "ai",
+      "ogImage": "https://i.guim.co.uk/img/media/5d838343b80e3163461a99b84753451e52e54078/724_0_7211_5773/master/7211.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78a1fea060d738d3375cb575ec532efe",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "職場握手照片，對應就業保障分析",
+      "sourceEvidence": {
+        "sourceArticle": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
+        "ogMatch": true,
+        "http": 200,
+        "mime": "image/jpeg",
+        "bytes": 66416,
+        "decoded": "JPEG 1200x630",
+        "visuallyRelevant": "目視為職場握手照片，直接對應該篇就業保障分析，右下有衛報標示。"
+      }
+    },
+    {
+      "group": "warb",
+      "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/b915bf0f9691c0c8f5d0d7947c8fc7783849578e-3966x2644.jpg?rect=0,281,3966,2082&w=1200&h=630&q=66&fit=max&auto=format",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Trump 與軍人合照；非戰事或會談現場",
+      "sourceEvidence": {
+        "url": "https://www.iranintl.com/en/202610234921",
+        "publishedRaw": "2026-10-23T11:32:09.261Z",
+        "publishedHKT": "2026-10-23 19:32",
+        "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/b915bf0f9691c0c8f5d0d7947c8fc7783849578e-3966x2644.jpg?rect=0,281,3966,2082&w=1200&h=630&q=66&fit=max&auto=format",
+        "imageHttpStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 51212,
+        "imageMagic": "FFD8FFDB0043000B"
+      }
+    }
+  ]
+}
