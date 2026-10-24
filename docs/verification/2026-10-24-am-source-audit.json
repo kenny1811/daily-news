@@ -1,0 +1,1193 @@
+{
+  "edition": "2026-10-24 am",
+  "recordedAtHKT": "2026-10-24T08:47:40.879+08:00",
+  "scope": "原文首發時間與 og:image 字串及圖片目視主題；HTTP 與完整解碼另見同日 am 機器驗證紀錄",
+  "cards": [
+    {
+      "group": "hks",
+      "index": 0,
+      "title": "屯門九歲女童持刀父親奪刀疑傷女",
+      "articleUrl": "https://www.hk01.com/article/60403099",
+      "publishedAtHKT": "2026-10-24 08:28",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "On-site residential block exterior; location relevant, not injury scene",
+      "ogImage": "https://cdn.hk01.com/di/media/images/1658395/org/fb9fcf43f1bb376f488f6e9a69b62a8a.jpg/jXbsgZkSvGb_Ie9ZRaAe9zjq5xuLPX9LT4F3xU-Bd8U?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "hks",
+        "url": "https://www.hk01.com/article/60403099",
+        "publishedRaw": "2026-10-24T08:28:46+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 166541,
+        "visualReviewed": true,
+        "visualNote": "On-site residential block exterior; location relevant, not injury scene",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hks",
+      "index": 1,
+      "title": "佐敦土瓜灣站傳異味乘客不適",
+      "articleUrl": "https://www.hk01.com/article/60403071",
+      "publishedAtHKT": "2026-10-24 01:56",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "MTR station graphic explicitly describes odour incident",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261024/1190489032254033920630418.jpeg/So_0QAhOwY4KgTKh_-rW_cgnhieWKdP5sr0r_7K9K_8",
+      "sourceEvidence": {
+        "group": "hks",
+        "url": "https://www.hk01.com/article/60403071",
+        "publishedRaw": "2026-10-24T01:56:31+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 213504,
+        "visualReviewed": true,
+        "visualNote": "MTR station graphic explicitly describes odour incident",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hks",
+      "index": 2,
+      "title": "油麻地新填地街賭檔拘十人",
+      "articleUrl": "https://www.hk01.com/article/60403087",
+      "publishedAtHKT": "2026-10-24 02:08",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Police detainees beside police vehicle; matches raid",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261024/1190482470382866432295786.jpeg/bVJ5ONtXg_x6eGUvtGY6g6ehQMmNWSITxEm5csRJuXI?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "hks",
+        "url": "https://www.hk01.com/article/60403087",
+        "publishedRaw": "2026-10-24T02:08:42+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 195170,
+        "visualReviewed": true,
+        "visualNote": "Police detainees beside police vehicle; matches raid",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hks",
+      "index": 3,
+      "title": "機場海關檢百一萬大麻花拘兩男",
+      "articleUrl": "https://www.hk01.com/article/60403080",
+      "publishedAtHKT": "2026-10-23 23:24",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Customs officers escort suspect at airport; matches seizure",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190442560997298176724193.jpeg/1QahJyG3KYNAkFp57JcUvhamnLUH3pR3754yHO-eMhw?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "hks",
+        "url": "https://www.hk01.com/article/60403080",
+        "publishedRaw": "2026-10-23T23:24:56+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 179670,
+        "visualReviewed": true,
+        "visualNote": "Customs officers escort suspect at airport; matches seizure",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hks",
+      "index": 4,
+      "title": "三傳媒及圖書館連收白色粉末信",
+      "articleUrl": "https://www.hk01.com/article/60403069",
+      "publishedAtHKT": "2026-10-23 22:46",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Envelope with powder; matches suspicious-letter story",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261021/1189604850019602432013492.jpeg/CNLbVUVlYZkEviA7lj8Gn4mS1ecFdEbTK0bChytGwoc?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "hks",
+        "url": "https://www.hk01.com/article/60403069",
+        "publishedRaw": "2026-10-23T22:46:46+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 97779,
+        "visualReviewed": true,
+        "visualNote": "Envelope with powder; matches suspicious-letter story",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hks",
+      "index": 5,
+      "title": "中環寶馬疑違例左轉一度阻路",
+      "articleUrl": "https://www.hk01.com/article/60403083",
+      "publishedAtHKT": "2026-10-24 01:45",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Composite stills of obstructing car at Central junction",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261024/1190550903506079744513409.jpeg/A8XLU7sxgfgW_z-yq89qqsPsILCV1m-DNYBhODWAYTg",
+      "sourceEvidence": {
+        "group": "hks",
+        "url": "https://www.hk01.com/article/60403083",
+        "publishedRaw": "2026-10-24T01:45:35+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 207892,
+        "visualReviewed": true,
+        "visualNote": "Composite stills of obstructing car at Central junction",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hks",
+      "index": 6,
+      "title": "炮台山站男子伏地捐閘片流傳",
+      "articleUrl": "https://www.hk01.com/article/60403081",
+      "publishedAtHKT": "2026-10-24 00:11",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Still sequence of man crawling under MTR gate",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190450285152047104581036.jpeg/L1Sz3vZK1s5GtfZQAqCCMJ3nIM3GrB2HtMD_IrTA_yI?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "hks",
+        "url": "https://www.hk01.com/article/60403081",
+        "publishedRaw": "2026-10-24T00:11:07+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 213802,
+        "visualReviewed": true,
+        "visualNote": "Still sequence of man crawling under MTR gate",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hks",
+      "index": 7,
+      "title": "屯門蝴蝶廣場玻璃門倒塌傷婦",
+      "articleUrl": "https://www.dimsumdaily.hk/glass-door-detaches-at-butterfly-plaza-in-tuen-mun-injuring-woman/",
+      "publishedAtHKT": "2026-10-23 23:03",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Butterfly Plaza interior only; location relevant, not collapsed door",
+      "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/23230218/Butterfly-Plaza-2.webp",
+      "sourceEvidence": {
+        "group": "hks",
+        "url": "https://www.dimsumdaily.hk/glass-door-detaches-at-butterfly-plaza-in-tuen-mun-injuring-woman/",
+        "publishedRaw": "2026-10-23T15:03:55+00:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/webp",
+        "imageBytes": 71462,
+        "visualReviewed": true,
+        "visualNote": "Butterfly Plaza interior only; location relevant, not collapsed door",
+        "visualStatus": "illustrative"
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 0,
+      "title": "美酒佳餚巡禮下周中環登場",
+      "articleUrl": "https://www.stheadline.com/daily-hongkong/3629417/",
+      "publishedAtHKT": "2026-10-24 03:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Photo of previous wine festival crowd; event subject matches preview, not 2026 opening scene",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/6c81ce255535bd3d84806cdda7a065de/2026-10/NEW05P05241026_copy.jpg",
+      "sourceEvidence": {
+        "group": "hkl",
+        "url": "https://www.stheadline.com/daily-hongkong/3629417/",
+        "publishedRaw": "2026-10-24T03:00:00+0800",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 149258,
+        "visualReviewed": true,
+        "visualNote": "Photo of previous wine festival crowd; event subject matches preview, not 2026 opening scene",
+        "visualStatus": "illustrative"
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 1,
+      "title": "照顧嚴重智障女兒十六年母盼暫託",
+      "articleUrl": "https://www.hk01.com/article/60399681",
+      "publishedAtHKT": "2026-10-24 08:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Photo composite shows mother and disabled daughter",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261022/1190071905428705280379062.jpeg/1LaIVGohV5J27p4oaMsEw5MyJvC30QEpzynWmM8p1pg",
+      "sourceEvidence": {
+        "group": "hkl",
+        "url": "https://www.hk01.com/article/60399681",
+        "publishedRaw": "2026-10-24T08:00:44+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 212823,
+        "visualReviewed": true,
+        "visualNote": "Photo composite shows mother and disabled daughter",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 2,
+      "title": "韓旅客機場星巴克杯標籤惹爭議",
+      "articleUrl": "https://www.hk01.com/article/60402675",
+      "publishedAtHKT": "2026-10-23 23:04",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Cup label Mr. KIMCHI; directly matches complaint",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261024/1190454352666431488409572.jpeg/Fv8tvFAXfaGGKTtRbK4VjFlcQuGYBunc3ANOzdwDTs0",
+      "sourceEvidence": {
+        "group": "hkl",
+        "url": "https://www.hk01.com/article/60402675",
+        "publishedRaw": "2026-10-23T23:04:52+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 170753,
+        "visualReviewed": true,
+        "visualNote": "Cup label Mr. KIMCHI; directly matches complaint",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 3,
+      "title": "蘭桂坊首階段美化完成推光影騷",
+      "articleUrl": "https://www.hk01.com/article/60403065",
+      "publishedAtHKT": "2026-10-23 22:53",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Halloween projection design/render; illustrates planned light show",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190419931166937088654783.png/zIj1DKLb6kUfzsGIqomUXBBLRVrn4U62FeYQlxXmEJc?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "hkl",
+        "url": "https://www.hk01.com/article/60403065",
+        "publishedRaw": "2026-10-23T22:53:04+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 193077,
+        "visualReviewed": true,
+        "visualNote": "Halloween projection design/render; illustrates planned light show",
+        "visualStatus": "illustrative"
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 4,
+      "title": "教大正名十周年獲三基金捐五千萬",
+      "articleUrl": "https://www.hk01.com/article/60403076",
+      "publishedAtHKT": "2026-10-23 22:57",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Education University anniversary event stage",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190434808262561792046158.jpeg/ppXYaPVcDtAk9JVRL6Ze8lDSw2qr3Iovf8EryX_BK8k?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "hkl",
+        "url": "https://www.hk01.com/article/60403076",
+        "publishedRaw": "2026-10-23T22:57:52+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 156994,
+        "visualReviewed": true,
+        "visualNote": "Education University anniversary event stage",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 5,
+      "title": "先達商場收摺機炒價夜間急變",
+      "articleUrl": "https://www.hk01.com/article/60403053",
+      "publishedAtHKT": "2026-10-23 22:46",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Sin Tat mall and iPhone price board; matches article",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190445812753108992427650.jpeg/Nq_ne9cOg9yq4Fduva_G5amcD2MhKmu1BnoLNAZ6CzQ",
+      "sourceEvidence": {
+        "group": "hkl",
+        "url": "https://www.hk01.com/article/60403053",
+        "publishedRaw": "2026-10-23T22:46:17+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 232964,
+        "visualReviewed": true,
+        "visualNote": "Sin Tat mall and iPhone price board; matches article",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 6,
+      "title": "薔琵影響港台沖繩航班延誤",
+      "articleUrl": "https://www.hk01.com/article/60403054",
+      "publishedAtHKT": "2026-10-23 21:13",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Greater Bay Airlines aircraft; illustrative, not delayed flight",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20231004/786290582006927360529678.jpeg/3FMDHdtxmX2siqwyiuu2ORIjIvHr3jMbdlpkFHZaZBQ?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "hkl",
+        "url": "https://www.hk01.com/article/60403054",
+        "publishedRaw": "2026-10-23T21:13:41+08:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 164663,
+        "visualReviewed": true,
+        "visualNote": "Greater Bay Airlines aircraft; illustrative, not delayed flight",
+        "visualStatus": "illustrative"
+      }
+    },
+    {
+      "group": "hkl",
+      "index": 7,
+      "title": "新界的士銅鑼灣落客照片引討論",
+      "articleUrl": "https://www.dimsumdaily.hk/green-new-territories-taxi-spotted-dropping-passengers-in-causeway-bay/",
+      "publishedAtHKT": "2026-10-23 22:42",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "Green New Territories taxi on Hong Kong Island; directly matches sighting",
+      "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/23224108/Green-Taxi-2-23.webp",
+      "sourceEvidence": {
+        "group": "hkl",
+        "url": "https://www.dimsumdaily.hk/green-new-territories-taxi-spotted-dropping-passengers-in-causeway-bay/",
+        "publishedRaw": "2026-10-23T14:42:49+00:00",
+        "ogImageMatched": true,
+        "imageHttp": 200,
+        "imageMime": "image/webp",
+        "imageBytes": 117736,
+        "visualReviewed": true,
+        "visualNote": "Green New Territories taxi on Hong Kong Island; directly matches sighting",
+        "visualStatus": "related"
+      }
+    },
+    {
+      "group": "hke",
+      "index": 0,
+      "title": "引進辦再迎18企 142家企業料投資840億",
+      "articleUrl": "https://hk.epochtimes.com/news/2026-10-23/45124225",
+      "publishedAtHKT": "2026-10-23 22:05",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "逐字讀原文 og:image；目視為引進辦 OASES 18家重點企業簽約儀式合照，與報道一致。",
+      "ogImage": "https://images1.epochhk.com/pictures/413794/7f13146940289180136ba519@1200x1200.jpg",
+      "sourceEvidence": {
+        "group": "hke",
+        "url": "https://hk.epochtimes.com/news/2026-10-23/45124225",
+        "publishedOriginal": "2026年10月23日 下午10:05",
+        "updatedOriginal": "無另列更新時間，沿用首發",
+        "timeBasis": "原文頁面明列香港時間；活動於22日舉行，報道於23日22:05首發",
+        "imageHttpStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 129788,
+        "imageDimensions": "1200x800",
+        "ogImageMatched": true,
+        "visualReviewed": true,
+        "visualCheck": "逐字讀原文 og:image；目視為引進辦 OASES 18家重點企業簽約儀式合照，與報道一致。",
+        "editorialCheck": "與上一版投資推廣署今年首九個月引進550企統計屬不同機構及新一批18家企業簽署儀式；未見上一版相同URL或同事件。"
+      }
+    },
+    {
+      "group": "hke",
+      "index": 1,
+      "title": "長沙灣The Campton兩房835萬元沽 帳面蝕1.5萬",
+      "articleUrl": "https://hk.epochtimes.com/news/2026-10-23/67132433",
+      "publishedAtHKT": "2026-10-23 21:39",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "逐字讀原文 og:image；目視為「港樓成交」本地物業交易專題圖，屬這宗二手成交報道的來源配圖，非冒認實物單位相片。",
+      "ogImage": "https://images1.epochhk.com/pictures/313620/HK-WEB-IMG_2023_HK_Property_%E6%B8%AF%E6%A8%93%E6%88%90%E4%BA%A4@1200x1200.jpg",
+      "sourceEvidence": {
+        "group": "hke",
+        "url": "https://hk.epochtimes.com/news/2026-10-23/67132433",
+        "publishedOriginal": "2026年10月23日 下午9:39",
+        "updatedOriginal": "無另列更新時間，沿用首發",
+        "timeBasis": "原文頁面明列香港時間",
+        "imageHttpStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 151113,
+        "imageDimensions": "1200x800",
+        "ogImageMatched": true,
+        "visualReviewed": true,
+        "visualCheck": "逐字讀原文 og:image；目視為「港樓成交」本地物業交易專題圖，屬這宗二手成交報道的來源配圖，非冒認實物單位相片。",
+        "editorialCheck": "成交價835萬、實用462呎、原買入價836.5萬及帳面蝕1.5萬均見原文；上一版無此成交。"
+      }
+    },
+    {
+      "group": "hke",
+      "index": 2,
+      "title": "香港與金精煉商達成合作 推進本地加工",
+      "articleUrl": "https://www.scmp.com/business/banking-finance/article/3371968/hong-kong-burnishes-gold-hub-credentials-local-refineries-deal",
+      "publishedAtHKT": "2026-10-23 21:36",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "逐字讀原文 og:image；目視為金條受精煉設備加工，與本地金精煉合作報道一致。",
+      "ogImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/23/f2ddb048-a1ef-47b0-8e69-22b2093e2693_953b31e0.jpg?itok=eHsMd7ug&v=1792762569",
+      "sourceEvidence": {
+        "group": "hke",
+        "url": "https://www.scmp.com/business/banking-finance/article/3371968/hong-kong-burnishes-gold-hub-credentials-local-refineries-deal",
+        "publishedOriginal": "2026-10-23T21:36:12+08:00",
+        "updatedOriginal": "2026-10-23T21:36:12+08:00",
+        "timeBasis": "原文 article:published_time 和 article:modified_time 均帶 +08:00",
+        "imageHttpStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 128021,
+        "imageDimensions": "1200x630",
+        "ogImageMatched": true,
+        "visualReviewed": true,
+        "visualCheck": "逐字讀原文 og:image；目視為金條受精煉設備加工，與本地金精煉合作報道一致。",
+        "editorialCheck": "原文首段確認與金精煉商達成合作、使加工工序本地化；未見上一版同事件。"
+      }
+    },
+    {
+      "group": "hkp",
+      "index": 0,
+      "title": "鄉議局百周年 李家超稱續商北都規劃",
+      "articleUrl": "https://www.stheadline.com/politics/3629360/",
+      "publishedAtHKT": "2026-10-23 22:25",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "og:image 為鄉議局百周年活動合照及標誌，與報道相符；已目視原圖",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/53e20400359a933be288476263de048c/2026-10/E18C8B1AF26A48E4AE09D7B76EE10D22_O.jpeg",
+      "sourceEvidence": {
+        "group": "hkp",
+        "url": "https://www.stheadline.com/politics/3629360/",
+        "publishedOriginal": "2026-10-23T22:25:19+0800",
+        "updatedOriginal": "2026-10-23T22:25:19+0800",
+        "timeBasis": "原文 HKT",
+        "imageHttpStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 242726,
+        "imageDimensions": "1200x770",
+        "visualCheck": "og:image 為鄉議局百周年活動合照及標誌，與報道相符；已目視原圖",
+        "editorialCheck": "原文寫李家超對北都規劃的發言，與上一版新田科技城申撥是不同場合及發展。",
+        "ogImageMatched": true,
+        "visualReviewed": true
+      }
+    },
+    {
+      "group": "hkp",
+      "index": 1,
+      "title": "曾智明當選中總新會長 接替蔡冠深",
+      "articleUrl": "https://www.hk01.com/article/60403061",
+      "publishedAtHKT": "2026-10-23 22:33",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "og:image 為曾智明與蔡冠深握手合照，與換屆報道相符；已目視原圖",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190413619595055104849175.jpeg/wq7ZHt-B9UB7SRBk5xl7FlbAa0I33E_JXyAA3V8gAN0?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "hkp",
+        "url": "https://www.hk01.com/article/60403061",
+        "publishedOriginal": "2026-10-23T22:33:21+08:00",
+        "updatedOriginal": "2026-10-23T22:35:51+08:00",
+        "timeBasis": "原文 HKT",
+        "imageHttpStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 128805,
+        "imageDimensions": "1280x720",
+        "visualCheck": "og:image 為曾智明與蔡冠深握手合照，與換屆報道相符；已目視原圖",
+        "editorialCheck": "原文列出新會長、八名副會長及新會董會履任日期。",
+        "ogImageMatched": true,
+        "visualReviewed": true
+      }
+    },
+    {
+      "group": "hkp",
+      "index": 2,
+      "title": "運物局申三億八千萬更換青沙交管系統",
+      "articleUrl": "https://www.stheadline.com/daily-hongkong/3629411/",
+      "publishedAtHKT": "2026-10-24 03:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "og:image 為青沙公路收費區及車流，與交管系統報道相符；已目視原圖",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/eb73f02fd5f2a54b23250f976a6f351d/2026-10/NEW03P02241026_copy.jpg",
+      "sourceEvidence": {
+        "group": "hkp",
+        "url": "https://www.stheadline.com/daily-hongkong/3629411/",
+        "publishedOriginal": "2026-10-24T03:00:00+0800",
+        "updatedOriginal": "2026-10-24T03:00:00+0800",
+        "timeBasis": "原文 HKT；文章稱申撥文件於昨日提交立法會",
+        "imageHttpStatus": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 179464,
+        "imageDimensions": "433x325",
+        "visualCheck": "og:image 為青沙公路收費區及車流，與交管系統報道相符；已目視原圖",
+        "editorialCheck": "原文寫申撥逾3.8億元、現有系統逾17年及如獲批明年首季開工，屬立法會撥款政策。",
+        "ogImageMatched": true,
+        "visualReviewed": true
+      }
+    },
+    {
+      "group": "cn",
+      "index": 0,
+      "title": "山東九歲童開車門撞斃鐵騎 女司機判囚",
+      "articleUrl": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402756/9%E6%AD%B2%E7%AB%A5-%E9%96%8B%E9%96%80%E6%AE%BA-%E8%87%B4%E9%90%B5%E9%A8%8E%E6%AD%BB%E4%BA%A1-%E6%9C%AA%E9%81%94%E5%88%91%E8%B2%AC%E5%B9%B4%E9%BD%A1-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%88%A4%E7%9B%A310%E5%80%8B%E6%9C%88%E6%83%B9%E8%AD%B0",
+      "publishedAtHKT": "2026-10-24 00:30:59",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見汽車開門撞及騎車者，與案件直接相符",
+      "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190339615953784832032698.png/2YYal09eCYMtuZd_25071amuEu8QzyJ-dbB_qnWwf6o?v=w1280r16_9",
+      "sourceEvidence": {
+        "group": "cn",
+        "url": "https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60402756/9%E6%AD%B2%E7%AB%A5-%E9%96%8B%E9%96%80%E6%AE%BA-%E8%87%B4%E9%90%B5%E9%A8%8E%E6%AD%BB%E4%BA%A1-%E6%9C%AA%E9%81%94%E5%88%91%E8%B2%AC%E5%B9%B4%E9%BD%A1-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%88%A4%E7%9B%A310%E5%80%8B%E6%9C%88%E6%83%B9%E8%AD%B0",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T00:30:59+08:00",
+        "hktPublished": "2026-10-24 00:30:59",
+        "rawModified": "2026-10-24T00:30:59+08:00",
+        "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190339615953784832032698.png/2YYal09eCYMtuZd_25071amuEu8QzyJ-dbB_qnWwf6o?v=w1280r16_9",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 88031,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          1200,
+          675
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:18.036595+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見汽車開門撞及騎車者，與案件直接相符"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 1,
+      "title": "中國赴韓團客遇強制購物及甩客",
+      "articleUrl": "https://www.zaobao.com.sg/news/china/story20261024-9886828",
+      "publishedAtHKT": "2026-10-24 07:28:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見旅客於韓國街頭，為旅遊情境配圖；唔係涉事團現場",
+      "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/630ed04716d243e4642ff19573f870df5b59d748703e50c8380050f03233a55e",
+      "sourceEvidence": {
+        "group": "cn",
+        "url": "https://www.zaobao.com.sg/news/china/story20261024-9886828",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T07:28:00+08:00",
+        "hktPublished": "2026-10-24 07:28:00",
+        "rawModified": "2026-10-24T07:28:00+08:00",
+        "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/630ed04716d243e4642ff19573f870df5b59d748703e50c8380050f03233a55e",
+        "imageHttp": 200,
+        "imageMime": "image/webp",
+        "imageBytes": 87722,
+        "imageFormat": "WEBP",
+        "imageSize": [
+          1023,
+          682
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:18.270294+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見旅客於韓國街頭，為旅遊情境配圖；唔係涉事團現場"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 2,
+      "title": "德國前總理施羅德現身中國論壇",
+      "articleUrl": "https://www.dw.com/zh/%E6%96%BD%E7%BD%97%E5%BE%B7%E7%8E%B0%E8%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B%E4%B8%8E%E7%8E%8B%E6%AF%85%E5%B9%B6%E8%82%A9%E5%85%A5%E5%9C%BA/a-79745491",
+      "publishedAtHKT": "2026-10-23 22:33:43",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見施羅德與論壇參與者，與到場報道相符",
+      "ogImage": "https://static.dw.com/image/79583402_6.jpg",
+      "sourceEvidence": {
+        "group": "cn",
+        "url": "https://www.dw.com/zh/%E6%96%BD%E7%BD%97%E5%BE%B7%E7%8E%B0%E8%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%BA%E5%9D%9B%E4%B8%8E%E7%8E%8B%E6%AF%85%E5%B9%B6%E8%82%A9%E5%85%A5%E5%9C%BA/a-79745491",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-23T14:33:43.01Z",
+        "hktPublished": "2026-10-23 22:33:43",
+        "rawModified": "2026-10-23T14:33:43.01Z",
+        "ogImage": "https://static.dw.com/image/79583402_6.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 70126,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          940,
+          529
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:21.086708+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見施羅德與論壇參與者，與到場報道相符"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 3,
+      "title": "中國網紅赴台推廣代孕遭罰及驅逐",
+      "articleUrl": "https://hk.epochtimes.com/news/2026-10-24/70618280",
+      "publishedAtHKT": "2026-10-24 03:51:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見機場出境閘口，與遣返出境情節相符；無法從圖單獨確認當事人",
+      "ogImage": "https://images1.epochhk.com/pictures/i-epochtimes-com/586aca35ea97a987b64c07e1597f3d0f@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2026%2F10%2Fid14875443-2610230351052378.jpg",
+      "sourceEvidence": {
+        "group": "cn",
+        "url": "https://hk.epochtimes.com/news/2026-10-24/70618280",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T03:51:00+08:00",
+        "hktPublished": "2026-10-24 03:51:00",
+        "rawModified": "2026-10-24T03:51:00+08:00",
+        "ogImage": "https://images1.epochhk.com/pictures/i-epochtimes-com/586aca35ea97a987b64c07e1597f3d0f@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2026%2F10%2Fid14875443-2610230351052378.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 65067,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          515,
+          600
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:18.798674+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見機場出境閘口，與遣返出境情節相符；無法從圖單獨確認當事人"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 4,
+      "title": "歐盟對華逆差擴大 多國部長商討應對",
+      "articleUrl": "https://www.dw.com/zh/%E5%AF%B9%E5%8D%8E%E9%80%86%E5%B7%AE%E6%97%A5%E9%80%BE10%E4%BA%BF%E6%AC%A7-%E6%AC%A7%E7%9B%9F%E8%A6%81%E5%87%BA%E6%89%8B/a-79744903",
+      "publishedAtHKT": "2026-10-23 21:51:46",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片為中國貨船與歐盟標誌合成圖，直接對應歐中貿易逆差",
+      "ogImage": "https://static.dw.com/image/77752911_6.jpg",
+      "sourceEvidence": {
+        "group": "cn",
+        "url": "https://www.dw.com/zh/%E5%AF%B9%E5%8D%8E%E9%80%86%E5%B7%AE%E6%97%A5%E9%80%BE10%E4%BA%BF%E6%AC%A7-%E6%AC%A7%E7%9B%9F%E8%A6%81%E5%87%BA%E6%89%8B/a-79744903",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-23T13:51:46.722Z",
+        "hktPublished": "2026-10-23 21:51:46",
+        "rawModified": "2026-10-23T13:51:46.722Z",
+        "ogImage": "https://static.dw.com/image/77752911_6.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 1437572,
+        "imageFormat": "PNG",
+        "imageSize": [
+          940,
+          529
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:21.516043+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片為中國貨船與歐盟標誌合成圖，直接對應歐中貿易逆差"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 5,
+      "title": "中國向離岸信託收益徵稅 富豪調整資產",
+      "articleUrl": "https://www.dw.com/zh/%E7%A6%BB%E5%B2%B8%E4%BF%A1%E6%89%98%E7%94%B3%E6%8A%A5%E6%9C%9F%E9%99%90%E5%B1%8A%E6%BB%A1%E4%B8%AD%E5%9B%BD%E5%AF%8C%E8%B1%AA%E6%8A%9B%E8%82%A1%E7%A5%A8%E6%8B%86%E4%BF%A1%E6%89%98%E6%8D%A2%E5%9B%BD%E7%B1%8D/a-79744173",
+      "publishedAtHKT": "2026-10-23 21:31:17",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片為金條及金幣財富示意，僅表示資產；無法視作涉事信託實景",
+      "ogImage": "https://static.dw.com/image/40033475_6.jpg",
+      "sourceEvidence": {
+        "group": "cn",
+        "url": "https://www.dw.com/zh/%E7%A6%BB%E5%B2%B8%E4%BF%A1%E6%89%98%E7%94%B3%E6%8A%A5%E6%9C%9F%E9%99%90%E5%B1%8A%E6%BB%A1%E4%B8%AD%E5%9B%BD%E5%AF%8C%E8%B1%AA%E6%8A%9B%E8%82%A1%E7%A5%A8%E6%8B%86%E4%BF%A1%E6%89%98%E6%8D%A2%E5%9B%BD%E7%B1%8D/a-79744173",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-23T13:31:17.92Z",
+        "hktPublished": "2026-10-23 21:31:17",
+        "rawModified": "2026-10-23T13:31:17.92Z",
+        "ogImage": "https://static.dw.com/image/40033475_6.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 88186,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          940,
+          529
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:20.928777+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片為金條及金幣財富示意，僅表示資產；無法視作涉事信託實景"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 6,
+      "title": "吉利旗下Volvo第三季虧損 再裁二千五百人",
+      "articleUrl": "https://hk.epochtimes.com/news/2026-10-24/87102772",
+      "publishedAtHKT": "2026-10-24 08:17:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見Volvo車標，與公司財報報道相符",
+      "ogImage": "https://images1.epochhk.com/pictures/i-epochtimes-com/03bbb6cf4a213a6778d2d35ca06731ea@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2022%2F03%2Fid13611924-GettyImages-1198909007.jpg",
+      "sourceEvidence": {
+        "group": "cn",
+        "url": "https://hk.epochtimes.com/news/2026-10-24/87102772",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T08:17:00+08:00",
+        "hktPublished": "2026-10-24 08:17:00",
+        "rawModified": "2026-10-24T08:17:00+08:00",
+        "ogImage": "https://images1.epochhk.com/pictures/i-epochtimes-com/03bbb6cf4a213a6778d2d35ca06731ea@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2022%2F03%2Fid13611924-GettyImages-1198909007.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 56479,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          1024,
+          683
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:17.979035+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見Volvo車標，與公司財報報道相符"
+      }
+    },
+    {
+      "group": "cn",
+      "index": 7,
+      "title": "優衣庫工裝襯衫被網民穿成紅軍造型",
+      "articleUrl": "https://www.stheadline.com/daily-china/3629393/%E6%97%A5%E7%B3%BB%E8%AE%8A%E6%88%90%E6%8A%97%E6%97%A5%E7%B3%BB-%E5%84%AA%E8%A1%A3%E5%BA%AB%E5%B7%A5%E8%A3%9D%E8%A1%AB%E8%A5%AF%E5%87%BA%E7%B4%85%E8%BB%8D%E7%A9%BF%E6%90%AD%E8%B5%B0%E7%B4%85",
+      "publishedAtHKT": "2026-10-24 03:00:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見優衣庫青灰色工裝襯衫，與報道商品相符",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/aa9878169dbe5031b44ace2a2e9c5482/2026-10/CHI01P08241026_copy.jpg",
+      "sourceEvidence": {
+        "group": "cn",
+        "url": "https://www.stheadline.com/daily-china/3629393/%E6%97%A5%E7%B3%BB%E8%AE%8A%E6%88%90%E6%8A%97%E6%97%A5%E7%B3%BB-%E5%84%AA%E8%A1%A3%E5%BA%AB%E5%B7%A5%E8%A3%9D%E8%A1%AB%E8%A5%AF%E5%87%BA%E7%B4%85%E8%BB%8D%E7%A9%BF%E6%90%AD%E8%B5%B0%E7%B4%85",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T03:00:00+0800",
+        "hktPublished": "2026-10-24 03:00:00",
+        "rawModified": "2026-10-24T03:00:00+0800",
+        "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/aa9878169dbe5031b44ace2a2e9c5482/2026-10/CHI01P08241026_copy.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg; charset=UTF-8",
+        "imageBytes": 246116,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          472,
+          354
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:17.967158+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見優衣庫青灰色工裝襯衫，與報道商品相符"
+      }
+    },
+    {
+      "group": "us",
+      "index": 0,
+      "title": "加拿大移居美國人數錄得增長",
+      "articleUrl": "https://hk.epochtimes.com/news/2026-10-24/44357541",
+      "publishedAtHKT": "2026-10-24 08:27:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見美國邊境檢查站與車流，與跨境移民主題相符，屬資料照",
+      "ogImage": "https://images1.epochhk.com/pictures/i-epochtimes-com/d7aae5b950c016eb2a5c5e10fd37046e@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2026%2F10%2Fid14875506-GettyImages-2196748724-2.jpg",
+      "sourceEvidence": {
+        "group": "us",
+        "url": "https://hk.epochtimes.com/news/2026-10-24/44357541",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T08:27:00+08:00",
+        "hktPublished": "2026-10-24 08:27:00",
+        "rawModified": "2026-10-24T08:27:00+08:00",
+        "ogImage": "https://images1.epochhk.com/pictures/i-epochtimes-com/d7aae5b950c016eb2a5c5e10fd37046e@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2026%2F10%2Fid14875506-GettyImages-2196748724-2.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 97512,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          1024,
+          683
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:18.435994+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見美國邊境檢查站與車流，與跨境移民主題相符，屬資料照"
+      }
+    },
+    {
+      "group": "us",
+      "index": 1,
+      "title": "達美客機乘客涉醉酒辱罵遭帶離",
+      "articleUrl": "https://news.ltn.com.tw/news/world/breakingnews/5616688",
+      "publishedAtHKT": "2026-10-23 22:33:23",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見達美客機，與涉事航空公司相符，屬資料照",
+      "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/phpVMQKOe.jpg",
+      "sourceEvidence": {
+        "group": "us",
+        "url": "https://news.ltn.com.tw/news/world/breakingnews/5616688",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-23T22:33:23+08:00",
+        "hktPublished": "2026-10-23 22:33:23",
+        "rawModified": "2026-10-23T22:33:23+08:00",
+        "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/phpVMQKOe.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 53759,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          800,
+          533
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:19.515604+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見達美客機，與涉事航空公司相符，屬資料照"
+      }
+    },
+    {
+      "group": "us",
+      "index": 2,
+      "title": "美國第一夫人稱促成烏南城鎮局部停火",
+      "articleUrl": "https://news.ltn.com.tw/news/world/breakingnews/5616884",
+      "publishedAtHKT": "2026-10-23 22:45:50",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見烏南受損建築，與救援停火地區戰事背景相符，唔係協議現場",
+      "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616884_1_1.jpg",
+      "sourceEvidence": {
+        "group": "us",
+        "url": "https://news.ltn.com.tw/news/world/breakingnews/5616884",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-23T22:45:50+08:00",
+        "hktPublished": "2026-10-23 22:45:50",
+        "rawModified": "2026-10-23T22:45:50+08:00",
+        "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/23/5616884_1_1.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 84282,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          800,
+          450
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:20.031239+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見烏南受損建築，與救援停火地區戰事背景相符，唔係協議現場"
+      }
+    },
+    {
+      "group": "tw",
+      "index": 0,
+      "title": "薔琵掠過台灣一死三百五十傷",
+      "articleUrl": "https://www.stheadline.com/daily-china/3629394/%E8%96%94%E7%90%B5%E6%8E%A0%E5%8F%B01%E6%AD%BB350%E5%82%B7-%E5%B1%8F%E6%9D%B1%E6%BC%A2%E9%81%AD%E5%B7%A8%E6%B5%AA%E6%8D%B2%E8%B5%B0%E4%BA%A1",
+      "publishedAtHKT": "2026-10-24 03:00:00",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "巨浪打上台灣岸邊，與颱風巨浪及死亡報道相符",
+      "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/fcfd4834965f5039f3940588dd05331f/2026-10/CHI01P01241026_copy.jpg",
+      "sourceEvidence": {
+        "group": "tw",
+        "url": "https://www.stheadline.com/daily-china/3629394/%E8%96%94%E7%90%B5%E6%8E%A0%E5%8F%B01%E6%AD%BB350%E5%82%B7-%E5%B1%8F%E6%9D%B1%E6%BC%A2%E9%81%AD%E5%B7%A8%E6%B5%AA%E6%8D%B2%E8%B5%B0%E4%BA%A1",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T03:00:00+0800",
+        "hktPublished": "2026-10-24 03:00:00",
+        "rawModified": "2026-10-24T03:00:00+0800",
+        "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/fcfd4834965f5039f3940588dd05331f/2026-10/CHI01P01241026_copy.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg; charset=UTF-8",
+        "imageBytes": 169857,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          527,
+          354
+        ],
+        "ogImageMatched": true,
+        "visualReviewed": true,
+        "visualNote": "巨浪打上台灣岸邊，與颱風巨浪及死亡報道相符",
+        "checkedAt": "2026-10-24T00:41:06.238959+00:00"
+      }
+    },
+    {
+      "group": "tw",
+      "index": 1,
+      "title": "台灣非正規教育課程認證新制明年實施",
+      "articleUrl": "https://news.ltn.com.tw/news/life/breakingnews/5616955",
+      "publishedAtHKT": "2026-10-24 06:41:57",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見終身學習表揚活動合照，與教育新制服務對象相符，屬資料照",
+      "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5616955_1_1.jpg",
+      "sourceEvidence": {
+        "group": "tw",
+        "url": "https://news.ltn.com.tw/news/life/breakingnews/5616955",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T06:41:57+08:00",
+        "hktPublished": "2026-10-24 06:41:57",
+        "rawModified": "2026-10-24T06:41:57+08:00",
+        "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5616955_1_1.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 91151,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          800,
+          600
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:20.029844+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見終身學習表揚活動合照，與教育新制服務對象相符，屬資料照"
+      }
+    },
+    {
+      "group": "tw",
+      "index": 2,
+      "title": "台南車站公共鋼琴走紅 背後父愛故事曝光",
+      "articleUrl": "https://news.ltn.com.tw/news/life/breakingnews/5616990",
+      "publishedAtHKT": "2026-10-24 08:24:17",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見工人搬運鋼琴，與報道公共鋼琴進駐相符",
+      "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5616990_4_1.jpg",
+      "sourceEvidence": {
+        "group": "tw",
+        "url": "https://news.ltn.com.tw/news/life/breakingnews/5616990",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T08:24:17+08:00",
+        "hktPublished": "2026-10-24 08:24:17",
+        "rawModified": "2026-10-24T08:24:17+08:00",
+        "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/5616990_4_1.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 77321,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          785,
+          1200
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:20.023116+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見工人搬運鋼琴，與報道公共鋼琴進駐相符"
+      }
+    },
+    {
+      "group": "war",
+      "index": 0,
+      "title": "伊朗增設武裝巡邏與檢查站 網速轉慢",
+      "articleUrl": "https://www.iranintl.com/en/202610232995",
+      "publishedAtHKT": "2026-10-24 01:21:38",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見伊朗武裝人員街頭集結，與安全巡邏主題相符，未能由圖證明係當日巡邏",
+      "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/6fc80275619a69b08922a217f1004b8ab0fed35d-1280x853.jpg?rect=333,226,911,478&w=1200&h=630&q=66&fit=max&auto=format",
+      "sourceEvidence": {
+        "group": "war",
+        "url": "https://www.iranintl.com/en/202610232995",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-23T17:21:38.356Z",
+        "hktPublished": "2026-10-24 01:21:38",
+        "rawModified": "2026-10-23T17:23:09Z",
+        "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/6fc80275619a69b08922a217f1004b8ab0fed35d-1280x853.jpg?rect=333,226,911,478&w=1200&h=630&q=66&fit=max&auto=format",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 84742,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          911,
+          478
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:22.954034+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見伊朗武裝人員街頭集結，與安全巡邏主題相符，未能由圖證明係當日巡邏"
+      }
+    },
+    {
+      "group": "war",
+      "index": 1,
+      "title": "美國特使稱周末攻擊伊朗有可能",
+      "articleUrl": "https://news.ltn.com.tw/news/world/breakingnews/5616927",
+      "publishedAtHKT": "2026-10-24 02:36:03",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "圖片見美國特使巴瑞克接受訪問，與其言論報道直接相符",
+      "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/php0RwWSz.jpg",
+      "sourceEvidence": {
+        "group": "war",
+        "url": "https://news.ltn.com.tw/news/world/breakingnews/5616927",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-24T02:36:03+08:00",
+        "hktPublished": "2026-10-24 02:36:03",
+        "rawModified": "2026-10-24T02:36:03+08:00",
+        "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/24/php0RwWSz.jpg",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 47398,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          800,
+          533
+        ],
+        "ogExactMatch": true,
+        "visualReviewed": true,
+        "checkedAt": "2026-10-24T00:39:20.276225+00:00",
+        "ogImageMatched": true,
+        "visualNote": "圖片見美國特使巴瑞克接受訪問，與其言論報道直接相符"
+      }
+    },
+    {
+      "group": "war",
+      "index": 2,
+      "title": "伊朗官員聲稱有襲擊海灣海底電纜計劃",
+      "articleUrl": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say",
+      "publishedAtHKT": "2026-10-24 00:57:01",
+      "sourceHtmlOgImageMatchesCard": true,
+      "visualReviewed": true,
+      "visualNote": "相片見海灣海面船隻，為霍爾木茲海峽地理背景照；唔係海底電纜或襲擊現場。原文標為路透社圖片。",
+      "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/f5ca7b23e569c1535e9d436fb98d05a0895e995398784801ba29169fda214181?w=1200",
+      "sourceEvidence": {
+        "group": "war",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say",
+        "articleHttp": 200,
+        "rawPublished": "2026-10-23T16:57:01.000Z",
+        "hktPublished": "2026-10-24 00:57:01",
+        "rawModified": "2026-10-23T20:35:37.000Z",
+        "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/f5ca7b23e569c1535e9d436fb98d05a0895e995398784801ba29169fda214181?w=1200",
+        "imageHttp": 200,
+        "imageMime": "image/jpeg",
+        "imageBytes": 53229,
+        "imageFormat": "JPEG",
+        "imageSize": [
+          1200,
+          630
+        ],
+        "ogImageMatched": true,
+        "visualReviewed": true,
+        "visualNote": "相片見海灣海面船隻，為霍爾木茲海峽地理背景照；唔係海底電纜或襲擊現場。原文標為路透社圖片。",
+        "checkedAt": "2026-10-24T00:42:10.867741+00:00",
+        "claimCaveat": "兩名匿名伊朗安全官員聲稱；未獨立核實計劃或執行能力"
+      }
+    }
+  ],
+  "briefImages": [
+    {
+      "brief": "ai",
+      "source": "The Decoder — OpenAI monitoring audit",
+      "articleUrl": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
+      "publishedAtHKT": "2026-10-24 02:00:32",
+      "ogImage": "https://the-decoder.com/wp-content/uploads/2024/12/openai_safety_research_alignment_illustration.png",
+      "sourceHtmlOgImageMatchesCard": true,
+      "imageHttpStatus": 200,
+      "imageMime": "image/png",
+      "imageBytes": 157689,
+      "visualReviewed": true,
+      "visualNote": "OpenAI 標誌與安全監察抽象示意圖；已目視，為原文 og:image，並非新聞現場照片。"
+    },
+    {
+      "brief": "warb",
+      "source": "衛報 — Istanbul foreign ministers summit",
+      "articleUrl": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+      "publishedAtHKT": "2026-10-24 01:18:34",
+      "ogImage": "https://i.guim.co.uk/img/media/6ac9cf9fbfcf811f0a3f36368ba9e219fcb7b7de/367_0_2560_2048/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9adc5e7bb71306206b3f88525e28dd4f",
+      "sourceHtmlOgImageMatchesCard": true,
+      "imageHttpStatus": 200,
+      "imageMime": "image/jpeg",
+      "imageBytes": 98737,
+      "visualReviewed": true,
+      "visualNote": "伊斯坦堡多國外長合照，與戰事外交進展相符；已目視。"
+    }
+  ],
+  "duplicateReviews": [
+    {
+      "urls": [
+        "https://www.stheadline.com/daily-hongkong/3629417/",
+        "https://www.zaobao.com.sg/news/china/story20261023-9883779"
+      ],
+      "decision": "different_events",
+      "reason": "香港中環美酒佳餚巡禮下周舉行，另一張係德國總統下周訪華；只係同用「下周」時間字眼，活動、地點、人物完全不同。"
+    },
+    {
+      "urls": [
+        "https://hk.epochtimes.com/news/2026-10-23/45124225",
+        "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/515745/%E8%A8%B1%E6%AD%A3%E5%AE%87-%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%91%A8%E5%B1%95%E7%A4%BA%E9%A6%99%E6%B8%AF%E7%A7%91%E5%89%B5%E7%99%BC%E5%B1%95%E6%A9%9F%E9%81%87-%E6%8A%95%E8%B3%87"
+      ],
+      "decision": "different_events",
+      "reason": "今版係引進重點企業辦公室新迎十八間企業及累計一百四十二間投資計劃；前版係投資推廣署首九個月協助五百五十間企業來港開業。兩個機構、統計口徑與新增消息不同。"
+    },
+    {
+      "urls": [
+        "https://www.scmp.com/business/banking-finance/article/3371968/hong-kong-burnishes-gold-hub-credentials-local-refineries-deal",
+        "https://www.hk01.com/article/60403031"
+      ],
+      "decision": "different_events",
+      "reason": "今版報香港與金精煉商合作發展本地黃金加工；前版係一間公司涉嫌未註冊處理大額鐘錶現金交易。兩件事只共享金屬或交易字眼，涉事機構與行為完全不同。"
+    },
+    {
+      "urls": [
+        "https://hk.epochtimes.com/news/2026-10-24/44357541",
+        "https://news.ltn.com.tw/news/world/breakingnews/5616769"
+      ],
+      "decision": "different_events",
+      "reason": "加拿大人移居美國嘅人數變化與華府質疑加拿大干預美國期中選舉，雖同提加拿大同美國，統計移民與選舉外交指控係兩宗不同事件。"
+    },
+    {
+      "urls": [
+        "https://news.ltn.com.tw/news/world/breakingnews/5616884",
+        "https://news.ltn.com.tw/news/world/breakingnews/5616667"
+      ],
+      "decision": "different_events",
+      "reason": "第一夫人聲稱促成烏克蘭南部城鎮局部停火，與美軍禁止比亞迪汽車進入沖繩嘉手納基地，涉及不同國家、人物同政策。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403054",
+        "https://www.stheadline.com/daily-china/3629394/%E8%96%94%E7%90%B5%E6%8E%A0%E5%8F%B01%E6%AD%BB350%E5%82%B7-%E5%B1%8F%E6%9D%B1%E6%BC%A2%E9%81%AD%E5%B7%A8%E6%B5%AA%E6%8D%B2%E8%B5%B0%E4%BA%A1"
+      ],
+      "decision": "different_events",
+      "reason": "香港民生卡講薔琵導致香港往返台灣沖繩航班延誤，台灣卡講當地死亡及受傷最新數字；同一颱風但係兩項不同地區與後果。"
+    },
+    {
+      "urls": [
+        "https://www.stheadline.com/daily-china/3629394/%E8%96%94%E7%90%B5%E6%8E%A0%E5%8F%B01%E6%AD%BB350%E5%82%B7-%E5%B1%8F%E6%9D%B1%E6%BC%A2%E9%81%AD%E5%B7%A8%E6%B5%AA%E6%8D%B2%E8%B5%B0%E4%BA%A1",
+        "https://news.ltn.com.tw/news/life/breakingnews/5616777"
+      ],
+      "decision": "substantive_update",
+      "reason": "前版報苗栗電線吹斷致約三千戶停電；今版新增台灣全島至少一死三百五十傷及屏東巨浪捲人，傷亡資料係實質後續。"
+    },
+    {
+      "urls": [
+        "https://www.zaobao.com.sg/news/china/story20261024-9886828",
+        "https://www.stheadline.com/realtime-china/3629253/"
+      ],
+      "decision": "different_events",
+      "reason": "前版係中國旅客在蘇州杭州低價團遭強制購物；今版係另一批中國旅客在韓國遇購物壓力及拒買後甩客，地點及團體不同。"
+    },
+    {
+      "urls": [
+        "https://news.ltn.com.tw/news/world/breakingnews/5616927",
+        "https://www.iranintl.com/en/202610234921"
+      ],
+      "decision": "substantive_update",
+      "reason": "前版為美方稱可長期封鎖伊朗港口並考慮日後再襲；今版特使首次明言本周末攻擊「有可能」，新增具體近期時段但仍未成事。"
+    }
+  ]
+}
