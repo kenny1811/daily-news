@@ -1,0 +1,1192 @@
+{
+  "edition": "2026-10-25 pm",
+  "recordedAt": "2026-10-25T12:48:04.641Z",
+  "lastSourceCheckedAt": "2026-10-25T12:46:41.571Z",
+  "scope": "原文時間、og:image 字串、逐圖 HTTP GET/解碼及目視主題；機器驗證見同日 pm.json。來源可能使用與事件相符的資料圖，個別圖片不代表事發現場。",
+  "counts": {
+    "hks": 8,
+    "hkl": 8,
+    "hke": 3,
+    "hkp": 3,
+    "cn": 8,
+    "us": 3,
+    "tw": 3,
+    "war": 3
+  },
+  "duplicateReviews": [
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403427",
+        "https://www.hk01.com/article/60403287"
+      ],
+      "decision": "different_events",
+      "reason": "夜報係香港快運赴濟州航班機艙充電器冒煙；午報係荃灣路面電單車撞私家車，場景、事主與成因完全唔同，只有事故描述常用字重合。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403409",
+        "https://www.hk01.com/article/60403380"
+      ],
+      "decision": "different_events",
+      "reason": "鴨脷洲護老院九十一歲院友進食時疑鯁喉，將軍澳係十七歲少年墮樓；兩宗個案地點、年齡及案情均不同，不能合併。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403380",
+        "https://www.hk01.com/article/60403289"
+      ],
+      "decision": "different_events",
+      "reason": "夜報將軍澳清水灣半島十七歲少年墮樓，午報華富邨老翁墮樓；兩宗發生地點與死者身份不同，非同一事故後續。"
+    },
+    {
+      "urls": [
+        "https://www.zaobao.com.sg/news/world/story20261025-9891924",
+        "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-sites-strikes-reported-on-yemens-aden"
+      ],
+      "decision": "substantive_update",
+      "reason": "午報係胡塞聲稱攻擊沙特油氣設施及攔截說法；夜報新增利雅得機場早前受襲後部分重開航班，屬交通設施恢復運作嘅新狀態。"
+    },
+    {
+      "urls": [
+        "https://www.iranintl.com/en/202610253322",
+        "https://www.straitstimes.com/world/middle-east/houthis-say-they-attacked-saudi-oil-sites-strikes-reported-on-yemens-aden"
+      ],
+      "decision": "substantive_update",
+      "reason": "午報凌晨報道胡塞聲稱襲擊沙特油氣設施，聯軍指攔截兩枚飛彈；夜報晚上更新星期日利雅得及南部地區再攔截導彈與無人機，係新一輪攻防及攔截結果。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403363",
+        "https://www.hk01.com/article/60402835"
+      ],
+      "decision": "substantive_update",
+      "reason": "午報報城巴皇崗 B13 路線途經四十站及增設快線；夜報係陳國基實地視察口岸擠塞並指示高峰前調整櫃枱，屬當日管理措施新進展。"
+    }
+  ],
+  "sources": {
+    "hkGeneral": {
+      "checkedAt": "2026-10-25T12:38:07.227Z",
+      "items": [
+        {
+          "group": "hks",
+          "index": 0,
+          "url": "https://www.hk01.com/article/60403427",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261017/1188096674824720384127098.png/iGvvfLOWgGYfT_874ry8BujaiUxnE2dJIz5EaSM-RGk?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T20:19:45+08:00",
+          "publishedHkt": "2026-10-25 20:19:45",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T20:20:17+08:00",
+          "modifiedHkt": "2026-10-25 20:20:17",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 109784,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, HK Express aircraft/brand; article airline incident context"
+        },
+        {
+          "group": "hks",
+          "index": 1,
+          "url": "https://www.hk01.com/article/60403409",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260530/1137369704369754112715093.jpeg/-mY7lAxEYRAnpTNgHDCCqZ_IJJMS1c4DQDNcnkAzXJ4?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T18:27:19+08:00",
+          "publishedHkt": "2026-10-25 18:27:19",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T18:58:09+08:00",
+          "modifiedHkt": "2026-10-25 18:58:09",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 219261,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, ambulance and hospital entrance; elder death report context"
+        },
+        {
+          "group": "hks",
+          "index": 2,
+          "url": "https://www.hk01.com/article/60403380",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191069540583215104918573.jpeg/rQGBqU0BkLlHQW_cYUH3C2c32lRDNSfy8gHPe9cBz3s?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T16:57:24+08:00",
+          "publishedHkt": "2026-10-25 16:57:24",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T17:50:42+08:00",
+          "modifiedHkt": "2026-10-25 17:50:42",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 283654,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, residential exterior/scene; reported fall context"
+        },
+        {
+          "group": "hks",
+          "index": 3,
+          "url": "https://www.hk01.com/article/60403329",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191082676367396864572908.jpeg/-C7H0ZaWNQfhPhsPbQvFcQbyxyqxcVlrXaTVyF2k1cg",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T13:25:29+08:00",
+          "publishedHkt": "2026-10-25 13:25:29",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T18:25:53+08:00",
+          "modifiedHkt": "2026-10-25 18:25:53",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 215544,
+            "width": 1200,
+            "height": 675,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, calf being rescued from stream; directly depicts event"
+        },
+        {
+          "group": "hks",
+          "index": 4,
+          "url": "https://www.hk01.com/article/60403320",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1190997324365565952389470.jpeg/XcdxbBv1vQ0slGvE3hdyhr7iflhyPDknDa8NwCivDcA?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T12:41:34+08:00",
+          "publishedHkt": "2026-10-25 12:41:34",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T12:41:36+08:00",
+          "modifiedHkt": "2026-10-25 12:41:36",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 159610,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, police attending vehicle; reported stopped vehicle context"
+        },
+        {
+          "group": "hks",
+          "index": 5,
+          "url": "https://www.dimsumdaily.hk/banana-dropped-from-height-injures-woman-at-kwun-tong-po-pui-court/",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25172241/Po-Pui-Court-3-3.webp",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T09:24:36+00:00",
+          "publishedHkt": "2026-10-25 17:24:36",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T09:24:41+00:00",
+          "modifiedHkt": "2026-10-25 17:24:41",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 228646,
+            "width": 1200,
+            "height": 930,
+            "contentType": "image/webp"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, Po Pui Court sign; location context, no banana shown"
+        },
+        {
+          "group": "hks",
+          "index": 6,
+          "url": "https://www.dimsumdaily.hk/tuen-mun-hill-fire-sends-thick-smoke-skyward-as-crews-deploy-helicopters-to-battle-blaze/",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25163300/Tuen-Mun-hills-2-2.webp",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T08:34:19+00:00",
+          "publishedHkt": "2026-10-25 16:34:19",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T10:14:42+00:00",
+          "modifiedHkt": "2026-10-25 18:14:42",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 118390,
+            "width": 1178,
+            "height": 920,
+            "contentType": "image/webp"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, hill fire and smoke; directly depicts event"
+        },
+        {
+          "group": "hks",
+          "index": 7,
+          "url": "https://www.dimsumdaily.hk/taxi-drives-onto-pedestrian-path-in-tuen-mun/",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25111813/Tuen-Mun-Taxi-2-23.webp",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T03:19:31+00:00",
+          "publishedHkt": "2026-10-25 11:19:31",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T03:19:36+00:00",
+          "modifiedHkt": "2026-10-25 11:19:36",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 152152,
+            "width": 1180,
+            "height": 926,
+            "contentType": "image/webp"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, taxi on pedestrian paving; directly depicts event"
+        },
+        {
+          "group": "hkl",
+          "index": 0,
+          "url": "https://www.hk01.com/article/60403337",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261020/1189272512597856256098752.jpeg/jMBNJPJJw92uf-2Sbj3TTTiMVG01YJSzvpFsTpuRbE4?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T20:22:33+08:00",
+          "publishedHkt": "2026-10-25 20:22:33",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T20:22:38+08:00",
+          "modifiedHkt": "2026-10-25 20:22:38",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 180412,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, sensory toys; directly depicts story"
+        },
+        {
+          "group": "hkl",
+          "index": 1,
+          "url": "https://www.hk01.com/article/60403424",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191111359153311744035829.jpeg/pYrYQCSL29lJCy73GH-dTe5zY7_m5_FRqzn_0I45_9A?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T19:45:55+08:00",
+          "publishedHkt": "2026-10-25 19:45:55",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T19:45:59+08:00",
+          "modifiedHkt": "2026-10-25 19:45:59",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 184010,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, shuttered claw-machine store; directly depicts closure"
+        },
+        {
+          "group": "hkl",
+          "index": 2,
+          "url": "https://www.hk01.com/article/60403415",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191093727348002816135294.jpeg/kHAFWzyZAvtyxfEJVV74Q5mQR3iz_1qAe8gfcl7IH3I?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T18:59:27+08:00",
+          "publishedHkt": "2026-10-25 18:59:27",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T18:59:31+08:00",
+          "modifiedHkt": "2026-10-25 18:59:31",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 271290,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, housing-estate meeting crowd; vote context"
+        },
+        {
+          "group": "hkl",
+          "index": 3,
+          "url": "https://www.hk01.com/article/60403378",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191062623236395008635912.jpeg/hxJWc3_ZRKbY5FsyhWi3LTpEwbJij8dnilX524pV-ds?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T16:25:48+08:00",
+          "publishedHkt": "2026-10-25 16:25:48",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T16:25:57+08:00",
+          "modifiedHkt": "2026-10-25 16:25:57",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 118857,
+            "width": 1200,
+            "height": 675,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, student blood-donation activity; directly depicts event"
+        },
+        {
+          "group": "hkl",
+          "index": 4,
+          "url": "https://www.hk01.com/article/60403356",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261007/1184558254319996928194683.jpeg/Yq1cazQiX4Ys2EmaYIem1Ai7iqzfNCvpEzNeyTYzXsk?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T14:43:05+08:00",
+          "publishedHkt": "2026-10-25 14:43:05",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T14:43:10+08:00",
+          "modifiedHkt": "2026-10-25 14:43:10",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 93080,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, interview subject; care gap story context"
+        },
+        {
+          "group": "hkl",
+          "index": 5,
+          "url": "https://www.hk01.com/article/60403166",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261024/1190675804892172288214538.jpeg/P0e1JcEbUyq18YrHnc-r6mMSqb-CSU8pkKzN6LWszeg?v=w1280r16_9",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T09:57:13+08:00",
+          "publishedHkt": "2026-10-25 09:57:13",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T09:57:18+08:00",
+          "modifiedHkt": "2026-10-25 09:57:18",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 306265,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, supermarket sushi counter; food complaint context"
+        },
+        {
+          "group": "hkl",
+          "index": 6,
+          "url": "https://www.hk01.com/article/60403407",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191113422687703040240356.jpeg/HFHTxdh5dlw20v13XTprGsysYDQZHFt-Qn3uPkJ97j4",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T18:51:47+08:00",
+          "publishedHkt": "2026-10-25 18:51:47",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T19:44:25+08:00",
+          "modifiedHkt": "2026-10-25 19:44:25",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 155768,
+            "width": 1200,
+            "height": 675,
+            "contentType": "image/jpeg"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, storm satellite/map graphic; weather report context"
+        },
+        {
+          "group": "hkl",
+          "index": 7,
+          "url": "https://www.dimsumdaily.hk/boys-arm-trapped-between-handrail-and-door-panel-on-mtr-kwun-tong-line-before-rescuers-free-him/",
+          "sourceHttp": 200,
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25114220/MTR-Kwun-Tong-2-2.webp",
+          "ogMatch": true,
+          "publishedRaw": "2026-10-25T03:44:19+00:00",
+          "publishedHkt": "2026-10-25 11:44:19",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T03:44:28+00:00",
+          "modifiedHkt": "2026-10-25 11:44:28",
+          "modifiedMatch": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 76772,
+            "width": 1180,
+            "height": 922,
+            "contentType": "image/webp"
+          },
+          "visualResult": "Inspected 4x4 contact sheet, MTR carriage handrail/door; directly depicts issue"
+        }
+      ],
+      "threads": {
+        "searches": [
+          "site:threads.com 香港 2026 10 25 屯門 山火 原帖",
+          "site:threads.com 香港快運 濟州 充電器 冒煙",
+          "Threads public search 屯門山火"
+        ],
+        "result": "No qualifying public post with verifiable author, absolute timestamp, and original og:image identified",
+        "hks": {
+          "actual": 0,
+          "target": 4,
+          "deficit": 4
+        },
+        "hkl": {
+          "actual": 0,
+          "target": 4,
+          "deficit": 4
+        }
+      },
+      "visualCheckedAt": "2026-10-25T12:38:47.436Z"
+    },
+    "hkSpecial": {
+      "edition": "2026-10-25 pm",
+      "checkedAtHKT": "2026-10-25 20:42:50",
+      "scope": [
+        "hke",
+        "hkp"
+      ],
+      "sourceWindowHKT": "2026-10-25 09:00:00–21:55:00",
+      "status": "Six source articles and their original og:image metadata checked; image GET, MIME and decoding passed. Browser visual review confirmed each image is relevant to its article; original article and image were not visually inspected side by side.",
+      "checks": [
+        {
+          "group": "hke",
+          "source": "大紀元香港",
+          "url": "https://hk.epochtimes.com/news/2026-10-25/76485531",
+          "originalTimeEvidence": "Article body: 發表：2026年10月25日 下午4:31; no update time displayed; same time used for updated field as placeholder, not a separately verified update.",
+          "originalOgImage": "https://images1.epochhk.com/pictures/413831/260515_%E5%8A%89%E9%BA%A5%E5%98%89%E8%BB%92@1200x1200.jpg",
+          "ogImageUrlMatchesCandidate": true,
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 127189,
+            "decoded": "JPEG 1200x800"
+          },
+          "visualSubject": "積金局標誌背景及劉麥嘉軒發言，主題相符",
+          "visualContentCompared": false,
+          "editorial": "2026-12-21 first phase, roughly one million eligible staff; distinct from 24 October broad retirement index report. Independent source from rules.json."
+        },
+        {
+          "group": "hke",
+          "source": "Dimsum Daily",
+          "url": "https://www.dimsumdaily.hk/key-enterprises-put-hk28-3bn-to-work-in-hong-kong/",
+          "originalTimeEvidence": "HTML article:published_time=2026-10-25T09:44:15+00:00 and article:modified_time=2026-10-25T09:44:19+00:00; converted to HKT 17:44:15/17:44:19.",
+          "originalOgImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25174154/Paul-Chan-AI-IPO.webp",
+          "ogImageUrlMatchesCandidate": true,
+          "imageGet": {
+            "http": 200,
+            "mime": "image/webp",
+            "bytes": 137508,
+            "decoded": "WEBP 1030x810"
+          },
+          "visualSubject": "陳茂波演講照片及 Dimsum Daily 水印，主題相符",
+          "visualContentCompared": false,
+          "editorial": "HK$28.3bn is actual investment by first six cohorts, distinct from announced future investment; 10,300+ hires. Independent source from rules.json."
+        },
+        {
+          "group": "hke",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/property/article/3371965/whats-next-hong-kong-developers-mainland-china?output=amp",
+          "originalTimeEvidence": "AMP HTML article:published_time=2026-10-25T14:00:26+08:00 and article:modified_time=2026-10-25T17:40:22+08:00.",
+          "originalOgImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/23/1d810dbe-bab6-476e-9fac-307514cdc12d_906694e3.jpg?itok=rbR_Icvr&v=1792759535",
+          "ogImageUrlMatchesCandidate": true,
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 147991,
+            "decoded": "JPEG 1200x630"
+          },
+          "visualSubject": "內地商業大廈外觀及 SCMP 標誌，主題相符",
+          "visualContentCompared": false,
+          "editorial": "New property strategy analysis, distinct from the MPF and strategic-enterprise stories."
+        },
+        {
+          "group": "hkp",
+          "source": "星島頭條",
+          "url": "https://www.stheadline.com/politics/3629716/",
+          "originalTimeEvidence": "Original HTML published_time/modified_time both 2026-10-25T10:55:40+0800.",
+          "originalOgImage": "https://image.hkhl.hk/f/1200p0/0x0/ur/sthl_square/56ed19329e0b5669a89c74cab676a5ac/2026-10/NF261021FS02.jpg",
+          "ogImageUrlMatchesCandidate": true,
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 131674,
+            "decoded": "JPEG 1200x675"
+          },
+          "visualSubject": "陳茂波於 APEC Finance Ministers’ Meeting 會場，主題相符",
+          "visualContentCompared": false,
+          "editorial": "APEC delegates transiting HK. Avoid mixing this with hke strategic-enterprises investment figures from the same finance secretary's blog."
+        },
+        {
+          "group": "hkp",
+          "source": "香港01",
+          "url": "https://www.hk01.com/article/60403326",
+          "originalTimeEvidence": "Original HTML article:published_time=2026-10-25T12:20:13+08:00, article:modified_time=2026-10-25T12:54:05+08:00.",
+          "originalOgImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1190999657006764032105762.png/2sBE2OTCYzrVW-j_u29QQuD_coM9l4Ej_i2ktv4tpLY?v=w1280r16_9",
+          "ogImageUrlMatchesCandidate": true,
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 97908,
+            "decoded": "JPEG 961x541"
+          },
+          "visualSubject": "陳健波肖像及巴士，主題相符",
+          "visualContentCompared": false,
+          "editorial": "New legislator proposal, not a confirmed fare or land-policy change."
+        },
+        {
+          "group": "hkp",
+          "source": "香港01",
+          "url": "https://www.hk01.com/article/60403363",
+          "originalTimeEvidence": "Original HTML article:published_time=2026-10-25T15:57:11+08:00, article:modified_time=2026-10-25T15:57:58+08:00.",
+          "originalOgImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191049875177869312932156.jpeg/ceNaL_W5xaabR5zadfK0Uht5mAF0JYmWWEVW9lhFVvY?v=w1280r16_9",
+          "ogImageUrlMatchesCandidate": true,
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 156086,
+            "decoded": "JPEG 1228x691"
+          },
+          "visualSubject": "陳國基於口岸櫃枱現場與職員交談，主題相符",
+          "visualContentCompared": false,
+          "editorial": "Substantive update to 24 October Huanggang crowding report: Chief Secretary personally inspected and instructed Security Bureau and Transport Bureau on advance flow prediction and staffing. Mark as follow-up, not two separate same-edition incidents."
+        }
+      ],
+      "threads": {
+        "hke": {
+          "qualifiedOriginalPostsUsed": 0,
+          "target": 2,
+          "gap": 2
+        },
+        "hkp": {
+          "qualifiedOriginalPostsUsed": 0,
+          "target": 2,
+          "gap": 2
+        },
+        "note": "Chrome Threads searches for 強積金 全自由行, 巴士 加價, 皇崗 口岸 were inspected. One MPF post rephrases a linked RTHK item; a bus search surfaced unrelated bus spotting and ads; the Huanggang search found news outlet reposts, a commercial taxi ad, and one individual's commentary with road photos (https://www.threads.com/@adultish_child/post/De6aQD7HF6C). The latter concerns the same border congestion event as the proposed hkp follow-up and adds unverified queue claims, so was not used as an extra card. No social post was falsely counted. This is a non-blocking target."
+      },
+      "unresolved": [
+        "Human comparison of decoded pixels with each original article's displayed og:image remains pending",
+        "大紀元香港 article has no separately stated update time; updated field repeats displayed publication time"
+      ]
+    },
+    "global": {
+      "edition": "2026-10-25 pm",
+      "timeZone": "Asia/Hong_Kong",
+      "window": "2026-10-25 09:00:00–21:55:00 HKT",
+      "counts": {
+        "cn": 8,
+        "us": 3,
+        "tw": 3,
+        "war": 3
+      },
+      "threads": {
+        "eligibleOriginalPosts": {
+          "cn": 0,
+          "us": 0,
+          "tw": 0,
+          "war": 0
+        },
+        "target": {
+          "cn": 4,
+          "us": 2,
+          "tw": 2,
+          "war": 2
+        },
+        "deficit": {
+          "cn": 4,
+          "us": 2,
+          "tw": 2,
+          "war": 2
+        },
+        "nonBlocking": true,
+        "searches": [
+          "site:threads.net/@ 水貝 10月25",
+          "site:threads.net/@ 革龜 10月25",
+          "site:threads.net/@ 拉麵學校 10月25",
+          "site:threads.net/@ 希伯崙 10月25",
+          "site:threads.com/@ 高雄 革龜 2026 10 25",
+          "site:threads.com/@ 台灣 省道 連假 2026 10 25",
+          "site:threads.com/@ 美國 食物券 2026 10 25",
+          "site:threads.com/@ 深圳 水貝 金價 2026 10 25"
+        ],
+        "result": "上述定向搜尋未找到可核實、合時間或適用舊帖例外的散戶原帖。未把搜尋結果當新聞來源。"
+      },
+      "crossGroupDedup": "17 條 URL 互不相同；cn 涵蓋製造業、供電、金價、海軍、QDII、AI模型、政治分析等不同事件。tw:1 與午報台灣 AI 選戰題材接近，但報道沈伯洋「洋流」具體動向。war:2 係午報沙特襲擊後機場重開嘅實質更新；war:3 係周日新一輪導彈攔截。請主編依完整卡庫複核。",
+      "records": [
+        {
+          "group": "cn",
+          "index": 1,
+          "articleUrl": "https://www.zaobao.com.sg/news/china/story20261025-9749126",
+          "articleHttp": 200,
+          "articleBytes": 179926,
+          "titleMeta": "【视频】特稿：学历贬值引就业焦虑 年轻人在拉面学校找寻技能价值",
+          "publishedMeta": "2026-10-25T20:10:00+08:00",
+          "modifiedMeta": "2026-10-25T20:44:43+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cassette.sphdigital.com.sg/image/zaobao/113b032683fe6b292e71e6d58e2813f1b1b8dc674e122ac156f329a8a37bcb5f",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/113b032683fe6b292e71e6d58e2813f1b1b8dc674e122ac156f329a8a37bcb5f",
+          "visualReview": "目視：甘肅蘭州牛肉拉麵培訓現場，直接相關。",
+          "editorialCaveat": "原創人物訪問，當日首發。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 95512,
+            "width": 1023,
+            "height": 682,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "cn",
+          "index": 2,
+          "articleUrl": "https://www.zaobao.com.sg/news/china/story20261025-9891982",
+          "articleHttp": 200,
+          "articleBytes": 174496,
+          "titleMeta": "中国企业拟助委内瑞拉重启大型电厂 缓解电力短缺",
+          "publishedMeta": "2026-10-25T19:02:00+08:00",
+          "modifiedMeta": "2026-10-25T19:02:00+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cassette.sphdigital.com.sg/image/zaobao/9cca207e43c5f913e6f96d88851c2b5fbbfdc7296bb472bb00c7473b97875732",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/9cca207e43c5f913e6f96d88851c2b5fbbfdc7296bb472bb00c7473b97875732",
+          "visualReview": "目視：工業電廠煙囪／火炬，屬供電題材示意，無法認定為文中委內瑞拉電廠。",
+          "editorialCaveat": "彭博消息轉述，計劃未落實，須維持「擬」。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 47234,
+            "width": 1023,
+            "height": 682,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "cn",
+          "index": 3,
+          "articleUrl": "https://www.hk01.com/中國觀察/60403352/中國製造愈強愈難做全球生意-港大何國俊-一國包辦全球不可持續",
+          "articleHttp": 200,
+          "articleBytes": 499845,
+          "titleMeta": "中國製造愈強愈難做全球生意？港大何國俊：一國包辦全球不可持續",
+          "publishedMeta": "2026-10-25T17:00:22+08:00",
+          "modifiedMeta": "2026-10-25T17:34:52+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cdn.hk01.com/di/media/images/dw/20221124/672555929413095424831674.jpeg/KU_xlRfdhy7JOSN8xZQdmur6bfeJDsWbnuh7oZ7oe6E?v=w1280r16_9",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cdn.hk01.com/di/media/images/dw/20221124/672555929413095424831674.jpeg/KU_xlRfdhy7JOSN8xZQdmur6bfeJDsWbnuh7oZ7oe6E?v=w1280r16_9",
+          "visualReview": "目視：中國工廠生產線，與製造業訪問題材相關；圖片路徑顯示舊檔，作示意。",
+          "editorialCaveat": "香港01當日原創港大學者訪問，與其他中國卡不同事件。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 136425,
+            "width": 1024,
+            "height": 576,
+            "contentType": "image/jpeg"
+          }
+        },
+        {
+          "group": "cn",
+          "index": 4,
+          "articleUrl": "https://www.zaobao.com.sg/news/china/story20261025-9891640",
+          "articleHttp": 200,
+          "articleBytes": 170625,
+          "titleMeta": "金价下跌 深圳水贝市场挤满人群",
+          "publishedMeta": "2026-10-25T13:58:00+08:00",
+          "modifiedMeta": "2026-10-25T15:25:51+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cassette.sphdigital.com.sg/image/zaobao/c86d15ede825fd758bb4395ccb9185a06f3794a6ce37a9fc26b979799702a9cd",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/c86d15ede825fd758bb4395ccb9185a06f3794a6ce37a9fc26b979799702a9cd",
+          "visualReview": "目視：市場擠滿顧客，與深圳水貝人潮題材相關。",
+          "editorialCaveat": "水貝人潮實際在24日，文章25日首發；新鮮度較弱，主編可替換。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 33988,
+            "width": 456,
+            "height": 304,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "cn",
+          "index": 5,
+          "articleUrl": "https://www.zaobao.com.sg/news/china/story20261025-9891560",
+          "articleHttp": 200,
+          "articleBytes": 176006,
+          "titleMeta": "官媒披露辽宁舰编队“豪华版”配置 分析：远洋打击能力将出现重大变化",
+          "publishedMeta": "2026-10-25T13:43:11+08:00",
+          "modifiedMeta": "2026-10-25T19:37:12+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cassette.sphdigital.com.sg/image/zaobao/794d153429e8f9cc72a171cb62e87f716639d3ca391f42dabed824ec84192c82",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/794d153429e8f9cc72a171cb62e87f716639d3ca391f42dabed824ec84192c82",
+          "visualReview": "目視：央視畫面有遼寧艦等海軍艦艇及評論員，與文章直接相關。",
+          "editorialCaveat": "央視早前公布遼寧艦編隊畫面，當日早報分析，請主編判斷新鮮度。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 68794,
+            "width": 1023,
+            "height": 682,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "cn",
+          "index": 6,
+          "articleUrl": "https://udn.com/news/story/7333/9836428",
+          "articleHttp": 200,
+          "articleBytes": 178735,
+          "titleMeta": "大陸部分QDII專戶產品陸續清盤 業內人士：與額度比例調整有關 | 聯合新聞網",
+          "publishedMeta": "2026-10-25T17:40:10+08:00",
+          "modifiedMeta": "2026-10-25T19:01:37+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453046.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453046.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+          "visualReview": "目視：上海天際線及黃浦江，屬基金金融題材示意，並非清盤現場。",
+          "editorialCaveat": "部分QDII專戶產品清盤，當日首發；圖為上海示意。圖片 URL 含 exp=3600，出稿前須再 GET。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 194959,
+            "width": 1280,
+            "height": 853,
+            "contentType": "image/jpeg"
+          }
+        },
+        {
+          "group": "cn",
+          "index": 7,
+          "articleUrl": "https://udn.com/news/story/7333/9836457",
+          "articleHttp": 200,
+          "articleBytes": 179729,
+          "titleMeta": "南韓近半AI模型採用大陸基礎模型 通義千問占五成 | 聯合新聞網",
+          "publishedMeta": "2026-10-25T18:17:05+08:00",
+          "modifiedMeta": "2026-10-25T19:01:37+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453107.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453107.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+          "visualReview": "目視：通義千問 Qwen 標誌，與文章直接相關。",
+          "editorialCaveat": "韓媒25日引智庫報告，聯合新聞網當日首發；圖為Qwen標誌。圖片 URL 含 exp=3600，出稿前須再 GET。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 101258,
+            "width": 1280,
+            "height": 853,
+            "contentType": "image/jpeg"
+          }
+        },
+        {
+          "group": "cn",
+          "index": 8,
+          "articleUrl": "https://hk.epochtimes.com/news/2026-10-25/1012157",
+          "articleHttp": 200,
+          "articleBytes": 122310,
+          "titleMeta": "分析：五中全會強調整肅 經濟困局難解｜大紀元時報（香港）",
+          "publishedMeta": "2026-10-25T13:32:00+08:00",
+          "modifiedMeta": "2026-10-25T13:32:00+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://images1.epochhk.com/pictures/i-epochtimes-com/d504de3751eba8342fa0a41bf6667ef8@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2021%2F03%2Fid12841686-62341cc9bffe71369042275abbc6a0d8.jpg",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://images1.epochhk.com/pictures/i-epochtimes-com/d504de3751eba8342fa0a41bf6667ef8@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2021%2F03%2Fid12841686-62341cc9bffe71369042275abbc6a0d8.jpg",
+          "visualReview": "目視：中共會場布幕和代表，與五中全會分析題材相關但屬檔案照。",
+          "editorialCaveat": "原創分析／訪問，非當日突發，圖為舊檔。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 40791,
+            "width": 1200,
+            "height": 800,
+            "contentType": "image/jpeg"
+          }
+        },
+        {
+          "group": "us",
+          "index": 1,
+          "articleUrl": "https://www.zaobao.com.sg/news/world/story20261025-9872606",
+          "articleHttp": 200,
+          "articleBytes": 179843,
+          "titleMeta": "【美国中期选举】假作真时真亦假：AI深伪内容恐令美国选民真假皆疑",
+          "publishedMeta": "2026-10-25T18:10:54+08:00",
+          "modifiedMeta": "2026-10-25T18:23:11+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cassette.sphdigital.com.sg/image/zaobao/3dc9327c44564e0df292e49d5f9633a55dce8afa4e505bf1a3a23550576879f1",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/3dc9327c44564e0df292e49d5f9633a55dce8afa4e505bf1a3a23550576879f1",
+          "visualReview": "目視：美國競選舞台與國旗，屬選舉題材示意，未展示 AI 深偽。",
+          "editorialCaveat": "原創專題；與午報台灣 AI 選舉議題不同國家，題材接近。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 67002,
+            "width": 1023,
+            "height": 682,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "us",
+          "index": 2,
+          "articleUrl": "https://www.zaobao.com.sg/news/world/story20261025-9891990",
+          "articleHttp": 200,
+          "articleBytes": 172330,
+          "titleMeta": "美国佛罗里达州大学附近发生枪击案 12人受伤",
+          "publishedMeta": "2026-10-25T15:48:21+08:00",
+          "modifiedMeta": "2026-10-25T15:48:23+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cassette.sphdigital.com.sg/image/zaobao/dd348f6f34e18439644f6911479a16087385f960067ad1fcc18092a94316683e",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/dd348f6f34e18439644f6911479a16087385f960067ad1fcc18092a94316683e",
+          "visualReview": "目視：子彈及手槍，屬槍擊題材示意，非佛州現場。",
+          "editorialCaveat": "案發24日美國當地晚間，文章25日首發；圖為示意。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 19508,
+            "width": 1023,
+            "height": 682,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "us",
+          "index": 3,
+          "articleUrl": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
+          "articleHttp": 200,
+          "articleBytes": 329571,
+          "titleMeta": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
+          "publishedMeta": "2026-10-25T11:00:02.000Z",
+          "modifiedMeta": "2026-10-25T11:01:53.000Z",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://i.guim.co.uk/img/media/bbe436fb2fa0e6dfadfbda9fd4ef7fd3c835a354/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d924e20ed358296e743cb01d72c79878",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://i.guim.co.uk/img/media/bbe436fb2fa0e6dfadfbda9fd4ef7fd3c835a354/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d924e20ed358296e743cb01d72c79878",
+          "visualReview": "目視：市民排隊取食物，與食物券／食物保障題材相關，屬檔案照。",
+          "editorialCaveat": "衛報原創數據分析；圖為檔案照片。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 90124,
+            "width": 1200,
+            "height": 630,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "tw",
+          "index": 1,
+          "articleUrl": "https://www.zaobao.com.sg/news/china/story20261025-9892094",
+          "articleHttp": 200,
+          "articleBytes": 175885,
+          "titleMeta": "民进党称“洋流”已引起北京关注 吁防假消息及政治恐吓",
+          "publishedMeta": "2026-10-25T16:09:03+08:00",
+          "modifiedMeta": "2026-10-25T16:09:05+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cassette.sphdigital.com.sg/image/zaobao/4d8e702d6ecc3b08d5c7e3c78cd7fa7c3e735023a14bb4289e94ae9fc8c05063",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/4d8e702d6ecc3b08d5c7e3c78cd7fa7c3e735023a14bb4289e94ae9fc8c05063",
+          "visualReview": "目視：沈伯洋支持者舉牌造勢，與文章直接相關。",
+          "editorialCaveat": "台灣選舉「洋流」具名動向；與午報 AI 選戰題材接近但不同具體事實。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 128440,
+            "width": 1023,
+            "height": 682,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "tw",
+          "index": 2,
+          "articleUrl": "https://udn.com/news/story/7327/9836392",
+          "articleHttp": 200,
+          "articleBytes": 184221,
+          "titleMeta": "全球最大海龜現蹤高雄 瀕危「革龜」誤闖漁民網具野放成功 | 聯合新聞網",
+          "publishedMeta": "2026-10-25T17:12:21+08:00",
+          "modifiedMeta": "2026-10-25T18:21:28+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35452956.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35452956.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+          "visualReview": "目視：被救起革龜，與文章直接相關。",
+          "editorialCaveat": "台灣本地採訪；圖片 URL 含 exp=3600，出稿前須再 GET。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 289884,
+            "width": 1279,
+            "height": 853,
+            "contentType": "image/jpeg"
+          }
+        },
+        {
+          "group": "tw",
+          "index": 3,
+          "articleUrl": "https://udn.com/news/story/7266/9836401",
+          "articleHttp": 200,
+          "articleBytes": 183290,
+          "titleMeta": "明天光復連假收假日 省道避13地雷路段、離島疏運1次看 | 聯合新聞網",
+          "publishedMeta": "2026-10-25T17:21:52+08:00",
+          "modifiedMeta": "2026-10-25T17:49:34+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453025.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453025.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+          "visualReview": "目視：旅客排隊登機，與離島加班疏運題材直接相關。",
+          "editorialCaveat": "返程交通預告；圖片 URL 含 exp=3600，出稿前須再 GET。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 151277,
+            "width": 1279,
+            "height": 853,
+            "contentType": "image/jpeg"
+          }
+        },
+        {
+          "group": "war",
+          "index": 1,
+          "articleUrl": "https://www.zaobao.com.sg/news/world/story20261025-9892213",
+          "articleHttp": 200,
+          "articleBytes": 173818,
+          "titleMeta": "伊朗外长：即使美以再次发动战争 伊朗立场不会改变",
+          "publishedMeta": "2026-10-25T16:33:13+08:00",
+          "modifiedMeta": "2026-10-25T16:33:15+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cassette.sphdigital.com.sg/image/zaobao/1403fc61aa4242925e2fb3d2674d58fed075016010799b68af6e7ee71af009d4",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/1403fc61aa4242925e2fb3d2674d58fed075016010799b68af6e7ee71af009d4",
+          "visualReview": "目視：伊朗外長阿拉格齊與伊朗國旗，與文章直接相關。",
+          "editorialCaveat": "伊朗外長新講話，只作其立場表述。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 56834,
+            "width": 1023,
+            "height": 682,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "war",
+          "index": 2,
+          "articleUrl": "https://www.zaobao.com.sg/news/world/story20261025-9891924",
+          "articleHttp": 200,
+          "articleBytes": 174936,
+          "titleMeta": "沙特利雅得机场部分恢复运营 胡塞武装警告仍是袭击目标",
+          "publishedMeta": "2026-10-25T15:24:16+08:00",
+          "modifiedMeta": "2026-10-25T17:17:53+08:00",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://cassette.sphdigital.com.sg/image/zaobao/53ad0de6c0e86b7d3795c33f90d8598f8b13c80321ff76f0ab79cbe83e6297f7",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://cassette.sphdigital.com.sg/image/zaobao/53ad0de6c0e86b7d3795c33f90d8598f8b13c80321ff76f0ab79cbe83e6297f7",
+          "visualReview": "目視：利雅得機場塔台及客運大樓，與文章直接相關。",
+          "editorialCaveat": "與午報胡塞襲沙特同一戰事脈絡；新增機場局部重開及新警告，屬實質進展。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 66584,
+            "width": 1023,
+            "height": 682,
+            "contentType": "image/webp"
+          }
+        },
+        {
+          "group": "war",
+          "index": 3,
+          "articleUrl": "https://www.iranintl.com/en/202610253322",
+          "articleHttp": 200,
+          "articleBytes": 348001,
+          "titleMeta": "Saudi Arabia intercepts Houthi missiles, drones as Yemen fighting continues",
+          "publishedMeta": "2026-10-25T11:07:28.497Z",
+          "modifiedMeta": "2026-10-25T11:13:42Z",
+          "publishedEqualsCard": true,
+          "modifiedEqualsCard": true,
+          "ogImageRaw": "https://i.iranintl.com/images/rdk9umy0/production/65d889f8a9f056208af25b58e7b2ec428712cd8d-6000x4000.jpg?rect=0,425,6000,3150&amp;w=1200&amp;h=630&amp;q=66&amp;fit=max&amp;auto=format",
+          "ogImageEqualsCard": true,
+          "imageUrl": "https://i.iranintl.com/images/rdk9umy0/production/65d889f8a9f056208af25b58e7b2ec428712cd8d-6000x4000.jpg?rect=0,425,6000,3150&w=1200&h=630&q=66&fit=max&auto=format",
+          "visualReview": "目視：武裝人員手持導彈，與胡塞導彈襲沙特題材相關；未能確認為周日現場。",
+          "editorialCaveat": "沙特聯軍稱25日攔截利雅得及南部導彈／無人機，與機場重開係不同具體事件；圖片屬示意。",
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 62663,
+            "width": 1200,
+            "height": 630,
+            "contentType": "image/jpeg"
+          }
+        }
+      ],
+      "timePrecisionNote": "Iran International publishedMeta 帶 .497 秒；七欄稿只存秒，19:07:28 HKT 係正確向下取秒。"
+    },
+    "briefs": {
+      "edition": "2026-10-25 pm",
+      "scope": "兩篇簡報來源閱讀及插圖與來源原文 og:image 比對；讀取時間另以最終核查記錄為準",
+      "ai": {
+        "threads": {
+          "searched": [
+            "site:threads.com/@ Mythos 5 AISI 2026",
+            "site:threads.com/@ Kimi K3.1 Pro cyber 2026"
+          ],
+          "qualifiedUsed": 0,
+          "target": 2,
+          "gap": 2,
+          "reason": "公開搜尋無相關可辨識永久原帖；不能把新聞機構報道或無首發時間嘅討論當第一手來源"
+        },
+        "sources": [
+          {
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/uk-ai-safety-institute-mythos-5-investigation-key-findings-10935969/lite/",
+            "checkedVia": "web search/open；本機直連 CloudFront 403",
+            "publishedAtOriginal": "2026-10-25 12:42 IST",
+            "publishedAtHKT": "2026-10-25 15:12",
+            "outcome": "閱讀全文；AISI 測試中未授權行為、無已知真實損害；標題與內文一致"
+          },
+          {
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks-10935831/",
+            "checkedVia": "web search/open；Reuters 稿刊於 Indian Express",
+            "publishedAtOriginal": "2026-10-25 10:05 IST",
+            "publishedAtHKT": "2026-10-25 12:35",
+            "outcome": "閱讀全文；81.0/90.5 為 Moonshot 內部測試，尚未獨立驗證"
+          },
+          {
+            "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+            "checkedVia": "web search/open 及原文 HTML GET",
+            "publishedAtOriginal": "2026-10-24 11:21 EDT",
+            "publishedAtHKT": "2026-10-24 23:21",
+            "outcome": "閱讀全文；Dessa 為研究預覽，未披露 benchmark 或公開日期"
+          },
+          {
+            "url": "https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone",
+            "checkedVia": "原文 HTML GET 及今日午報已核實來源",
+            "publishedAtOriginal": "2026-10-24 15:00 EDT",
+            "publishedAtHKT": "2026-10-25 03:00",
+            "outcome": "授權數碼分身報道，作最近發展脈絡"
+          }
+        ],
+        "imageArticle": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+        "ogImageExactAfterHtmlEntityDecode": true,
+        "imageHttpStatus": 200,
+        "imageType": "avif",
+        "imageBytes": 29220,
+        "imageDecoded": true,
+        "visualNote": "CoinDesk 原文 OG 為 Jack Dorsey 相關照片，係 Block 公司人物資料照，非模型界面截圖。"
+      },
+      "warb": {
+        "threads": {
+          "searched": [
+            "site:threads.com/@ Riyadh airport Oct 25 2026",
+            "site:threads.com/@ Houthis Oct 25 2026"
+          ],
+          "qualifiedUsed": 0,
+          "target": 2,
+          "gap": 2,
+          "reason": "公開搜尋無相關可辨識永久原帖；未能核實現場作者、時間及原圖"
+        },
+        "sources": [
+          {
+            "url": "https://apnews.com/article/4779a3deeb1a23f59414164532d5c885",
+            "checkedVia": "web search/open；本機直連遭 Cloudflare challenge",
+            "publishedAtOriginal": "2026-10-25 07:30 UTC",
+            "publishedAtHKT": "2026-10-25 15:30",
+            "outcome": "閱讀美聯社全文；利雅得機場兩航站樓重開；攔截數字歸屬沙特軍方"
+          },
+          {
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
+            "checkedVia": "web open 及原文 HTML GET",
+            "publishedAtOriginal": "2026-10-25 live",
+            "publishedAtHKT": "2026-10-25",
+            "outcome": "閱讀即日 live 摘要；伊朗議長、美沙各方說法分開歸屬"
+          },
+          {
+            "url": "https://apnews.com/article/45161652890bf4f3d570347b8aae6b22",
+            "checkedVia": "web search/open；本機直連遭 Cloudflare challenge",
+            "publishedAtOriginal": "2026-10-24 15:50 UTC",
+            "publishedAtHKT": "2026-10-24 23:50",
+            "outcome": "閱讀美聯社全文；伊朗使節稱願談判，未有美方接受條件證據"
+          }
+        ],
+        "imageArticle": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
+        "ogImageExact": true,
+        "imageHttpStatus": 200,
+        "imageType": "webp",
+        "imageBytes": 410714,
+        "imageDecoded": true,
+        "visualNote": "目視見德黑蘭街頭特朗普被囚於鐵籠嘅政治宣傳板及民眾，屬美伊對峙相關資料照片，非今日利雅得機場現場。"
+      }
+    }
+  },
+  "note": "各組第一手 Threads 原帖實際採用及差額見分組 audit；未以未核實帖子湊數。"
+}

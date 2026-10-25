@@ -1,0 +1,658 @@
+[
+  {
+    "group": "hks",
+    "title": "快運飛濟州航班充電器冒煙傷客",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403427",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261017/1188096674824720384127098.png/iGvvfLOWgGYfT_874ry8BujaiUxnE2dJIz5EaSM-RGk?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 109784,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "鴨脷洲護老院老翁疑鯁喉不治",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403409",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260530/1137369704369754112715093.jpeg/-mY7lAxEYRAnpTNgHDCCqZ_IJJMS1c4DQDNcnkAzXJ4?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 219261,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "將軍澳十七歲少年墮樓後不治",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403380",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191069540583215104918573.jpeg/rQGBqU0BkLlHQW_cYUH3C2c32lRDNSfy8gHPe9cBz3s?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 283654,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "上水小牛墮石上河獲消防救起",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403329",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191082676367396864572908.jpeg/-C7H0ZaWNQfhPhsPbQvFcQbyxyqxcVlrXaTVyF2k1cg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 215544,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "九龍城七人車阻路司機疑暈倒",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403320",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1190997324365565952389470.jpeg/XcdxbBv1vQ0slGvE3hdyhr7iflhyPDknDa8NwCivDcA?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 159610,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "觀塘寶珮苑婦人疑遭高處墮香蕉擊傷",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/banana-dropped-from-height-injures-woman-at-kwun-tong-po-pui-court/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25172241/Po-Pui-Court-3-3.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 228646,
+      "width": 1200,
+      "height": 930,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "屯門良景山火冒濃煙直升機撲救",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/tuen-mun-hill-fire-sends-thick-smoke-skyward-as-crews-deploy-helicopters-to-battle-blaze/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25163300/Tuen-Mun-hills-2-2.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 118390,
+      "width": 1178,
+      "height": 920,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "屯門的士駛上行人路司機致歉",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/taxi-drives-onto-pedestrian-path-in-tuen-mun/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25111813/Tuen-Mun-Taxi-2-23.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 152152,
+      "width": 1180,
+      "height": 926,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "港鐵感官玩具安排引特殊需要爭議",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403337",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261020/1189272512597856256098752.jpeg/jMBNJPJJw92uf-2Sbj3TTTiMVG01YJSzvpFsTpuRbE4?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 180412,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "屯門夾公仔店拖租遭清場引關注",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403424",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191111359153311744035829.jpeg/pYrYQCSL29lJCy73GH-dTe5zY7_m5_FRqzn_0I45_9A?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 184010,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "鳳德邨換𨋢投票三菱獲九成票",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403415",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191093727348002816135294.jpeg/kHAFWzyZAvtyxfEJVV74Q5mQR3iz_1qAe8gfcl7IH3I?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 271290,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "中學生參觀捐血站釋疑首捐血",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403378",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191062623236395008635912.jpeg/hxJWc3_ZRKbY5FsyhWi3LTpEwbJij8dnilX524pV-ds?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 118857,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "氣管造口智障生離院照護現缺口",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403356",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261007/1184558254319996928194683.jpeg/Yq1cazQiX4Ys2EmaYIem1Ai7iqzfNCvpEzNeyTYzXsk?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 93080,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "一田海膽食物中毒投訴查出鼠蹤",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403166",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261024/1190675804892172288214538.jpeg/P0e1JcEbUyq18YrHnc-r6mMSqb-CSU8pkKzN6LWszeg?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 306265,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "熱帶風暴煙花形成料周五近塞班",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403407",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191113422687703040240356.jpeg/HFHTxdh5dlw20v13XTprGsysYDQZHFt-Qn3uPkJ97j4",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 155768,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "港鐵觀塘線男童手臂卡車廂門邊",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/boys-arm-trapped-between-handrail-and-door-panel-on-mtr-kwun-tong-line-before-rescuers-free-him/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25114220/MTR-Kwun-Tong-2-2.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 76772,
+      "width": 1180,
+      "height": 922,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hke",
+    "title": "強積金全自由行十二月啟動",
+    "source": "大紀元香港",
+    "url": "https://hk.epochtimes.com/news/2026-10-25/76485531",
+    "ogImage": "https://images1.epochhk.com/pictures/413831/260515_%E5%8A%89%E9%BA%A5%E5%98%89%E8%BB%92@1200x1200.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 127189,
+      "width": 1200,
+      "height": 800,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hke",
+    "title": "引進企業實投二百八十三億元",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/key-enterprises-put-hk28-3bn-to-work-in-hong-kong/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25174154/Paul-Chan-AI-IPO.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 137508,
+      "width": 1030,
+      "height": 810,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hke",
+    "title": "港發展商轉投內地商業資產",
+    "source": "South China Morning Post",
+    "url": "https://www.scmp.com/property/article/3371965/whats-next-hong-kong-developers-mainland-china?output=amp",
+    "ogImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/23/1d810dbe-bab6-476e-9fac-307514cdc12d_906694e3.jpg?itok=rbR_Icvr&v=1792759535",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 146856,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hkp",
+    "title": "陳茂波料APEC外賓經港赴深",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/politics/3629716/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/ur/sthl_square/56ed19329e0b5669a89c74cab676a5ac/2026-10/NF261021FS02.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 131674,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hkp",
+    "title": "陳健波倡巴士公司靠地產幫補票價",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403326",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1190999657006764032105762.png/2sBE2OTCYzrVW-j_u29QQuD_coM9l4Ej_i2ktv4tpLY?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 97908,
+      "width": 961,
+      "height": 541,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkp",
+    "title": "陳國基視察皇崗口岸促預早疏導",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403363",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191049875177869312932156.jpeg/ceNaL_W5xaabR5zadfK0Uht5mAF0JYmWWEVW9lhFVvY?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 156086,
+      "width": 1228,
+      "height": 691,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "中國青年轉讀拉麵學校尋出路",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/china/story20261025-9749126",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/113b032683fe6b292e71e6d58e2813f1b1b8dc674e122ac156f329a8a37bcb5f",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 95512,
+      "width": 1023,
+      "height": 682,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "中企擬助委內瑞拉重啟電廠",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/china/story20261025-9891982",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/9cca207e43c5f913e6f96d88851c2b5fbbfdc7296bb472bb00c7473b97875732",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 47234,
+      "width": 1023,
+      "height": 682,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "港大學者論中國製造全球競爭",
+    "source": "香港01",
+    "url": "https://www.hk01.com/中國觀察/60403352/中國製造愈強愈難做全球生意-港大何國俊-一國包辦全球不可持續",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20221124/672555929413095424831674.jpeg/KU_xlRfdhy7JOSN8xZQdmur6bfeJDsWbnuh7oZ7oe6E?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 136425,
+      "width": 1024,
+      "height": 576,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "金價下跌深圳水貝湧購金人潮",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/china/story20261025-9891640",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/c86d15ede825fd758bb4395ccb9185a06f3794a6ce37a9fc26b979799702a9cd",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 33988,
+      "width": 456,
+      "height": 304,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "遼寧艦編隊西太平洋訓練",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/china/story20261025-9891560",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/794d153429e8f9cc72a171cb62e87f716639d3ca391f42dabed824ec84192c82",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 68794,
+      "width": 1023,
+      "height": 682,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "中國部分QDII專戶產品陸續清盤",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/7333/9836428",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453046.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 194959,
+      "width": 1280,
+      "height": 853,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "南韓近半AI模型採用中國底座",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/7333/9836457",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453107.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 101258,
+      "width": 1280,
+      "height": 853,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "分析指中國經濟困局難解",
+    "source": "大紀元時報（香港）",
+    "url": "https://hk.epochtimes.com/news/2026-10-25/1012157",
+    "ogImage": "https://images1.epochhk.com/pictures/i-epochtimes-com/d504de3751eba8342fa0a41bf6667ef8@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2021%2F03%2Fid12841686-62341cc9bffe71369042275abbc6a0d8.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 40791,
+      "width": 1200,
+      "height": 800,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "us",
+    "title": "美國選舉深偽內容衝擊選民判斷",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/world/story20261025-9872606",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/3dc9327c44564e0df292e49d5f9633a55dce8afa4e505bf1a3a23550576879f1",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 67002,
+      "width": 1023,
+      "height": 682,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "us",
+    "title": "佛州大學附近槍擊十二傷",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/world/story20261025-9891990",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/dd348f6f34e18439644f6911479a16087385f960067ad1fcc18092a94316683e",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 19508,
+      "width": 1023,
+      "height": 682,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "us",
+    "title": "美國食物券受惠人數跌一成三",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
+    "ogImage": "https://i.guim.co.uk/img/media/bbe436fb2fa0e6dfadfbda9fd4ef7fd3c835a354/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d924e20ed358296e743cb01d72c79878",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 90124,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "tw",
+    "title": "民進黨稱洋流熱潮引北京關注",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/china/story20261025-9892094",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/4d8e702d6ecc3b08d5c7e3c78cd7fa7c3e735023a14bb4289e94ae9fc8c05063",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 128440,
+      "width": 1023,
+      "height": 682,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "tw",
+    "title": "高雄漁民救起瀕危革龜放歸大海",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/7327/9836392",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35452956.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 289884,
+      "width": 1279,
+      "height": 853,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "tw",
+    "title": "台灣連假收假前料十三路段塞車",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/7266/9836401",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453025.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 151277,
+      "width": 1279,
+      "height": 853,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "war",
+    "title": "伊朗外長稱再遭攻擊亦不改立場",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/world/story20261025-9892213",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/1403fc61aa4242925e2fb3d2674d58fed075016010799b68af6e7ee71af009d4",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 56834,
+      "width": 1023,
+      "height": 682,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "war",
+    "title": "利雅得機場局部重開胡塞續警告",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/world/story20261025-9891924",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/53ad0de6c0e86b7d3795c33f90d8598f8b13c80321ff76f0ab79cbe83e6297f7",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 66584,
+      "width": 1023,
+      "height": 682,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "war",
+    "title": "沙特再攔截胡塞導彈與無人機",
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610253322",
+    "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/65d889f8a9f056208af25b58e7b2ec428712cd8d-6000x4000.jpg?rect=0,425,6000,3150&w=1200&h=630&q=66&fit=max&auto=format",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 62663,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "ai",
+    "title": "AI 動向封面",
+    "source": "Indian Express — 英國 AISI 分析 Mythos 5 未授權行動",
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/uk-ai-safety-institute-mythos-5-investigation-key-findings-10935969/lite/",
+    "ogImage": "https://cdn.sanity.io/images/s3y3vcno/production/7aad17172474a7876af59da08b2b538535468c12-2048x1365.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "avif",
+      "bytes": 29220,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/avif"
+    }
+  },
+  {
+    "group": "warb",
+    "title": "美伊戰爭封面",
+    "source": "美聯社 — 沙特利雅得機場恢復航班與攔截說法",
+    "url": "https://apnews.com/article/4779a3deeb1a23f59414164532d5c885",
+    "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261021__D3XH82Z__v1__HighRes__IranUsIsraelWar-1792926745.jpg?resize=1920%2C1440",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 410714,
+      "width": 1920,
+      "height": 1440,
+      "contentType": "image/webp"
+    }
+  }
+]
