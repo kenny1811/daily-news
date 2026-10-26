@@ -1,0 +1,1282 @@
+{
+  "edition": "2026-10-26 am",
+  "recordedAt": "2026-10-26T00:50:35.115Z",
+  "scope": "原文首次及更新時間、og:image 字串比對、圖片 HTTP GET/解碼與目視主題；機器驗證見同日 am.json。來源如用資料圖，按個別核實紀錄理解，唔視作事發現場照片。",
+  "counts": {
+    "hks": 8,
+    "hkl": 8,
+    "hke": 3,
+    "hkp": 3,
+    "cn": 8,
+    "us": 3,
+    "tw": 3,
+    "war": 3
+  },
+  "duplicateReviews": [
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403451",
+        "https://www.hk01.com/article/60403481"
+      ],
+      "decision": "different_events",
+      "reason": "旺角案是警方掃毒行動期間有人懷疑避查墮樓；落馬洲案是村屋內發現男子死亡，地點與涉事人及警方初步案情均不同。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403443",
+        "https://www.hk01.com/article/60403478"
+      ],
+      "decision": "different_events",
+      "reason": "啟德一宗涉及斑馬線前的私家車逆行並有警員截停；屯門公路一宗是凌晨駕駛者逆線急煞，地點時段與車輛不同。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403466",
+        "https://www.hk01.com/article/60403363"
+      ],
+      "decision": "substantive_update",
+      "reason": "昨晚報道政務司司長到新皇崗口岸視察和促預早疏導；今晨新報道新增車流實際排隊情況及平均等候二十五分鐘，屬開通後的實測新進展。"
+    },
+    {
+      "urls": [
+        "https://www.stheadline.com/realtime-china/3629993",
+        "https://www.stheadline.com/politics/3629716/"
+      ],
+      "decision": "different_events",
+      "reason": "深圳企業安排員工在 APEC 期間帶薪赴四川團建，是企業人事安排；陳茂波談的是外賓經香港赴深圳預期，只有 APEC 字眼相同。"
+    },
+    {
+      "urls": [
+        "https://www.stheadline.com/daily-international/3629948",
+        "https://www.iranintl.com/en/202610250633"
+      ],
+      "decision": "different_events",
+      "reason": "奧迪赴美設廠是特朗普公布汽車產業投資；卡塔爾赴德黑蘭斡旋是美伊外交及軍事決策，雖同提特朗普但所涉政策、人物與結果不同。"
+    },
+    {
+      "urls": [
+        "https://www.washingtonexaminer.com/news/world/4779018/netanyahu-iran-israel-election-day-attack/",
+        "https://www.zaobao.com.sg/news/world/story20261025-9892213"
+      ],
+      "decision": "different_events",
+      "reason": "今版係以色列總理聲稱伊朗可能在以色列選舉日發動襲擊並發警告；前版係伊朗外長回應若再受攻擊伊方立場不變，發言者、觸發背景同新增情報均不同。"
+    }
+  ],
+  "audits": {
+    "hkGeneral": {
+      "edition": "2026-10-26 am",
+      "checkedAt": "2026-10-26T00:41:55.204Z",
+      "items": [
+        {
+          "group": "hks",
+          "index": 0,
+          "url": "https://www.hk01.com/article/60403451",
+          "sourceHttp": 200,
+          "sourceBytes": 471314,
+          "publishedRaw": "2026-10-25T23:22:24+08:00",
+          "publishedHkt": "2026-10-25 23:22:24",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-26T06:18:59+08:00",
+          "modifiedHkt": "2026-10-26 06:18:59",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191273110028947456081657.jpeg/21ulBlbVMgzRhKCNv7ptLJgVRJS3Nral2ol7x9qJe8c",
+          "ogMatch": true,
+          "ogTitle": "警旺角破門唐樓單位　一男子疑避查爬窗墮樓亡　警帶走逾20人調查",
+          "ogDescription": "今（25日）晚上9時許，警方接獲旺角新填地街371-395號有途人報案，指懷疑上址有人墮樓。警方及救護員接報到場，發現一名男子昏迷不醒，懷疑從高處",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 203068,
+            "width": 1200,
+            "height": 675,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "警員及被帶走人士，畫面疊字指涉同一旺角唐樓搜查與墮樓；報道視頻縮圖。"
+        },
+        {
+          "group": "hks",
+          "index": 1,
+          "url": "https://www.hk01.com/article/60403443",
+          "sourceHttp": 200,
+          "sourceBytes": 479166,
+          "publishedRaw": "2026-10-25T22:28:16+08:00",
+          "publishedHkt": "2026-10-25 22:28:16",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T22:28:26+08:00",
+          "modifiedHkt": "2026-10-25 22:28:26",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191152294368907264517294.jpeg/Lt_zGgIiW18JEH2KnPLVNY4vP3VGS9FHyVEFDslRBQ4?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "車cam｜啟德沐翠街私家車逆線圖衝斑馬線　場面驚險遭警截停斷正",
+          "ogDescription": "啟德沐翠街上月中（9月15日），曾有一輛掛有兩地牌的七人車逆線衝過斑馬線，涉事司機因危險駕駛被警方票控。事隔一個多月，今日（25日）網上再有車",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 220610,
+            "width": 1200,
+            "height": 675,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "啟德斑馬線前紅色私家車及警員截停畫面，與車Cam報道相符。"
+        },
+        {
+          "group": "hks",
+          "index": 2,
+          "url": "https://www.hk01.com/article/60403481",
+          "sourceHttp": 200,
+          "sourceBytes": 465020,
+          "publishedRaw": "2026-10-26T06:27:12+08:00",
+          "publishedHkt": "2026-10-26 06:27:12",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-26T06:28:39+08:00",
+          "modifiedHkt": "2026-10-26 06:28:39",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261024/1190756707551154176475309.jpeg/k7qw5axH4c-uKNgiei8hADKhYexz0CvDQ5CBBUOQgQU?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "珍惜生命｜落馬洲35歲男子疑上吊　救援人員到場證不治",
+          "ogDescription": "昨（25日）晚上11時許，警方接獲有人報案，指懷疑其朋友在落馬洲青山公路米埔段一村屋上吊。救援人員接報到場，消防將該名姓冼（35歲）的男子解下",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 158911,
+            "width": 1200,
+            "height": 675,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "原文OG係香港01本地消息通用封面，未顯示事發現場；正文已清楚表明為警方報案。"
+        },
+        {
+          "group": "hks",
+          "index": 3,
+          "url": "https://www.hk01.com/article/60403480",
+          "sourceHttp": 200,
+          "sourceBytes": 464282,
+          "publishedRaw": "2026-10-26T06:17:47+08:00",
+          "publishedHkt": "2026-10-26 06:17:47",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-26T08:12:59+08:00",
+          "modifiedHkt": "2026-10-26 08:12:59",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260808/1162672843419291648637028.jpeg/1UmMmmB5WimAG6fVCeo54eBFQdcLGpZA0kfpE_hH6RM?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "元朗村屋遭爆竊　女住戶失值逾34萬財物　警刑事調查隊跟進",
+          "ogDescription": "昨（25日）晚上11時許，警方接獲元朗松濤南路一村屋姓侯的女住戶（68歲）報案，指發現家中的一扇門被撬，屋內有搜掠痕跡，懷疑上址遭爆竊。警員接",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 143623,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "元朗警署外觀屬資料圖，未聲稱係涉事村屋或現場。"
+        },
+        {
+          "group": "hks",
+          "index": 4,
+          "url": "https://www.hk01.com/article/60403444",
+          "sourceHttp": 200,
+          "sourceBytes": 474875,
+          "publishedRaw": "2026-10-25T22:28:11+08:00",
+          "publishedHkt": "2026-10-25 22:28:11",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T22:29:00+08:00",
+          "modifiedHkt": "2026-10-25 22:29:00",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191147977989689344823459.jpeg/R7KF2WfdEyULF-BAQsuHIxKbxE2C3vcUgh4dj4IeHY8?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "馬鞍山私家車撞欄翻側　車頭擱行人路　兩乘客受傷",
+          "ogDescription": "馬鞍山發生交通意外。今日（25日）晚上8時許，據報一輛私家車沿鞍祿街行駛，途至近新港城中心對開時，疑失控撞向行人路鐵欄，繼而翻側，車頭擱在行",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 90288,
+            "width": 960,
+            "height": 540,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "翻側私家車、警員及救援人員可見，對應馬鞍山交通意外。"
+        },
+        {
+          "group": "hks",
+          "index": 5,
+          "url": "https://www.hk01.com/article/60403445",
+          "sourceHttp": 200,
+          "sourceBytes": 486846,
+          "publishedRaw": "2026-10-25T22:16:14+08:00",
+          "publishedHkt": "2026-10-25 22:16:14",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T23:02:54+08:00",
+          "modifiedHkt": "2026-10-25 23:02:54",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191150243090010112675281.jpeg/AtgGlV0ae1Vz92aj-AKi-kL_lDH5RgKLjJwMcKmcDHA?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "油麻地廟街劏房單位失火冒煙　消防開喉撲熄　初步疑涉煮食爐",
+          "ogDescription": "油麻地發生火警。今日（25日）晚上9時38分，警方接獲多個報案，指廟街107至109號一個樓上單位起火冒煙。消防趕至，動用一條喉及一隊煙帽隊灌救，約",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 142052,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "廟街起火樓宇外觀及街燈，與原文火警地點題材相符。"
+        },
+        {
+          "group": "hks",
+          "index": 6,
+          "url": "https://www.hk01.com/article/60403478",
+          "sourceHttp": 200,
+          "sourceBytes": 467647,
+          "publishedRaw": "2026-10-26T04:26:53+08:00",
+          "publishedHkt": "2026-10-26 04:26:53",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-26T06:19:31+08:00",
+          "modifiedHkt": "2026-10-26 06:19:31",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191273249435029504329617.jpeg/2H1TGUzuZSP92IXjnQQ9UZbZwangkdTxD7y5uA-8ubg",
+          "ogMatch": true,
+          "ogTitle": "車cam｜屯門公路私家車逆線行車　事主險被撞急煞　發帖尋車牌",
+          "ogDescription": "網上流傳一段車cam片段，拍下一輛私家車於屯門公路逆線行駛，事發於今日（26日）凌晨零時34分，有車主駕車沿屯門公路快線往荃灣方向行駛。當駛至近",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 138209,
+            "width": 1200,
+            "height": 675,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "屯門公路逆線車Cam截圖，畫面疊字及道路車輛對應報道。"
+        },
+        {
+          "group": "hks",
+          "index": 7,
+          "url": "https://www.dimsumdaily.hk/hong-kong-customs-seizes-2-2-kilograms-of-suspected-cocaine-at-airport-as-mainland-man-is-charged/",
+          "sourceHttp": 200,
+          "sourceBytes": 502172,
+          "publishedRaw": "2026-10-25T14:25:15+00:00",
+          "publishedHkt": "2026-10-25 22:25:15",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T14:25:21+00:00",
+          "modifiedHkt": "2026-10-25 22:25:21",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25222355/HK-Customs-23-2.webp",
+          "ogMatch": true,
+          "ogTitle": "Hong Kong Customs seizes 2.2 kilograms of suspected cocaine at airport as Mainland man is charged",
+          "ogDescription": "Hong Kong Customs seized about 2.2 kilograms of suspected cocaine worth roughly HK$1.3 million from a carry‑on bag at the airport, arresting a 39‑year‑old Mainland passenger arriving from Penang and charging him with drug trafficking.",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "webp",
+            "bytes": 216278,
+            "width": 964,
+            "height": 750,
+            "contentType": "image/webp"
+          },
+          "visualNote": "密封疑毒品證物照片，與機場檢獲疑可卡因題材相符。"
+        },
+        {
+          "group": "hkl",
+          "index": 0,
+          "url": "https://www.hk01.com/article/60399253",
+          "sourceHttp": 200,
+          "sourceBytes": 524736,
+          "publishedRaw": "2026-10-26T07:00:47+08:00",
+          "publishedHkt": "2026-10-26 07:00:47",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-26T07:00:47+08:00",
+          "modifiedHkt": "2026-10-26 07:00:47",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261016/1187815104876384256753489.jpeg/oQCe834hkHUbdLpTimexEXVZGPAX6sQslzhqJJc4aiQ",
+          "ogMatch": true,
+          "ogTitle": "西貢崇真天主教學校中學部首設HYROX基地 中五女生成人公開賽封后",
+          "ogDescription": "走進西貢崇真天主教學校（中學部）有蓋操場的體能基地，映入眼簾的是整套國際級專業設施——滑雪發力機、負重雪橇、划船機及整齊排列的藥球。作為全",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 228209,
+            "width": 1200,
+            "height": 675,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "西貢學校HYROX訓練場及師生合照，與校園體育報道相符。"
+        },
+        {
+          "group": "hkl",
+          "index": 1,
+          "url": "https://www.hk01.com/article/60403462",
+          "sourceHttp": 200,
+          "sourceBytes": 503866,
+          "publishedRaw": "2026-10-26T06:36:45+08:00",
+          "publishedHkt": "2026-10-26 06:36:45",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-26T06:36:47+08:00",
+          "modifiedHkt": "2026-10-26 06:36:47",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191275515420348416879205.jpeg/_BhtiMm0XK6w5cQoQAgWQuRidhcLQoMGTETjU0xE41M?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "天氣｜今日大致天晴　日間最高約30度　未來一兩日風勢較大",
+          "ogDescription": "東北季候風正為廣東沿岸帶來大致晴朗的天氣。天文台預測，今日（10月26日）大致天晴。日間市區最高氣溫約30度，新界再高一兩度；吹和緩東至東北風",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 124534,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "道路夜景屬天氣資料圖，未當成今日實況測溫照片。"
+        },
+        {
+          "group": "hkl",
+          "index": 2,
+          "url": "https://www.hk01.com/article/60403458",
+          "sourceHttp": 200,
+          "sourceBytes": 485452,
+          "publishedRaw": "2026-10-25T23:57:27+08:00",
+          "publishedHkt": "2026-10-25 23:57:27",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T23:57:31+08:00",
+          "modifiedHkt": "2026-10-25 23:57:31",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191176362472247296538042.png/TyxIXLp0WLEEBnf0kmTGufA3G5PiDi-YhzRksoc0ZLI?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "科大醫學院｜院長辦公室團隊19人　8名講座教授　包括港大梁如鴻",
+          "ogDescription": "科大正籌建本港第三間醫學院，據科大校網的教員簡介，醫學院院長辦公室共19名教員，計及醫學院院長李競存及校長葉玉如，共8名講座教授，當中包括長",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 102167,
+            "width": 1207,
+            "height": 679,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "科大網站教員名單截圖，與醫學院團隊報道相符。"
+        },
+        {
+          "group": "hkl",
+          "index": 3,
+          "url": "https://www.hk01.com/article/60403434",
+          "sourceHttp": 200,
+          "sourceBytes": 494348,
+          "publishedRaw": "2026-10-25T22:11:05+08:00",
+          "publishedHkt": "2026-10-25 22:11:05",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T22:11:09+08:00",
+          "modifiedHkt": "2026-10-25 22:11:09",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191129630484992000815409.jpeg/BMAAk73TbPqVrNAXjMbhNf3h-DUAVaAmvjvDRr47w0Y?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "香港高球公開賽｜大會以18區命名18個洞　羅淑佩元朗、灣仔洞打卡",
+          "ogDescription": "為期四日的「M」品牌體育盛事、香港高爾夫球公開賽今日（25日）結束，文體旅局長羅淑佩在社交平台撰文指，這場一年一度的盛事再於香港哥爾夫球會粉",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 199279,
+            "width": 1280,
+            "height": 720,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "香港高球公開賽嘉賓及球員合照，與賽事新聞相符。"
+        },
+        {
+          "group": "hkl",
+          "index": 4,
+          "url": "https://www.hk01.com/article/60403466",
+          "sourceHttp": 200,
+          "sourceBytes": 467180,
+          "publishedRaw": "2026-10-26T01:08:21+08:00",
+          "publishedHkt": "2026-10-26 01:08:21",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-26T08:18:48+08:00",
+          "modifiedHkt": "2026-10-26 08:18:48",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191193892129607680684273.png/r8UTG3s52p_9dcZzuK0zgaEC3n3m9P3-SNooBkjaKAY?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "往新皇崗口岸交通繁忙　警方實施人群交通管制　平均須輪候25分鐘",
+          "ogDescription": "萬聖節將至，本港日前（10月24及25日）週末多區提前舉辦街頭變裝派對，加上日前加拿大巨星The Weeknd於啟德主場館開騷，吸引眾多遊客訪港，今日（2",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 57306,
+            "width": 1042,
+            "height": 586,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "警方口岸交通提示字卡，與新皇崗輪候及管制報道相符。"
+        },
+        {
+          "group": "hkl",
+          "index": 5,
+          "url": "https://www.hk01.com/article/60402811",
+          "sourceHttp": 200,
+          "sourceBytes": 512777,
+          "publishedRaw": "2026-10-26T08:00:49+08:00",
+          "publishedHkt": "2026-10-26 08:00:49",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-26T08:00:49+08:00",
+          "modifiedHkt": "2026-10-26 08:00:49",
+          "modifiedMatch": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261023/1190287548816035840920164.png/IW_UGp4mlCMjB_rkiZOc19onSDyglZOjRLwyHUS8Mh0?v=w1280r16_9",
+          "ogMatch": true,
+          "ogTitle": "過江龍交學費？「和府撈麵 」羅素街港首店執笠　傳獲零售商頂租",
+          "ogDescription": "近年內地餐飲品牌大舉南下攻港，無論是核心區或是民生區均見「插旗」熱潮。然而數年過去，市場逐漸交出答案，這批過江龍正遭受香港高昂營運成本的殘",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 51524,
+            "width": 707,
+            "height": 398,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "和府撈麵羅素街店面圍板，與首店結業報道相符。"
+        },
+        {
+          "group": "hkl",
+          "index": 6,
+          "url": "https://www.stheadline.com/edu-insights/3629882/",
+          "sourceHttp": 200,
+          "sourceBytes": 189108,
+          "publishedRaw": "2026-10-26T07:00:34+0800",
+          "publishedHkt": "2026-10-26 07:00:34",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-26T07:00:34+0800",
+          "modifiedHkt": "2026-10-26 07:00:34",
+          "modifiedMatch": true,
+          "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/ur/st_edu/81ad4a3a7eeb007ff180695a3687ced0/2026-10/EY261006SS11_0.jpg",
+          "ogMatch": true,
+          "ogTitle": "港大圖書館「嘉業片羽」展 探索古籍工藝與藏書文化",
+          "ogDescription": "古籍善本、明清稿鈔本，在不少人眼中看似遙遠。香港大學圖書館推出「嘉業片羽——明清藏書家舊藏擷英」展覽，以近代著名私家藏書樓嘉業堂的舊藏為核心，梳理500年文獻流傳軌跡，團隊精選33種善本展出，包括清代女性參與鈔寫裝幀的經籍、日本五山版禪宗典籍、文淵閣《四庫全書》殘本。讓觀眾發掘書本背後的故事。策展的港大人文學院音樂系教授楊元錚期望，觀眾從書法、藏印、紙張等細節，探索古籍工藝與藏書文化。 嘉業堂坐落",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 134501,
+            "width": 1200,
+            "height": 675,
+            "contentType": "image/jpeg; charset=UTF-8"
+          },
+          "visualNote": "港大圖書館展覽策展人及古籍展示環境照片，與展覽報道相符。"
+        },
+        {
+          "group": "hkl",
+          "index": 7,
+          "url": "https://www.i-cable.com/?p=516310",
+          "sourceHttp": 200,
+          "sourceBytes": 178692,
+          "publishedRaw": "2026-10-25T14:37:24+00:00",
+          "publishedHkt": "2026-10-25 22:37:24",
+          "publishedMatch": true,
+          "modifiedRaw": "2026-10-25T15:47:31+00:00",
+          "modifiedHkt": "2026-10-25 23:47:31",
+          "modifiedMatch": true,
+          "ogImage": "https://icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/10/26063602/PARA-ARRIVE-261025-2300_frame_98.jpeg",
+          "ogMatch": true,
+          "ogTitle": "名古屋亞殘運｜硬地滾球及輪椅劍擊港隊凱旋 - 有線寬頻 i-CABLE",
+          "ogDescription": "【有線新聞】名古屋亞殘運取得佳績的硬地滾球及輪椅劍擊港隊凱旋。 香港代表團今屆取得3金14銀24銅，硬滾就佔了",
+          "visualReviewed": true,
+          "imageVerification": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 331927,
+            "width": 1920,
+            "height": 1080,
+            "contentType": "image/jpeg"
+          },
+          "visualNote": "港隊殘疾運動員返港機場大合照，與凱旋報道相符。"
+        }
+      ],
+      "threads": {
+        "hks": {
+          "qualifiedUsed": 0,
+          "target": 4,
+          "deficit": 4
+        },
+        "hkl": {
+          "qualifiedUsed": 0,
+          "target": 4,
+          "deficit": 4
+        },
+        "searches": [
+          "site:threads.com/@andriy14 啟德 沐翠街 車cam 2026 10 25",
+          "site:threads.net/@andriy14 沐翠街 斑馬線 紅色 Mini",
+          "site:threads.com/@ BalancedFish458 屯門公路 逆線",
+          "site:threads.com/@ 香港 啟德 沐翠街 逆線 警員 2026",
+          "site:threads.com/@ 皇崗口岸 輪候 10月26",
+          "site:threads.com/@ 和府撈麵 結業 2026",
+          "site:threads.com/@ 廟街 火警 10月25",
+          "site:threads.com/@ 港大圖書館 嘉業片羽",
+          "site:threads.com/@ 名古屋亞殘運 返港",
+          "site:threads.com/@ 屯門公路 逆線 10月26",
+          "site:threads.com/@ 旺角 破門 墮樓",
+          "site:threads.com/@ 啟德 沐翠街 Mini"
+        ],
+        "excluded": "香港01記事引用 @andriy14 車Cam但頁面未提供原帖永久連結；公開搜尋未取得可讀原帖、首次時間及OG原圖，故採已核實單篇媒體報道。屯門公路車Cam來自群組轉載，未找到 Threads 第一手永久帖。",
+        "searchResult": "以上公開搜尋均無可讀、可核首發時間及原圖的散戶永久帖；已見部分新聞原文引用 Threads 畫面，但冇可驗證原帖連結。"
+      },
+      "trackSuggestions": [
+        {
+          "name": "港·新皇崗口岸開通",
+          "group": "hkl",
+          "index": 4,
+          "progress": "今晨往新皇崗口岸車輛平均輪候約二十五分鐘，警方實施人群與交通管制；相對前版陳國基視察與預防安排，係實際輪候新數字。"
+        }
+      ],
+      "dedupNotes": [
+        "啟德沐翠街同屯門公路係兩宗不同逆行見聞，地點、時間、片主不同。",
+        "名古屋亞殘運港隊凱旋係上一版閉幕及獎牌總數之後嘅返港新進展。",
+        "香港高球公開賽今版提賽事已結束、張雄熙並列亞軍及社區高球計劃；上一版午報只報第三輪排名，屬實質賽果更新。"
+      ]
+    },
+    "hkSpecial": {
+      "edition": "2026-10-26 am",
+      "scope": "香港經濟及香港政治；每條單篇原文讀取、首發與更新時間、og:image 字串及圖片 HTTP 200／解碼／目視",
+      "checkedAtHKT": "2026-10-26 08:43:23",
+      "windowHKT": "2026-10-25 21:00:00–2026-10-26 09:30:00",
+      "hkeSourceRule": "三卡無用香港01、星島、The Standard、etnet；大紀元香港及 Dimsum Daily 均命中 tools/rules.json indie 清單，且非單一來源。",
+      "records": [
+        {
+          "group": "hke",
+          "index": 0,
+          "articleUrl": "https://hk.epochtimes.com/news/2026-10-26/80511533",
+          "sourceStatus": 200,
+          "publishedMeta": "2026-10-26T03:46:00+08:00",
+          "modifiedMeta": "2026-10-26T03:46:00+08:00",
+          "ogImage": "https://images1.epochhk.com/pictures/350641/_20240214_%E5%9C%B0%E7%94%A2%E4%BB%A3%E7%90%86_%E4%B8%AD%E5%8E%9F_%E5%88%A9%E5%98%89%E9%96%A3_%E5%95%9F%E5%BE%B7_%E6%9C%B1%E6%B5%A9%E7%84%B6@1200x1200.jpeg",
+          "cardTimesMatch": true,
+          "cardOgImageMatches": true,
+          "image": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 176413,
+            "width": 1200,
+            "height": 800
+          },
+          "visualReview": "目視係香港地產代理門店外觀、大紀元水印；屬樓市資料圖，唔係周末成交現場照。",
+          "articleEvidence": "原文列中原6、美聯7、利嘉閣9、香港置業2宗十大屋苑成交；引述代理指新盤吸引部分二手客。"
+        },
+        {
+          "group": "hke",
+          "index": 1,
+          "articleUrl": "https://www.dimsumdaily.hk/one-for-one-ev-registrations-plunge-98-after-scheme-end/",
+          "sourceStatus": 200,
+          "publishedMeta": "2026-10-25T13:21:37+00:00",
+          "modifiedMeta": "2026-10-25T13:21:44+00:00",
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/25211821/BYD-3-3.jpg",
+          "cardTimesMatch": true,
+          "cardOgImageMatches": true,
+          "image": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 75164,
+            "width": 950,
+            "height": 754
+          },
+          "visualReview": "目視為 BYD 電動車陳列照，屬車型資料圖，唔係運輸署統計圖。",
+          "articleEvidence": "原文引運輸署數字：一換一優惠下首次登記三月5448、九月104；整體九月新車電動車1316/2698，兩個口徑分開。"
+        },
+        {
+          "group": "hke",
+          "index": 2,
+          "articleUrl": "https://hk.epochtimes.com/news/2026-10-26/66451640",
+          "sourceStatus": 200,
+          "publishedMeta": "2026-10-26T02:20:00+08:00",
+          "modifiedMeta": "2026-10-26T02:20:00+08:00",
+          "ogImage": "https://images1.epochhk.com/pictures/313620/HK-WEB-IMG_2023_HK_Property_%E6%B8%AF%E6%A8%93%E6%88%90%E4%BA%A4@1200x1200.jpg",
+          "cardTimesMatch": true,
+          "cardOgImageMatches": true,
+          "image": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 151113,
+            "width": 1200,
+            "height": 800
+          },
+          "visualReview": "目視為大紀元『港樓成交』通用圖片，非粉嶺實景。",
+          "articleEvidence": "原文引利嘉閣消息：花都廣場6座中層D室約370方呎以400萬元易手；原業主約160.7萬元買入，帳面獲利約239.29萬元。與十大屋苑周末總量係不同交易事實。"
+        },
+        {
+          "group": "hkp",
+          "index": 0,
+          "articleUrl": "https://www.hk01.com/article/60403282",
+          "sourceStatus": 200,
+          "publishedMeta": "2026-10-26T07:00:51+08:00",
+          "modifiedMeta": "2026-10-26T07:00:51+08:00",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191150176153112576145609.jpeg/0kPZyCoSFOGZfyEAufEG6nzxSFIA-RdZAkLKtwJCyrc",
+          "cardTimesMatch": true,
+          "cardOgImageMatches": true,
+          "image": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 250698,
+            "width": 1200,
+            "height": 675
+          },
+          "visualReview": "目視香港01政圈風聲圖卡，含議員照片及『助理獎金不可超過薪酬15%』字樣；圖片本身係新聞圖卡，唔作法案已通過證據。",
+          "articleEvidence": "報道指立法會擬限制議員助理花紅，仍屬建議；此前高額花紅惹爭議。"
+        },
+        {
+          "group": "hkp",
+          "index": 1,
+          "articleUrl": "https://www.stheadline.com/society/3629868/",
+          "sourceStatus": 200,
+          "publishedMeta": "2026-10-26T00:00:35+0800",
+          "modifiedMeta": "2026-10-26T00:00:35+0800",
+          "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/c03128df28831c2fe673312c199c7251/2026-10/20261025_NEWS___4.png",
+          "cardTimesMatch": true,
+          "cardOgImageMatches": true,
+          "image": {
+            "valid": true,
+            "status": 200,
+            "type": "png",
+            "bytes": 255849,
+            "width": 1200,
+            "height": 675
+          },
+          "visualReview": "目視星島仲裁周專訪圖卡，兩名受訪者杜淦堃與 Domitille Baizeau 於會場合照；非新政策公告圖。",
+          "articleEvidence": "原文專訪杜淦堃，稱地緣政治局勢下尋機遇；一國兩制及司法獨立有助香港仲裁服務，均為受訪者觀點。與香港01同日訪問屬同一新聞，已捨棄後者，不重複出卡。"
+        },
+        {
+          "group": "hkp",
+          "index": 2,
+          "articleUrl": "https://www.hk01.com/article/60403280",
+          "sourceStatus": 200,
+          "publishedMeta": "2026-10-26T00:01:53+08:00",
+          "modifiedMeta": "2026-10-26T07:43:39+08:00",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261025/1191109067410509824102378.jpeg/2L5MgauCebRtTwXNHAb9Bhr2S5F7BxQNMNUHrhXVB64?v=w1280r16_9",
+          "cardTimesMatch": true,
+          "cardOgImageMatches": true,
+          "image": {
+            "valid": true,
+            "status": 200,
+            "type": "jpeg",
+            "bytes": 109907,
+            "width": 1280,
+            "height": 720
+          },
+          "visualReview": "目視香港01拍攝受訪監管總監站於海景背景前，屬人物照，冇冒稱藥械中心實景。",
+          "articleEvidence": "報道稱藥械監管中心預計年底成立，目標2030年前自主審批新藥；總監李自力稱可能優先關注罕見病及先進治療。卡以擬議方向表述，未稱已實施。"
+        }
+      ],
+      "threads": {
+        "hke": {
+          "searched": [
+            "site:threads.com/@ 香港 十大屋苑 成交 2026 10 25 26 經紀",
+            "site:threads.net/@ 一換一 電動車 2026 10"
+          ],
+          "qualifiedUsed": 0,
+          "target": 2,
+          "gap": 2,
+          "reason": "公開搜尋未找到可同時核實作者、首發時間、原圖及事件關係嘅散戶原帖；新聞機構貼文唔計。"
+        },
+        "hkp": {
+          "searched": [
+            "site:threads.com/@ 立法會 議員 助理 花紅 15%",
+            "site:threads.net/@ 香港仲裁 地緣政治 2026"
+          ],
+          "qualifiedUsed": 0,
+          "target": 2,
+          "gap": 2,
+          "reason": "公開搜尋未找到合資格第一手個人帖；重述媒體報道唔計。"
+        }
+      },
+      "trackReview": {
+        "confirmedExistingProgress": [],
+        "newPotentialLeads": [
+          {
+            "name": "港·立法會議員助理花紅上限",
+            "status": "仍屬擬議，待立法會正式採納或公布生效時間；原文為香港01政圈風聲報道。"
+          },
+          {
+            "name": "港·一換一退場後電動車登記",
+            "status": "九月登記數已公布；下月運輸署新統計可核對市場走勢。"
+          },
+          {
+            "name": "港·藥械監管中心與新藥審批",
+            "status": "報道稱監管中心擬於2026年底成立，2030年前自主審批新藥為目標；待正式成立及審批細則。"
+          }
+        ],
+        "excludedAsStale": "星島10月26日宏福苑社論只重申已提交調查報告及政治問責討論，未有新增獨立調查結果，故未入卡或當事件追蹤新進展；香港01同日杜淦堃訪問與星島同一單，只留星島。"
+      },
+      "pending": null
+    },
+    "global": {
+      "edition": "2026-10-26 am",
+      "checkedAtHKT": "2026-10-26 08:48:09",
+      "cardCounts": {
+        "cn": 8,
+        "us": 3,
+        "tw": 3,
+        "war": 3
+      },
+      "checks": [
+        {
+          "group": "cn",
+          "index": 0,
+          "url": "https://cassette.sphdigital.com.sg/image/zaobao/f997c9dca1e80e5ebae7e8654d41db40f8366ebe251c70ae5fe2b5f8a220f259",
+          "http": 200,
+          "bytes": 44006,
+          "format": "WEBP",
+          "size": [
+            1023,
+            682
+          ],
+          "visual": "Two official portrait photos corresponding to the appointments",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/f997c9dca1e80e5ebae7e8654d41db40f8366ebe251c70ae5fe2b5f8a220f259",
+            "sourcePublishedRaw": "2026-10-25T21:06:08+08:00",
+            "sourceModifiedRaw": "2026-10-25T21:19:33+08:00"
+          },
+          "title": "河北趙辰昕升任代理省長 陳少波跨省任副省長",
+          "originalUrl": "https://www.zaobao.com.sg/news/china/story20261025-9893312",
+          "dateHKT": "2026-10-25 21:06:08",
+          "updatedHKT": "2026-10-25 21:19:33"
+        },
+        {
+          "group": "cn",
+          "index": 1,
+          "url": "https://cassette.sphdigital.com.sg/image/zaobao/a77759be612af2c57af199225c683742723b7ff0a00d07abbe47b8dc5f9dac2e",
+          "http": 200,
+          "bytes": 87104,
+          "format": "WEBP",
+          "size": [
+            1023,
+            682
+          ],
+          "visual": "Vivant drama promotional visual, not a real intelligence operation",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/a77759be612af2c57af199225c683742723b7ff0a00d07abbe47b8dc5f9dac2e",
+            "sourcePublishedRaw": "2026-10-25T21:03:00+08:00",
+            "sourceModifiedRaw": "2026-10-25T21:03:00+08:00"
+          },
+          "title": "《Vivant》中國情報員酷刑情節惹爭議",
+          "originalUrl": "https://www.zaobao.com.sg/news/china/story20261025-9892533",
+          "dateHKT": "2026-10-25 21:03:00",
+          "updatedHKT": "2026-10-25 21:03:00"
+        },
+        {
+          "group": "cn",
+          "index": 2,
+          "url": "https://cassette.sphdigital.com.sg/image/zaobao/d322c18f9624c0c259dd320de31b5fd26e46975ca2816e77f25c5612deb3310a",
+          "http": 200,
+          "bytes": 91980,
+          "format": "WEBP",
+          "size": [
+            751,
+            501
+          ],
+          "visual": "Crowd photo; illustrative, does not identify Tsai Kang-yong",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/d322c18f9624c0c259dd320de31b5fd26e46975ca2816e77f25c5612deb3310a",
+            "sourcePublishedRaw": "2026-10-25T23:01:13+08:00",
+            "sourceModifiedRaw": "2026-10-25T23:35:52+08:00"
+          },
+          "title": "蔡康永就出席沈伯洋活動澄清兩岸立場",
+          "originalUrl": "https://www.zaobao.com.sg/news/china/story20261025-9893654",
+          "dateHKT": "2026-10-25 23:01:13",
+          "updatedHKT": "2026-10-25 23:35:52"
+        },
+        {
+          "group": "cn",
+          "index": 3,
+          "url": "https://image.hkhl.hk/f/1200p0/0x0/100/none/cbe0061fcc0944769fc1691892cf190b/2026-10/KF_-Sam_-_2026-10-25T220720_115.png",
+          "http": 200,
+          "bytes": 403330,
+          "format": "PNG",
+          "size": [
+            1200,
+            675
+          ],
+          "visual": "Pang Ge Liang restaurant storefront",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/cbe0061fcc0944769fc1691892cf190b/2026-10/KF_-Sam_-_2026-10-25T220720_115.png",
+            "sourcePublishedRaw": "2026-10-25T22:40:32+0800",
+            "sourceModifiedRaw": "2026-10-25T22:40:32+0800"
+          },
+          "title": "深圳食客匿名負評後被餐廳披露職業",
+          "originalUrl": "https://www.stheadline.com/realtime-china/3629876",
+          "dateHKT": "2026-10-25 22:40:32",
+          "updatedHKT": "2026-10-25 22:40:32"
+        },
+        {
+          "group": "cn",
+          "index": 4,
+          "url": "https://image.hkhl.hk/f/1200p0/0x0/100/none/143fc013ba4f07891b9d490f53b7872a/2026-10/20261025_NEWS___1.png",
+          "http": 200,
+          "bytes": 340043,
+          "format": "PNG",
+          "size": [
+            1200,
+            675
+          ],
+          "visual": "Composite of Ningbo vendor and dish, promotional illustrative collage",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/143fc013ba4f07891b9d490f53b7872a/2026-10/20261025_NEWS___1.png",
+            "sourcePublishedRaw": "2026-10-26T07:00:08+0800",
+            "sourceModifiedRaw": "2026-10-26T07:00:08+0800"
+          },
+          "title": "寧波夜市海南雞飯檔帶動周邊生意",
+          "originalUrl": "https://www.stheadline.com/realtime-china/3629793",
+          "dateHKT": "2026-10-26 07:00:08",
+          "updatedHKT": "2026-10-26 07:00:08"
+        },
+        {
+          "group": "cn",
+          "index": 5,
+          "url": "https://image.hkhl.hk/f/1200p0/0x0/100/none/419731ef51dfe10f1b8fe2e7c905f2b3/2026-10/New_Project_10.jpg",
+          "http": 200,
+          "bytes": 159591,
+          "format": "JPEG",
+          "size": [
+            1200,
+            675
+          ],
+          "visual": "Shenzhen APEC 2026 event display",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/419731ef51dfe10f1b8fe2e7c905f2b3/2026-10/New_Project_10.jpg",
+            "sourcePublishedRaw": "2026-10-26T08:26:49+0800",
+            "sourceModifiedRaw": "2026-10-26T08:26:49+0800"
+          },
+          "title": "深圳企業APEC期間安排員工帶薪赴四川團建",
+          "originalUrl": "https://www.stheadline.com/realtime-china/3629993",
+          "dateHKT": "2026-10-26 08:26:49",
+          "updatedHKT": "2026-10-26 08:26:49"
+        },
+        {
+          "group": "cn",
+          "index": 6,
+          "url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453708.png&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+          "http": 200,
+          "bytes": 1222151,
+          "format": "PNG",
+          "size": [
+            1279,
+            853
+          ],
+          "visual": "Civil-service exam applicants outside test site, illustrative",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453708.png&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+            "sourcePublishedRaw": "2026-10-26T03:09:54+08:00",
+            "sourceModifiedRaw": "2026-10-26T03:09:54+08:00"
+          },
+          "title": "中國2027國考熱門職位逾六千人爭一席",
+          "originalUrl": "https://udn.com/news/story/7332/9836867",
+          "dateHKT": "2026-10-26 03:09:54",
+          "updatedHKT": "2026-10-26 03:09:54"
+        },
+        {
+          "group": "cn",
+          "index": 7,
+          "url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453748.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+          "http": 200,
+          "bytes": 1310803,
+          "format": "PNG",
+          "size": [
+            1280,
+            853
+          ],
+          "visual": "China government building with guard, illustrative",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453748.png&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+            "sourcePublishedRaw": "2026-10-26T00:00:00+08:00",
+            "sourceModifiedRaw": "2026-10-26T05:17:54+08:00"
+          },
+          "title": "中共五中全會今登場 預料處理幹部人事",
+          "originalUrl": "https://udn.com/news/story/7331/9836856",
+          "dateHKT": "2026-10-26 00:00:00",
+          "updatedHKT": "2026-10-26 05:17:54"
+        },
+        {
+          "group": "us",
+          "index": 0,
+          "url": "https://i.guim.co.uk/img/media/679fbe94e3b62f993e2b9ab3a5a750fd1c5afdab/536_0_6658_5329/master/6658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a3d97b2dd8fe062323118408ece4537",
+          "http": 200,
+          "bytes": 113389,
+          "format": "JPEG",
+          "size": [
+            1200,
+            630
+          ],
+          "visual": "Trump and Todd Blanche at White House, relevant official photo",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://i.guim.co.uk/img/media/679fbe94e3b62f993e2b9ab3a5a750fd1c5afdab/536_0_6658_5329/master/6658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a3d97b2dd8fe062323118408ece4537",
+            "sourcePublishedRaw": "2026-10-25T16:48:41.000Z",
+            "sourceModifiedRaw": "2026-10-25T16:53:47.000Z"
+          },
+          "title": "美司法部長為阿拉斯加參院選舉預先訴訟辯護",
+          "originalUrl": "https://www.theguardian.com/us-news/2026/oct/25/todd-blanche-doj-lawsuit-alaska-senate-election-results",
+          "dateHKT": "2026-10-26 00:48:41",
+          "updatedHKT": "2026-10-26 00:53:47"
+        },
+        {
+          "group": "us",
+          "index": 1,
+          "url": "https://i.guim.co.uk/img/media/6908444a2ea983ebe5fc8fabd4ba35c9ffe2663e/85_0_1705_1365/master/1705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=404d33e0942bb4cf5894c5d2d452f427",
+          "http": 200,
+          "bytes": 111805,
+          "format": "JPEG",
+          "size": [
+            1200,
+            630
+          ],
+          "visual": "Flooded neighbourhood, relevant weather scene",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://i.guim.co.uk/img/media/6908444a2ea983ebe5fc8fabd4ba35c9ffe2663e/85_0_1705_1365/master/1705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=404d33e0942bb4cf5894c5d2d452f427",
+            "sourcePublishedRaw": "2026-10-25T19:02:51.000Z",
+            "sourceModifiedRaw": "2026-10-25T23:46:30.000Z"
+          },
+          "title": "美西南四州交界暴雨後再迎雷暴預警",
+          "originalUrl": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+          "dateHKT": "2026-10-26 03:02:51",
+          "updatedHKT": "2026-10-26 07:46:30"
+        },
+        {
+          "group": "us",
+          "index": 2,
+          "url": "https://image.hkhl.hk/f/1200p0/0x0/100/none/3fce46955aa9df1d50b3438d650ceb6f/2026-10/INT01P06261026.jpg",
+          "http": 200,
+          "bytes": 1091938,
+          "format": "JPEG",
+          "size": [
+            1063,
+            709
+          ],
+          "visual": "Trump voting with Melania, relevant to election rally but illustrative for Audi announcement",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/3fce46955aa9df1d50b3438d650ceb6f/2026-10/INT01P06261026.jpg",
+            "sourcePublishedRaw": "2026-10-26T03:00:00+0800",
+            "sourceModifiedRaw": "2026-10-26T03:00:00+0800"
+          },
+          "title": "特朗普稱奧迪擬投42億美元建首座美國廠",
+          "originalUrl": "https://www.stheadline.com/daily-international/3629948",
+          "dateHKT": "2026-10-26 03:00:00",
+          "updatedHKT": "2026-10-26 03:00:00"
+        },
+        {
+          "group": "tw",
+          "index": 0,
+          "url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35453777.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+          "http": 200,
+          "bytes": 219397,
+          "format": "JPEG",
+          "size": [
+            1280,
+            853
+          ],
+          "visual": "Students riding on campus, illustrative for education policy",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35453777.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+            "sourcePublishedRaw": "2026-10-26T00:35:18+08:00",
+            "sourceModifiedRaw": "2026-10-26T02:01:13+08:00"
+          },
+          "title": "台灣高等研究學院原定明年招生面臨延後",
+          "originalUrl": "https://udn.com/news/story/6885/9836921",
+          "dateHKT": "2026-10-26 00:35:18",
+          "updatedHKT": "2026-10-26 02:01:13"
+        },
+        {
+          "group": "tw",
+          "index": 1,
+          "url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453698.jpg&M=1&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600",
+          "http": 200,
+          "bytes": 278726,
+          "format": "JPEG",
+          "size": [
+            1194,
+            796
+          ],
+          "visual": "Flight path map for CI75, directly relevant",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/25/35453698.jpg&M=1&s=Y&x=0&y=0&sw=1194&sh=796&exp=3600",
+            "sourcePublishedRaw": "2026-10-26T00:10:11+08:00",
+            "sourceModifiedRaw": "2026-10-26T07:51:12+08:00"
+          },
+          "title": "華航桃園飛羅馬航班四年來首度飛越俄羅斯領空",
+          "originalUrl": "https://udn.com/news/story/7266/9836853",
+          "dateHKT": "2026-10-26 00:10:11",
+          "updatedHKT": "2026-10-26 07:51:12"
+        },
+        {
+          "group": "tw",
+          "index": 2,
+          "url": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/php80Whi5.png",
+          "http": 200,
+          "bytes": 810947,
+          "format": "PNG",
+          "size": [
+            783,
+            595
+          ],
+          "visual": "Shen Po-yang photo, directly relevant",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/25/php80Whi5.png",
+            "sourcePublishedRaw": "2026-10-26T00:02:45+08:00",
+            "sourceModifiedRaw": "2026-10-26T00:02:45+08:00"
+          },
+          "title": "沈伯洋披露台北市長選戰辯論備戰安排",
+          "originalUrl": "https://news.ltn.com.tw/news/politics/breakingnews/5618583",
+          "dateHKT": "2026-10-26 00:02:45",
+          "updatedHKT": "2026-10-26 00:02:45"
+        },
+        {
+          "group": "war",
+          "index": 0,
+          "url": "https://i.iranintl.com/images/rdk9umy0/production/9cc269ca7c4b48df454ae3d1a74bfcd64aadfc50-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+          "http": 200,
+          "bytes": 27050,
+          "format": "JPEG",
+          "size": [
+            800,
+            420
+          ],
+          "visual": "Trump at campaign rally, relevant to reported comments",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/9cc269ca7c4b48df454ae3d1a74bfcd64aadfc50-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+            "sourcePublishedRaw": "2026-10-25T23:42:43.267Z",
+            "sourceModifiedRaw": "2026-10-25T23:44:26Z"
+          },
+          "title": "卡塔爾代表團赴德黑蘭斡旋美伊 特朗普權衡協議與再動武",
+          "originalUrl": "https://www.iranintl.com/en/202610250633",
+          "dateHKT": "2026-10-26 07:42:43",
+          "updatedHKT": "2026-10-26 07:44:26"
+        },
+        {
+          "group": "war",
+          "index": 1,
+          "url": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26295519464527.jpg?resize=1200,683",
+          "http": 200,
+          "bytes": 109126,
+          "format": "JPEG",
+          "size": [
+            1200,
+            683
+          ],
+          "visual": "Netanyahu with security staff, illustrative archival photo",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/AP26295519464527.jpg?resize=1200,683",
+            "sourcePublishedRaw": "2026-10-25T19:10:08+00:00",
+            "sourceModifiedRaw": "2026-10-25T19:10:10+00:00"
+          },
+          "title": "內塔尼亞胡警告伊朗勿趁以色列投票日發動襲擊",
+          "originalUrl": "https://www.washingtonexaminer.com/news/world/4779018/netanyahu-iran-israel-election-day-attack/",
+          "dateHKT": "2026-10-26 03:10:08",
+          "updatedHKT": "2026-10-26 03:10:10"
+        },
+        {
+          "group": "war",
+          "index": 2,
+          "url": "https://cdn-5.motorsport.com/images/amp/0mXRLmX6/s6/227-ford-m-sport-ford-nani-rom.jpg",
+          "http": 200,
+          "bytes": 328793,
+          "format": "JPEG",
+          "size": [
+            1200,
+            799
+          ],
+          "visual": "Dakar rally car in sand, directly relevant",
+          "source": {
+            "http": 200,
+            "ogImageExact": true,
+            "ogImage": "https://cdn-5.motorsport.com/images/amp/0mXRLmX6/s6/227-ford-m-sport-ford-nani-rom.jpg",
+            "sourcePublishedRaw": "2026-10-25T14:40:37Z",
+            "sourceModifiedRaw": "2026-10-25T14:40:37Z"
+          },
+          "title": "達喀爾拉力賽明年撤離沙特 戰事令主辦方另覓地點",
+          "originalUrl": "https://www.autosport.com/dakar/news/dakar-rally-moves-2027-event-out-of-saudi-arabia-new-location-to-be-announced/10868280/",
+          "dateHKT": "2026-10-25 22:40:37",
+          "updatedHKT": "2026-10-25 22:40:37"
+        }
+      ],
+      "socialSearch": {
+        "platform": "Threads",
+        "queries": [
+          "site:threads.net \"2026年10月26日\" \"五中全會\"",
+          "site:threads.net \"2026年10月26日\" \"沈伯洋\"",
+          "site:threads.net \"2026年10月26日\" \"伊朗\"",
+          "site:threads.net \"2026年10月26日\" \"奧迪\"",
+          "site:threads.com 10月26 五中全會 河北 國考",
+          "site:threads.com 10月26 美國 暴雨 阿拉斯加",
+          "site:threads.com 10月26 台灣 華航 俄羅斯",
+          "site:threads.com 10月26 伊朗 卡塔爾"
+        ],
+        "result": "Eight web searches returned no original posts that could be source and image verified in the hard time window; no Threads card is claimed.",
+        "targetByGroup": {
+          "cn": 4,
+          "us": 2,
+          "tw": 2,
+          "war": 2
+        },
+        "verifiedByGroup": {
+          "cn": 0,
+          "us": 0,
+          "tw": 0,
+          "war": 0
+        },
+        "deficitByGroup": {
+          "cn": 4,
+          "us": 2,
+          "tw": 2,
+          "war": 2
+        }
+      },
+      "dedup": {
+        "previousEdition": "data/2026-10-25.json",
+        "exactUrlOverlap": 0,
+        "semanticNotes": [
+          "26 Oct China plenum opens is a new meeting; 25 Oct PM seventh inspection feedback is a different event.",
+          "Tsai Kang-yong statement about prior Shen Po-yang campaign appearance is different from 26 Oct Taiwan debate preparation story, but both involve the campaign; editorial review advised.",
+          "26 Oct Qatar mediators arrival and Trump option statement is a substantive follow-up to 25 Oct PM Iran FM position; not identical.",
+          "2027 Dakar venue change is a new conflict spillover decision; 25 Oct PM Riyadh airport reopening/interceptions are background, not the same event.",
+          "26 Oct Israel election warning is a separate public claim; label it unverified intelligence."
+        ]
+      },
+      "tracking": {
+        "carryForward": [
+          "🔥 美伊戰爭（2026）"
+        ],
+        "newProgress": [
+          "Qatar mediators present in Tehran and Trump publicly weighs negotiations versus further action on 26 Oct.",
+          "Netanyahu alleges Iran may attack on Israel Election Day; claim uncorroborated.",
+          "Dakar organisers move 2027 rally out of Saudi Arabia over regional situation."
+        ],
+        "nextNodes": [
+          "Israeli election scheduled 27 Oct 2026; monitor any independently confirmed security incident.",
+          "2027 Dakar replacement location to be announced in coming days; 2028 Saudi return planned.",
+          "China Communist Party fifth plenum runs until 29 Oct; monitor communique and actual personnel decisions."
+        ]
+      }
+    },
+    "briefs": {
+      "edition": "2026-10-26 am",
+      "checkedAt": "2026-10-26T00:37:57.243Z",
+      "ai": {
+        "sourcesRead": [
+          "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
+          "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+          "https://apnews.com/article/2bb91e3334fd6d732edf22288cabf4ec"
+        ],
+        "sourceDetails": [
+          "Axios 原文：2026-10-25 22:26:59 UTC；公開匯總票數，非選民登記系統",
+          "TechCrunch 原文：2026-10-25 09:57 PDT；Apollo S&P493 分析係經濟師判斷",
+          "衛報原文 meta：2026-10-25T18:25:59Z；訴狀屬原告指控",
+          "美聯社原文：2026-10-25 10:57:33 UTC；專訪宗教與科技界"
+        ],
+        "imageArticle": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+        "ogImageExact": true,
+        "imageHttpStatus": 200,
+        "imageType": "webp",
+        "imageBytes": 60288,
+        "imageDecoded": true,
+        "visualNote": "實際目視為 Elvis Presley 手持結他演出嘅資料照片，與其歌曲版權訴訟來源原文相符。",
+        "threads": {
+          "searched": [
+            "site:threads.com/@ Anthropic Georgia voter data 2026 10 25",
+            "site:threads.net/@ AI Elvis Anthropic October 25"
+          ],
+          "used": 0,
+          "target": 2,
+          "gap": 2,
+          "reason": "公開定向搜尋無可核實第一手、完整時間與原圖嘅散戶原帖；未把新聞機構或轉載當合格帖。"
+        }
+      },
+      "warb": {
+        "sourcesRead": [
+          "https://indianexpress.com/article/world/us-iran-war-live-updates-netanyahu-warns-israel-election-trump-stirike-tehran-hormuz-shipping-india-oil-prices-10936618/lite/",
+          "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
+          "https://apnews.com/article/6ca2df0cfa031d211ea025fd8520015d",
+          "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages"
+        ],
+        "sourceDetails": [
+          "Indian Express 原文即時更新：2026-10-26 05:37 IST（08:07 HKT），包括 05:23 IST 卡塔爾斡旋更新",
+          "Axios 原文搜尋顯示 2026-10-25 23:15:08 UTC；匿名消息與利庫德黨否認分開記述",
+          "美聯社原文 2026-10-25 15:01:50 UTC；訪問德黑蘭居民",
+          "半島電視台 2026-10-25 原文 HTML 可讀；沙特攔截、利雅得機場及也門前線"
+        ],
+        "imageArticle": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages",
+        "ogImageExact": true,
+        "imageHttpStatus": 200,
+        "imageType": "webp",
+        "imageBytes": 450838,
+        "imageDecoded": true,
+        "visualNote": "實際目視係一名男子站喺也門空襲後瓦礫中；報道署名 AFP 資料相，冇稱為德黑蘭或利雅得即日現場。",
+        "threads": {
+          "searched": [
+            "site:threads.com/@ Tehran war preparation 2026 10 25",
+            "site:threads.net/@ Netanyahu Iran election October 25"
+          ],
+          "used": 0,
+          "target": 2,
+          "gap": 2,
+          "reason": "公開定向搜尋無能核實作者與事件關係、首發時間及原圖嘅散戶原帖。"
+        }
+      }
+    }
+  }
+}
