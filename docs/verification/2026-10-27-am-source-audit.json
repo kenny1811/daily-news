@@ -1,0 +1,1161 @@
+{
+  "edition": "2026-10-27 am",
+  "checkedAt": "2026-10-27T00:58:35.627581+00:00",
+  "method": "Separate original article publication, exact og:image, HTTP 200 full decode and visual subject checks; machine image selfcheck is recorded separately.",
+  "groupSourceAudits": {
+    "hongKongSocietyAndLife": {
+      "edition": "2026-10-27 am",
+      "checkedAt": "2026-10-27T08:35:45.509657+08:00",
+      "windowHKT": [
+        "2026-10-26 21:00:00",
+        "2026-10-27 09:30:00"
+      ],
+      "counts": {
+        "hks": 8,
+        "hkl": 8
+      },
+      "threads": {
+        "searches": [
+          "site:threads.com/@ 流浮山 布偶貓 20萬 捐款 2026 10 26",
+          "site:threads.com/@ 70歲 單身 200百萬 養老 2026 10 26",
+          "site:threads.net/@ 皇崗口岸 塞車 2026 10 26"
+        ],
+        "accepted": 0,
+        "targets": {
+          "hks": 4,
+          "hkl": 4
+        },
+        "shortfall": {
+          "hks": 4,
+          "hkl": 4
+        },
+        "note": "No original post returned by focused searches; media retellings not counted as original."
+      },
+      "rows": [
+        {
+          "group": "hks",
+          "title": "許家印山頂物業僭建地宮報道曝光",
+          "url": "https://www.hk01.com/article/60402800",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/01%E5%81%B5%E6%9F%A5/60402800/%E8%A8%B1%E5%AE%B6%E5%8D%B0%E5%B1%B1%E9%A0%82%E5%85%A9%E5%B1%8B%E5%83%AD%E5%BB%BA7000%E5%91%8E%E5%9C%B0%E5%AE%AE%E6%9B%9D%E5%85%89-%E9%A6%AC%E8%B7%AF%E4%B8%8B%E5%BB%BA%E6%B3%B3%E6%B1%A0-%E9%82%84%E5%8E%9F%E8%80%971625%E8%90%AC",
+          "originalTitle": "許家印山頂兩屋僭建7000呎地宮曝光　馬路下建泳池　還原耗1625萬",
+          "originalDescription": "中國恒大創辦人許家印涉非法吸收公眾存款、集資詐騙等八罪，2026年8月一審被深圳市中級人民法院判處無期徒刑、剝奪政治權利終身，沒收全部個人財產",
+          "publishedRaw": "2026-10-27T07:00:56+08:00",
+          "updatedRaw": "2026-10-27T07:00:56+08:00",
+          "publishedHKT": "2026-10-27 07:00:56",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191461505392971776850163.jpeg/fIzsbLE0msJBzue6b9FxPWr2_s-j7Dk-V3-BxVd_gcU",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 195764,
+          "imageType": "JPEG",
+          "imageSize": [
+            1200,
+            675
+          ],
+          "imageDecoded": true,
+          "visualNote": "source diagram maps reported basement"
+        },
+        {
+          "group": "hks",
+          "title": "油麻地男子疑遭多人持棍襲擊",
+          "url": "https://www.hk01.com/article/60403848",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403848/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%AD%9F%E5%8A%A0%E6%8B%89%E7%94%B7%E7%96%91%E9%81%AD%E4%BA%BA%E5%B0%8B%E4%BB%87%E6%A3%8D%E6%89%93-%E6%89%8B%E8%85%B3%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E8%AD%A6%E5%88%91%E4%BA%8B%E8%AA%BF%E6%9F%A5%E9%9A%8A%E8%B7%9F%E9%80%B2",
+          "originalTitle": "油麻地孟加拉男疑遭人尋仇棍打　手腳受傷送院　警刑事調查隊跟進",
+          "originalDescription": "昨（26日）晚上10時，警方接獲油麻地上海街124號有人報案，指其朋友在上址被人襲擊。警員接報到場，相信一名孟加拉籍的男子（28歲）曾在上址被多名",
+          "publishedRaw": "2026-10-27T05:37:04+08:00",
+          "updatedRaw": "2026-10-27T08:29:03+08:00",
+          "publishedHKT": "2026-10-27 05:37:04",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579876782542848604831.jpeg/A_i1h7LFxBgwiZU6R8PDO_vVgM31VkYjuDSNj7g0jY8?v=w1280r16_9",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 107307,
+          "imageType": "JPEG",
+          "imageSize": [
+            1200,
+            675
+          ],
+          "imageDecoded": true,
+          "visualNote": "generic A&E exterior, not incident scene"
+        },
+        {
+          "group": "hks",
+          "title": "將軍澳景林邨男子墮樓不治",
+          "url": "https://www.hk01.com/article/60403843",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403843/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%99%AF%E6%9E%97%E9%82%A836%E6%AD%B2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%8F%BE%E5%A0%B4%E8%AD%89%E4%B8%8D%E6%B2%BB",
+          "originalTitle": "珍惜生命｜將軍澳景林邨36歲男子墮樓　現場證不治",
+          "originalDescription": "今（27日）凌晨零時許，警方接獲將軍澳景林邨景櫚樓有途人報案，指發現一名男子倒臥在上址對開，懷疑他從高處墮下。警員接報到場，一名姓周的男子",
+          "publishedRaw": "2026-10-27T03:24:28+08:00",
+          "updatedRaw": "2026-10-27T03:24:32+08:00",
+          "publishedHKT": "2026-10-27 03:24:28",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261024/1190756707551154176475309.jpeg/k7qw5axH4c-uKNgiei8hADKhYexz0CvDQ5CBBUOQgQU?v=w1280r16_9",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 158911,
+          "imageType": "JPEG",
+          "imageSize": [
+            1200,
+            675
+          ],
+          "imageDecoded": true,
+          "visualNote": "generic local-news graphic, not incident scene"
+        },
+        {
+          "group": "hks",
+          "title": "深水埗長沙灣反罪惡行動拘十二人",
+          "url": "https://www.hk01.com/article/60403825",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403825/%E8%AD%A6%E8%81%AF%E5%85%A5%E5%A2%83%E8%99%95%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%8F%8A%E9%95%B7%E6%B2%99%E7%81%A3%E5%8F%8D%E7%BD%AA%E6%83%A1-%E6%8B%9812%E4%BA%BA%E6%B6%89%E9%81%95%E5%8F%8D%E9%80%97%E7%95%99%E6%A2%9D%E4%BB%B6%E7%AD%892%E7%BD%AA",
+          "originalTitle": "警聯入境處深水埗及長沙灣反罪惡　拘12人涉違反逗留條件等2罪",
+          "originalDescription": "深水埗警區特別職務隊、特遣隊及西九龍機動部隊人員聯同入境處，今日（26日）在深水埗及長沙灣區展開代號「冠軍」（CHAMPION）暨「闖岸」（DISTANT",
+          "publishedRaw": "2026-10-26T23:36:05+08:00",
+          "updatedRaw": "2026-10-26T23:36:08+08:00",
+          "publishedHKT": "2026-10-26 23:36:05",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191528538725945344038475.jpeg/ipuWkVc9onXsmhEdbKWPYEY5Ajs8ZMzflDi315Q4t9c?v=w1280r16_9",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 162919,
+          "imageType": "JPEG",
+          "imageSize": [
+            1280,
+            720
+          ],
+          "imageDecoded": true,
+          "visualNote": "police vehicle at nighttime street"
+        },
+        {
+          "group": "hks",
+          "title": "三公司資料外洩後客戶接詐騙電話",
+          "url": "https://www.hk01.com/article/60403819",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403819/%E9%80%A3%E7%92%B0%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9-%E6%B8%AF%E8%88%AA%E5%8F%8B%E5%92%8C%E7%99%BE%E8%80%81%E5%8C%AF%E5%AE%A2%E6%88%B6%E6%94%B6%E8%A9%90%E9%A8%99%E4%BE%86%E9%9B%BB-%E7%A7%81%E9%9A%B1%E7%BD%B2%E6%8E%A523%E5%AE%97%E6%8A%95%E8%A8%B4",
+          "originalTitle": "連環資料外洩｜港航友和百老匯客戶收詐騙來電　私隱署接23宗投訴",
+          "originalDescription": "私隱專員公署今日（26日）回覆傳媒查詢時指，今個月分別接獲香港航空有限公司、友和香港有限公司、及百老滙攝影器材有限公司的資料外洩事故通報，",
+          "publishedRaw": "2026-10-26T23:02:38+08:00",
+          "updatedRaw": "2026-10-26T23:02:42+08:00",
+          "publishedHKT": "2026-10-26 23:02:38",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20250324/980969119425761280539120.jpeg/7WS5vllmRA6KUKI2fGePC3PjONxkPkD8JLWfDA61nww?v=w1280r16_9",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 92554,
+          "imageType": "JPEG",
+          "imageSize": [
+            1280,
+            720
+          ],
+          "imageDecoded": true,
+          "visualNote": "privacy commissioner office sign"
+        },
+        {
+          "group": "hks",
+          "title": "屯門便利店職員涉挪用逾八萬元被捕",
+          "url": "https://www.hk01.com/article/60403821",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403821/%E5%B1%AF%E9%96%80%E9%BE%8D%E9%96%80%E8%B7%AF%E4%BE%BF%E5%88%A9%E5%BA%97%E8%81%B7%E5%93%A1%E6%B6%89%E7%9B%A3%E5%AE%88%E8%87%AA%E7%9B%9C%E8%A2%AB%E6%8D%95-%E9%80%BE-8%E8%90%AC%E5%A2%9E%E5%80%BC%E5%85%AB%E9%81%94%E9%80%9Aalipay%E7%AD%89",
+          "originalTitle": "屯門龍門路便利店職員涉監守自盜被捕　逾$8萬增值八達通Alipay等",
+          "originalDescription": "屯門有便利店職員懷疑監守自盜被捕。今晚（26日）近7時，警方接獲龍門路43號一間7-Eleven便利店的負責人報案，指懷疑一名男員工盜去逾8萬元。警員",
+          "publishedRaw": "2026-10-26T22:54:57+08:00",
+          "updatedRaw": "2026-10-26T22:55:04+08:00",
+          "publishedHKT": "2026-10-26 22:54:57",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261008/1184976057141301248172986.jpeg/DNk8qa_5txAI_vlcbbfOyD4zikfZNSPe4Eqq5_VKquc?v=w1280r16_9",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 143197,
+          "imageType": "JPEG",
+          "imageSize": [
+            1280,
+            720
+          ],
+          "imageDecoded": true,
+          "visualNote": "Tuen Mun police station exterior"
+        },
+        {
+          "group": "hks",
+          "title": "文錦渡私營非法加油站遭搗破",
+          "url": "https://www.hk01.com/article/60403815",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403815/%E6%B5%B7%E9%97%9C%E5%A4%A5%E6%B6%88%E9%98%B2%E6%90%97%E6%96%87%E9%8C%A6%E6%B8%A1%E9%AC%BC%E6%B2%B9%E7%AB%99-%E6%88%AA%E5%8D%B8%E6%B2%B9%E8%B7%A8%E5%A2%83%E8%BB%8A-%E5%8F%B8%E6%A9%9F%E4%BC%81%E5%9C%96%E9%80%83%E8%B5%B0%E9%81%AD%E5%88%B6%E6%9C%8D",
+          "originalTitle": "海關夥消防搗文錦渡鬼油站　截卸油跨境車　司機企圖逃走遭制服",
+          "originalDescription": "海關聯同消防處於今日（26日）早上，於文錦渡一帶進行反非法燃油行動，搗破一個非法電油加油站，查獲一輛正在卸油的跨境私家車，共檢獲約1,560公升",
+          "publishedRaw": "2026-10-26T21:57:50+08:00",
+          "updatedRaw": "2026-10-26T21:58:17+08:00",
+          "publishedHKT": "2026-10-26 21:57:50",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191506835325063168839750.jpeg/gOiztU8BrcwhnJPjR2Sp7YuTmCD3ppPG5In0suSJ9LI?v=w1280r16_9",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 143276,
+          "imageType": "JPEG",
+          "imageSize": [
+            1280,
+            720
+          ],
+          "imageDecoded": true,
+          "visualNote": "officers at vehicle at fuel operation"
+        },
+        {
+          "group": "hks",
+          "title": "曼谷抵港旅客行李藏三公斤疑大麻",
+          "url": "https://www.stheadline.com/breaking-news/3630371",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.stheadline.com/breaking-news/3630371/%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF%E5%85%A7%E5%9C%B0%E7%94%B7%E5%AD%90%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E8%97%8F3%E5%85%AC%E6%96%A4%E7%96%91%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%B8%82%E5%80%BC60%E8%90%AC%E5%85%83%E8%A2%AB%E6%B5%B7%E9%97%9C%E6%8B%98%E6%8D%95",
+          "originalTitle": "曼谷抵港內地男子手提行李藏3公斤疑大麻花　市值60萬元被海關拘捕",
+          "originalDescription": "海關周一（26日）在香港國際機場偵破一宗旅客販毒案件，在一名從泰國曼谷抵港男子的手提行李內，檢獲約3公斤懷疑大麻花，估計市值約60萬元，隨即拘捕該名男子。 清關揭發　另檢懷疑含毒藥產品及香煙 被捕男子56歲，為內地旅客。海關人員替他辦理清關手續期間，在其手提行李內發現該批懷疑大麻花，另檢獲一款懷疑含有第一部毒藥的產品，以及7支未完稅香煙。案件仍在調查中。 海關提醒市民，切勿貪圖金錢利益參與販毒活動",
+          "publishedRaw": "2026-10-27T02:15:14+0800",
+          "updatedRaw": "2026-10-27T02:15:14+0800",
+          "publishedHKT": "2026-10-27 02:15:14",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/a91eecdcc945a5b449c9b21e69ee98b2/2026-10/2026-10-26_17_37_45.png",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 559120,
+          "imageType": "PNG",
+          "imageSize": [
+            1198,
+            856
+          ],
+          "imageDecoded": true,
+          "visualNote": "seized suspected cannabis packages"
+        },
+        {
+          "group": "hkl",
+          "title": "今日早晚有雨日間約三十度",
+          "url": "https://www.hk01.com/article/60403833",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60403833/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A5%E6%97%A9%E6%99%9A%E6%9C%89%E5%B9%BE%E9%99%A3%E9%9B%A8-%E6%97%A5%E9%96%93%E5%A4%A7%E8%87%B4%E5%A4%A9%E6%99%B4%E7%B4%8430%E5%BA%A6",
+          "originalTitle": "天氣｜今日早晚有幾陣雨　日間大致天晴約30度",
+          "originalDescription": "東北季候風正影響廣東沿岸，同時一道雲雨帶正覆蓋該區。天文台指出，本港今早（10月27日）部份地區錄得約10毫米雨量。天文台預測，今日早晚部份時",
+          "publishedRaw": "2026-10-27T06:07:58+08:00",
+          "updatedRaw": "2026-10-27T06:08:02+08:00",
+          "publishedHKT": "2026-10-27 06:07:58",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191630259062444032502786.jpeg/8L4E4KtIg4wb2ickrIAGv1Yr-11CvbBXp2WrA6dlqwM?v=w1280r16_9",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 122025,
+          "imageType": "JPEG",
+          "imageSize": [
+            1280,
+            720
+          ],
+          "imageDecoded": true,
+          "visualNote": "Hong Kong skyline weather file image"
+        },
+        {
+          "group": "hkl",
+          "title": "十一月初市區高溫或達三十一度",
+          "url": "https://www.dimsumdaily.hk/hong-kong-observatory-forecasts-unseasonably-warm-start-to-november-with-31c-expected-on-2nd-november/",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.dimsumdaily.hk/hong-kong-observatory-forecasts-unseasonably-warm-start-to-november-with-31c-expected-on-2nd-november/",
+          "originalTitle": "Hong Kong Observatory forecasts unseasonably warm start to November with 31°C expected on 2nd November",
+          "originalDescription": "Hong Kong Observatory says early November will be warmer than average, lifting the urban high for 2nd November to 31 degrees amid El Niño conditions, with a northeast monsoon bringing breezier weather midweek.",
+          "publishedRaw": "2026-10-26T13:00:44+00:00",
+          "updatedRaw": "2026-10-26T13:00:49+00:00",
+          "publishedHKT": "2026-10-26 21:00:44",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/26205846/HK-Crowd-October-2026-2.webp",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 342740,
+          "imageType": "WEBP",
+          "imageSize": [
+            1264,
+            1000
+          ],
+          "imageDecoded": true,
+          "visualNote": "pedestrians in Hong Kong street weather file image"
+        },
+        {
+          "group": "hkl",
+          "title": "流浮山尋回走失布偶貓酬金轉捐動保",
+          "url": "https://www.dimsumdaily.hk/lost-ragdoll-found-in-lau-fau-shan-finder-gives-away-hk200000/",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.dimsumdaily.hk/lost-ragdoll-found-in-lau-fau-shan-finder-gives-away-hk200000/",
+          "originalTitle": "Lost ragdoll found in Lau Fau Shan; finder gives away HK$200,000",
+          "originalDescription": "27th October 2026 – (Hong Kong) A woman who found a lost ragdoll cat in Lau Fau Shan refused a HK$200,000 thank-you cheque from the owner and, after talking it through, steered the money instead to three local animal-welfare groups – drawing a wave of online praise for both sides. The female owner posted on […]",
+          "publishedRaw": "2026-10-26T16:13:35+00:00",
+          "updatedRaw": "2026-10-26T16:13:42+00:00",
+          "publishedHKT": "2026-10-27 00:13:35",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/27000843/LFS-Cat.webp",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 167810,
+          "imageType": "WEBP",
+          "imageSize": [
+            1278,
+            994
+          ],
+          "imageDecoded": true,
+          "visualNote": "retrieved ragdoll cat in carrier"
+        },
+        {
+          "group": "hkl",
+          "title": "甲級寫字樓空置率跌至三年半低位",
+          "url": "https://www.hk01.com/article/60403754",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60403754/%E7%94%B2%E5%BB%88%E5%A4%A7%E5%BE%A9%E7%94%A6-%E7%A9%BA%E7%BD%AE%E7%8E%87%E8%B7%8C%E8%87%B33%E5%B9%B4%E5%8D%8A%E6%96%B0%E4%BD%8E-%E6%83%9F%E4%B9%9D%E9%BE%8D%E6%9D%B1%E4%BB%8D-%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%86%B1",
+          "originalTitle": "甲廈大復甦　空置率跌至3年半新低　惟九龍東仍「水深火熱」？",
+          "originalDescription": "甲廈空置率跌至三年半新低！仲量聯行發表《香港地產市場觀察》報告指出，香港甲級寫字樓市場整體空置率連續第五個月下降，並跌至2023年5月以來最低",
+          "publishedRaw": "2026-10-27T07:00:34+08:00",
+          "updatedRaw": "2026-10-27T07:00:34+08:00",
+          "publishedHKT": "2026-10-27 07:00:34",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20210104/422829292498718720618492.jpeg/Qb-AGhlr01Pm6rj9xhAQ1NoYo4iAPOpfnw1oB58NaAc?v=w1280r16_9",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 233443,
+          "imageType": "JPEG",
+          "imageSize": [
+            1280,
+            720
+          ],
+          "imageDecoded": true,
+          "visualNote": "commercial towers stock photo"
+        },
+        {
+          "group": "hkl",
+          "title": "兩租置屋邨電梯資助獲批不受影響",
+          "url": "https://www.hk01.com/article/60403803",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403803/%E8%87%BA%E6%97%A5%E9%9B%BB%E6%A2%AF-%E5%85%A9%E7%A7%9F%E7%BD%AE%E5%B1%8B%E9%82%A8%E5%9D%87%E6%9C%89%E7%94%B3%E8%AB%8B%E8%B3%87%E5%8A%A9-%E5%B8%82%E5%BB%BA%E5%B1%80-%E5%B7%B2%E6%89%B9%E8%B3%87%E5%8A%A9%E4%B8%8D%E5%8F%97%E5%BD%B1%E9%9F%BF",
+          "originalTitle": "臺日電梯｜兩租置屋邨均有申請資助　市建局：已批資助不受影響",
+          "originalDescription": "臺日電梯（香港）有限公司去年於觀塘翠屏北邨、沙田博康邨更換共48部升降機，被揭違規無裝耐火門框組件。《香港01》早前得悉兩個租置屋邨均有參與",
+          "publishedRaw": "2026-10-26T22:19:21+08:00",
+          "updatedRaw": "2026-10-26T22:19:29+08:00",
+          "publishedHKT": "2026-10-26 22:19:21",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261020/1189290979761328128450196.jpeg/Q7il1fSIgVCJtNu5IUZOYQ9YC5aa9DGdXmiggV5ooIE?v=w1280r16_9",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 190381,
+          "imageType": "JPEG",
+          "imageSize": [
+            1280,
+            720
+          ],
+          "imageDecoded": true,
+          "visualNote": "Tai Joo elevator company sign"
+        },
+        {
+          "group": "hkl",
+          "title": "葵涌大隴街鼠患加派夜鼠隊",
+          "url": "https://www.stheadline.com/breaking-news/3630367",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.stheadline.com/breaking-news/3630367",
+          "originalTitle": "葵涌大隴街鼠患加派夜鼠隊",
+          "originalDescription": "食環署稱葵涌大隴街休憩花園及附近發現鼠洞，兩個月捕近六十隻活鼠，增派夜鼠隊與加強防鼠。原站 og:title 和 og:description 存在亂碼，已按可讀文章內容核對。",
+          "publishedRaw": "2026-10-27T01:52:51+0800",
+          "updatedRaw": "2026-10-27T01:52:51+0800",
+          "publishedHKT": "2026-10-27 01:52:51",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/61ec8923407dc5c81502b69d74292832/2026-10/2026-10-26_17_41_55.png",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 417282,
+          "imageType": "PNG",
+          "imageSize": [
+            1200,
+            602
+          ],
+          "imageDecoded": true,
+          "visualNote": "actual food and environmental hygiene officials inspecting rodent activity by refuse collection point; matches subject"
+        },
+        {
+          "group": "hkl",
+          "title": "會展站飯糰疑變質食環巡查未見明顯問題",
+          "url": "https://www.hk01.com/article/60403670",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60403670/%E6%9C%83%E5%B1%95%E7%AB%99%E8%8F%AF%E5%BE%A1%E7%B5%90%E9%A3%AF%E7%B3%B0%E7%96%91%E8%AE%8A%E8%B3%AA%E7%8F%BE-%E6%8B%89%E7%B5%B2-%E9%A3%9F%E7%92%B0%E5%B7%A1%E6%9F%A5%E6%9C%AA%E7%99%BC%E7%8F%BE%E6%98%8E%E9%A1%AF%E9%A3%9F%E7%89%A9%E5%95%8F%E9%A1%8C",
+          "originalTitle": "會展站華御結飯糰疑變質現「拉絲」　食環巡查未發現明顯食物問題",
+          "originalDescription": "有市民今日（26日）在網上發文表示，在華御結港鐵會展站分店購入一個飯糰後，在短短一分鐘內打開後，竟發現內部米飯出現「拉絲」現象。事主懷疑飯",
+          "publishedRaw": "2026-10-26T21:23:36+08:00",
+          "updatedRaw": "2026-10-26T22:03:23+08:00",
+          "publishedHKT": "2026-10-26 21:23:36",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191510780671954944439862.jpeg/YzLSZhpuRtaN8_TAD9fiLj_R8vZc2b_zlg0BHpYNAR4",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 171733,
+          "imageType": "JPEG",
+          "imageSize": [
+            1200,
+            675
+          ],
+          "imageDecoded": true,
+          "visualNote": "rice ball screenshot from complaint"
+        },
+        {
+          "group": "hkl",
+          "title": "兩名醫院學校病童獲堅毅獎學金",
+          "url": "https://www.stheadline.com/edu-insights/3630283",
+          "articleHttp": 200,
+          "canonicalUrl": "https://www.stheadline.com/edu-insights/3630283/%E6%82%A3%E4%B8%8A%E9%87%8D%E7%97%85%E7%84%A1%E9%98%BB%E5%AD%B8%E7%BF%92%E6%B1%BA%E5%BF%83-%E9%86%AB%E9%99%A2%E5%AD%B8%E6%A0%A1%E5%85%A9%E7%94%9F%E7%8D%B2%E5%A5%AE%E9%80%B2%E7%8D%8E%E5%AD%B8%E9%87%91-%E9%BC%93%E5%8B%B5%E5%85%B6%E4%BB%96%E7%97%85%E7%AB%A5%E4%B8%8D%E8%A6%81%E6%94%BE%E6%A3%84",
+          "originalTitle": "患上重病無阻學習決心 醫院學校兩生獲奮進獎學金 鼓勵其他病童不要放棄",
+          "originalDescription": "患有嚴重或罕見病患的學生，在堅持學業上往往需要更大付出。兩名分別患有白血病與罕見疾病的學生，各自面對化療與食不下咽之苦，在香港紅十字會醫院學校協助下，得以在接受治療期間繼續學業，並成為今屆「兒科醫學會鵬程奮進堅毅獎學金」得主，是紅十字會醫院學校首次有學生獲獎。提到自己的經歷，兩人不約而同鼓勵其他患病學生不要放棄，「堅持下去，總會過去」。 化療辛苦 易嘔易痛 現年9歲、就讀小四的江柏廷原先就讀津貼學",
+          "publishedRaw": "2026-10-27T07:30:00+0800",
+          "updatedRaw": "2026-10-27T07:30:00+0800",
+          "publishedHKT": "2026-10-27 07:30:00",
+          "candidatePublishedMatches": true,
+          "inWindow": true,
+          "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/lr/st_edu/5e0e841272fdecb0f816cd5c9117cc09/2026-10/49c0dabc-d017-4d0d-a90f-998a4c8196e3-169.jpg",
+          "ogImageExact": true,
+          "imageHttp": 200,
+          "imageBytes": 137243,
+          "imageType": "JPEG",
+          "imageSize": [
+            1200,
+            675
+          ],
+          "imageDecoded": true,
+          "visualNote": "two scholarship students at award event"
+        }
+      ]
+    },
+    "hongKongEconomyAndPolitics": {
+      "edition": "2026-10-27 am",
+      "windowHKT": "2026-10-26 21:00:00–2026-10-27 09:30:00",
+      "sourceAndImageChecks": [
+        {
+          "group": "hke",
+          "url": "https://hk.epochtimes.com/news/2026-10-26/14448288",
+          "publicationEvidence": "原文顯示發表 2026-10-26 下午9:24；未見另列更新時間，候選更新欄暫用首發時間。",
+          "imageEvidence": "原文 og:image 精確網址；GET 200、85230 bytes、JPEG 471x706，可解碼。目視為金色遠東金融中心大樓，旁邊可見力寶中心，與報道吻合。"
+        },
+        {
+          "group": "hke",
+          "url": "https://www.dimsumdaily.hk/new-world-ceo-echo-huang-sells-state-pavilia-flat-for-hk60m/",
+          "publicationEvidence": "原文頁直接 GET 403；官方 WordPress REST post slug 接口顯示 date 2026-10-27 00:01:52、modified 00:04:09，並載有完整文章內文。",
+          "imageEvidence": "官方 WordPress REST post yoast_head_json.og_image 顯示候選精確網址；GET 200、120549 bytes、JPEG 1274x990，可解碼。目視為黃少媚肖像及新世界大廈背景，與報道主角吻合。",
+          "risk": "HTML 文章頁 403，無法直接目視原頁；以發布方官方 REST 內文及 Yoast og:image 核實。State Pavilia 中文名已另以樓盤官網／利嘉閣核對為「皇都」。"
+        },
+        {
+          "group": "hke",
+          "url": "https://hk.epochtimes.com/news/2026-10-27/48780720",
+          "publicationEvidence": "原文顯示發表 2026-10-27 上午12:48；未見另列更新時間，候選更新欄暫用首發時間。",
+          "imageEvidence": "原文 og:image 精確網址；GET 200、77784 bytes、JPEG 799x558，可解碼。目視為沙田第一城屋苑樓群及河道，與報道吻合。"
+        },
+        {
+          "group": "hkp",
+          "url": "https://hk.epochtimes.com/news/2026-10-26/10218754",
+          "publicationEvidence": "原文顯示發表 2026-10-26 下午9:19；未見另列更新時間，候選更新欄暫用首發時間。工會訴求是對郵政合約政策的新回應。",
+          "imageEvidence": "原文 og:image 精確網址；GET 200、94097 bytes、JPEG 1200x800，可解碼。目視為香港郵政標誌，與報道吻合。"
+        },
+        {
+          "group": "hkp",
+          "url": "https://www.stheadline.com/daily-hongkong/3630366/",
+          "publicationEvidence": "原文 article:published_time 與 article:modified_time 均為 2026-10-27T03:00:00+0800；原文指政府研究進一步優化鼓勵計劃。",
+          "imageEvidence": "原文 og:image 精確網址；GET 200、128072 bytes、JPEG 211x354，可解碼。目視為護老院及長者，與報道吻合。"
+        },
+        {
+          "group": "hkp",
+          "url": "https://www.stheadline.com/daily-hongkong/3630364/",
+          "publicationEvidence": "原文 article:published_time 與 article:modified_time 均為 2026-10-27T03:00:00+0800；報道昨日新聆訊，並非將2020年舊事當今日新事。",
+          "imageEvidence": "原文 og:image 精確網址；GET 200、680031 bytes、JPEG 584x866，可解碼。目視為蒙頭疑犯被押解的案情照片，與報道吻合。",
+          "risk": "議題屬示威衍生司法新聞，若 hkp 僅收政府施政及立法會，可改用其他已核實政治新聞。"
+        }
+      ],
+      "dedupe": "已逐一對照 2026-10-26 pm 各組標題與網址；六張未重複上一版卡片。郵政合約制在上一版 track 曾標示 10-10 後無進展，本次工會學歷及戶外崗位訴求屬新回應。",
+      "threads": {
+        "searches": [
+          "site:threads.net 10月27日 2026 香港 郵差 合約",
+          "site:threads.net 10月27日 2026 沙田第一城 樓市",
+          "site:threads.net 10月27日 2026 皇都 黃少媚",
+          "site:threads.net 10月27日 2026 安老院舍 立法會"
+        ],
+        "verifiedFirstHandPosts": 0,
+        "targetPerGroup": 2,
+        "shortfall": {
+          "hke": 2,
+          "hkp": 2
+        },
+        "note": "精確關鍵詞 web 搜尋未返回可核實 Threads 原帖；未將轉載或來源不明帖子充數。"
+      }
+    },
+    "ChinaUnitedStatesTaiwanWar": {
+      "edition": "2026-10-27 am",
+      "sourceWindowHKT": [
+        "2026-10-26 21:00:00",
+        "2026-10-27 09:30:00"
+      ],
+      "method": "source page GET, exact og:image meta comparison, image GET 200, Pillow decode, 17-image in-memory contact sheet visual review",
+      "items": [
+        {
+          "group": "cn",
+          "index": 0,
+          "url": "https://www.hk01.com/article/60403837",
+          "publishedHKT": "2026-10-27 01:38:20",
+          "modifiedHKT": "2026-10-27 01:38:23",
+          "expectedOGImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191562764129144832839104.jpeg/SIVazRTzUg1LFNvtIXC24T-mPsfacZbGGCDhdRgg4XU?v=w1280r16_9",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1280,
+            720
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": null,
+          "visualSubjectVerified": true,
+          "visualSubject": "德國總統與中方人員握手",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "cn",
+          "index": 1,
+          "url": "https://www.hk01.com/article/60401962",
+          "publishedHKT": "2026-10-27 08:00:02",
+          "modifiedHKT": "2026-10-27 08:00:02",
+          "expectedOGImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191415912473825280715496.jpeg/BJ-MRy_xmnXBTmS-MjHGiwAKrCTrB8lN7Iz0dOyM9HQ",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1200,
+            675
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": null,
+          "visualSubjectVerified": true,
+          "visualSubject": "寵物宿舍或託管設施報道截圖",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "cn",
+          "index": 2,
+          "url": "https://www.zaobao.com.sg/news/china/story20261027-9899844",
+          "publishedHKT": "2026-10-27 08:28:07",
+          "modifiedHKT": "2026-10-27 08:28:10",
+          "expectedOGImage": "https://cassette.sphdigital.com.sg/image/zaobao/ea3e0c36710fb276fca071043d34cbc51468ff295e9ad205ce53b7f681fa8146",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1023,
+            682
+          ],
+          "imageFormat": "WEBP",
+          "imageContentType": "image/webp",
+          "captionEvidence": "圖為工作人員2026年7月28日在巴西聖保羅餐廳備製牛肉（路透社）",
+          "visualSubjectVerified": true,
+          "visualSubject": "烹調中的牛肉，符合報道主題；資料圖片非涉事工廠",
+          "visualMethod": "exact source og:image loaded in memory, Pillow decoded and visually inspected",
+          "publicationEvidence": "聯合早報 JSON-LD datePublished 2026-10-27T08:28:07+08:00；事件 CNN Brasil 首報 2026-10-26 15:24 巴西時間（27 Oct 02:24 HKT）"
+        },
+        {
+          "group": "cn",
+          "index": 3,
+          "url": "https://www.zaobao.com.sg/news/china/story20261026-9898265",
+          "publishedHKT": "2026-10-26 21:39:24",
+          "modifiedHKT": "2026-10-26 21:39:54",
+          "expectedOGImage": "https://cassette.sphdigital.com.sg/image/zaobao/b16c9312d889c7ce7fe930036c3c09470c46c73ec380cf7046a5fdf059268aeb",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            982,
+            655
+          ],
+          "imageFormat": "WEBP",
+          "imageContentType": "image/webp",
+          "captionEvidence": null,
+          "visualSubjectVerified": true,
+          "visualSubject": "北京馬駒橋零工市場影片截圖",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page JSON-LD datePublished and dateModified; UTC converted to HKT where applicable"
+        },
+        {
+          "group": "cn",
+          "index": 4,
+          "url": "https://udn.com/news/story/7333/9838452",
+          "publishedHKT": "2026-10-27 01:11:32",
+          "modifiedHKT": "2026-10-27 03:11:33",
+          "expectedOGImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/05/0/31603305.jpg&s=Y&x=0&y=0&sw=1047&sh=698&exp=3600",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1047,
+            698
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": "指數編製公司富時羅素最新數據顯示，在富時世界國債指數（WGBI）的9月指數概況中，按權重計，中國大陸占指數的11.9%，持續穩居該指數僅次於美國的第二大國債市場。示意圖。 中通社",
+          "visualSubjectVerified": true,
+          "visualSubject": "人民幣紙幣",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "cn",
+          "index": 5,
+          "url": "https://udn.com/news/story/7333/9838472",
+          "publishedHKT": "2026-10-27 01:09:53",
+          "modifiedHKT": "2026-10-27 03:02:36",
+          "expectedOGImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/18/35431255.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1280,
+            853
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": "外媒報導，歐盟計劃最快將於2027年首季擴大對中國大陸產品的進口限制，涵蓋化學品、家具及機械等產品，以縮減對大陸的貿易逆差。示意照。美聯社",
+          "visualSubjectVerified": true,
+          "visualSubject": "歐盟及中國旗幟握手",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "cn",
+          "index": 6,
+          "url": "https://udn.com/news/story/7333/9838473",
+          "publishedHKT": "2026-10-27 01:08:15",
+          "modifiedHKT": "2026-10-27 03:02:29",
+          "expectedOGImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34186022.jpg&s=Y&x=0&y=0&sw=3500&sh=2333&exp=3600",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            3500,
+            2333
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": "彭博引述摩根士丹利（大摩）最新報告指出，大陸股市仍可能再下跌約10%至15%，估值才會回落至預測的8-12倍本益比水準。示意圖。 路透",
+          "visualSubjectVerified": true,
+          "visualSubject": "人民幣及中國國旗",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "cn",
+          "index": 7,
+          "url": "https://www.hk01.com/article/60403805",
+          "publishedHKT": "2026-10-26 21:30:58",
+          "modifiedHKT": "2026-10-26 21:30:58",
+          "expectedOGImage": "https://cdn.hk01.com/di/media/images/dw/20230418/725028816418639872710586.jpeg/ujlEPWxGip0_O48lJnP1lsS8PpqFqpw7WZdEc1mXRHM?v=w1280r16_9",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1280,
+            720
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": null,
+          "visualSubjectVerified": true,
+          "visualSubject": "阿雅人物照片",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "us",
+          "index": 0,
+          "url": "https://www.nownews.com/news/6886814",
+          "publishedHKT": "2026-10-27 06:16:35",
+          "modifiedHKT": "2026-10-27 06:16:35",
+          "expectedOGImage": "https://media.nownews.com/nn_media/thumbnail/2024/04/1712708974702-06cb19fe8c22402d8af0096c94534342-1024x683.webp?unShow=false",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1024,
+            683
+          ],
+          "imageFormat": "WEBP",
+          "imageContentType": "image/webp",
+          "captionEvidence": "▲微軟26日宣布，針對美國、加拿大、印度及英國部分員工，推出自願離職方案，約有6萬名員工符合資格。（圖／美聯社／達志影像）",
+          "visualSubjectVerified": true,
+          "visualSubject": "微軟公司招牌",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "us",
+          "index": 1,
+          "url": "https://udn.com/news/story/6811/9838413",
+          "publishedHKT": "2026-10-27 00:00:00",
+          "modifiedHKT": "2026-10-27 08:08:48",
+          "expectedOGImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35456030.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1279,
+            853
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": "Anthropic廿六日正式申請股票首次公開發行（IPO），可望成為首家上市的先進AI模型開發商，公司希望募資規模能打平或超越SpaceX先前創下的空前紀錄。路透",
+          "visualSubjectVerified": true,
+          "visualSubject": "Anthropic 公司招牌",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "us",
+          "index": 2,
+          "url": "https://abcnews.com/Politics/wireStory/trump-heads-mississippi-parties-prepare-final-sprint-ahead-137576849",
+          "publishedHKT": "2026-10-27 00:21:01",
+          "modifiedHKT": "2026-10-27 01:30:54",
+          "expectedOGImage": "https://i.abcnewsfe.com/a/9afd9510-cf90-4374-a86a-3fe8e553fbef/wirestory_ecd5713a939acc8f7ccf171f9a84f250_16x9.jpg?w=1600",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1600,
+            900
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": null,
+          "visualSubjectVerified": true,
+          "visualSubject": "特朗普密西西比州競選活動",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page JSON-LD datePublished and dateModified; UTC converted to HKT where applicable"
+        },
+        {
+          "group": "tw",
+          "index": 0,
+          "url": "https://udn.com/news/story/7314/9838490",
+          "publishedHKT": "2026-10-27 00:04:16",
+          "modifiedHKT": "2026-10-27 07:59:05",
+          "expectedOGImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35456083.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1280,
+            853
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": "台灣民航機重返俄羅斯航路，引發外界目矚目。繼廿五日凌晨華航歐洲線航班暌違四年首度重返俄羅斯航路後，同一天也有長榮航空歐洲線航班採北航路飛行。 聯合報系資料照",
+          "visualSubjectVerified": true,
+          "visualSubject": "長榮航空客機",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "tw",
+          "index": 1,
+          "url": "https://udn.com/news/story/10930/9838734",
+          "publishedHKT": "2026-10-27 07:31:14",
+          "modifiedHKT": "2026-10-27 07:31:14",
+          "expectedOGImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454145.jpg&M=1&s=Y&x=0&y=0&sw=762&sh=508&exp=3600",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            762,
+            508
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": null,
+          "visualSubjectVerified": true,
+          "visualSubject": "烏坵歷史檔案照片",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "tw",
+          "index": 2,
+          "url": "https://news.nextapple.com/life/20261027/C5CB9EFC95ADC5E2A6EB82CDFDECC6C1",
+          "publishedHKT": "2026-10-27 00:01:00",
+          "modifiedHKT": "2026-10-27 00:01:00",
+          "expectedOGImage": "https://static-cdn.nextapple.tw/prod/2026-10/C5CB9EFC95ADC5E2A6EB82CDFDECC6C1/5ff0809bb236cd02958fef0f277a276e_1280.jpeg",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1280,
+            854
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": "116學年度學科能力測驗從今日至11月10日受理報名；圖為試場資料照",
+          "visualSubjectVerified": true,
+          "visualSubject": "台灣考生在試場作答，符合學測報名主題；資料圖片",
+          "visualMethod": "exact source og:image loaded in memory, Pillow decoded and visually inspected",
+          "publicationEvidence": "壹蘋 article:published_time 2026-10-27T00:01:00+08:00；27 Oct 是首次開放報名日期"
+        },
+        {
+          "group": "war",
+          "index": 0,
+          "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials",
+          "publishedHKT": "2026-10-27 05:42:18",
+          "modifiedHKT": "2026-10-27 05:42:18",
+          "expectedOGImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adfa8dc34-1793042652.jpg?resize=1920%2C1440",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1920,
+            1440
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": "The crisis in the Strait of Hormuz needs to be resolved 'sooner rather than later' to make fertiliser affordable for rural communities, according to a UN senior trade official [File: Hajarah Nalwadda/Getty]",
+          "visualSubjectVerified": true,
+          "visualSubject": "非洲居民攜物行走",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page JSON-LD datePublished and dateModified; UTC converted to HKT where applicable"
+        },
+        {
+          "group": "war",
+          "index": 1,
+          "url": "https://www.iranintl.com/en/202610265347",
+          "publishedHKT": "2026-10-27 01:49:00",
+          "modifiedHKT": "2026-10-27 04:15:57",
+          "expectedOGImage": "https://i.iranintl.com/images/rdk9umy0/production/94dcf1780c533913e0e08a9cc316e4761fe359a8-3750x2109.jpg?rect=0,71,3750,1969&w=1200&h=630&q=66&fit=max&auto=format",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1200,
+            630
+          ],
+          "imageFormat": "AVIF",
+          "imageContentType": "image/avif",
+          "captionEvidence": "US Treasury Secretary Scott Bessent speaks during an interview with Iran International's Kambiz Tavana in Washington DC on Oct. 26, 2026.",
+          "visualSubjectVerified": true,
+          "visualSubject": "美國財長貝森特發言照片",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        },
+        {
+          "group": "war",
+          "index": 2,
+          "url": "https://www.iranintl.com/en/202610264703",
+          "publishedHKT": "2026-10-27 03:06:00",
+          "modifiedHKT": "2026-10-27 03:08:48",
+          "expectedOGImage": "https://i.iranintl.com/images/rdk9umy0/production/22f42a0842e72f40a5172f8effd20098d535f027-1280x853.jpg?rect=0,65,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+          "sourcePageStatus": 200,
+          "ogImageExactMatch": true,
+          "imageStatus": 200,
+          "imageDecoded": true,
+          "imageDimensions": [
+            1200,
+            630
+          ],
+          "imageFormat": "JPEG",
+          "imageContentType": "image/jpeg",
+          "captionEvidence": "From left: Turkish intelligence chief Ibrahim Kalin, Saudi Defense Minister Prince Khalid bin Salman, Iran’s Supreme National Security Council Secretary Mohsen Rezaei, and Pakistani army chief Field Marshal Asim Munir in Tehran, October 26, 2026.",
+          "visualSubjectVerified": true,
+          "visualSubject": "沙特等三國代表與伊朗官員合照",
+          "visualMethod": "17-image contact sheet assembled in memory from exact source og:image; inspected against article title and description",
+          "publicationEvidence": "source-page article:published_time and article:modified_time metadata"
+        }
+      ],
+      "threadsOriginalCounts": {
+        "cn": 0,
+        "us": 0,
+        "tw": 0,
+        "war": 0
+      },
+      "notes": [
+        "Web search did not return qualifying indexed private Threads originals. No browser-based Threads original post verification performed for these four groups; 50% target unmet.",
+        "ABC/AP article describes a planned Mississippi rally; card wording is prospective.",
+        "cn[2] updated from stale terracotta research to new Brazil beef import suspension, first reported within AM hard window.",
+        "tw[2] public education service item, not pure entertainment. Taiwanese source mix UDN 2/3 and 壹蘋 1/3."
+      ],
+      "threadsSearches": [
+        {
+          "query": "site:threads.net/@ 2026-10-27 中國 大陸 北京 經濟 人民",
+          "result": "no indexed results"
+        },
+        {
+          "query": "site:threads.com/@ 馬駒橋 零工 2026 10 26",
+          "result": "no indexed results"
+        },
+        {
+          "query": "site:threads.com/@ Anthropic IPO 2026 10 26",
+          "result": "no indexed results"
+        },
+        {
+          "query": "site:threads.com/@ 高雄 車禍 2026 10 26",
+          "result": "no indexed results"
+        },
+        {
+          "query": "site:threads.com/@ Iran war October 26 2026",
+          "result": "no indexed results"
+        }
+      ]
+    }
+  },
+  "briefSourceAudits": {
+    "edition": "2026-10-27 am",
+    "checkedAt": "2026-10-27T00:40:26.940899+00:00",
+    "briefs": {
+      "ai": {
+        "sources": [
+          {
+            "label": "TechCrunch — Anthropic 企業客戶策略",
+            "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+            "http": 200,
+            "sourceBytes": 239608,
+            "ogTitle": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked | TechCrunch",
+            "publishedRaw": "2026-10-26T16:49:42+00:00",
+            "publishedHktFromBody": null,
+            "ogImage": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024"
+          },
+          {
+            "label": "衛報 — Microsoft 擬提供自願離職安排",
+            "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+            "http": 200,
+            "sourceBytes": 314142,
+            "ogTitle": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
+            "publishedRaw": "2026-10-26T18:44:31.000Z",
+            "publishedHktFromBody": null,
+            "ogImage": "https://i.guim.co.uk/img/media/f36458784b93fd8a4087d457a37e08ed2b9790d0/665_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f61deec1e50fa38db6c37fb2c5a8c49d"
+          },
+          {
+            "label": "The Register — GPT-6.1 Terra 定價",
+            "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
+            "http": 200,
+            "sourceBytes": 175130,
+            "ogTitle": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
+            "publishedRaw": "2026-10-26T23:08:59.000Z",
+            "publishedHktFromBody": null,
+            "ogImage": "https://image.theregister.com/5305594.jpg?imageId=5305594&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+          },
+          {
+            "label": "The Next Web — GPT-6.1 Terra 電腦操作用途",
+            "url": "https://thenextweb.com/news/openai-gpt-6-1-terra-computer-use",
+            "http": 200,
+            "sourceBytes": 182031,
+            "ogTitle": "OpenAI launches GPT-6.1 Terra, a cheaper model for everyday computer work",
+            "publishedRaw": "2026-10-26T19:49:19+00:00",
+            "publishedHktFromBody": null,
+            "ogImage": "https://media.thenextweb.com/2026/10/gpt-6-1-terra-earth-globe-launch-art.jpg"
+          }
+        ],
+        "coverArticle": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+        "coverOgExact": true,
+        "coverVisualReviewed": true,
+        "coverVisualNote": "衛報原文 og:image 為 Microsoft 園區標誌資料相，畫面同公司題材吻合，唔係離職安排現場。",
+        "threads": {
+          "used": 0,
+          "target": 2,
+          "gap": 2,
+          "reason": "定向搜尋公開 Threads 原帖，未找到可核實作者、原發時間、內容及原圖的第一手帖子。"
+        },
+        "coverFile": "scratch\\am27-ai-cover.jpg"
+      },
+      "warb": {
+        "sources": [
+          {
+            "label": "半島電視台 — 非洲糧食安全與戰事成本",
+            "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials",
+            "http": 200,
+            "sourceBytes": 233360,
+            "ogTitle": "Africa food security under threat due to Iran war, trade officials warn",
+            "publishedRaw": null,
+            "publishedHktFromBody": "2026-10-27 05:42:18",
+            "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adfa8dc34-1793042652.jpg?resize=1920%2C1440"
+          },
+          {
+            "label": "Iran International — 貝森特談伊朗經濟",
+            "url": "https://www.iranintl.com/en/202610265347",
+            "http": 200,
+            "sourceBytes": 307486,
+            "ogTitle": "Bessent says Iran economy will contract by more than 25%",
+            "publishedRaw": "2026-10-26T17:49:00.000Z",
+            "publishedHktFromBody": null,
+            "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/94dcf1780c533913e0e08a9cc316e4761fe359a8-3750x2109.jpg?rect=0,71,3750,1969&w=1200&h=630&q=66&fit=max&auto=format"
+          },
+          {
+            "label": "衛報 — 阿曼倡議區域安全安排",
+            "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+            "http": 200,
+            "sourceBytes": 455823,
+            "ogTitle": "Middle East peace held back by US insistence that Iran is a threat, Oman’s foreign minister says",
+            "publishedRaw": "2026-10-26T19:12:09.000Z",
+            "publishedHktFromBody": "2026-10-26 22:03:00",
+            "ogImage": "https://i.guim.co.uk/img/media/cffe3efdbd2aa053842b2cdb4837bc57232c81f7/747_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c9d8860e5af97521311ffa12422666d"
+          }
+        ],
+        "coverArticle": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials",
+        "coverOgExact": true,
+        "coverVisualReviewed": true,
+        "coverVisualNote": "半島電視台原文 og:image 為烏干達兒童攜水容器的 2025 年資料相，與非洲民生題材吻合，唔係今晨海峽或談判現場。",
+        "threads": {
+          "used": 0,
+          "target": 2,
+          "gap": 2,
+          "reason": "定向搜尋公開 Threads 原帖，未找到可核實作者、原發時間、內容及原圖的第一手帖子。"
+        },
+        "coverFile": "scratch\\am27-war-cover.jpg"
+      }
+    }
+  },
+  "duplicateReviews": [
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403843",
+        "https://www.stheadline.com/breaking-news/3630371"
+      ],
+      "decision": "different_events",
+      "reason": "景林邨三十六歲男子墮樓案發於將軍澳屋邨；另一宗係五十六歲旅客由曼谷抵港時被海關檢獲疑似大麻，人物地點及案情都不同。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403821",
+        "https://www.hk01.com/社會新聞/60403629/食環督察被指獨吞六合彩-原想建立團隊精神-14同僚入稟追2891萬"
+      ],
+      "decision": "different_events",
+      "reason": "今晨係屯門便利店職員涉挪用八達通增值款；上版係食環署職員入稟追討合資六合彩頭獎，涉事人及金錢來源不同。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403821",
+        "https://www.dimsumdaily.hk/mtr-staff-hailed-for-catching-youth-abusing-hk2-elderly-octopus-fare/"
+      ],
+      "decision": "different_events",
+      "reason": "今晨係便利店職員涉嫌挪用電子錢包與八達通增值款；上版係港鐵職員查問青年涉嫌濫用長者兩元優惠，僅共享八達通一詞。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403815",
+        "https://www.stheadline.com/breaking-news/3630371"
+      ],
+      "decision": "different_events",
+      "reason": "文錦渡案係海關消防搗破私營非法加油站；機場案係旅客行李藏疑似大麻，雖然同由海關處理，現場、物品及嫌疑人完全不同。"
+    },
+    {
+      "urls": [
+        "https://www.stheadline.com/breaking-news/3630371",
+        "https://www.hk01.com/突發/60403738/老撾經越南抵港內地客攜6袋行李-海關搜逾12萬支私煙-判囚9個月"
+      ],
+      "decision": "different_events",
+      "reason": "今晨機場案係曼谷抵港旅客涉嫌藏三公斤大麻；上版係另一旅客攜十二萬多支私煙已判囚，物品、來源路線與司法進度不同。"
+    },
+    {
+      "urls": [
+        "https://www.hk01.com/article/60403833",
+        "https://www.dimsumdaily.hk/hong-kong-observatory-forecasts-unseasonably-warm-start-to-november-with-31c-expected-on-2nd-november/"
+      ],
+      "decision": "different_events",
+      "reason": "一張係十月二十七日當日早晚有雨及日間溫度；另一張係十一月二日可能高溫的較遠期預測，預報日期和天氣影響時段不同。"
+    },
+    {
+      "urls": [
+        "https://www.dimsumdaily.hk/hong-kong-observatory-forecasts-unseasonably-warm-start-to-november-with-31c-expected-on-2nd-november/",
+        "https://www.dimsumdaily.hk/new-world-ceo-echo-huang-sells-state-pavilia-flat-for-hk60m/"
+      ],
+      "decision": "different_events",
+      "reason": "一張報十一月初香港氣溫預測，另一張報新世界行政總裁出售北角皇都單位；只是同屬 Dimsum Daily 來源，新聞事實無關。"
+    },
+    {
+      "urls": [
+        "https://www.iranintl.com/en/202610264703",
+        "https://www.zaobao.com.sg/news/world/story20261026-9896612"
+      ],
+      "decision": "substantive_update",
+      "reason": "上版報沙特土耳其巴基斯坦官員赴德黑蘭展開會談；今晨新增伊朗強硬派對該斡旋公開批評及談判籌碼疑慮，屬外交反應新進展。"
+    }
+  ],
+  "socialTarget": {
+    "policy": "Threads first-hand originals, target only, 50% per group and brief",
+    "counts": {
+      "hks": {
+        "used": 0,
+        "target": 4,
+        "gap": 4
+      },
+      "hkl": {
+        "used": 0,
+        "target": 4,
+        "gap": 4
+      },
+      "hke": {
+        "used": 0,
+        "target": 2,
+        "gap": 2
+      },
+      "hkp": {
+        "used": 0,
+        "target": 2,
+        "gap": 2
+      },
+      "cn": {
+        "used": 0,
+        "target": 4,
+        "gap": 4
+      },
+      "us": {
+        "used": 0,
+        "target": 2,
+        "gap": 2
+      },
+      "tw": {
+        "used": 0,
+        "target": 2,
+        "gap": 2
+      },
+      "war": {
+        "used": 0,
+        "target": 2,
+        "gap": 2
+      },
+      "ai": {
+        "used": 0,
+        "target": 2,
+        "gap": 2
+      },
+      "warb": {
+        "used": 0,
+        "target": 2,
+        "gap": 2
+      }
+    },
+    "note": "All searched; no candidate satisfied original-author, publication-time, source-content and original-image evidence together. Media cross-posts were not counted."
+  }
+}

@@ -1,0 +1,658 @@
+[
+  {
+    "group": "hks",
+    "title": "許家印山頂物業僭建地宮報道曝光",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60402800",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191461505392971776850163.jpeg/fIzsbLE0msJBzue6b9FxPWr2_s-j7Dk-V3-BxVd_gcU",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 195764,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "油麻地男子疑遭多人持棍襲擊",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403848",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261013/1186579876782542848604831.jpeg/A_i1h7LFxBgwiZU6R8PDO_vVgM31VkYjuDSNj7g0jY8?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 107307,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "將軍澳景林邨男子墮樓不治",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403843",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261024/1190756707551154176475309.jpeg/k7qw5axH4c-uKNgiei8hADKhYexz0CvDQ5CBBUOQgQU?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 158911,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "深水埗長沙灣反罪惡行動拘十二人",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403825",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191528538725945344038475.jpeg/ipuWkVc9onXsmhEdbKWPYEY5Ajs8ZMzflDi315Q4t9c?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 162919,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "三公司資料外洩後客戶接詐騙電話",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403819",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20250324/980969119425761280539120.jpeg/7WS5vllmRA6KUKI2fGePC3PjONxkPkD8JLWfDA61nww?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 92554,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "屯門便利店職員涉挪用逾八萬元被捕",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403821",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261008/1184976057141301248172986.jpeg/DNk8qa_5txAI_vlcbbfOyD4zikfZNSPe4Eqq5_VKquc?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 143197,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "文錦渡私營非法加油站遭搗破",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403815",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191506835325063168839750.jpeg/gOiztU8BrcwhnJPjR2Sp7YuTmCD3ppPG5In0suSJ9LI?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 143276,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "曼谷抵港旅客行李藏三公斤疑大麻",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/breaking-news/3630371",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/a91eecdcc945a5b449c9b21e69ee98b2/2026-10/2026-10-26_17_37_45.png",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "png",
+      "bytes": 559120,
+      "width": 1198,
+      "height": 856,
+      "contentType": "image/png; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "今日早晚有雨日間約三十度",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403833",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191630259062444032502786.jpeg/8L4E4KtIg4wb2ickrIAGv1Yr-11CvbBXp2WrA6dlqwM?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 122025,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "十一月初市區高溫或達三十一度",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/hong-kong-observatory-forecasts-unseasonably-warm-start-to-november-with-31c-expected-on-2nd-november/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/26205846/HK-Crowd-October-2026-2.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 342740,
+      "width": 1264,
+      "height": 1000,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "流浮山尋回走失布偶貓酬金轉捐動保",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/lost-ragdoll-found-in-lau-fau-shan-finder-gives-away-hk200000/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/27000843/LFS-Cat.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 167810,
+      "width": 1278,
+      "height": 994,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "甲級寫字樓空置率跌至三年半低位",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403754",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20210104/422829292498718720618492.jpeg/Qb-AGhlr01Pm6rj9xhAQ1NoYo4iAPOpfnw1oB58NaAc?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 233443,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "兩租置屋邨電梯資助獲批不受影響",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403803",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261020/1189290979761328128450196.jpeg/Q7il1fSIgVCJtNu5IUZOYQ9YC5aa9DGdXmiggV5ooIE?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 190381,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "葵涌大隴街鼠患加派夜鼠隊",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/breaking-news/3630367",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/61ec8923407dc5c81502b69d74292832/2026-10/2026-10-26_17_41_55.png",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "png",
+      "bytes": 417282,
+      "width": 1200,
+      "height": 602,
+      "contentType": "image/png; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "會展站飯糰疑變質食環巡查未見明顯問題",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403670",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191510780671954944439862.jpeg/YzLSZhpuRtaN8_TAD9fiLj_R8vZc2b_zlg0BHpYNAR4",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 171733,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "兩名醫院學校病童獲堅毅獎學金",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/edu-insights/3630283",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/lr/st_edu/5e0e841272fdecb0f816cd5c9117cc09/2026-10/49c0dabc-d017-4d0d-a90f-998a4c8196e3-169.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 137243,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hke",
+    "title": "金鐘遠東金融中心高層單位意向價4,500萬",
+    "source": "大紀元",
+    "url": "https://hk.epochtimes.com/news/2026-10-26/14448288",
+    "ogImage": "https://images1.epochhk.com/pictures/413866/Midland_20261026_sammuel_chong_%E9%81%A0%E6%9D%B1%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83@1200x1200.jpeg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 85230,
+      "width": 471,
+      "height": 706,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hke",
+    "title": "新世界行政總裁售北角皇都單位作價6,000萬",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/new-world-ceo-echo-huang-sells-state-pavilia-flat-for-hk60m/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/27000302/NEW-WORLD-ECHO-HUANG-1.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 120549,
+      "width": 1274,
+      "height": 990,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hke",
+    "title": "沙田第一城兩房戶426萬成交",
+    "source": "大紀元",
+    "url": "https://hk.epochtimes.com/news/2026-10-27/48780720",
+    "ogImage": "https://images1.epochhk.com/pictures/305601/1567448_%E6%B2%99%E7%94%B0%E7%AC%AC%E4%B8%80%E5%9F%8E_220820071514100615--ss1_1200x1200@1200x1200.jpeg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 77784,
+      "width": 799,
+      "height": 558,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkp",
+    "title": "郵政合約員工轉職門檻惹工會關注",
+    "source": "大紀元",
+    "url": "https://hk.epochtimes.com/news/2026-10-26/10218754",
+    "ogImage": "https://images1.epochhk.com/pictures/357828/1639279_%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF_%E9%83%AD%E5%A8%81%E5%88%A9@1200x1200.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 94097,
+      "width": 1200,
+      "height": 800,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkp",
+    "title": "政府研進一步優化私人發展項目安老院舍計劃",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/daily-hongkong/3630366/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/8c68afc3a9ebcb810585f4e8d03a5bc6/2026-10/MAZ02P03271026_copy.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 128072,
+      "width": 211,
+      "height": 354,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hkp",
+    "title": "2020年港島示威受傷男警索償逾31萬",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/daily-hongkong/3630364/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/30aab6d03945d76938290dc032834526/2026-10/NCU01P09271026_copy.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 680031,
+      "width": 584,
+      "height": 866,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "德國總統施泰因邁爾抵達合肥展開五日國事訪問",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403837",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191562764129144832839104.jpeg/SIVazRTzUg1LFNvtIXC24T-mPsfacZbGGCDhdRgg4XU?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 109391,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "內地多所大學試行寵物友善校園",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60401962",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261026/1191415912473825280715496.jpeg/BJ-MRy_xmnXBTmS-MjHGiwAKrCTrB8lN7Iz0dOyM9HQ",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 171895,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "中國暫停進口巴西MBRF旗下工廠牛肉",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/china/story20261027-9899844",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/ea3e0c36710fb276fca071043d34cbc51468ff295e9ad205ce53b7f681fa8146",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 129670,
+      "width": 1023,
+      "height": 682,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "北京馬駒橋零工市場影片引發勞工生活討論",
+    "source": "聯合早報",
+    "url": "https://www.zaobao.com.sg/news/china/story20261026-9898265",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/b16c9312d889c7ce7fe930036c3c09470c46c73ec380cf7046a5fdf059268aeb",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 100422,
+      "width": 982,
+      "height": 655,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "富時世界國債指數中國國債權重達11.9%",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/7333/9838452",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2025/03/05/0/31603305.jpg&s=Y&x=0&y=0&sw=1047&sh=698&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 125666,
+      "width": 1047,
+      "height": 698,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "歐盟擬擴大限制中國化學品家具及機械進口",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/7333/9838472",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/18/35431255.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 133579,
+      "width": 1280,
+      "height": 853,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "摩根士丹利料中國股市或再跌10%至15%",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/7333/9838473",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2026/01/14/realtime/34186022.jpg&s=Y&x=0&y=0&sw=3500&sh=2333&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 1362494,
+      "width": 3500,
+      "height": 2333,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "台灣主持人阿雅微博表態「一個中國」",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60403805",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20230418/725028816418639872710586.jpeg/ujlEPWxGip0_O48lJnP1lsS8PpqFqpw7WZdEc1mXRHM?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 127667,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "us",
+    "title": "微軟向約六萬名員工提供自願離職方案",
+    "source": "NOWnews今日新聞",
+    "url": "https://www.nownews.com/news/6886814",
+    "ogImage": "https://media.nownews.com/nn_media/thumbnail/2024/04/1712708974702-06cb19fe8c22402d8af0096c94534342-1024x683.webp?unShow=false",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 60224,
+      "width": 1024,
+      "height": 683,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "us",
+    "title": "Anthropic正式申請IPO募資規模受關注",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/6811/9838413",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35456030.jpg&M=1&s=Y&x=0&y=0&sw=1279&sh=853&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 173976,
+      "width": 1279,
+      "height": 853,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "us",
+    "title": "特朗普將赴密西西比州造勢支援共和黨選戰",
+    "source": "ABC News／美聯社",
+    "url": "https://abcnews.com/Politics/wireStory/trump-heads-mississippi-parties-prepare-final-sprint-ahead-137576849",
+    "ogImage": "https://i.abcnewsfe.com/a/9afd9510-cf90-4374-a86a-3fe8e553fbef/wirestory_ecd5713a939acc8f7ccf171f9a84f250_16x9.jpg?w=1600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "avif",
+      "bytes": 110350,
+      "width": 1600,
+      "height": 900,
+      "contentType": "image/avif"
+    }
+  },
+  {
+    "group": "tw",
+    "title": "長榮航空巴黎返台航班重返俄羅斯航路",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/7314/9838490",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35456083.jpg&M=2&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 231905,
+      "width": 1280,
+      "height": 853,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "tw",
+    "title": "烏坵1950年陸軍叛逃槍戰檔案解密",
+    "source": "聯合新聞網",
+    "url": "https://udn.com/news/story/10930/9838734",
+    "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/26/35454145.jpg&M=1&s=Y&x=0&y=0&sw=762&sh=508&exp=3600",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 59138,
+      "width": 762,
+      "height": 508,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "tw",
+    "title": "台灣116學年度學測今日起報名至11月10日",
+    "source": "壹蘋新聞網",
+    "url": "https://news.nextapple.com/life/20261027/C5CB9EFC95ADC5E2A6EB82CDFDECC6C1",
+    "ogImage": "https://static-cdn.nextapple.tw/prod/2026-10/C5CB9EFC95ADC5E2A6EB82CDFDECC6C1/5ff0809bb236cd02958fef0f277a276e_1280.jpeg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 166623,
+      "width": 1280,
+      "height": 854,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "war",
+    "title": "美伊戰事推高燃油化肥成本 非洲糧食安全受威脅",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials",
+    "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adfa8dc34-1793042652.jpg?resize=1920%2C1440",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 3150474,
+      "width": 1920,
+      "height": 1440,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "war",
+    "title": "美財長貝森特稱伊朗經濟本財年或萎縮逾25%",
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610265347",
+    "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/94dcf1780c533913e0e08a9cc316e4761fe359a8-3750x2109.jpg?rect=0,71,3750,1969&w=1200&h=630&q=66&fit=max&auto=format",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "avif",
+      "bytes": 38254,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/avif"
+    }
+  },
+  {
+    "group": "war",
+    "title": "伊朗強硬派抨擊三國外交斡旋 恐削弱德黑蘭籌碼",
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610264703",
+    "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/22f42a0842e72f40a5172f8effd20098d535f027-1280x853.jpg?rect=0,65,1280,672&w=1200&h=630&q=66&fit=max&auto=format",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 99411,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "ai",
+    "title": "AI 動向封面",
+    "source": "TechCrunch — Anthropic 企業客戶策略",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "ogImage": "https://i.guim.co.uk/img/media/f36458784b93fd8a4087d457a37e08ed2b9790d0/665_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f61deec1e50fa38db6c37fb2c5a8c49d",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 66508,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "warb",
+    "title": "美伊戰爭封面",
+    "source": "半島電視台 — 非洲糧食安全與戰事成本",
+    "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials",
+    "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adfa8dc34-1793042652.jpg?resize=1920%2C1440",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 3150474,
+      "width": 1920,
+      "height": 1440,
+      "contentType": "image/webp"
+    }
+  }
+]
