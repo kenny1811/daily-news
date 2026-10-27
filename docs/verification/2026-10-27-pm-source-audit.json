@@ -1,0 +1,1533 @@
+{
+  "edition": "2026-10-27 pm",
+  "recordedAt": "2026-10-27T20:40:01.182585+08:00",
+  "newsWindowHKT": [
+    "2026-10-27 09:00",
+    "2026-10-27 21:55"
+  ],
+  "lastSourceCheckedAt": "2026-10-27T20:37:56.128483+08:00",
+  "sourceRecheck": {
+    "checked": 46,
+    "passed": 46,
+    "results": [
+      {
+        "group": "hks",
+        "title": "蔡天鳳案警員描述搜查龍尾村單位",
+        "url": "https://www.hk01.com/article/60404129",
+        "status": 200,
+        "bytes": 526867,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hks",
+        "title": "天水圍男子持肉刀襲擊前女友新歡",
+        "url": "https://www.hk01.com/article/60404136",
+        "status": 200,
+        "bytes": 498087,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hks",
+        "title": "外賣員工傷索償與戶戶送僱傭關係爭議押後判",
+        "url": "https://www.hk01.com/article/60404200",
+        "status": 200,
+        "bytes": 509993,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hks",
+        "title": "房署主任認公職人員行為失當下月判刑",
+        "url": "https://www.hk01.com/article/60404199",
+        "status": 200,
+        "bytes": 486796,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hks",
+        "title": "海關東南水域檢約223萬支疑私煙拘兩人",
+        "url": "https://www.hk01.com/article/60404193",
+        "status": 200,
+        "bytes": 492377,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hks",
+        "title": "紅磡私家車疑展示經修改逾期殘疾泊車證",
+        "url": "https://www.hk01.com/article/60404066",
+        "status": 200,
+        "bytes": 485959,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hks",
+        "title": "元朗區議員非法性交罪成押後判刑",
+        "url": "https://www.hk01.com/article/60404016",
+        "status": 200,
+        "bytes": 510276,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hks",
+        "title": "元朗二手店試身室上方鏡頭引私隱爭議",
+        "url": "https://www.dimsumdaily.hk/cctv-above-fitting-room-at-yuen-long-2nd-street-store-triggers-privacy-alarm/",
+        "status": 200,
+        "bytes": 504928,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "hkl",
+        "title": "筲箕灣爆水管水車及水箱陸續支援",
+        "url": "https://www.hk01.com/article/60404186",
+        "status": 200,
+        "bytes": 548970,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hkl",
+        "title": "藍田站起火初查指電纜絕緣問題",
+        "url": "https://www.hk01.com/article/60403939",
+        "status": 200,
+        "bytes": 504646,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hkl",
+        "title": "調查指近三成SEN學童曾有自傷行為",
+        "url": "https://www.hk01.com/article/60403993",
+        "status": 200,
+        "bytes": 496659,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hkl",
+        "title": "山頂光影匯優化方案擬下月交區議會",
+        "url": "https://www.hk01.com/article/60404072",
+        "status": 200,
+        "bytes": 512668,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hkl",
+        "title": "樹仁大學歷史博物館開幕供公眾預約",
+        "url": "https://www.hk01.com/article/60404157",
+        "status": 200,
+        "bytes": 515118,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hkl",
+        "title": "中大文物館53組清代畫琺瑯首次赴英展出",
+        "url": "https://www.hk01.com/article/60403907",
+        "status": 200,
+        "bytes": 514699,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hkl",
+        "title": "下周東北季候風增強市區最低料約22度",
+        "url": "https://www.dimsumdaily.hk/hong-kong-to-cool-to-22c-as-strong-northeast-monsoon-arrives-next-week/",
+        "status": 200,
+        "bytes": 504869,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "hkl",
+        "title": "華富邨商場保育方案擬設歷史館與社福設施",
+        "url": "https://thecollectivehk.com/%e8%8f%af%e5%af%8c%e9%82%a8%e9%87%8d%e5%bb%ba%ef%bd%9c%e4%bf%9d%e8%82%b2%e8%8f%af%e5%af%8c%ef%bc%88%e4%b8%80%ef%bc%89%e5%95%86%e5%a0%b4%e3%80%80%e6%8f%90%e4%be%9b%e7%a4%be%e7%a6%8f%e8%a8%ad%e6%96%bd/",
+        "status": 200,
+        "bytes": 125038,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "hke",
+        "title": "滙控第三季稅前利潤升近32%　啟動最多10億美元回購",
+        "url": "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/516883/%E6%BB%99%E6%8E%A7%E5%95%9F%E5%8B%9510%E5%84%84%E7%BE%8E%E5%85%83%E5%9B%9E%E8%B3%BC-%E4%B8%8A%E5%AD%A3%E5%A4%9A%E8%B3%BA%E9%80%BE%E4%B8%89%E6%88%90-%E9%A0%90%E6%9C%9F%E4%BF%A1%E8%B2%B8",
+        "status": 200,
+        "bytes": 184100,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "hke",
+        "title": "信義汽車玻璃傳擬明年來港上市　集資或達60至70億美元",
+        "url": "https://www.dimsumdaily.hk/xinyi-auto-glass-arm-eyes-us6-billion-to-us7-billion-ipo/",
+        "status": 200,
+        "bytes": 504478,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "hke",
+        "title": "紅磡瑅海首張價單涉91伙　折實均價每呎18,588元",
+        "url": "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/517063/%E7%B4%85%E7%A3%A1%E7%91%85%E6%B5%B7%E9%A6%96%E6%89%B991%E4%BC%99-%E6%8A%98%E5%AF%A6%E5%9D%87%E5%83%B918588%E5%85%83",
+        "status": 200,
+        "bytes": 182840,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "hkp",
+        "title": "立法會議員本月加薪1.6%　基本月薪突破11萬元",
+        "url": "https://www.hk01.com/政情/60403911/立法會議員加人工1-6-月薪突破11萬元-每年額外200萬公帑開支",
+        "status": 200,
+        "bytes": 487298,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "hkp",
+        "title": "新田科技城三項工程申請271億元撥款　議員關注財赤",
+        "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/517001/%E6%96%B0%E7%94%B0%E7%A7%91%E6%8A%80%E5%9F%8E-%E7%99%BC%E5%B1%95%E5%B1%80%E7%94%B3271%E5%84%84-%E8%AD%B0%E5%93%A1%E6%86%82%E8%B2%A1%E8%B5%A4%E4%B8%8B%E9%9B%A3%E6%87%89%E4%BB%98",
+        "status": 200,
+        "bytes": 184822,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "hkp",
+        "title": "狄志遠促宏福苑火災問責涵蓋司局長級別",
+        "url": "https://www.hk01.com/政情/60404203/狄志遠-宏福火問責不涉司局長難服眾-制度倘發揮不到作用如虛設",
+        "status": 200,
+        "bytes": 550485,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "cn",
+        "title": "中證監退休高官王會民受賄逾4.36億元一審判死緩",
+        "url": "https://www.zaobao.com.sg/news/china/story20261027-9903198",
+        "status": 200,
+        "bytes": 178758,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "cn",
+        "title": "中國家庭趁金價回落增購黃金",
+        "url": "https://www.zaobao.com.sg/news/china/story20261027-9903165",
+        "status": 200,
+        "bytes": 178598,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "cn",
+        "title": "DHL稱中國AI硬件運輸需求推高國際空運費",
+        "url": "https://www.zaobao.com.sg/news/china/story20261027-9902858",
+        "status": 200,
+        "bytes": 174319,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "cn",
+        "title": "中國地方『70後』幹部晉升受關注",
+        "url": "https://www.zaobao.com.sg/news/china/story20261027-9901161",
+        "status": 200,
+        "bytes": 192847,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "cn",
+        "title": "阿里巴巴取得美國法院初步禁令 涉軍名單部分限制暫停",
+        "url": "https://www.zaobao.com.sg/news/china/story20261027-9900936",
+        "status": 200,
+        "bytes": 169583,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "cn",
+        "title": "江蘇患者家屬質疑醫生以AI查詢後開降血壓藥",
+        "url": "https://www.hk01.com/article/60403987",
+        "status": 200,
+        "bytes": 492240,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "cn",
+        "title": "北京經哥本哈根飛冰島定期客運航線開通",
+        "url": "https://www.hk01.com/article/60404050",
+        "status": 200,
+        "bytes": 498608,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "cn",
+        "title": "中國車企歐洲季度銷量據報首次超過日本車企",
+        "url": "https://www.hk01.com/article/60403946",
+        "status": 200,
+        "bytes": 496372,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "us",
+        "title": "美軍禁比亞迪車輛進入沖繩嘉手納基地",
+        "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+        "status": 200,
+        "bytes": 334377,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "us",
+        "title": "美司法部擬再控前FBI局長柯米　律師指已過追訴期",
+        "url": "https://www.worldjournal.com/wj/story/121469/9838847",
+        "status": 200,
+        "bytes": 149961,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "us",
+        "title": "聯儲局開會前市場料利率不變　焦點轉向後續路徑",
+        "url": "https://www.news4jax.com/news/politics/2026/10/27/5-things-to-watch-from-the-federal-reserves-next-meeting/",
+        "status": 200,
+        "bytes": 455028,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "tw",
+        "title": "台北市長選舉抽籤　蔣萬安5號沈伯洋3號",
+        "url": "https://udn.com/news/story/124652/9838859",
+        "status": 200,
+        "bytes": 193960,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "tw",
+        "title": "河口湖台女遇害案　丈夫涉買凶詐保被拘提",
+        "url": "https://news.nextapple.com/local/20261027/DF5C1D34FA565A5771F7B1C705A1C2CF",
+        "status": 200,
+        "bytes": 135447,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "tw",
+        "title": "煙花颱風路徑預測分歧　台灣仍須留意",
+        "url": "https://news.nextapple.com/life/20261027/4EBEECB7654EC52A793EF67EBECE2EC3",
+        "status": 200,
+        "bytes": 124156,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "war",
+        "title": "沙特聯軍稱攔截胡塞武裝導彈及無人機",
+        "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones",
+        "status": 200,
+        "bytes": 217979,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "war",
+        "title": "科威特法院判三人死刑　涉伊朗相關刺殺陰謀",
+        "url": "https://www.iranintl.com/en/202610271797",
+        "status": 200,
+        "bytes": 309050,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "war",
+        "title": "伊朗官員警告經濟若收縮　今年或失140萬職位",
+        "url": "https://www.iranintl.com/en/202610276580",
+        "status": 200,
+        "bytes": 328978,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "ai",
+        "title": "路透社（93-5 The Lloyd 轉載）— Nvidia 投資 Meta 30 億美元",
+        "url": "https://935thelloyd.com/2026/10/27/nvidia-meta-partner-on-muse-agent-as-nvidia-invests-3-billion/",
+        "status": 200,
+        "bytes": 89456,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "ai",
+        "title": "有線新聞 — Meta 擬配股集資最多 950 億美元",
+        "url": "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/516796/meta%E6%93%AC%E9%85%8D%E8%82%A1%E9%9B%86%E8%B3%87%E6%9C%80%E5%A4%9A950%E5%84%84%E7%BE%8E%E5%85%83%E6%8B%93ai%E5%9F%BA%E5%BB%BA",
+        "status": 200,
+        "bytes": 182729,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "ai",
+        "title": "衛報 — 英國 AI 數據中心政策接觸 137 間企業",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+        "status": 200,
+        "bytes": 408624,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "ai",
+        "title": "衛報 — 中國 AI 投資熱降溫與股市跌勢",
+        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+        "status": 200,
+        "bytes": 337107,
+        "contentType": "text/html; charset=UTF-8",
+        "ok": true
+      },
+      {
+        "group": "warb",
+        "title": "半島電視台 — 沙特聯軍稱攔截導彈及無人機",
+        "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones",
+        "status": 200,
+        "bytes": 217979,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "warb",
+        "title": "伊朗國際 — 科威特法院判刺殺陰謀案",
+        "url": "https://www.iranintl.com/en/202610271797",
+        "status": 200,
+        "bytes": 309050,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      },
+      {
+        "group": "warb",
+        "title": "伊朗國際 — 伊朗勞工部官員談失業風險",
+        "url": "https://www.iranintl.com/en/202610276580",
+        "status": 200,
+        "bytes": 328978,
+        "contentType": "text/html; charset=utf-8",
+        "ok": true
+      }
+    ]
+  },
+  "articleAndOgImageAudits": {
+    "hkGeneral": {
+      "checkedAt": "2026-10-27T20:28:53.239087+08:00",
+      "items": [
+        {
+          "url": "https://www.hk01.com/article/60404129",
+          "http": 200,
+          "title": "蔡天鳳案｜警員披露進入龍尾村單位情況　浴室桶內有人體組織漂浮",
+          "publishedRaw": "2026-10-27T17:09:13+08:00",
+          "modifiedRaw": "2026-10-27T19:29:14+08:00",
+          "publishedHKT": "2026-10-27 17:09:13",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191811992986324992685013.jpeg/QpYYs_v4JHjP7UCv9sct0AwyxLf4yRw6BRbB4wUWweM",
+          "description": "名媛蔡天鳳（Abby Choi）涉遭前夫鄺港智三父子謀殺肢解案（HCCC 198/2025）今（27日）在高等法院續審，其中一名率先進入龍尾村單位的警員作供，並提及他們在單位的發現。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 207414,
+            "dimensions": [
+              1200,
+              675
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60404136",
+          "http": 200,
+          "title": "天眼｜天水圍男奪豬肉刀打前女友新歡　肉檔職員急勸：兄弟放低刀",
+          "publishedRaw": "2026-10-27T18:44:55+08:00",
+          "modifiedRaw": "2026-10-27T18:44:55+08:00",
+          "publishedHKT": "2026-10-27 18:44:55",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191834384844460032726349.jpeg/ctX4tymN1nWE6Wkzaa-J9R-Lm8PPCXHv7d538e3ed_E",
+          "description": "天水圍發生男子持刀施襲的驚險案件。《香港01》接獲讀者提供閉路電視影片，顯示昨午（26日）約4時半，一名頭戴鴨舌帽的男子在天水圍俊宏廣場對開一肉檔，突然奪去豬肉刀拍打另一名男子，嚇得肉檔職員連忙勸告「兄弟你放低把刀喇！」被打的男子趁戴帽男手中利刀跌下，慌忙逃走。據了解，施襲者的前女友，現時正與遇襲男子交往；他除用刀拍打該名新歡外，亦在附近用手襲擊前女友。警方正追緝涉嫌施襲的男子歸案。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 165080,
+            "dimensions": [
+              1200,
+              675
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60404200",
+          "http": 200,
+          "title": "外賣員遇意外頭部重創索工傷賠償　戶戶送稱非僱傭關係　官押後判",
+          "publishedRaw": "2026-10-27T19:15:23+08:00",
+          "modifiedRaw": "2026-10-27T20:06:31+08:00",
+          "publishedHKT": "2026-10-27 19:15:23",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191843758258262016372918.jpeg/LyQCoJb7KCU9fGCmnqezP9Wqzb5CrJ2ND7dwSA-3cEg",
+          "description": "外賣平台戶戶送（Deliveroo）的一名外賣員，在送餐時遭遇意外，頭部重創，顱骨及右腦受傷，需留醫5個月，左邊身體及活動能力受傷。該外賣員在兩年前入稟區域法院，要求戶戶送作工傷賠償，戶戶送卻指平台與外賣員並無僱傭關係。法庭今（27日）就「剔除經修訂之僱員補償申請」展開聆訊。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 252447,
+            "dimensions": [
+              1200,
+              675
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60404199",
+          "http": 200,
+          "title": "房署主任認公職人員行為失當　訛稱批准加戶申請等　11.10判刑",
+          "publishedRaw": "2026-10-27T20:04:06+08:00",
+          "modifiedRaw": "2026-10-27T20:04:24+08:00",
+          "publishedHKT": "2026-10-27 20:04:06",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191745186745552896641723.jpeg/YbVyHwuJDucLe8eQd4TsCcWRGC9j40kq_F0LsfxdC7E?v=w1280r16_9",
+          "description": "廉署早前起訴36歲房屋署房屋事務主任吳明儀，指她分別向兩名申請者訛稱房署批出其公屋住戶增加家庭成員申請及舉辦社區活動的申請。其行為可致使加戶申請人因未經許可遷入單位及沒有支付應繳的額外租金，而面臨被房署懲罰的風險；而有關非政府機構亦可能因此無法獲房署發還活動開支。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 186287,
+            "dimensions": [
+              1280,
+              720
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60404193",
+          "http": 200,
+          "title": "海關東南水域追截大馬力快艇　檢$1000萬私煙拘兩內地漢",
+          "publishedRaw": "2026-10-27T19:23:49+08:00",
+          "modifiedRaw": "2026-10-27T19:23:49+08:00",
+          "publishedHKT": "2026-10-27 19:23:49",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191826525725396992596724.jpeg/-dOoOuJfP95EWVUOlrFmG3Lu13TBrHC1vawc4L2sHOA?v=w1280r16_9",
+          "description": "海關今日（27日）清晨展開執法行動，打擊海路走私私煙活動，在香港東南面水域偵破一宗涉嫌利用大馬力快艇走私的案件，檢獲約223萬支懷疑私煙，估計市值約1,000萬元，應課稅值約737萬元。關員拘捕船上兩名內地男子，並檢取一艘配備3個舷外引擎的大馬力快艇。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 283333,
+            "dimensions": [
+              1280,
+              720
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60404066",
+          "http": 200,
+          "title": "紅磡私家車疑掛經修改逾期殘疾泊車證　32歲司機涉行使假文書被捕",
+          "publishedRaw": "2026-10-27T15:36:20+08:00",
+          "modifiedRaw": "2026-10-27T15:36:20+08:00",
+          "publishedHKT": "2026-10-27 15:36:20",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191772793918722048691820.jpeg/lOmtPwdyrKHKfsaEyyJEJXWT_3UruiPsPDl9wzw5fcM?v=w1280r16_9",
+          "description": "紅磡發生涉嫌行使虛假文書案。今日（27日）早上8時10分，警方接獲途人報案，指發現一輛私家車停泊於紅磡民泰街，車上懷疑掛有虛假的泊車證明書。據悉，有關文件為「司機接載行動不便的殘疾人士泊車證明書」（俗稱灰證），事發位置屬殘疾人士專用泊車位。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 251916,
+            "dimensions": [
+              1280,
+              720
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60404016",
+          "http": 200,
+          "title": "區議員施駿興非法性交罪成　求情指和事主性交後更甜蜜　官押後判",
+          "publishedRaw": "2026-10-27T14:47:57+08:00",
+          "modifiedRaw": "2026-10-27T15:18:49+08:00",
+          "publishedHKT": "2026-10-27 14:47:57",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191771154092658688185972.jpeg/Q2MS8bSpr1d_k6NmgMysoz-2UltCHCZZhywQkocsEJI",
+          "description": "元朗區議員施駿興涉於16年前，與一名女童成為情侶後與其非法性交，被裁定一項「與年齡在 16 歲以下的女童非法性交罪」罪成，案件（DCCC907/2024）今（27日）在區域法院進行求情。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 160760,
+            "dimensions": [
+              1200,
+              675
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.dimsumdaily.hk/cctv-above-fitting-room-at-yuen-long-2nd-street-store-triggers-privacy-alarm/",
+          "http": 200,
+          "title": "CCTV above fitting room at Yuen Long 2nd STREET store triggers privacy alarm",
+          "publishedRaw": "2026-10-27T09:01:54+00:00",
+          "modifiedRaw": "2026-10-27T09:01:56+00:00",
+          "publishedHKT": "2026-10-27 17:01:54",
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/27170024/2nd-Street-Yoho.jpg",
+          "description": "A shopper’s post about a dome camera positioned above a fitting room at a Yuen Long branch of Japanese resale chain 2nd Street has sparked online backlash and reminders of Hong Kong privacy guidance barring surveillance in high‑privacy areas.",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 74319,
+            "dimensions": [
+              1190,
+              924
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60404186",
+          "http": 200,
+          "title": "筲箕灣爆水管｜水務署：陸續派逾10水車100水箱　為安老院等送水",
+          "publishedRaw": "2026-10-27T18:39:38+08:00",
+          "modifiedRaw": "2026-10-27T19:55:16+08:00",
+          "publishedHKT": "2026-10-27 18:39:38",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191820748117774336275689.jpeg/-SInHd7rA2mhVLugPe5GGbO0KvFBP3X4XNI4QVzSOEE?v=w1280r16_9",
+          "description": "今早（27日）10時許，筲箕灣道潤民商業中心對開路面一個恆常路面維修地盤，有路政署承建商工人疑意外鑿穿一條直徑18吋的鑄鐵喉管，導致大量黃泥水瞬間自地底湧出，事件影響筲箕灣一帶逾1萬戶，包括老人院。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 201550,
+            "dimensions": [
+              1280,
+              720
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60403939",
+          "http": 200,
+          "title": "藍田站起火｜港鐵被罰錢推車費優惠料半價　揭絕緣膠失效電纜過熱",
+          "publishedRaw": "2026-10-27T11:34:02+08:00",
+          "modifiedRaw": "2026-10-27T11:48:33+08:00",
+          "publishedHKT": "2026-10-27 11:34:02",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261014/1187010687600168960573082.jpeg/PINt9Q6dSlVaZVxGrACvFWlukyFuy4Vqo95AM6PeQDM?v=w1280r16_9",
+          "description": "港鐵藍田站本月連續兩日起火事故。運輸及物流局和港鐵今日（27日）向立法會提交文件，交代初步調查發現涉及絕緣膠失效導致短路，以及電纜過熱冒煙問題。兩宗事故均在繁忙時間令列車服務延誤，港鐵須按機制罰款，在繁忙時間提供額外車費回贈的「特別車費日」。參照上周六（24日）的「特別車費日」，料新一輪車費優惠達半價。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 228752,
+            "dimensions": [
+              1280,
+              720
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60403993",
+          "http": 200,
+          "title": "調查：29%SEN學童曾有自傷行為　浸大推App助家長應對負面情緒",
+          "publishedRaw": "2026-10-27T13:13:17+08:00",
+          "modifiedRaw": "2026-10-27T13:13:51+08:00",
+          "publishedHKT": "2026-10-27 13:13:17",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191735390646571008816097.jpeg/gNO8tcjTeZmPh2axOsRgfuQ4YlEuqP5rBl-gNiNfoDY?v=w1280r16_9",
+          "description": "近年社會愈來愈關注SEN學童需要，協康會與浸會大學今（27日）公布「SEN學童自傷警報調查」研究結果，當中29%學生曾出現自傷行為，而家長的心理健康及幸福感，是保護兒童的重要因素。浸大指，將於下年初推出「心晴伴遊」手機應用程序，以家長經常面對的七大負面情緒，提供專業心理教育、應對策略及放鬆練習。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 195705,
+            "dimensions": [
+              1280,
+              720
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60404072",
+          "http": 200,
+          "title": "山頂光影匯｜旅遊事務專員偕區議員再視察　優化方案下月交區會",
+          "publishedRaw": "2026-10-27T17:34:32+08:00",
+          "modifiedRaw": "2026-10-27T19:46:46+08:00",
+          "publishedHKT": "2026-10-27 17:34:32",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191799765969408000653748.jpeg/AJI6GCID1LBGFIJazJbi1kcTJXKIG-2j3pdh9d6XYfU?v=w1280r16_9",
+          "description": "旅遊事務專員陳慧欣今日（27日）聯同旅遊發展局代表與十多位中西區區議會的議員到山頂盧吉道及夏力道，實地視察旅發局為光影匯項目進行的裝置工程。有出席的中西區區議員陳建強指，旅遊事務專員和議員實地視察後也對社會意見有同感，認為可做得更美觀，又透露政府明日（28日）將向區議會提交文件。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 221928,
+            "dimensions": [
+              1280,
+              720
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60404157",
+          "http": 200,
+          "title": "樹仁大學歷史博物館開幕　公眾可預約參觀珍貴展品中見證校史",
+          "publishedRaw": "2026-10-27T18:00:36+08:00",
+          "modifiedRaw": "2026-10-27T18:00:53+08:00",
+          "publishedHKT": "2026-10-27 18:00:36",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191802308300640256036895.jpeg/zN9kGjymr-j_kZl_6ygSGxS5mjQ_JLZvwTYzi8E2M4s?v=w1280r16_9",
+          "description": "樹仁大學歷史博物館今日（10月27日）開幕，公眾人士可於10月28日起，透過大學網上預約系統預約參觀。展覽主要透過仁大兩位創辦人鍾期榮與胡鴻烈的個人物件、服飾、證件、歷史文獻、照片及昔日校園用品等逾100件展品，回顧仁大由理念孕育、建校發展至成為私立大學的歷史脈絡。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 154975,
+            "dimensions": [
+              1280,
+              720
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.hk01.com/article/60403907",
+          "http": 200,
+          "title": "中大文物館53組清代畫琺瑯首度赴英　聯乘劍橋展出乾隆珍品免費賞",
+          "publishedRaw": "2026-10-27T16:18:51+08:00",
+          "modifiedRaw": "2026-10-27T16:24:53+08:00",
+          "publishedHKT": "2026-10-27 16:18:51",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191729211337871360657820.jpeg/wNeY21gzkypgi3fLa8sgooRNQHBoXZMb7v0N2-79Dds?v=w1280r16_9",
+          "description": "中文大學文物館首度與英國劍橋大學費茲威廉博物館（The Fitzwilliam Museum）攜手合作，在英國劍橋推出全新跨文化交流展覽「畫琺瑯的革命：中國與世界（An Enamel Revolution: China and the World）」。展覽獲香港文化體育及旅遊局支持，合共展出89組珍貴文物，當中中大文物館借出53組畫琺瑯館藏，屬該批藏品歷來首次在英國公開亮相；同場並展出36組費茲威廉博物館藏品，免費開放予公眾參觀。",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 196918,
+            "dimensions": [
+              1200,
+              675
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://www.dimsumdaily.hk/hong-kong-to-cool-to-22c-as-strong-northeast-monsoon-arrives-next-week/",
+          "http": 200,
+          "title": "Hong Kong to cool to 22°C as strong northeast monsoon arrives next week",
+          "publishedRaw": "2026-10-27T10:02:05+00:00",
+          "modifiedRaw": "2026-10-27T10:02:07+00:00",
+          "publishedHKT": "2026-10-27 18:02:05",
+          "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/27180030/HK-Crowd-2-322.webp",
+          "description": "Following a record‑breaking spell of heat during the solar term known as Frost’s Descent, the Hong Kong Observatory says a strong surge of the northeast monsoon is expected to reach the South China coast in the middle of next week",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/webp",
+            "bytes": 454558,
+            "dimensions": [
+              1266,
+              988
+            ],
+            "decoded": true
+          }
+        },
+        {
+          "url": "https://thecollectivehk.com/%e8%8f%af%e5%af%8c%e9%82%a8%e9%87%8d%e5%bb%ba%ef%bd%9c%e4%bf%9d%e8%82%b2%e8%8f%af%e5%af%8c%ef%bc%88%e4%b8%80%ef%bc%89%e5%95%86%e5%a0%b4%e3%80%80%e6%8f%90%e4%be%9b%e7%a4%be%e7%a6%8f%e8%a8%ad%e6%96%bd/",
+          "http": 200,
+          "title": "華富邨重建｜保育華富（一）商場　提供社福設施、華富歷史館等　商會主席：不等於保育商舖 - 集誌社",
+          "publishedRaw": "2026-10-27T19:58:01+08:00",
+          "modifiedRaw": "2026-10-27T20:06:08+08:00",
+          "publishedHKT": "2026-10-27 19:58:01",
+          "ogImage": "https://thecollectivehk.com/wp-content/uploads/2026/10/0N5A5611-2-scaled-e1793102484928.jpg",
+          "description": "華富邨重建即將展開，華安樓及華樂樓將先於明年第三季清拆。房屋署向南區區議會提交文件指，新華富邨第一期擬建三座 26 至 48 層的住宅大樓，提供約 1,760 單位及社福設施，安置第三期的華翠樓及華景樓居民，料 2034 年遷入。根據以往時間表，華富（一）商場被劃為第二期重建範圍、料於 2030 至 2031",
+          "imageGet": {
+            "http": 200,
+            "mime": "image/jpeg",
+            "bytes": 138870,
+            "dimensions": [
+              1200,
+              630
+            ],
+            "decoded": true
+          }
+        }
+      ],
+      "threads": {
+        "searchedQueries": [
+          "site:threads.com 筲箕灣 爆水管 27/10/2026 目擊",
+          "site:threads.com 元朗 2nd street 更衣室 閉路電視 2026",
+          "site:threads.com 華富邨 商場 保育 重建 2026 10月",
+          "site:threads.net 筲箕灣 水管 今日 2026 10 27",
+          "site:threads.net 元朗 2nd street 試身室 鏡頭 10月27日",
+          "site:threads.com 香港 泊車證 紅磡 10月27日"
+        ],
+        "qualified": {
+          "hks": 0,
+          "hkl": 0
+        },
+        "target": {
+          "hks": 4,
+          "hkl": 4
+        },
+        "gap": {
+          "hks": 4,
+          "hkl": 4
+        },
+        "note": "搜尋冇返合資格可核實散戶原帖；未以媒體帖或轉載湊數。"
+      },
+      "editorialNotes": [
+        "蔡天鳳案：26日晚報化驗師證供與27日晚報現場警員證供屬同案不同新證供，保留實質新進展。",
+        "華富邨：26日晚報講首期遷置及時間表；27日晚報聚焦華富（一）商場保育及原商戶能否留低，保留新角度。",
+        "天氣：27日午報談11月2日約31度；27日晚報談下周中東北季候風後約22度，時段不同。",
+        "筲箕灣爆水管各版本只留18:39水車水箱支援新消息一張；無重複入卡。"
+      ]
+    },
+    "hkSpecial": {
+      "edition": "2026-10-27 pm",
+      "checkedAtHKT": "2026-10-27T20:32:25+08:00",
+      "sourceMethod": "逐篇 HTTP GET 原文 HTML，核對 article:published_time 與 og:image；i-CABLE／Dimsum WP REST 額外讀取正文。六張卡圖片各自 HTTP GET、Pillow 完整 load。",
+      "cards": [
+        {
+          "group": "hke",
+          "index": 0,
+          "sourceStatus": 200,
+          "originalPublished": "2026-10-27T05:24:35+00:00",
+          "publishedHKT": "2026-10-27 13:24:35",
+          "ogImageExactMatch": true,
+          "image": {
+            "status": 200,
+            "mime": "image/jpeg",
+            "bytes": 61972,
+            "format": "JPEG",
+            "size": "930x522",
+            "fullyDecoded": true
+          },
+          "amDuplicate": false
+        },
+        {
+          "group": "hke",
+          "index": 1,
+          "sourceStatus": 200,
+          "originalPublished": "2026-10-27T05:12:20+00:00",
+          "publishedHKT": "2026-10-27 13:12:20",
+          "ogImageExactMatch": true,
+          "image": {
+            "status": 200,
+            "mime": "image/webp",
+            "bytes": 197740,
+            "format": "WEBP",
+            "size": "1170x928",
+            "fullyDecoded": true
+          },
+          "amDuplicate": false,
+          "attribution": "IFR 知情人士集資估算，尚未定案"
+        },
+        {
+          "group": "hke",
+          "index": 2,
+          "sourceStatus": 200,
+          "originalPublished": "2026-10-27T10:01:25+00:00",
+          "publishedHKT": "2026-10-27 18:01:25",
+          "ogImageExactMatch": true,
+          "image": {
+            "status": 200,
+            "mime": "image/jpeg",
+            "bytes": 193805,
+            "format": "JPEG",
+            "size": "1920x1080",
+            "fullyDecoded": true
+          },
+          "amDuplicate": false,
+          "attribution": "價單非成交"
+        },
+        {
+          "group": "hkp",
+          "index": 0,
+          "sourceStatus": 200,
+          "originalPublished": "2026-10-27T11:15:17+08:00",
+          "publishedHKT": "2026-10-27 11:15:17",
+          "ogImageExactMatch": true,
+          "image": {
+            "status": 200,
+            "mime": "image/jpeg",
+            "bytes": 215329,
+            "format": "JPEG",
+            "size": "1200x675",
+            "fullyDecoded": true
+          },
+          "amDuplicate": false
+        },
+        {
+          "group": "hkp",
+          "index": 1,
+          "sourceStatus": 200,
+          "originalPublished": "2026-10-27T09:10:16+00:00",
+          "publishedHKT": "2026-10-27 17:10:16",
+          "ogImageExactMatch": true,
+          "image": {
+            "status": 200,
+            "mime": "image/jpeg",
+            "bytes": 303196,
+            "format": "JPEG",
+            "size": "1920x1080",
+            "fullyDecoded": true
+          },
+          "amDuplicate": false
+        },
+        {
+          "group": "hkp",
+          "index": 2,
+          "sourceStatus": 200,
+          "originalPublished": "2026-10-27T19:12:28+08:00",
+          "publishedHKT": "2026-10-27 19:12:28",
+          "ogImageExactMatch": true,
+          "image": {
+            "status": 200,
+            "mime": "image/jpeg",
+            "bytes": 119397,
+            "format": "JPEG",
+            "size": "1280x720",
+            "fullyDecoded": true
+          },
+          "amDuplicate": false,
+          "attribution": "狄志遠政治問責主張，非調查報告結論"
+        }
+      ],
+      "brief": {
+        "sourceCount": 4,
+        "newsMediaCount": 3,
+        "bodyLengthOver200": true,
+        "sources": [
+          {
+            "name": "Axios",
+            "publishedHKT": "2026-10-27 17:23:01",
+            "verification": "Web search news timestamp and accessible Web article body; direct HTML GET 403; no Axios image used"
+          },
+          {
+            "name": "有線新聞",
+            "originalPublished": "2026-10-27T02:36:49+00:00",
+            "publishedHKT": "2026-10-27 10:36:49",
+            "verification": "HTML GET 200, title/content/date read"
+          },
+          {
+            "name": "衛報 英國數據中心",
+            "originalPublished": "2026-10-27T07:00:04Z",
+            "publishedHKT": "2026-10-27 15:00:04",
+            "verification": "HTML GET 200, article body read; cover og:image exact match",
+            "cover": {
+              "status": 200,
+              "mime": "image/jpeg",
+              "bytes": 130837,
+              "format": "JPEG",
+              "size": "1200x630",
+              "fullyDecoded": true
+            }
+          },
+          {
+            "name": "衛報 中國 AI 市場",
+            "originalPublished": "2026-10-27T04:42:50Z",
+            "publishedHKT": "2026-10-27 12:42:50",
+            "verification": "HTML GET 200, article body read"
+          }
+        ]
+      },
+      "socialTarget": {
+        "hke": {
+          "adopted": 0,
+          "target": 2,
+          "shortfall": 2
+        },
+        "hkp": {
+          "adopted": 0,
+          "target": 2,
+          "shortfall": 2
+        },
+        "ai": {
+          "adopted": 0,
+          "target": 2,
+          "shortfall": 2
+        },
+        "attempts": [
+          "site:threads.com/@ 香港 10月27 立法會議員 薪酬 1.6%",
+          "site:threads.com/@ 香港 10月27 新田科技城 271億",
+          "site:threads.com/@ 香港 10月27 瑅海 91伙",
+          "site:threads.com/@ 香港 10月27 滙豐 盈利 回購",
+          "site:threads.net 香港 經濟 滙豐 10月27日",
+          "site:threads.com 香港 北都 27 October 2026"
+        ],
+        "exclusions": [
+          "搜尋未找出可核對首發時間、身份、原文 og:image 的散戶第一手原帖。",
+          "其他代理提供 25 Oct 個人買金舊帖，未有 27 Oct 時窗內首次披露或核實此帖的新報道，不符舊帖例外。"
+        ]
+      },
+      "dedup": {
+        "againstAM": "已逐題核對 data/2026-10-27.json am hks/hkl/hke/hkp；六卡均與早版題材及新事實有別。",
+        "withinGroup": "六卡事件各異。hke 滙控盈利／信義玻璃 IPO／紅磡新盤；hkp 議員薪酬／新田科技城撥款／宏福苑問責意見。",
+        "crossGroupCaution": "其餘香港一般組若選宏福苑或新田科技城報道，主編應核對是否同一單事；若無實質新進展只留一條。"
+      },
+      "limits": "已逐圖核對原文 og:image 字串、HTTP 狀態與完整解碼；圖片像素未經人工逐張目視比對，主編發布前仍須完成目視檢查。"
+    },
+    "china": {
+      "checkedAtUTC": "2026-10-27T12:30:43.225746+00:00",
+      "group": "cn",
+      "count": 8,
+      "windowHKT": [
+        "2026-10-27 09:00:00",
+        "2026-10-27 21:55:00"
+      ],
+      "rows": [
+        {
+          "title": "中證監退休高官王會民受賄逾4.36億元一審判死緩",
+          "url": "https://www.zaobao.com.sg/news/china/story20261027-9903198",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T17:28:45+08:00",
+          "originalModified": "2026-10-27T17:28:47+08:00",
+          "candidatePublishedHKT": "2026-10-27 17:28:45",
+          "candidateModifiedHKT": "2026-10-27 17:28:47",
+          "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/99b1696f1a8476d665f48422437aca7b79409fc4e04ea37ec480bab98dc1bbc4",
+          "exactOgMatch": true,
+          "imageHTTP": 200,
+          "imageMime": "image/webp",
+          "imageBytes": 86328,
+          "imageFormat": "WEBP",
+          "imageSize": [
+            1023,
+            682
+          ],
+          "fullDecode": true,
+          "sameURLinAM": false,
+          "note": "逐字比對原文 og:image，文章時間與圖片 HTTP200、格式及像素解碼均實查。",
+          "imageVisualMatch": "法庭被告席，與王會民判決報道相符",
+          "fullPixelDecode": true
+        },
+        {
+          "title": "中國家庭趁金價回落增購黃金",
+          "url": "https://www.zaobao.com.sg/news/china/story20261027-9903165",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T17:22:49+08:00",
+          "originalModified": "2026-10-27T17:42:41+08:00",
+          "candidatePublishedHKT": "2026-10-27 17:22:49",
+          "candidateModifiedHKT": "2026-10-27 17:42:41",
+          "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/4e6517ecba94ae03255ed356c7592f522d04f1d70d058c3db45559dc4e4e262f",
+          "exactOgMatch": true,
+          "imageHTTP": 200,
+          "imageMime": "image/webp",
+          "imageBytes": 47156,
+          "imageFormat": "WEBP",
+          "imageSize": [
+            1023,
+            682
+          ],
+          "fullDecode": true,
+          "sameURLinAM": false,
+          "note": "逐字比對原文 og:image，文章時間與圖片 HTTP200、格式及像素解碼均實查。",
+          "imageVisualMatch": "金條特寫，與購金需求題材相符；檔案示意照片",
+          "fullPixelDecode": true
+        },
+        {
+          "title": "DHL稱中國AI硬件運輸需求推高國際空運費",
+          "url": "https://www.zaobao.com.sg/news/china/story20261027-9902858",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T16:41:22+08:00",
+          "originalModified": "2026-10-27T16:53:02+08:00",
+          "candidatePublishedHKT": "2026-10-27 16:41:22",
+          "candidateModifiedHKT": "2026-10-27 16:53:02",
+          "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/b116edafb003a7f607cbbb57553ee3a235df0881bd5d88a82077a57787fff493",
+          "exactOgMatch": true,
+          "imageHTTP": 200,
+          "imageMime": "image/webp",
+          "imageBytes": 101296,
+          "imageFormat": "WEBP",
+          "imageSize": [
+            1023,
+            682
+          ],
+          "fullDecode": true,
+          "sameURLinAM": false,
+          "note": "逐字比對原文 og:image，文章時間與圖片 HTTP200、格式及像素解碼均實查。",
+          "imageVisualMatch": "貨機停機坪，與空運物流題材相符",
+          "fullPixelDecode": true
+        },
+        {
+          "title": "中國地方『70後』幹部晉升受關注",
+          "url": "https://www.zaobao.com.sg/news/china/story20261027-9901161",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T20:10:10+08:00",
+          "originalModified": "2026-10-27T20:10:12+08:00",
+          "candidatePublishedHKT": "2026-10-27 20:10:10",
+          "candidateModifiedHKT": "2026-10-27 20:10:12",
+          "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/d305abe2079f5ba621863057a7921a5e76f35d76f06199aaa92b0dbaf241479d",
+          "exactOgMatch": true,
+          "imageHTTP": 200,
+          "imageMime": "image/webp",
+          "imageBytes": 126522,
+          "imageFormat": "WEBP",
+          "imageSize": [
+            1023,
+            682
+          ],
+          "fullDecode": true,
+          "sameURLinAM": false,
+          "note": "逐字比對原文 og:image，文章時間與圖片 HTTP200、格式及像素解碼均實查。",
+          "imageVisualMatch": "中國街道與人群，與人事分析屬概括性配圖",
+          "fullPixelDecode": true
+        },
+        {
+          "title": "阿里巴巴取得美國法院初步禁令 涉軍名單部分限制暫停",
+          "url": "https://www.zaobao.com.sg/news/china/story20261027-9900936",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T11:59:11+08:00",
+          "originalModified": "2026-10-27T12:13:01+08:00",
+          "candidatePublishedHKT": "2026-10-27 11:59:11",
+          "candidateModifiedHKT": "2026-10-27 12:13:01",
+          "ogImage": "https://cassette.sphdigital.com.sg/image/zaobao/312acef1d14fdc9da73ed92c628ba2885f07e5beb52c5f1d1101908edb914e5d",
+          "exactOgMatch": true,
+          "imageHTTP": 200,
+          "imageMime": "image/webp",
+          "imageBytes": 31532,
+          "imageFormat": "WEBP",
+          "imageSize": [
+            1023,
+            682
+          ],
+          "fullDecode": true,
+          "sameURLinAM": false,
+          "note": "逐字比對原文 og:image，文章時間與圖片 HTTP200、格式及像素解碼均實查。",
+          "imageVisualMatch": "Alibaba 商標，與公司訴訟報道相符",
+          "fullPixelDecode": true
+        },
+        {
+          "title": "江蘇患者家屬質疑醫生以AI查詢後開降血壓藥",
+          "url": "https://www.hk01.com/article/60403987",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T15:26:57+08:00",
+          "originalModified": "2026-10-27T15:27:43+08:00",
+          "candidatePublishedHKT": "2026-10-27 15:26:57",
+          "candidateModifiedHKT": "2026-10-27 15:27:43",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191772533129482240650738.jpeg/nhCf9SiM_Vw3Ku4KLWX0QRHjSULOmMHtF9z0Bxfc9Ac?v=w1280r16_9",
+          "exactOgMatch": true,
+          "imageHTTP": 200,
+          "imageMime": "image/jpeg",
+          "imageBytes": 105464,
+          "imageFormat": "JPEG",
+          "imageSize": [
+            1280,
+            720
+          ],
+          "fullDecode": true,
+          "sameURLinAM": false,
+          "note": "逐字比對原文 og:image，文章時間與圖片 HTTP200、格式及像素解碼均實查。",
+          "imageVisualMatch": "醫生手持手機查詢豆包畫面，與報道相符",
+          "fullPixelDecode": true
+        },
+        {
+          "title": "北京經哥本哈根飛冰島定期客運航線開通",
+          "url": "https://www.hk01.com/article/60404050",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T19:30:10+08:00",
+          "originalModified": "2026-10-27T19:30:10+08:00",
+          "candidatePublishedHKT": "2026-10-27 19:30:10",
+          "candidateModifiedHKT": "2026-10-27 19:30:10",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191767796581666816048129.jpeg/8BXQhl9Mmwb6AaPGRKGt2_lqdXltDs_zP0DEyT9AxMk?v=w1280r16_9",
+          "exactOgMatch": true,
+          "imageHTTP": 200,
+          "imageMime": "image/jpeg",
+          "imageBytes": 85948,
+          "imageFormat": "JPEG",
+          "imageSize": [
+            1280,
+            720
+          ],
+          "fullDecode": true,
+          "sameURLinAM": false,
+          "note": "逐字比對原文 og:image，文章時間與圖片 HTTP200、格式及像素解碼均實查。",
+          "imageVisualMatch": "中國國際航空客機停靠，與新航線報道相符",
+          "fullPixelDecode": true
+        },
+        {
+          "title": "中國車企歐洲季度銷量據報首次超過日本車企",
+          "url": "https://www.hk01.com/article/60403946",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T15:39:34+08:00",
+          "originalModified": "2026-10-27T15:39:34+08:00",
+          "candidatePublishedHKT": "2026-10-27 15:39:34",
+          "candidateModifiedHKT": "2026-10-27 15:39:34",
+          "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191715263968448512658017.jpeg/2RUoJR-5MZDpeb8sz25cKPgFo6UqjHcM97cTUfe3E1E?v=w1280r16_9",
+          "exactOgMatch": true,
+          "imageHTTP": 200,
+          "imageMime": "image/jpeg",
+          "imageBytes": 62241,
+          "imageFormat": "JPEG",
+          "imageSize": [
+            640,
+            360
+          ],
+          "fullDecode": true,
+          "sameURLinAM": false,
+          "note": "逐字比對原文 og:image，文章時間與圖片 HTTP200、格式及像素解碼均實查。",
+          "imageVisualMatch": "汽車裝配廠生產線，與銷量報道相符",
+          "fullPixelDecode": true
+        }
+      ],
+      "social": {
+        "ThreadsFirstHandAdopted": 0,
+        "ThreadsTarget": 4,
+        "ThreadsDeficit": 4,
+        "searches": [
+          "site:threads.com/@ 2026 10 27 中国 金价 4000 买金",
+          "site:threads.com/@ 上海 交警 机器人 2026 10 27",
+          "site:threads.com/@ 江苏 医生 豆包 开药 10月27",
+          "site:threads.com/@ 2026年10月27日 中國",
+          "site:threads.net/@ 上海 10月27日 2026"
+        ],
+        "result": "搜尋結果無可核實散戶一手原帖；未以媒體帳戶或不明發布時間貼文湊數。",
+        "browserSearches": [
+          {
+            "query": "中国 黄金 购买",
+            "mode": "Threads Recent",
+            "observed": "結果混入舊帖、無中國當日買金第一手報道；相關金價評論非實購證據"
+          },
+          {
+            "query": "豆包 开药",
+            "mode": "Threads Top",
+            "observed": "找到 25 Oct 媒體轉述帳戶 @teacherli_snownews，非病人／家屬原帖，原帖時間亦早於窗；未採用"
+          },
+          {
+            "query": "金價 買金",
+            "mode": "Threads Top",
+            "observed": "找到香港個人 25 Oct 買金貼，與中國家庭整體購金報道地域不同；轉告香港組後續核實，未計中國組"
+          }
+        ]
+      },
+      "dedup": {
+        "sameURLinAM": 0,
+        "manual": "八條涉及反腐、黃金、AI運輸、幹部升遷、阿里巴巴訴訟、醫生查AI開藥、冰島航線及歐洲汽車銷量，各有不同事件及新事實；與27日午報中國組8條無同一 URL 或重複事件。跨其他組仍待主編核對。"
+      },
+      "limitations": []
+    },
+    "usTaiwanWar": {
+      "checkedAt": "2026-10-27T20:33:24.256259+08:00",
+      "rows": [
+        {
+          "group": "us",
+          "title": "美軍禁比亞迪車輛進入沖繩嘉手納基地",
+          "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T02:50:31.000Z",
+          "originalModified": "2026-10-27T09:59:57.000Z",
+          "candidatePublishedHKT": "2026-10-27 10:50:31",
+          "candidateModifiedHKT": "2026-10-27 17:59:57",
+          "ogImage": "https://i.guim.co.uk/img/media/9ce436c9418b683f9bbe3e031fa0c07c06401260/504_0_5455_4367/master/5455.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f653511fdeabb503d48359a425878064",
+          "imageHTTP": 200,
+          "imageMIME": "image/jpeg",
+          "imageBytes": 42717,
+          "dimensions": [
+            1200,
+            630
+          ],
+          "decoded": true,
+          "exactOgMatch": true
+        },
+        {
+          "group": "us",
+          "title": "美司法部擬再控前FBI局長柯米　律師指已過追訴期",
+          "url": "https://www.worldjournal.com/wj/story/121469/9838847",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-26T21:10:00-04:00",
+          "originalModified": "2026-10-26T21:21:00-04:00",
+          "candidatePublishedHKT": "2026-10-27 09:10:00",
+          "candidateModifiedHKT": "2026-10-27 09:21:00",
+          "ogImage": "https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35456650.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&sl=W&fw=800&exp=3600",
+          "imageHTTP": 200,
+          "imageMIME": "image/jpeg",
+          "imageBytes": 55912,
+          "dimensions": [
+            799,
+            532
+          ],
+          "decoded": true,
+          "exactOgMatch": true
+        },
+        {
+          "group": "us",
+          "title": "聯儲局開會前市場料利率不變　焦點轉向後續路徑",
+          "url": "https://www.news4jax.com/news/politics/2026/10/27/5-things-to-watch-from-the-federal-reserves-next-meeting/",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T03:57:53Z",
+          "originalModified": "2026-10-27T03:57:54Z",
+          "candidatePublishedHKT": "2026-10-27 11:57:53",
+          "candidateModifiedHKT": "2026-10-27 11:57:54",
+          "ogImage": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/CXK3N3ISHJEEPAAUTLEYV6GOTU.jpg?api_key=news4jax_3f10b25586458189",
+          "imageHTTP": 200,
+          "imageMIME": "image/jpeg",
+          "imageBytes": 38551,
+          "dimensions": [
+            700,
+            467
+          ],
+          "decoded": true,
+          "exactOgMatch": true
+        },
+        {
+          "group": "tw",
+          "title": "台北市長選舉抽籤　蔣萬安5號沈伯洋3號",
+          "url": "https://udn.com/news/story/124652/9838859",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T09:14:06+08:00",
+          "originalModified": "2026-10-27T11:44:04+08:00",
+          "candidatePublishedHKT": "2026-10-27 09:14:06",
+          "candidateModifiedHKT": "2026-10-27 11:44:04",
+          "ogImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/10/27/35456633.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
+          "imageHTTP": 200,
+          "imageMIME": "image/jpeg",
+          "imageBytes": 198117,
+          "dimensions": [
+            1280,
+            853
+          ],
+          "decoded": true,
+          "exactOgMatch": true
+        },
+        {
+          "group": "tw",
+          "title": "河口湖台女遇害案　丈夫涉買凶詐保被拘提",
+          "url": "https://news.nextapple.com/local/20261027/DF5C1D34FA565A5771F7B1C705A1C2CF",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T16:30:00+08:00",
+          "originalModified": "2026-10-27T16:54:25+08:00",
+          "candidatePublishedHKT": "2026-10-27 16:30:00",
+          "candidateModifiedHKT": "2026-10-27 16:54:25",
+          "ogImage": "https://static-cdn.nextapple.tw/prod/2026-10/DF5C1D34FA565A5771F7B1C705A1C2CF/1151c17c1a2eb6661dcbb2caaa7ee97c_1280.jpeg",
+          "imageHTTP": 200,
+          "imageMIME": "image/jpeg",
+          "imageBytes": 128853,
+          "dimensions": [
+            1280,
+            720
+          ],
+          "decoded": true,
+          "exactOgMatch": true
+        },
+        {
+          "group": "tw",
+          "title": "煙花颱風路徑預測分歧　台灣仍須留意",
+          "url": "https://news.nextapple.com/life/20261027/4EBEECB7654EC52A793EF67EBECE2EC3",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T20:06:00+08:00",
+          "originalModified": "2026-10-27T20:07:52+08:00",
+          "candidatePublishedHKT": "2026-10-27 20:06:00",
+          "candidateModifiedHKT": "2026-10-27 20:07:52",
+          "ogImage": "https://static-cdn.nextapple.tw/prod/2026-10/4EBEECB7654EC52A793EF67EBECE2EC3/c70e74ac5d25a0b0326e0564ea919a2c_1280.jpeg",
+          "imageHTTP": 200,
+          "imageMIME": "image/jpeg",
+          "imageBytes": 126888,
+          "dimensions": [
+            1280,
+            720
+          ],
+          "decoded": true,
+          "exactOgMatch": true
+        },
+        {
+          "group": "war",
+          "title": "沙特聯軍稱攔截胡塞武裝導彈及無人機",
+          "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T04:54:26Z",
+          "originalModified": "2026-10-27T07:26:56Z",
+          "candidatePublishedHKT": "2026-10-27 12:54:26",
+          "candidateModifiedHKT": "2026-10-27 15:26:56",
+          "ogImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-09T144448Z_533596701_RC2OZNAIE9JB_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1793084327.jpg?resize=1920%2C1440",
+          "imageHTTP": 200,
+          "imageMIME": "image/jpeg",
+          "imageBytes": 324081,
+          "dimensions": [
+            1920,
+            1440
+          ],
+          "decoded": true,
+          "exactOgMatch": true
+        },
+        {
+          "group": "war",
+          "title": "科威特法院判三人死刑　涉伊朗相關刺殺陰謀",
+          "url": "https://www.iranintl.com/en/202610271797",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T08:38:30.209Z",
+          "originalModified": "2026-10-27T08:48:30Z",
+          "candidatePublishedHKT": "2026-10-27 16:38:30",
+          "candidateModifiedHKT": "2026-10-27 16:48:30",
+          "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/1f825cbd6feee99c7a5631419d04e606ef11b6d4-915x738.jpg?rect=0,129,915,480&w=1200&h=630&q=66&fit=max&auto=format",
+          "imageHTTP": 200,
+          "imageMIME": "image/jpeg",
+          "imageBytes": 68424,
+          "dimensions": [
+            915,
+            480
+          ],
+          "decoded": true,
+          "exactOgMatch": true
+        },
+        {
+          "group": "war",
+          "title": "伊朗官員警告經濟若收縮　今年或失140萬職位",
+          "url": "https://www.iranintl.com/en/202610276580",
+          "articleHTTP": 200,
+          "originalPublished": "2026-10-27T12:04:14.786Z",
+          "originalModified": "2026-10-27T12:05:38Z",
+          "candidatePublishedHKT": "2026-10-27 20:04:14",
+          "candidateModifiedHKT": "2026-10-27 20:05:38",
+          "ogImage": "https://i.iranintl.com/images/rdk9umy0/production/6043730099e1006e3dd38f60edf06797eedfb6fa-1511x1041.png?rect=0,125,1511,793&w=1200&h=630&q=66&fit=max&auto=format",
+          "imageHTTP": 200,
+          "imageMIME": "image/png",
+          "imageBytes": 1820537,
+          "dimensions": [
+            1200,
+            630
+          ],
+          "decoded": true,
+          "exactOgMatch": true
+        }
+      ]
+    }
+  },
+  "imageVisualReview": {
+    "reviewedAt": "2026-10-27T20:40:01.182585+08:00",
+    "scope": "39 張新聞卡及 2 張簡報封面；已開 contact sheets 逐張目視核對題材。每張 URL 亦已與原文 og:image 字串比對，圖片 GET 200 並完整解碼。",
+    "contactSheets": [
+      "scratch/pm27-all-images-1.jpg",
+      "scratch/pm27-all-images-2.jpg",
+      "scratch/pm27-all-images-3.jpg",
+      "scratch/pm27-parent-contact.jpg"
+    ],
+    "caveats": [
+      "衛報嘉手納圖片為基地軍機資料相，非 BYD 車。",
+      "香港民生天氣圖片為一般街景／天氣資料相，並非預報未來實景。",
+      "美伊簡報封面為胡塞武裝資料相，非今日沙特攔截現場。",
+      "滙控財報圖片為資料相，並非業績公布現場。"
+    ]
+  },
+  "briefSources": {
+    "ai": {
+      "sources": [
+        [
+          "路透社（93-5 The Lloyd 轉載）— Nvidia 投資 Meta 30 億美元",
+          "https://935thelloyd.com/2026/10/27/nvidia-meta-partner-on-muse-agent-as-nvidia-invests-3-billion/"
+        ],
+        [
+          "有線新聞 — Meta 擬配股集資最多 950 億美元",
+          "https://www.i-cable.com/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/516796/meta%E6%93%AC%E9%85%8D%E8%82%A1%E9%9B%86%E8%B3%87%E6%9C%80%E5%A4%9A950%E5%84%84%E7%BE%8E%E5%85%83%E6%8B%93ai%E5%9F%BA%E5%BB%BA"
+        ],
+        [
+          "衛報 — 英國 AI 數據中心政策接觸 137 間企業",
+          "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation"
+        ],
+        [
+          "衛報 — 中國 AI 投資熱降溫與股市跌勢",
+          "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
+        ]
+      ],
+      "note": "第一來源已改用路透社轉載全文，原文頁面及刊登時間可讀；原先 Axios direct GET 403，未將不可直讀頁面當成已完整核實。Guardian 封面已與該篇原文 og:image 比對並解碼。"
+    },
+    "warb": {
+      "sources": [
+        [
+          "半島電視台 — 沙特聯軍稱攔截導彈及無人機",
+          "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones"
+        ],
+        [
+          "伊朗國際 — 科威特法院判刺殺陰謀案",
+          "https://www.iranintl.com/en/202610271797"
+        ],
+        [
+          "伊朗國際 — 伊朗勞工部官員談失業風險",
+          "https://www.iranintl.com/en/202610276580"
+        ]
+      ],
+      "coverOgImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-09T144448Z_533596701_RC2OZNAIE9JB_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHIS-1793084327.jpg?resize=1920%2C1440",
+      "note": "封面與 Al Jazeera 原文 og:image 一致；三篇來源均在 27 日硬時間窗內。"
+    }
+  },
+  "socialThreads": {
+    "policy": "每組／每篇簡報 50% 為非阻斷搜料目標；只收可核實的第一手原帖。",
+    "searches": [
+      "各組編採按人物、事件、地點與時間搜尋 Threads 原帖；媒體轉載及舊帖排除。",
+      "主編以 site:threads.com 配合聯儲局議息、台北市長抽籤、胡塞沙特、河口湖、筲箕灣水管、藍田站、滙豐第三季等關鍵詞追加搜尋；搜尋服務無回傳合格原帖。"
+    ],
+    "adopted": {
+      "hks": 0,
+      "hkl": 0,
+      "hke": 0,
+      "hkp": 0,
+      "cn": 0,
+      "us": 0,
+      "tw": 0,
+      "war": 0,
+      "ai": 0,
+      "warb": 0
+    },
+    "target": {
+      "hks": 4,
+      "hkl": 4,
+      "hke": 2,
+      "hkp": 2,
+      "cn": 4,
+      "us": 2,
+      "tw": 2,
+      "war": 2,
+      "ai": 2,
+      "warb": 2
+    }
+  },
+  "duplicateReviews": [
+    {
+      "urls": [
+        "https://www.hk01.com/article/60404157",
+        "https://www.hk01.com/article/60403907"
+      ],
+      "decision": "different_events",
+      "reason": "樹仁大學歷史博物館新開幕供預約，另一單是中大文物館借出清代畫琺瑯赴英國劍橋展覽；不同博物館及活動，只有博物館詞彙重合。"
+    },
+    {
+      "urls": [
+        "https://www.dimsumdaily.hk/hong-kong-to-cool-to-22c-as-strong-northeast-monsoon-arrives-next-week/",
+        "https://www.hk01.com/article/60403833"
+      ],
+      "decision": "different_events",
+      "reason": "晚報是下星期東北季候風令氣溫或降至22度的預報；午報是今日早晚有雨及日間約30度的即日天氣，預測日期與現象均不同。"
+    },
+    {
+      "urls": [
+        "https://www.dimsumdaily.hk/hong-kong-to-cool-to-22c-as-strong-northeast-monsoon-arrives-next-week/",
+        "https://www.dimsumdaily.hk/hong-kong-observatory-forecasts-unseasonably-warm-start-to-november-with-31c-expected-on-2nd-november/"
+      ],
+      "decision": "different_events",
+      "reason": "晚報估計下周季候風增強時市區低溫約22度；午報說11月初日間高溫可達31度，時段與氣象指標不同，並非同一則天氣更新。"
+    },
+    {
+      "urls": [
+        "https://www.zaobao.com.sg/news/china/story20261027-9903198",
+        "https://www.iranintl.com/en/202610271797"
+      ],
+      "decision": "different_events",
+      "reason": "中國王會民受賄案在成都法院判死緩；另一宗是科威特法院審理涉嫌刺殺內政部長等高官案件，國家、被告與罪名均不同。"
+    },
+    {
+      "urls": [
+        "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones",
+        "https://www.iranintl.com/en/202610264703"
+      ],
+      "decision": "different_events",
+      "reason": "晚報是沙特聯軍聲稱今日攔截胡塞導彈及無人機的軍事行動；午報是伊朗強硬派評論三國在德黑蘭的外交斡旋，報道焦點及新事實不同。"
+    }
+  ],
+  "postPublishSelfcheck": {
+    "status": "passed",
+    "images": 41,
+    "record": "docs/verification/2026-10-27-pm.json",
+    "note": "正式 selfcheck exit 0；原文 og:image 與畫面核對另見本紀錄。"
+  },
+  "editorialIssues": [
+    "407 條舊事件追蹤帶來大量 20／41 版無進展提醒。今版只更新有實質新進展及核實誤報地區的線索；未在出稿流程批量除名有未確認後續節點的舊線索。",
+    "民生華富邨圖片首次正式驗證曾回 HTTP 520，其後原 URL GET 200 並在再次完整自檢通過；未更換圖片、未放寬規則。"
+  ]
+}
