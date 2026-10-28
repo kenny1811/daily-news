@@ -1,4 +1,4 @@
-# Codex 接手須知（2026-10-23 更新）
+# Antigravity Sidecar 接手須知（2026-10-28 更新）
 
 文件讀取頻率：同一個 chat 首次讀取適用規則一次；已自動載入或實際讀過嘅相同內容視為已讀。規則有更新先重讀有更新嗰份，唔因新任務或追問重讀全文。README、project 摘要、歷史及其他參考資料只喺當前工作有需要時讀相關部分。
 
@@ -63,14 +63,18 @@
 2. 讀 `data/<上一版日期>.json`（午報嘅上一版＝噚日 pm，冇就噚日 am；夜報嘅上一版＝同日 am；例如今日做午報，就開 `data/<噚日>.json` 睇佢個 `pm`），抽晒每組標題同 URL 做排除清單。
 3. 攞熱度訊號（見第 5 節）。
 4. 按第 6 節四組工作分工；有空位就平行處理，受 agent 上限限制時分批執行，主 agent 可以自行負責一組。
-5. 砌好當日嗰版，寫入 `data/<今日>.json`：
+5. 砌好當日嗰版，先寫完整候選去 `scratch/`，唔准先寫即時網站嘅 `data/`：
+   - 午報用 `node tools/morning-edition.js publish <當日YYYY-MM-DD> <候選檔>`；候選格式 `{am:{...},duplicateReviews:[...]}`。工具先用 `selfcheck --file` 完整驗證及驗圖，合格先原子更新新聞、日期清單及驗證紀錄；已有同日 am 就跳過。唔好再人手先寫 `data/` 後 selfcheck。
+   - 夜報用 `node tools/evening-edition.js finalize <當日YYYY-MM-DD> <候選檔>`；候選格式 `{pm:{...},lastSourceCheckedAt:<真實ISO時間>,duplicateReviews:[...]}`。工具喺閱讀前15分鐘死線前驗證及原子更新；已發布 pm 必須走獲授權嘅更正流程。
+   - 由 2026-10-24 起，候選稿凡被 selfcheck 標示疑似同一單事，都要喺 `duplicateReviews` 逐對列出兩條來源 URL、`decision`（`different_events`／`substantive_update`）及至少20字具體判斷理由；確實同一單而冇新進展就換卡，唔可用理由硬闖。
+   - 上述兩個工具會處理以下儲存細節；手動補救先參考：
    - 檔案未存在（今日第一版）→ 新起檔案，內容 `{ "am": {...} }`（做午報）或 `{ "pm": {...} }`（做夜報）。
    - 檔案已存在（今日第二版，通常係夜報跟喺午報後面）→ **讀返現有內容，喺原有 object 加多一個 key**（例如已有 `am`，加 `pm`），**唔准掉低／覆寫原有嗰個版**。
    - **唔准郁另一版**（做夜報唔准郁份 json 入面嘅 `am`，反之亦然）。
    - **唔准郁**：`data/` 入面其他日子嘅檔案、`index.html` 嘅 CSS、tab、favicon 標籤、`fmtT`、早晚切換嗰組 function（`ED`／`ED2`／`EDOF`）、搜尋嗰組 function（呢啲而家全部喺 `index.html`，出稿日常完全唔使掂佢）。
    - 更新 `data/index.json`：今日日期未喺清單就加去**最前面**（`[今日, ...原本清單]`，由新到舊排）；已經存在（今日第二版）就唔使再加，淨係改返 `data/<今日>.json` 個內容就夠。
    - 兩個檔（`data/<今日>.json` 同 `data/index.json`）都要驗 `JSON.parse` 過到先算。
-6. 跑自檢：`node tools/selfcheck.js <今日日期> <am|pm>`（selfcheck 直接讀 `data/index.json` + `data/*.json`；已整合 HTTP GET 逐圖實測及完整解碼，404 或死圖直接 exit 1，全部通過時自動寫入 docs/verification/；原文 `og:image` 仍須另行逐張比對），**exit 0 先可以出街**。
+6. 候選稿自檢係發布工具內嘅必經步驟；夜報發布後再跑 `node tools/selfcheck.js <今日日期> pm` 寫正式 `docs/verification/` 驗圖紀錄。午報工具會將候選稿驗圖紀錄同版面一併寫入。原文 `og:image` 仍須另行逐張比對；**候選稿 selfcheck exit 0 先可以出街**。
 7. `selfcheck.js` 會自動對全部圖片執行 HTTP GET、格式識別及完整解碼，死圖直接 exit 1；編採仍須逐張將卡片圖片 URL 同原文 `og:image` 比對，記錄結果。自檢只驗圖片檔，唔會代替原文比對。
 8. ~~`cp index.html archive/YYYYMMDD.html`~~ **已取消（2026-09-21）**：快照由第 11 步嘅 git commit 取代，唔使再 cp；`archive/` 舊檔留住、已 gitignore，selfcheck 亦唔再驗 archive 檔。
 9. **發佈**：唔使做任何嘢。8080 server（`serve_news.ps1`）就係直接讀呢個資料夾嘅 `index.html` 同 `data/*.json`，寫完即刻生效（瀏覽器開住個頁重新整理就 fetch 返新 `data/<今日>.json`），Meshnet 睇嘅就係佢。
@@ -326,7 +330,7 @@ subagent 出錯／超時／JSON 廢 → 重試一次。條數唔夠就再開補�
 ★ 隔夜時段實測難點：星期日凌晨最乾、平日凌晨都會乾——唔夠料先掃第二層版面（申訴王、樓市動向、生活百科、政情、教育），唔好即刻報缺料。
 
 ## 12. ⚠「疑似同一單事」點處理
-selfcheck 出呢個 ⚠ **唔可以照出街，一定要打開兩條比對內容**：
+selfcheck 出呢個 ⚠ **唔可以照出街，一定要打開兩條比對內容**。由 2026-10-24 起，候選稿每對警告都要有 `duplicateReviews` 記錄，欠核對會直接 fail：
 - **冇新進展**（另一家媒體照報一次／換角度重寫，事實冇變）→ **換走**，只留最新最全嗰條
 - **有實質新進展**（狀態升級／傷亡數字更新／案情突破／局勢轉變）→ **留低**，並喺當日簡報寫明點解留
 
@@ -349,5 +353,6 @@ selfcheck 出呢個 ⚠ **唔可以照出街，一定要打開兩條比對內容
 ## 晚報核實及定稿
 
 閱讀前 90 分鐘由 `automation-2` 一次起稿、增量核實最新消息及更正，死線為閱讀前 15 分鐘。22:00 閱讀時即 20:30 開工、21:45 死線。只有最後核實成功才可標示定稿；無新消息也記錄查核結果。只處理同一日 pm，保留 am、不補歷史，通知最多一次；失敗不能假稱刷新完成。舊獨立刷新 `automation-4` 保持停用。
+`tools/evening-edition.js finalize` 會讀 `settings.json`，程式級拒絕死線後定稿、重入及喺狀態檔遺失時覆寫已有 pm。舊 `stage`／兩階段閘門已移除。
 
 晚報即日新聞時間上限固定 21:55，唔隨 `pmView` 改變。定稿前須先核對啟用關卡；正常重跑跳過已定稿，更正須獲授權並留舊版本。

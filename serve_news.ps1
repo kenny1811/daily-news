@@ -1,7 +1,7 @@
 # Daily News local server v3 - self-healing HttpListener on port 8080
 # 2026-09-21 hardening: whitelist-only file serving (index.html + root icons + /api/settings, everything else 404),
 #   Test-Path -LiteralPath, strict /api/settings POST schema (object with amView/pmView as HH:MM only),
-#   sync_open_times spawn throttled to once per minute, server_log.txt rotated by line count (>500 -> keep last 250).
+#   sync_open_times completed and checked before confirming a settings save; server_log.txt rotated by line count.
 # 2026-09-21 DB split: index.html no longer embeds the whole news DB; it fetches data/index.json + data/YYYY-MM-DD.json
 #   at runtime, so the whitelist also allows exactly those two shapes under data/ (nothing else in that folder).
 # Usage: serve_news.ps1 [-Port 8080] [-BindHost +]   (smoke test on another port: -Port 8099 -BindHost localhost)
@@ -44,7 +44,6 @@ $hmRe='^([01][0-9]|2[0-3]):[0-5][0-9]$'
 $knownKeys=@('amView','pmView','updated')
 $syncScript=Join-Path $dir 'sync_open_times.ps1'
 $ps="$env:SystemRoot\System32\WindowsPowerShell\v1.0\powershell.exe"
-$lastSync=[DateTime]::MinValue   # time of the last (or next already-scheduled) sync_open_times run
 $prefix=('http://{0}:{1}/' -f $BindHost,$Port)
 
 $listener=$null
@@ -107,26 +106,38 @@ while($true){
           }
         }
         if($err){ Log ('settings POST rejected: '+$err); SendJson $res 400 ('{"error":"'+$err+'"}'); continue }
+        $oldJson=if(Test-Path -LiteralPath $sf){ [IO.File]::ReadAllText($sf) }else{ $null }
         foreach($k in @('amView','pmView')){ if($keys -contains $k){ $cur[$k]=$new.$k } }
         $cur['updated']=[DateTime]::UtcNow.ToString('yyyy-MM-ddTHH:mm:ss.fffZ')
         $json=$cur|ConvertTo-Json -Depth 5
         [IO.File]::WriteAllText($sf,$json,(New-Object Text.UTF8Encoding($false)))
         Log ('settings saved: '+($json -replace '\s+',' '))
-        # re-sync the DailyNews-Open-AM/PM Windows tasks (background, non-admin), at most once per minute:
-        #   free slot -> run now; inside the minute -> one delayed run at the end of the minute (it reads settings.json
-        #   when it fires, so it picks up the latest values); another delayed run already pending -> nothing.
-        $now=Get-Date
-        $wait=($lastSync.AddSeconds(60)-$now).TotalSeconds
+        # Confirm both Windows open-page tasks before telling the browser that scheduling succeeded.
+        # Codex editorial automations are separate and are not changed by this local server.
+        $syncOk=$false
         try{
-          if($wait -le 0){
-            Start-Process $ps -ArgumentList ('-NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File "{0}"' -f $syncScript) -WindowStyle Hidden
-            $lastSync=$now; Log 'sync launched'
-          }elseif($lastSync -le $now){
-            $d=[int][math]::Ceiling($wait)
-            Start-Process $ps -ArgumentList ('-NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Start-Sleep -Seconds {0}; & ''{1}''"' -f $d,$syncScript) -WindowStyle Hidden
-            $lastSync=$now.AddSeconds($d); Log ('sync throttled: scheduled in '+$d+'s')
-          }else{ Log 'sync throttled: a delayed run is already pending' }
-        }catch{ Log ('sync launch failed: '+$_.Exception.Message) }
+          $proc=Start-Process $ps -ArgumentList ('-NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File "{0}"' -f $syncScript) -WindowStyle Hidden -Wait -PassThru
+          $syncOk=($proc.ExitCode -eq 0)
+          if($syncOk){ Log 'Windows open-page schedules verified' }
+          else{ Log ('Windows open-page schedule sync failed: exit '+$proc.ExitCode) }
+        }catch{ Log ('Windows open-page schedule sync failed: '+$_.Exception.Message) }
+        if(-not $syncOk){
+          $rolledBack=$false
+          $settingsRestored=$false
+          try{
+            if($null -eq $oldJson){ [IO.File]::Delete($sf) }
+            else{ [IO.File]::WriteAllText($sf,$oldJson,(New-Object Text.UTF8Encoding($false))) }
+            $settingsRestored=$true
+            $rollback=Start-Process $ps -ArgumentList ('-NoProfile -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File "{0}"' -f $syncScript) -WindowStyle Hidden -Wait -PassThru
+            $rolledBack=($rollback.ExitCode -eq 0)
+            Log ('Windows schedule rollback '+$(if($rolledBack){'verified'}else{'failed: exit '+$rollback.ExitCode}))
+          }catch{ Log ('Windows schedule rollback failed: '+$_.Exception.Message) }
+          $errorText=if(-not $settingsRestored){'Windows schedule sync and settings rollback failed; inspect server_log.txt'}elseif($rolledBack){'Windows schedule sync failed; previous settings restored'}else{'Windows schedule sync failed; settings restored but task rollback is unverified; inspect server_log.txt'}
+          $out=@{settingsSaved=(-not $settingsRestored);windowsScheduleSynced=$false;codexScheduleChecked=$false;error=$errorText}|ConvertTo-Json -Compress
+          SendJson $res 503 $out; continue
+        }
+        $cur['windowsScheduleSynced']=$true
+        $cur['codexScheduleChecked']=$false
       }
       $out=$cur|ConvertTo-Json -Depth 5
       if(-not $out){ $out='{}' }

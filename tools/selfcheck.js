@@ -7,6 +7,7 @@ const path = require("path");
 const socialPolicy = require('./social-policy');
 const { validateLateThreads } = require('./late-threads');
 const { verifyAllImages } = require('./image-verifier');
+const { matchingReview } = require('./dedup-review');
 
 // ── 規矩唯一來源：tools/rules.json（2026-09-21 起）────────────────────
 // 時間窗、每組條數、禁用清單、hke 禁用＋合資格獨立來源、hk01 簽名、簡報來源數、track 門檻，
@@ -50,10 +51,13 @@ if (process.argv.includes("--print-rules")) {
 
 const args = process.argv.slice(2);
 let candidateFile = null;
+let verificationFile = null;
 const cleanArgs = [];
 for (let i = 0; i < args.length; i++) {
   if ((args[i] === "--file" || args[i] === "--candidate") && args[i + 1]) {
     candidateFile = path.resolve(args[++i]);
+  } else if (args[i] === "--verification-file" && args[i + 1]) {
+    verificationFile = path.resolve(args[++i]);
   } else {
     cleanArgs.push(args[i]);
   }
@@ -288,7 +292,7 @@ if (other) {
 
 // 同一單事跨來源撞卡（用戶 2026-08-02 定案：同一單新聞一律只留一條，唔理係咪唔同來源）
 // URL 去重捉唔到（hk01 同星島各出一篇），所以用標題＋撮要嘅罕見二字詞重疊做偵測。
-// 只出 ⚠ 提示，唔 fail —— 機械判斷有機會誤殺，留返俾出稿嗰個 session 自己睇。
+// 機械判斷有機會誤殺；新候選稿必須逐對記錄人手判斷，唔可略過警告。
 const STOPG = new Set(("警方,調查,被捕,送院,身亡,不治,死亡,事件,現場,消防,救護,男子,女子,涉嫌,拘捕,案件,昨日,今日,香港," +
   "政府,表示,指出,相關,包括,目標,問題,影響,市民,發生,一名,兩名,傷者,證實,回應,批次,實用,司機,車撞,投票," +
   "恢復,暫停,繼續,報復,美軍,威脅,打擊,共和,和黨,一房,警告,美元,服務,宣布").split(","));
@@ -306,17 +310,30 @@ function gramsOf(x) {
   return out;
 }
 {
+  let duplicateReviews = [];
+  if (candidateFile && date >= '2026-10-24') {
+    try {
+      const input = JSON.parse(fs.readFileSync(candidateFile, 'utf8'));
+      duplicateReviews = input.duplicateReviews || [];
+      if (!Array.isArray(duplicateReviews)) throw Error('duplicateReviews must be an array');
+    } catch (e) { bad.push(`duplicateReviews 無法讀取：${e.message}`); }
+  }
   const cards = [];
-  G.forEach(k => (d[k] || []).forEach((x, i) => cards.push({ tag: `${NAME[k]}[${i}]`, t: x[0], g: gramsOf(x), cur: true })));
+  G.forEach(k => (d[k] || []).forEach((x, i) => cards.push({ tag: `${NAME[k]}[${i}]`, t: x[0], url: x[3], g: gramsOf(x), cur: true })));
   // 2026-08-03 加：連上一版一齊比（早報 vs 尋晚晚報／晚報 vs 今朝早報）。
   // 同一單事跨版跟進報導 URL 唔同，URL 去重捉唔到，一定要靠詞重疊。
-  if (other) G.forEach(k => (other[k] || []).forEach((x, i) => cards.push({ tag: `${otherName}·${NAME[k]}[${i}]`, t: x[0], g: gramsOf(x), cur: false })));
+  if (other) G.forEach(k => (other[k] || []).forEach((x, i) => cards.push({ tag: `${otherName}·${NAME[k]}[${i}]`, t: x[0], url: x[3], g: gramsOf(x), cur: false })));
   const df = {};
   cards.forEach(c => c.g.forEach(g => df[g] = (df[g] || 0) + 1));
   for (let a = 0; a < cards.length; a++) for (let b = a + 1; b < cards.length; b++) {
     if (!cards[a].cur && !cards[b].cur) continue;          // 兩張都係舊版嘅唔關事
     const sh = [...cards[a].g].filter(g => cards[b].g.has(g) && df[g] <= 2);
-    if (sh.length >= 3) warn.push(`疑似同一單事：${cards[a].tag}「${cards[a].t}」⟷ ${cards[b].tag}「${cards[b].t}」（共通詞：${sh.join("、")}）→ 只留最新最全嗰條，另一條換第二單`);
+    if (sh.length >= 3) {
+      const reviewed = matchingReview(duplicateReviews, [cards[a].url, cards[b].url]);
+      const notice = `疑似同一單事：${cards[a].tag}「${cards[a].t}」⟷ ${cards[b].tag}「${cards[b].t}」（共通詞：${sh.join("、")}）`;
+      if (candidateFile && date >= '2026-10-24' && !reviewed) bad.push(`${notice} → 候選稿 duplicateReviews 欠呢對 URL 嘅編採判斷及具體理由`);
+      else warn.push(`${notice} → ${reviewed ? `已記錄核對：${reviewed.decision}；${reviewed.reason}` : '只留最新最全嗰條，另一條換第二單'}`);
+    }
   }
 }
 
@@ -494,10 +511,12 @@ if (!d._updated) bad.push("_updated 冇填");
     console.error('✖ --skip-image-fetch 已停用；出稿自檢必須實際驗圖。');
     process.exit(1);
   }
+  let verifiedImages = [];
   if (need.length) {
     console.log(`\n🖼 正在實測驗圖（共 ${need.length} 條，發送 HTTP GET 並解碼圖片）...`);
     const imgRule = RULES.image || { concurrency: 8, minBytes: 80, timeoutMs: 15000 };
     const { results, failures } = await verifyAllImages(need, imgRule.concurrency, imgRule);
+    verifiedImages = results;
 
     if (failures.length > 0) {
       console.log(`\n❌ 發現 ${failures.length} 條圖片實測失敗（404 或格式無效）：`);
@@ -510,26 +529,6 @@ if (!d._updated) bad.push("_updated 冇填");
       console.log(`✅ 圖片實測全部通過：${need.length} 條圖片全部 HTTP 200 且成功解碼。原文 og:image 仍須另外核對。`);
     }
 
-    // 當非候選檔且全部通過時，自動將逐圖驗證證據保存至 docs/verification/
-    if (!candidateFile && failures.length === 0) {
-      const verDir = path.join(ROOT, "docs", "verification");
-      try {
-        if (!fs.existsSync(verDir)) fs.mkdirSync(verDir, { recursive: true });
-        const verPath = path.join(verDir, `${date}-${mode}.json`);
-        const verOutput = results.map(r => ({
-          group: r.group,
-          title: r.title,
-          source: r.source,
-          url: r.articleUrl,
-          ogImage: r.url,
-          verification: r.verification
-        }));
-        fs.writeFileSync(verPath, JSON.stringify(verOutput, null, 2) + "\n", "utf8");
-        console.log(`📁 逐圖驗證紀錄已自動同步寫入：docs/verification/${date}-${mode}.json`);
-      } catch (e) {
-        console.warn(`⚠ 寫入 docs/verification 失敗：${e.message}`);
-      }
-    }
   }
 
   if (bad.length) {
@@ -537,6 +536,31 @@ if (!d._updated) bad.push("_updated 冇填");
     bad.forEach(x => console.log("  • " + x));
     console.log("\n→ 唔准 push，要修好再跑一次。");
     process.exit(1);
+  }
+  // 驗圖成功唔等於成份稿合格；硬規則全過後先留下驗證證據。
+  // 候選稿可明確指定 scratch 輸出，等發布工具一併提交正式紀錄。
+  if (verificationFile || !candidateFile) {
+    const verPath = verificationFile || path.join(ROOT, "docs", "verification", `${date}-${mode}.json`);
+    const verOutput = verifiedImages.map(r => ({
+      group: r.group,
+      title: r.title,
+      source: r.source,
+      url: r.articleUrl,
+      ogImage: r.url,
+      verification: r.verification
+    }));
+    try {
+      fs.mkdirSync(path.dirname(verPath), { recursive: true });
+      const tmp = `${verPath}.${process.pid}.tmp`;
+      try {
+        fs.writeFileSync(tmp, JSON.stringify(verOutput, null, 2) + "\n", { flag: "wx" });
+        fs.renameSync(tmp, verPath);
+      } finally { fs.rmSync(tmp, { force: true }); }
+      console.log(`📁 逐圖驗證紀錄已寫入：${path.relative(ROOT, verPath)}`);
+    } catch (e) {
+      console.error(`✖ 寫入逐圖驗證紀錄失敗：${e.message}`);
+      process.exit(1);
+    }
   }
   console.log("\n✅ 全部通過，可以 push。");
 })().catch(err => {

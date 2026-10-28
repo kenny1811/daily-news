@@ -319,7 +319,7 @@ function setMsg(t,cls){var m=document.getElementById("setmsg");if(!m)return;m.te
 function applySettingsUI(src){var a=document.getElementById("setAm"),p=document.getElementById("setPm"),s=document.getElementById("setsrc");
   if(a)a.value=SET.amView||"";if(p)p.value=SET.pmView||"";if(s)s.textContent=src||"";}
 async function loadSettings(){var src="預設";
-  try{var ls=localStorage.getItem("dn_settings");if(ls){Object.assign(SET,JSON.parse(ls));src="本機";}}catch(e){}
+  try{var ls=localStorage.getItem("dn_settings");if(ls){Object.assign(SET,JSON.parse(ls));src="本機（唔影響排程）";}}catch(e){}
   try{var r=await fetch("api/settings",{cache:"no-store"});if(r.ok){var j=await r.json();if(j&&typeof j==="object"&&(j.amView||j.pmView)){Object.assign(SET,j);src="伺服器";}}}catch(e){}
   applySettingsUI(src);}
 async function saveSettings(){var a=document.getElementById("setAm"),p=document.getElementById("setPm");
@@ -328,13 +328,15 @@ async function saveSettings(){var a=document.getElementById("setAm"),p=document.
   if(!av||!pv){setMsg("時間格式唔對：請輸入 hh:mm 或 hhmm（例如 10:00 或 2200）","err");return;}
   a.value=av;p.value=pv;
   var body={amView:av,pmView:pv,updated:new Date().toISOString()};
-  Object.assign(SET,body);
-  try{localStorage.setItem("dn_settings",JSON.stringify(SET));}catch(e){}
   setMsg("儲存中…");
   try{var r=await fetch("api/settings",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
-    if(!r.ok)throw new Error("HTTP "+r.status);
-    setMsg("✅ 已儲存到伺服器：午報 "+av+"、夜報 "+pv+" 前出好","ok");applySettingsUI("伺服器");
-  }catch(e){setMsg("⚠ 伺服器儲存失敗（"+e.message+"），只儲存喺本機瀏覽器","err");applySettingsUI("本機");}}
+    var j=await r.json();
+    if(!r.ok){if(j&&j.settingsSaved){Object.assign(SET,body);applySettingsUI("伺服器（排程未完成）");}throw new Error(j&&j.error||("HTTP "+r.status));}
+    if(!j.windowsScheduleSynced)throw new Error("伺服器未確認 Windows 開報排程");
+    Object.assign(SET,{amView:av,pmView:pv,updated:j.updated});
+    try{localStorage.setItem("dn_settings",JSON.stringify(SET));}catch(e){}
+    setMsg("✅ 睇報時間已儲存，Windows 開報排程已同步。Codex 出稿時間每日 15:00 對齊；要即日改，請喺 Codex chat 叫我同步。","ok");applySettingsUI("伺服器");
+  }catch(e){setMsg("⚠ "+e.message+"；Codex 出稿排程未即時同步","err");}}
 
 async function fetchJSON(u){
   const r=await fetch(u,{cache:"no-store"});

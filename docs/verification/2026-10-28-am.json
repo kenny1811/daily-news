@@ -1,0 +1,658 @@
+[
+  {
+    "group": "hks",
+    "title": "蔡天鳳案凶宅膠箱內砧板驗出人體組織",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/article/3630724/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/bebef27c9812bcb577019d11ba8b9929/2026-10/NEC02P16281026_copy.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 390194,
+      "width": 688,
+      "height": 443,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "三間企業系統疑遭黑客經第三方平台入侵",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/article/3630735/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/cc31b38dc002c0253e18c6218fbc0ba1/2026-10/NEW04P04281026_copy.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 269381,
+      "width": 603,
+      "height": 709,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "香港仔瀑布灣石灘男子漂浮證實當場死亡",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404238",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261028/1191941728232280064075926.jpeg/8LJbdgiHATzGIK8ajsZQlstv3m2b09SYh-SY5IfkmOQ?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 326741,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "海關拘捕藥坊店員涉嫌誤導遺漏斤両計價",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/hk-customs-arrests-medicine-shop-salesman-over-alleged-misleading-omission-in-herbal-sales/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/27225852/Chinese-herbal-medicine-3.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 77166,
+      "width": 1170,
+      "height": 932,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "安達臣道單車徑男工推車與警員爭執",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404243",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261028/1191985093229416448860971.jpeg/oJCsewyMJUhHcg7WVSksFkjC0gSlsMP-iTgUtYk4FLU",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 224803,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "警方荃灣掃黃搗破非法按摩賣淫場所",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404248",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261028/1191935143963529216186059.jpeg/OZgzkUAY3OyuKCmpesSwOwYi99AoNPsK_CjeEvwo3hI?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 212138,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "元朗私家車撞倒外賣電單車司機受傷",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404240",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191901057299517440497286.jpeg/X9DjplXwsBaDYM4UgIhs7SWlZLA7kshO9qtJo_arSaM?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 131182,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hks",
+    "title": "青衣站女子遭非禮警翻查監控拘56歲男",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404235",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191891976715243520029734.jpeg/222uYw_CuhMqErPBRwOHvw2E8xdH9cTZucWrrbnFq60?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 146990,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "筲箕灣地底喉管被鑿穿致萬戶一度停水",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/article/3630733/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/badc9cf9e30365a34bfb682cfccce824/2026-10/NEW03P01281026_copy.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 311094,
+      "width": 630,
+      "height": 354,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "西貢萬宜路周日舉行長跑賽事上午全段封閉",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404217",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20250913/1043622079439572992920631.jpeg/MQZfuEvLQTjm9agHhASKlAk0U9mrPNLvWU0IpHNNCKQ?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 337318,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "RSV病毒活躍度上升長幼感染風險增加",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/article/3630581/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/8b271578b026c44bfbc9d43f24c64534/2026-10/20261027_NEWS___6.png",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "png",
+      "bytes": 349083,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/png; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "手機對話框現釣魚短訊專家警示官方代碼",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/article/3630736/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/20c6c9f5458b1b17b966e48be93f95bf/2026-10/NEW04P05281026_copy.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 335071,
+      "width": 528,
+      "height": 709,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "天文台料早晚有一兩陣雨沿岸或輕微水浸",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404258",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261028/1191998375549997056490563.jpeg/EHYNgihZkOhD_L2R3KYoJ337zENtLknKSn0gBkp9IAY?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 191048,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "紅磡食肆後巷現鼠群食環署派員巡查",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404253",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261028/1191987737771642880859314.jpeg/3KMzoKf_W0yfRgmWl-Afgq_Io0Qqkc0tWE0pNFhNKTQ",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 169604,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "港鐵葵芳站及觀塘市區再現鼠蹤引關注",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404256",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261028/1192043976404766720547908.jpeg/qoyhGd5AYPNA6Ri2BqZuAuqZ-to9WEl_xQB2osUAdqI",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 139195,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkl",
+    "title": "香港郵政呼籲市民勿在非官方途徑下載應用",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404239",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260818/1166382909712502784984256.jpeg/lQt6sShaHV4Zs7KULUDVV7BlLfBF4oOfJIX8tySF_Lc?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 88822,
+      "width": 1024,
+      "height": 576,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hke",
+    "title": "珍妮曲奇創辦人近四千萬增購尖沙咀地舖",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/jenny-bakery-founder-spends-hk39-8m-on-three-more-mirador-mansion-shops/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/27221132/Jenny-Bakery-3-33.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 109212,
+      "width": 1198,
+      "height": 934,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hke",
+    "title": "中環德輔道中商廈全層億元易手呎價八千餘元",
+    "source": "Dimsum Daily",
+    "url": "https://www.dimsumdaily.hk/centrals-wing-on-house-whole-floor-sells-for-hk118m-at-hk8853-per-sq-ft-a-17-year-low/",
+    "ogImage": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/10/27222953/Wing-On-House-32.webp",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 139512,
+      "width": 1184,
+      "height": 922,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "hke",
+    "title": "新加坡工商會指中歐經貿脫鉤將屬重大錯誤",
+    "source": "海峽時報",
+    "url": "https://www.straitstimes.com/world/decoupling-would-be-a-big-mistake-says-germanys-merz-as-he-seeks-balanced-ties-with-china?ref=top-stories",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/4fd514c6923f2543e5f4e3426a752bf57264d9a45ac70bb92ab42fd711a28d94?w=1200",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 92391,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkp",
+    "title": "宏福苑大火獨立調查報告最快明日公布",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404274",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261028/1192052886113095680053874.jpeg/Pwp-0-4eCkiGugrcaZI1qFPMZFYWukW9cGzQUXBs0FE",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 169711,
+      "width": 1200,
+      "height": 675,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "hkp",
+    "title": "精進建築除牌獲撤銷屋宇署再提上訴",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/article/3630731/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/61efae5b39f01158a1dbdec00537b6e2/2026-10/NCU01P01281026_copy.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 300236,
+      "width": 541,
+      "height": 354,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "hkp",
+    "title": "政府擬立法豁免首次登記電動車噪音審查",
+    "source": "星島頭條",
+    "url": "https://www.stheadline.com/article/3630648/",
+    "ogImage": "https://image.hkhl.hk/f/1200p0/0x0/100/none/e0e03ba71e5040d4adf7a3b0fb5bc3cd/2026-10/DNSK0501CAR002_0.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 239082,
+      "width": 1200,
+      "height": 801,
+      "contentType": "image/jpeg; charset=UTF-8"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "中共五中全會出席率偏低引起外界關注",
+    "source": "自由時報",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5620737",
+    "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/27/phpqNZoDv.png",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "png",
+      "bytes": 815947,
+      "width": 800,
+      "height": 502,
+      "contentType": "image/png"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "國際體壇涉中爭議持續多名球星曾遭抵制",
+    "source": "自由時報",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5620774",
+    "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/27/5620774_1_1.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 45219,
+      "width": 800,
+      "height": 574,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "內地經濟復甦動能偏弱外媒剖析結構挑戰",
+    "source": "大紀元",
+    "url": "https://hk.epochtimes.com/news/2026-10-28/47655846",
+    "ogImage": "https://images1.epochhk.com/pictures/i-epochtimes-com/3a56e514c731b01bd2c75d38144b442f@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2026%2F10%2Fid14877286-GettyImages-2256489051.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 176512,
+      "width": 1024,
+      "height": 681,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "國際金價高企內地居民趁回調增持黃金",
+    "source": "大紀元",
+    "url": "https://hk.epochtimes.com/news/2026-10-28/87164778",
+    "ogImage": "https://images1.epochhk.com/pictures/387047/20250206_HKGX_%E9%A6%99%E6%B8%AF%E9%BB%83%E9%87%91%E4%BA%A4%E6%98%93%E6%89%80_%E9%87%91_Gold_%E4%BD%99%E9%8B%BC_003@1200x1200.jpeg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 169399,
+      "width": 1200,
+      "height": 800,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "網傳內地大學生致信呼籲限制終身任期",
+    "source": "大紀元",
+    "url": "https://hk.epochtimes.com/news/2026-10-28/82141530",
+    "ogImage": "https://images1.epochhk.com/pictures/i-epochtimes-com/86f83601aed4e302dda96c41207c43b0@1200x1200.jpg?url=https%3A%2F%2Fi.epochtimes.com%2Fassets%2Fuploads%2F2015%2F10%2F1311120927331528.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 59953,
+      "width": 799,
+      "height": 586,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "日本宣布對中國產鋼板加徵反傾銷稅",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404252",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20251117/1067144472623583232683497.jpeg/AljUr4ngWGUxKyf2jlA_eko62SSvLz2whCFDv4QhQ78?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 67623,
+      "width": 1024,
+      "height": 576,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "央視回應麥巴比就涉華言論發出道歉",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404227",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260417/1121812895588421632301695.jpeg/QKNACSeh7Pu_3vp2pFcv8pcuzVYlPLVQSxb_IEsW_yA?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 96032,
+      "width": 1024,
+      "height": 576,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "cn",
+    "title": "SK海力士第三季營收破頂受惠AI記憶體",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404264",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260720/1156023135062069248176958.jpeg/YWZBFJgSKBuoKhYUk0qmyawA2r4MFkmy-LkPefi5D3k?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 70675,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "us",
+    "title": "特朗普要求擱置加州郵寄選票遭法院駁回",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404219",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191859453666791424098251.jpeg/pU3ecfvFd-6fnTvV8HtVotkWzoC4JffO_YX6h_2F-oc?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 136546,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "us",
+    "title": "特朗普展示百萬桶油輪揚言納委內瑞拉",
+    "source": "衛報",
+    "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+    "ogImage": "https://i.guim.co.uk/img/media/01afd8750a3187f6d5f755bec793006b33b2292c/621_0_6180_4947/master/6180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f43b0e01eabc5d55e6b6143c9a7551e",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 59750,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "us",
+    "title": "巴西小波索納洛敗選離境獲美國簽證",
+    "source": "海峽時報",
+    "url": "https://www.straitstimes.com/world/brazil-wonders-where-on-earth-is-flavio-bolsonaro?ref=top-stories",
+    "ogImage": "https://cassette.sphdigital.com.sg/image/straitstimes/a1e2350bec94f1d4b6b7b031fdd444341bd747d1ea563b309c49fcd643361ca9?w=1200",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 85586,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "tw",
+    "title": "台北市長民調沈伯洋領先蔣萬安四個百分點",
+    "source": "壹蘋新聞網",
+    "url": "https://news.nextapple.com/politics/20261028/DAAF89B780B638D1E87672D63063C7E3",
+    "ogImage": "https://static-cdn.nextapple.tw/prod/2026-10/DAAF89B780B638D1E87672D63063C7E3/77e701499c677325d07ef68e0917dfec_1280.jpeg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 98140,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "tw",
+    "title": "強烈冷空氣南下台灣北部低溫下探十七度",
+    "source": "壹蘋新聞網",
+    "url": "https://news.nextapple.com/life/20261028/204CD9C7A84D7C23D236263EC3281171",
+    "ogImage": "https://static-cdn.nextapple.tw/prod/2026-10/204CD9C7A84D7C23D236263EC3281171/e8e4f3295c2aed26f11cf6a0f94fcd81_1280.jpeg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 147088,
+      "width": 1280,
+      "height": 853,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "tw",
+    "title": "台灣學者預料中共研議兩制台灣方案頂層設計",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404221",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261027/1191859937110659072259731.png/zWSNU-GQbzAkN7zYoZZpPpjtP20w2JFnoA3i36AN4t8?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 147307,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "war",
+    "title": "伊朗領袖顧問指需滿足停火條件結束僵局",
+    "source": "香港01",
+    "url": "https://www.hk01.com/article/60404244",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261028/1191916197172482048862354.jpeg/SUt9NyDz3q9wdVNCUyAYg2-faYnziLqteL0uvni9Lr4?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 278758,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "war",
+    "title": "以色列大選出口民調顯示執政聯盟席次落後",
+    "source": "衛報",
+    "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
+    "ogImage": "https://i.guim.co.uk/img/media/5f1d315793ade44a22e89a0027c656217245847e/381_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fefcd4968b363147c10f8d513e25861c",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "webp",
+      "bytes": 76256,
+      "width": 1200,
+      "height": 630,
+      "contentType": "image/webp"
+    }
+  },
+  {
+    "group": "war",
+    "title": "以色列國會選情膠著或重構中東戰略博弈",
+    "source": "自由時報",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5620881",
+    "ogImage": "https://img.ltn.com.tw/Upload/news/600/2026/10/28/phpbcz5N7.jpg",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 62673,
+      "width": 800,
+      "height": 533,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "ai",
+    "title": "AI 動向封面",
+    "source": "香港01 — Anthropic上市｜摩通獲選牽頭開展 面向美國散戶IPO發行工作",
+    "url": "https://www.hk01.com/article/60404276",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20260910/1174746456439918592836104.jpeg/CGl8Q4xU56Fcz0EOHpQAkcdwEzYK_8aIza6nz82up88?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 125407,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  },
+  {
+    "group": "warb",
+    "title": "美伊戰爭封面",
+    "source": "香港01 — 穆傑塔巴：應確保滿足伊朗提出條件 結束非戰非和狀態",
+    "url": "https://www.hk01.com/article/60404244",
+    "ogImage": "https://cdn.hk01.com/di/media/images/dw/20261028/1191916197172482048862354.jpeg/SUt9NyDz3q9wdVNCUyAYg2-faYnziLqteL0uvni9Lr4?v=w1280r16_9",
+    "verification": {
+      "valid": true,
+      "status": 200,
+      "type": "jpeg",
+      "bytes": 278758,
+      "width": 1280,
+      "height": 720,
+      "contentType": "image/jpeg"
+    }
+  }
+]
