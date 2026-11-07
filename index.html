@@ -118,7 +118,6 @@
     </div>
     <div class="sbox">
       <input id="q" type="search" placeholder="🔍 搵新聞…" oninput="onSearch()" autocomplete="off" spellcheck="false">
-      <div class="shint" id="shint"></div>
     </div>
     <div class="setbox" id="setbox">
       <div class="sh"><span>⚙️ 設定</span><span class="stag" id="setsrc"></span></div>
@@ -126,7 +125,6 @@
       <div class="setrow"><label for="setPm">🌙 夜報 睇報時間</label><input id="setPm" inputmode="numeric" placeholder="22:00" maxlength="5" autocomplete="off" onfocus="this.select()" onblur="fmtHM(this)" onkeydown="if(event.key==='Enter')saveSettings()"></div>
       <button class="setbtn" onclick="saveSettings()">儲存</button>
       <div class="setmsg" id="setmsg"></div>
-      <div class="shint">輸入 hh:mm 或 hhmm 都得。到時會自動開網頁；出稿喺睇報時間前約 90 分鐘開工、前 15 分鐘截稿（出稿時間嘅改動由下一次排程起生效）。</div>
     </div>
   </div>
   <div class="main">
@@ -345,8 +343,6 @@ async function fetchJSON(u){
 }
 function updateSearchHint(){
   SIDX=null;
-  var n=buildIdx().length,d=Object.keys(DB).length;
-  var e=document.getElementById("shint");if(e)e.textContent="藍色日子＝有內容　·　可搜尋 "+d+" 日、"+n+" 條新聞";
 }
 let newsLoading=false, lastNewsLoad=0;
 async function boot(){
